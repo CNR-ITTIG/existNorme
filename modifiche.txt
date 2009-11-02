@@ -1,0 +1,23 @@
+Ciao Maurizio,
+ti mando la maschera modificata (abbiamo fatto un po' di pulizia) e i desiderata circa le funzionalità:
+ 
+OK 1) Area estremi dell'atto: il menù a tendina "Emanante" deve visualizzare l'emanante solo nel caso che il tipo atto sia "DLGS";
+	Emanante c'è solo per i decreti
+OK 2) Area "Atti contenenti le parole:" inserire una check box "ricerca solo nel titolo" che dovrebbe disabilitare le due radio button "ricerca nell'articolo" e "ricerca nel comma" e permettere la ricerca solo nel titolo. (O soluzione simile);
+OK 3) Area "Atti contenenti riferimenti a:" come punto 1;
+4) attivare la funzionalità di exist che permette la ricerca sulla radice dei termini tagliando le desinenze (se ho capito bene mentre ne parlavi al telefono con Caterina).
+5) infine è possibile far in modo che la maschera di ricerca che appare in coda ai risultati mantenga i valori dei campi della ricerca appena effetuata?
+ 
+Una domanda:
+a) il CMS come effettua la ricerca sugli "Atti modificati da"? Abbiamo provato con il DLGS 196/2003 che modifica il DLGS 39/1993 ma quest'ultimo non appare tra i risultati anche la modifica passiva è registrata nell'XML del DLGS 39/1993;
+ IN EFFETTTI L'espressione regolare è corretta... ma non matcha
+ 
+ differernza tra decreto e decreto legge.... quanti riferimenti a  decreto.legge ci sono?
+ 
+Una osservazione:
+Abbiamo riscontrato che IE non visualizza correttamente la struttura XML dell'atto cliccando sul pulsante "XML" dei risultati, la cosa è risolvibile?
+ 
+Per qualsiasi cosa ci sentiamo su skype.
+Ciao
+ 
+Fabio

@@ -1,0 +1,562 @@
+/*************** Definizioni Generali ********************/
+body {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+/*************** Fine Definizioni Generali ********************/
+
+
+/*************** Intestazione Pagine ********************/
+#header {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../img/head_new.jpg) no-repeat right top; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+
+#Contieneheader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../img/righella_arancio.gif) #ffffff repeat-x right top; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+/*************** Fine Intestazione Pagine ********************/
+
+
+/******* Inizio Menu Orizzontale Blu ******/
+#menuHor {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.65em; FLOAT: right; PADDING-BOTTOM: 1px; MARGIN: 0px; WIDTH: 100%; COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; POSITION: absolute; TOP: 94px; BACKGROUND-COLOR: #0066aa; TEXT-ALIGN: right
+}
+#menuHor UL {
+	DISPLAY: inline; PADDING-LEFT: 0px; MARGIN-LEFT: 0px
+}
+#menuHor UL LI {
+	BORDER-RIGHT: #ffffff 0px solid; PADDING-RIGHT: 15px; BORDER-TOP: #ffffff 0px solid; DISPLAY: inline; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 0px solid; LIST-STYLE-TYPE: none
+}
+#menuHor UL LI A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#menuHor UL LI A:hover {
+	TEXT-DECORATION: underline;	BACKGROUND-COLOR: #003399
+}
+#menuHor UL LI A:active {
+	BACKGROUND-COLOR: #003399
+}
+/******* Fine Menu Orizzontale Blu ******/
+
+
+/*************** Inizio Molliche Pollicino ********************/
+#path {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 0.65em; PADDING-BOTTOM: 5px; COLOR: #003597; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; POSITION: relative; TOP: 1.5em; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+#path UL {
+	DISPLAY: inline; PADDING-LEFT: 0px; MARGIN-LEFT: 0px
+}
+#path UL LI {
+	PADDING-RIGHT: 2px; DISPLAY: inline; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#path UL LI A {
+	COLOR: #003597; TEXT-DECORATION: none
+}
+#path UL LI A:hover {
+	TEXT-DECORATION: underline; COLOR: #ffffff; BACKGROUND-COLOR: #003399
+}
+#path UL LI A:active {
+	COLOR: #ffffff; BACKGROUND-COLOR: #003399
+}
+/*************** Fine Molliche Pollicino ********************/
+
+
+/******* Blocco Link a Destra ******/
+#contieneLinkinterniDx {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; WIDTH: auto; PADDING-TOP: 0px; POSITION: relative
+}
+#linkinterniDx {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.7em; RIGHT: 1px; VERTICAL-ALIGN: top; WIDTH: 22%; LINE-HEIGHT: 1.6em; MARGIN-RIGHT: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; POSITION: absolute; TOP: 2.5em
+}
+#linkinterniDx UL {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 5px; BORDER-BOTTOM: #ffffff 5px solid; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #f1f2ed
+}
+#linkinterniDx LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#linkinterniDx LI A {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+#linkinterniDx LI A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+#linkinterniDx LI A:active {
+	COLOR: #ffffff; BACKGROUND-COLOR: #2c5dbf
+}
+#linkinterniDx UL.cliccato {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 0px; COLOR: #444444; PADDING-TOP: 5px; BORDER-BOTTOM: #cccccc 1px solid; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #ffffff
+}
+#linkinterniDx LI.cliccato A {
+	COLOR: #444444; TEXT-DECORATION: underline
+}
+#linkinterniDx LI.cliccato A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+#linkinterniDx LI.cliccato A:active {
+	COLOR: #ffffff; BACKGROUND-COLOR: #2c5dbf
+}
+/******* Fine Blocco Link a Destra ******/
+
+
+/*********** Area del Testo Principale ***********/
+#corpo {
+	WIDTH: 100%; POSITION: relative; TOP: 1.1em
+}
+.spazioPiccolo {
+	DISPLAY: block; FONT-SIZE: 0.2em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
+}
+#contenuto {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 1px solid; MARGIN-RIGHT: 20%; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid
+}
+#contenuto IMG.pallainterna {
+	FLOAT: left; MARGIN: 0px; WIDTH: auto; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: relative; TOP: -1.35em; BORDER-BOTTOM-STYLE: none
+}
+#contenuto H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 50px; FONT-WEIGHT: bold; FONT-SIZE: 1.1em; PADDING-BOTTOM: 0px; MARGIN: 0px 20px 0px 5px; COLOR: #6f6e40; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #f1f2ed
+}
+
+/********* Elenco Risultato Ricerca ****************/
+
+#contenuto UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; LIST-STYLE-IMAGE: url(../img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 50px 0px 90px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+
+#contenuto LI {
+	PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px
+}
+
+#contenuto LI A {
+	COLOR: #3c3b15;  TEXT-DECORATION: underline; BACKGROUND-COLOR: #fdfae2; 
+}
+#contenuto LI A:hover {
+	COLOR: #333333; BACKGROUND-COLOR: #f1f2ed; TEXT-DECORATION: underline
+}
+
+#contenuto IMG {
+	BORDER-RIGHT: #6f6e40 1px solid; BORDER-TOP: #6f6e40 1px solid; FLOAT: left; MARGIN: 0px 5px 5px 0px; BORDER-LEFT: #6f6e40 1px solid; BORDER-BOTTOM: #6f6e40 1px solid
+}
+/********* Fine Elenco Risultato Ricerca ****************/
+/*********** Fine Area del Testo Principale ***********/
+
+
+/*********** Inizio Menu a Sinistra ***********/
+.tdMenuSx {
+	MARGIN-TOP: 0px; VERTICAL-ALIGN: top; WIDTH: 25%
+}
+H3.titoloMenuPrimo {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 1.05em; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #0066aa 15px solid; COLOR: #e28409; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.capoletteraMenuSxPrimo {
+	COLOR: #e28409
+}
+#menuSxPrimo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #0066aa
+}
+#menuSxPrimo UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; LIST-STYLE-IMAGE: url(../img/ico_folder_blu.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ffffff 15px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: disc
+}
+#menuSxPrimo LI {
+	PADDING-RIGHT: 0px;  MARGIN: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #ffffff 1px dashed; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#menuSxPrimo LI A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #0066aa; TEXT-DECORATION: none
+}
+#menuSxPrimo LI A {
+	DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxPrimo LI A:hover {
+	TEXT-DECORATION: underline; DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #2586d7
+}
+#menuSxPrimo LI A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #2586d7
+}
+#menuSxPrimo LI.cliccato {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffff33; PADDING-TOP: 0px; BACKGROUND-COLOR: #2586d7; TEXT-DECORATION: underline
+}
+#menuSxPrimo LI.cliccato A {
+	COLOR: #ffff33; BACKGROUND-COLOR: #2586d7; TEXT-DECORATION: underline; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxPrimo LI.cliccato A:hover {
+	TEXT-DECORATION: underline; DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #2586d7
+}
+#menuSxPrimo LI.cliccato A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #2586d7
+}
+H3.titoloMenuSecondo {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 1.05em; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #3385bb 15px solid; COLOR: #e28409; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.capoletteraMenuSxSecondo {
+	COLOR: #e28409
+}
+#menuSxSecondo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #3385bb
+}
+#menuSxSecondo UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; LIST-STYLE-IMAGE: url(../img/ico_folder_azzurro.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ffffff 15px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: disc
+}
+#menuSxSecondo LI {
+	PADDING-RIGHT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 1px dashed
+}
+#menuSxSecondo LI A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #3385bb; TEXT-DECORATION: none; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondo LI A:hover {
+	TEXT-DECORATION: underline;	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondo LI A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondo LI.cliccato {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffff33; PADDING-TOP: 0px; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline
+}
+#menuSxSecondo LI.cliccato A {
+	COLOR: #ffff33; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline;	DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondo LI.cliccato A:hover {
+	TEXT-DECORATION: underline
+}
+#menuSxSecondo LI.cliccato A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoTer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #3385bb
+}
+#menuSxSecondoTer UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; LIST-STYLE-IMAGE: url(../img/ico_folder_azzurro.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ffffff 15px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: disc
+}
+#menuSxSecondoTer LI {
+	PADDING-RIGHT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 1px dashed
+}
+#menuSxSecondoTer LI A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #3385bb; TEXT-DECORATION: none; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondoTer LI A:hover {
+	TEXT-DECORATION: underline; DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoTer LI A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoTer LI.cliccato {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffff33; PADDING-TOP: 0px; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline
+}
+#menuSxSecondoTer LI.cliccato A {
+	COLOR: #ffff33; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondoTer LI.cliccato A:hover {
+	TEXT-DECORATION: underline
+}
+#menuSxSecondo LI.cliccato A:hover {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoBis LI.cliccato A:hover {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoTer LI.cliccato A:hover {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoTer LI.cliccato A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+.spazio1em {
+	DISPLAY: block; FONT-SIZE: 1em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#menuSxSecondoBis {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #3385bb
+}
+#menuSxSecondoBis UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; LIST-STYLE-IMAGE: url(../img/ico_folder_azzurro.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ffffff 15px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: disc
+}
+#menuSxSecondoBis LI {
+	PADDING-RIGHT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 1px dashed
+}
+
+#menuSxSecondoBis LI A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #3385bb; TEXT-DECORATION: none;
+	DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondoBis LI A:hover {
+	TEXT-DECORATION: underline;
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoBis LI A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+#menuSxSecondoBis LI.cliccato {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffff33; PADDING-TOP: 0px; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline
+}
+#menuSxSecondoBis LI.cliccato A {
+	COLOR: #ffff33; BACKGROUND-COLOR: #678cd5; TEXT-DECORATION: underline; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxSecondoBis LI.cliccato A:hover {
+	TEXT-DECORATION: underline
+}
+#menuSxSecondoBis LI.cliccato A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #678cd5
+}
+H3.titoloMenuTerzo {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 1.05em; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #63a2cb 15px solid; COLOR: #e28409; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#menuSxTerzo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #63a2cb
+}
+#menuSxTerzo UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; LIST-STYLE-IMAGE: url(../img/ico_folder_azzurrochiaro.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ffffff 15px solid; COLOR: #ffffff; PADDING-TOP: 0px; LIST-STYLE-TYPE: disc
+}
+#menuSxTerzo LI {
+	PADDING-RIGHT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #ffffff 1px dashed
+}
+#menuSxTerzo LI {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#menuSxTerzo LI A {
+	COLOR: #ffffff; BACKGROUND-COLOR: #63a2cb; TEXT-DECORATION: none;DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxTerzo LI A:hover {
+	TEXT-DECORATION: underline;	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #1b678e
+}
+#menuSxTerzo LI A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #1b678e
+}
+#menuSxTerzo LI.cliccato {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffff33; PADDING-TOP: 0px; BACKGROUND-COLOR: #1b678e; TEXT-DECORATION: underline
+}
+#menuSxTerzo LI.cliccato A {
+	COLOR: #ffff33; BACKGROUND-COLOR: #1b678e; TEXT-DECORATION: underline; DISPLAY: block; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#menuSxTerzo LI.cliccato A:hover {
+	TEXT-DECORATION: underline; DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #1b678e
+}
+#menuSxTerzo LI.cliccato A:active {
+	DISPLAY: block; COLOR: #ffffff; BACKGROUND-COLOR: #1b678e
+}
+.capoletteraMenuSxTerzo {
+	COLOR: #e28409
+}
+/*********** Fine Menu a Sinistra ***********/
+
+/*********** Inizio Piè Pagina ***********/
+
+HR {
+	DISPLAY: none
+}
+DIV.hr {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../img/spacer_bianco.gif); MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; HEIGHT: 1px
+}
+DIV.hrpiepagina {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 0.7em; PADDING-BOTTOM: 2px; MARGIN: 25px 0px 0px; COLOR: #ffffff; PADDING-TOP: 2px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 13px; BACKGROUND-COLOR: #008dd5; TEXT-ALIGN: center
+}
+DIV.hrpiepagina A {
+	COLOR: #ffffff
+}
+DIV.hrpiepagina A:hover {
+	COLOR: #ffff00; TEXT-DECORATION: underline
+}
+/*********** Fine Piè Pagina ***********/
+
+/************************* Fine CSS Cnipa ************************************/
+
+
+
+/***************************** Inizio CSS cmsNIR *****************************/
+
+
+
+/***************** Inizio Menu Orizzontale cmsNIR **************************/
+#nav  {
+	width:100%;
+	FONT-WEIGHT: bold; 
+	FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; 
+	
+}
+#nav ul {
+	margin: 0;
+	padding: 0;
+	cursor: default;
+	list-style-type: none;
+	display: inline;	
+}
+#nav li {
+	display: inline;
+}
+#nav li  a{
+	padding-left: 3.6em;
+	padding-right: 2.6em;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #0066aa;
+}
+
+#nav li  a:hover{
+	color:#ffffff;
+	background-color: #E28409;
+	
+}
+#nav  li.sel a{
+	color:#ffffff;
+	background-color: #E28409;
+	
+}
+#nav ul li.sel a:hover{
+	color:#ffffff;
+	background-color: #E28409;
+}
+/***************** fine Menu Orizzontale cmsNIR **************************/
+#elencoArticoli{
+	width: 95%;
+	text-align: justify;
+}
+
+#elencoArticoli a:link {
+
+    color:  #0066aa;
+	text-decoration: none;
+	background-color: White;
+}
+
+#elencoArticoli a:visited {
+    color: #0000AA;
+	text-decoration: none;
+}
+
+#formRicerca{
+	width: 100%;
+	padding-left: 50px;
+	font-size:8pt;
+}
+
+#formRicerca th, #formRicerca td{
+	font-size:8pt;
+}
+
+.risultatiRicerca{
+	width: 95%;
+	text-align: justify;
+}
+
+.trovati{
+font-size:10pt;
+text-align: left;
+FONT-WEIGHT: bold; 
+}
+
+.nuovaRicerca {
+font-size:10pt;
+text-align: right; color:  #0066aa;
+	
+FONT-WEIGHT: bold; 
+
+}
+
+.nuovaRicerca a:link {
+    color:  #0066aa;
+!	text-decoration: none;
+	background-color: White;
+}
+
+.nuovaRicerca a:hover {
+	TEXT-DECORATION: underline
+	color: #000000;
+}
+
+
+#elencoRicerca a:link {
+    color:  #0066aa;
+	text-decoration: none;
+	background-color: White;
+}
+
+#elencoRicerca a:visited {
+    color: #0000AA;
+	text-decoration: none;
+
+}
+
+#azzera {
+ font-size:12pt;
+ width: 70px;
+ height:30px;
+}
+
+#trova {
+ font-size:12pt;
+ width: 70px;
+ height:30px;
+ 
+}
+
+
+/*  ------------------------------------------ AGGGIUNTE -----------------------------   */
+#browse {
+	float:right;
+}
+
+#modalContainer {
+	display:none;
+}
+
+#modal{
+	background-color:#ffffff;
+	text-align:center;
+	position:fixed;
+	top:10%;
+	left:10%;
+	height:80%;
+	width:80%;
+	overflow:scroll;
+	z-index:1000;
+}
+
+#modalBar{
+	background-color:blue;
+	text-align: right;
+	position:fixed;
+	top:10%;
+	left:10%;
+	height:20px;
+	width:80%;
+}
+
+#modalBar a{
+	color: white;
+	margin-right: 10px;
+}
+
+#modal table{
+	margin-top:30px;
+	margin-left:10px;
+	width: 90%;
+	border: solid 1px;
+}
+
+#modal table tr td{
+	text-align:center;
+	border: solid 1px;
+}
+
+#background{
+	display:none;
+	background-color:grey;
+	filter:alpha(opacity=50);
+	-moz-opacity:.50;
+	opacity:.50;
+	position:fixed;
+	top:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+	overflow:no;
+	z-index:999;
+}
+
+
+#estremiEmanante, #riferimentoEmanante {
+	display:none;
+}

@@ -1,0 +1,80 @@
+/* roScripts
+Table Design by Mihalcea Romeo
+www.roscripts.com
+----------------------------------------------- */
+
+#browsePanel table {
+		border-collapse:collapse;
+		background:#EFF4FB url(http://www.roscripts.com/images/teaser.gif) repeat-x;
+		border-left:1px solid #686868;
+		border-right:1px solid #686868;
+		font:0.8em/145% 'Trebuchet MS',helvetica,arial,verdana;
+		color: #333;
+}
+
+#browsePanel table td, th {
+		padding:5px;
+}
+
+#browsePanel table caption {
+		padding: 0 0 .5em 0;
+		text-align: left;
+		font-size: 1.4em;
+		font-weight: bold;
+		text-transform: uppercase;
+		color: #333;
+		background: transparent;
+}
+
+/* =links
+----------------------------------------------- */
+
+#browsePanel table table a {
+		color:#950000;
+		text-decoration:none;
+}
+
+#browsePanel table table a:link {}
+/*
+table a:visited {
+		font-weight:normal;
+		color:#666;
+		text-decoration: line-through;
+}
+ */
+#browsePanel table table a:hover {
+		border-bottom: 1px dashed #bbb;
+}
+
+/* =head =foot
+----------------------------------------------- */
+
+#browsePanel table thead th, tfoot th, tfoot td {
+		background:#333 url(http://www.roscripts.com/images/llsh.gif) repeat-x;
+		color:#fff
+}
+
+#browsePanel table tfoot td {
+		text-align:right
+}
+
+/* =body
+----------------------------------------------- */
+
+#browsePanel table tbody th, tbody td {
+		border-bottom: dotted 1px #333;
+}
+
+#browsePanel table tbody th {
+		white-space: nowrap;
+}
+
+#browsePanel table tbody th a {
+		color:#333;
+}
+
+.odd {}
+
+#browsePanel table tbody tr:hover {
+		background:#fafafa
+}

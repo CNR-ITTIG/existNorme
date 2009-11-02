@@ -1,0 +1,69 @@
+xquery version "1.0" encoding "iso-8859-15";
+
+declare namespace request="http://exist-db.org/xquery/request";
+declare namespace xmldb="http://exist-db.org/xquery/xmldb";
+declare namespace fn="http://www.w3.org/2003/05/xpath-functions";
+declare namespace util="http://exist-db.org/xquery/util";
+declare namespace nir="http://www.normeinrete.it/nir/2.2/";
+
+declare option exist:serialize "method=xml media-type=text/xml encoding=iso-8859-15";
+
+
+declare function local:navigate($colName as xs:string) as element()*
+{
+	for $col in xmldb:get-child-collections($colName) return
+					local:navigate($col)
+	,
+	for $res in xmldb:get-child-resources($colName) order by $res return
+		<res>
+			{$res}
+		</res>
+};
+
+
+let $materie := <materie vocabolario="CNIPA"  xmlns="http://www.normeinrete.it/nir/2.2/">
+					<materia valore="norme">Norme sull'informatica pubblica</materia>
+					<materia valore="rupa"  >Dalla Rete unitaria della pubblica amministrazione (RUPA) al Sistema pubblico di connettività (SPC)</materia>
+					<materia valore="accessibilità"	>Accessibilità</materia>
+					<materia valore="carta" >Carta d'identità elettronica e carta nazionale dei servizi</materia>
+					<materia valore="pec"	>Comunicazione nell'ambito della Pubblica Amministrazione e posta elettronica certificata (PEC)</materia>
+					<materia valore="documento">Documento informatico</materia>
+					<materia valore="domini">Domini internet e siti web</materia>
+					<materia valore="firme">Firme elettroniche e certificatori</materia>
+					<materia valore="e-learing">Formazione del personale - e-learning</materia>
+					<materia valore="flussi">Gestione dei flussi documentali</materia>
+					<materia valore="monitoraggio">Monitoraggio dei contratti di grande rilievo</materia>
+					<materia valore="spesa">Razionalizzazione della spesa pubblica</materia>
+					<materia valore="imprese">Registro delle imprese</materia>
+					<materia valore="sicurezza">Sicurezza informatica</materia>
+					<materia valore="sistema">Sistema informatico dei pagamenti nell'ambito della Pubblica Amministrazione</materia>
+					<materia valore="opensource">Software a codice sorgente aperto - open source</materia>
+					<materia valore="telelavoro">Telelavoro</materia>
+					<materia valore="regionali">Leggi regionali</materia>
+				</materie>
+
+
+let $tmp := session:set-current-user("maurizio", "tesconi")
+
+let $colName := "/db/nir/normeCnipa"
+
+
+	return  <root>{
+		for $res in collection($colName) 
+		let $num := round(util:random()*100) mod 18 + 1
+			return
+			<res>
+				{util:collection-name($res)}
+				-
+				{util:document-name($res)}
+				-
+				{$materie/nir:materia[$num]}
+				-
+				{
+				update insert <materie  vocabolario="CNIPA"  xmlns="http://www.normeinrete.it/nir/2.2/">{$materie/nir:materia[$num]}</materie> into $res//nir:meta/nir:descrittori
+				}
+				
+			</res>
+	}</root>
+
+		

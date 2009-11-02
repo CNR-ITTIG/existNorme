@@ -1,0 +1,36 @@
+	<!-- catalog.xml -->  <!-- si devono aggiungere le DTD dentro la cartella entities/nir -->
+	<!-- DTD per NIR -->
+    <system systemId="cnr.dtd" uri="entities/nir/cnr.dtd"/>
+    <system systemId="dllight.dtd" uri="entities/nir/dllight.dtd"/>
+    <system systemId="globali.dtd" uri="entities/nir/globali.dtd"/>
+    <system systemId="ISOdia.ent" uri="entities/nir/ISOdia.ent"/>
+    <system systemId="ISOgrk3.ent" uri="entities/nir/ISOgrk3.ent"/>
+    <system systemId="ISOlat1.ent" uri="entities/nir/ISOlat1.ent"/>
+    <system systemId="ISOlat2.ent" uri="entities/nir/ISOlat2.ent"/>
+    <system systemId="ISOnum.ent" uri="entities/nir/ISOnum.ent"/>
+    <system systemId="ISOpub.ent" uri="entities/nir/ISOpub.ent"/>
+    <system systemId="ISOtech.ent" uri="entities/nir/ISOtech.ent"/>
+    <system systemId="ittig.dtd" uri="entities/nir/ittig.dtd"/>
+    <system systemId="meta.dtd" uri="entities/nir/meta.dtd"/>
+    <system systemId="nirbase.dtd" uri="entities/nir/nirbase.dtd"/>
+    <system systemId="nircompleto.dtd" uri="entities/nir/nircompleto.dtd"/>
+    <system systemId="nirflessibile.dtd" uri="entities/nir/nirflessibile.dtd"/>
+    <system systemId="norme.dtd" uri="entities/nir/norme.dtd"/>
+    <system systemId="proprietario.dtd" uri="entities/nir/proprietario.dtd"/>
+    <system systemId="pst.dtd" uri="entities/nir/pst.dtd"/>
+    <system systemId="testo.dtd" uri="entities/nir/testo.dtd"/>
+    <system systemId="tipi.dtd" uri="entities/nir/tipi.dtd"/>	
+    <system systemId="iit.dtd" uri="entities/nir/iit.dtd"/>
+
+	
+	
+	<!-- Per evitate che con DB molto grandi non si vedano le pagine-->
+     <watchdog output-size-limit="100000" query-timeout="-1"/>
+
+    
+	<!-- web.xml-->
+	<!-- REST new mapping-->   
+    <servlet-mapping>
+        <servlet-name>EXistServlet</servlet-name>
+        <url-pattern>/samples/blocks/exist/rest/*</url-pattern>
+    </servlet-mapping>

@@ -1,0 +1,192 @@
+body {
+color:#212526;
+font-family:"Bitstream Vera Sans",verdana,helvetica,arial,sans-serif;
+font-size:75%;
+margin:0pt;
+padding:0pt;
+}
+hr {
+background-color:#3465A4;
+border:0px solid #3465A4;
+height:1px;
+margin:30px 25%;
+text-align:center;
+}
+em {
+font-size:100%;
+}
+.small {
+font-size:65%;
+}
+.intestazione {
+font-size:large;
+margin:15px 10% 0px;
+text-align:center;
+}
+.titleLegge {
+line-height:120%;
+}
+.title {
+font-size:90%;
+font-weight:bold;
+margin-top:15px;
+text-align:center;
+}
+.formulainiziale {
+font-size:100%;
+margin-bottom:30px;
+text-align:center;
+}
+.preambolo {
+font-size:100%;
+text-align:left;
+}
+.articolo {
+font-size:11px;
+margin-top:15px;
+text-align:center;
+}
+.titolo, .libro, .parte, .sezione {
+font-size:100%;
+font-weight:bold;
+text-align:center;
+}
+.capo {
+padding-top:10px;
+text-align:center;
+}
+p.rubrica {
+font-size:100%;
+font-style:italic;
+font-weight:lighter;
+margin-top:0pt;
+text-align:center;
+}
+.comma {
+font-size:100%;
+font-weight:normal;
+margin-bottom:5px;
+margin-top:5px;
+text-align:justify;
+text-indent:1em;
+}
+.el {
+font-size:100%;
+font-weight:normal;
+margin-left:5px;
+margin-top:2px;
+text-align:justify;
+text-indent:2em;
+}
+.en {
+font-size:100%;
+font-weight:normal;
+margin-left:55px;
+margin-top:2px;
+text-align:justify;
+text-indent:-10px;
+}
+b b {
+font-weight:normal;
+}
+.ndr {
+text-decoration:underline;
+}
+a {
+text-align:justify;
+}
+.nota {
+display:inline;
+float:left;
+font-size:90%;
+text-align:justify;
+}
+.formulafinale {
+text-align:justify;
+}
+.dataeluogo {
+font-style:italic;
+font-weight:bold;
+margin-top:25px;
+}
+.li {
+list-style-type:none;
+padding-right:40px;
+text-align:right;
+}
+.visto {
+font-size:80%;
+font-weight:bold;
+}
+.hidden {
+display:inline;
+height:0px;
+margin:0pt;
+padding:0pt;
+width:0px;
+}
+p {
+text-align:justify;
+}
+.allineadx, p.allineadx {
+margin-bottom:20px;
+text-align:right;
+width:100%;
+}
+#timeline {
+border:1px dotted #284F94;
+display:block;
+float:left;
+margin:5px;
+padding:10px;
+text-align:center;
+width:100%;
+}
+#choosedata {
+clear:both;
+display:block;
+}
+.choosedata {
+background-color:#EEEEEC;
+border:1px solid #888A85;
+color:#3465A4;
+cursor:pointer;
+display:inline;
+float:left;
+height:90%;
+list-style-type:none;
+margin:5px 1px;
+padding:5px;
+text-align:center;
+text-decoration:none;
+}
+.choosedata-active {
+background-color:#3465A4;
+border:1px solid #204A87;
+color:#EEEEEC;
+display:inline;
+float:left;
+font-weight:bold;
+list-style-type:none;
+margin:5px 1px;
+padding:5px;
+text-align:center;
+text-decoration:none;
+}
+.choosedata a {
+color:#555753;
+}
+sup {
+font-size:90%;
+}
+.span-vigente {
+color:#446622;
+}
+.span-abrogato {
+color:#CC0000;
+}
+.pubblicazione {
+color:#888A85;
+font-style:italic;
+text-align:right;
+}

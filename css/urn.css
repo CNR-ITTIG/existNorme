@@ -1,0 +1,49 @@
+body {
+	color:#212526;
+	font-family: "Verdana";
+	font-size:12pt;
+	margin:0pt;
+	padding:0pt;
+}
+
+hr {
+	background-color:#3465A4;
+	border:0px solid #3465A4;
+	height:1px;
+	margin:30px 25%;
+	text-align:center;
+}
+
+.label {
+	width: 100px;
+	margin-left: 20px;
+}
+
+#urn {
+	margin: 50px;
+	border: 1px solid gray;
+	width: 700px;
+	height: 100px;
+}
+
+#div_emanante, #div_anno, #div_mese, #div_giorno  {
+	margin-top:20px;
+	float:left;
+}
+
+#div_tipo, #div_numero{
+	margin-top:20px;
+}
+
+
+#emanante, #tipo {
+	width: 200px;
+	height: 20px;
+}
+
+#anno, #mese, #giorno, #numero {
+	margin-top:10px;
+	margin-left:5px;
+	width: 70px;
+	height: 20px;
+}
