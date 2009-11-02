@@ -41,14 +41,14 @@ declare function local:annoDoc($urn as xs:string) as xs:string
 
 let $tmp := session:set-current-user("maurizio", "tesconi")
 
-let $colName := "/db/nir/normeCnipa"
+let $colName := "/db/nir/RegioneCampania"
 
 	(:
 	let $anno := local:annoDoc($urn)
 	let $tipo := local:tipoDoc(name(doc($tmp)/nir:NIR/*))
 	:)
 
-	let $comment := "first version"
+	let $comment := "originale"
 	let $author:= xdb:get-current-user()
 	let $date := date:format-dateTime(current-dateTime())
 	let $ver := "1"
@@ -63,7 +63,7 @@ let $colName := "/db/nir/normeCnipa"
 			let $urns := doc($PathDoc)/nir:NIR/*/nir:meta/nir:descrittori/nir:urn/@valore
 			let $urn  := $urns[1] cast as xs:string
 			let $anno := local:annoDoc($urn)
-			let $newDocName := translate($urn, " :;@/", "__na-")
+			let $newDocName := translate($urn, " :;@", "__na")
 			let $materie := doc($PathDoc)/nir:NIR//iit:materia
 
 			let $meta := 
@@ -88,12 +88,15 @@ let $colName := "/db/nir/normeCnipa"
 				let $tmp:= if (doc($PathDoc)/nir:NIR//iit:tipoDoc/@valore eq $tipo) then "OK" else "NO"
 				return $meta
 				:)
-				update replace doc($PathDoc)//nir:proprietario[@soggetto="IIT"] with $meta
+				(: update replace doc($PathDoc)//nir:proprietario[@soggetto="IIT"] with $meta :)
+                if (exists(doc($PathDoc)/nir:NIR/*/nir:meta/nir:proprietario)) then 
+										update replace doc($PathDoc)/nir:NIR/*/nir:meta/nir:proprietario with $meta
+									else
+										update insert $meta into doc($PathDoc)/nir:NIR/*/nir:meta
 				,
 				if (xdb:decode($docName) != xdb:decode($newDocName)) then xdb:rename($colName, $docName, $newDocName) else ()
 				,
 				xdb:chmod-resource($colName, $newDocName, 508)
-
 				}
 				
 			</res>

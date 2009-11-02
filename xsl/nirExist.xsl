@@ -22,7 +22,7 @@
 	<xsl:template match="/">
    <html>
         <head>
-            <title>CNIPA - Normativa ICT</title>
+            <title>Regione Campania - Normativa ICT</title>
             <link type="text/css" href="css/nir.css" rel="stylesheet"/>
 	     <script type="text/javascript" src="./ui/js/norma.js"> var a = 666; </script>
 	     

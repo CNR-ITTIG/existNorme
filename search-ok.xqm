@@ -121,7 +121,7 @@ declare function search:main() as element() {
 											Estremi dell'Atto</th>
                                         </tr>
                                         <tr>
-                                            <td align="right" width="275">Regione Campania
+                                            <td align="right" width="275">
 
 <!--
 											<span id="estremiEmanante">
@@ -159,7 +159,7 @@ declare function search:main() as element() {
                                                     <option/>
 											{
 												for $valore in distinct-values(collection($colName)//iit:annoDoc/@valore)
-													order by $valore descending
+													order by $valore 
 													return <option>{if ($valore eq $annoDoc) then attribute selected {"selected"} else ()}{$valore cast as xs:string}</option>
 											}
                                                 </select>
@@ -174,20 +174,20 @@ declare function search:main() as element() {
                                         </tr>
                                         <tr>
                                             <td align="right" width="275">
+<!--
 												<span id="riferimentoEmanante">
 												Emanante 
 													<select name="autoritaRiferimento" class="low">
 															<option value=""/>
-<!--
 															<option value="comunita.europee">{if ($autoritaRiferimento eq 'comunita.europee') then attribute selected {"selected"} else ()}Comunità Europee</option>
 															<option value="ministero.beni.culturali.ambientali">{if ($autoritaRiferimento eq 'ministero.beni.culturali.ambientali') then attribute selected {"selected"} else ()}Beni Culturali</option>
 															<option value="ministero.economia.finanze">{if ($autoritaRiferimento eq 'ministero.economia.finanze') then attribute selected {"selected"} else ()}Economia e Finanze</option>
 															<option value="presidente.consiglio.ministri">{if ($autoritaRiferimento eq 'presidente.consiglio.ministri') then attribute selected {"selected"} else ()}PCM</option>
--->
-															<option value="regione.campania">{if ($autoritaRiferimento eq 'regione.campania') then attribute selected {"selected"} else ()}Regione Campania</option>
+															<option value="presidente.repubblica">{if ($autoritaRiferimento eq 'presidente.repubblica') then attribute selected {"selected"} else ()}Pres. Rep.</option>
 															<option value="stato">{if ($autoritaRiferimento eq 'stato') then attribute selected {"selected"} else ()}Stato</option>
 													</select>
 												</span>
+-->
 											</td>
                                             <td align="right" width="190">Tipo 
 												<select id="tipoRiferimento" name="tipoRiferimento" class="low">
@@ -208,7 +208,7 @@ declare function search:main() as element() {
                                             <th align="center" colspan="4">Atti modificati da:</th>
                                         </tr>
 										<tr>
-                                            <td align="right" width="275">Regione Campania
+                                            <td align="right" width="275">
 											</td>
                                             <td align="right" width="190">Tipo 
 												<select name="tipoModifica" class="low">
@@ -258,12 +258,11 @@ declare function search:displayRif($res as node(),$urnRif as xs:string,$url as x
 			se gli antenati non hanno comma/id nulla 
 			altrimenti  scrive link:)
 	
-	
 	for $ref in $res//nir:rif[matches(@xlink:href, $urnRif)]
 		return 
-		if (empty($ref/ancestor::nir:comma[1]/@id)) then () else 
-			<a target="_new" href="xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}#{$ref/ancestor::nir:comma[1]/@id}">{$ref/ancestor::nir:comma[1]/@id cast as xs:string}</a>
-	
+		if (empty($ref/ancestor::nir:comma/@id)) then () else
+		<li><a target="_new" href="xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}#{$ref/ancestor::nir:comma/@id}">{$ref/ancestor::nir:comma/@id cast as xs:string}</a></li>
+			
 };
 
 declare function search:displayComma($res as node(),$testo as xs:string,$url as xs:string) as element()*{
@@ -295,7 +294,7 @@ declare function search:makeResName($res as node(),$url as xs:string) as element
 					<br/>{$titoloDoc}
 					{if (empty($res//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href)) then () else
 						(
-						<a href='#{$id}' style="color:grey; margin-left: 15px; font-size:8pt" onclick="javascript:ReverseContentDisplay('{$id}');">[elenco dei documenti modificanti]</a>,
+						<a href='#' style="color:grey; margin-left: 15px; font-size:8pt" onclick="javascript:ReverseContentDisplay('{$id}');">[modifiche]</a>,
 						<ul id="{$id}" style="display:none; border-color:grey; border-style: 1px solid; margin-left: 15px; z-index: -1; font-size:8pt">
 							{for $passive in $res//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href
 								return <li>{$passive cast as xs:string}</li>
@@ -310,7 +309,6 @@ declare function search:makeResName($res as node(),$url as xs:string) as element
 
 declare function search:search() as element()* {
 
-let $soloTitolo := request:get-parameter("soloTitolo", "")  
 	
 	let $numeroProvvedimento := request:get-parameter("numero", "")  
 	let $testo := request:get-parameter("testo", "")  
@@ -348,7 +346,7 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 	let $giornoRiferimento := if ($giornoRiferimento eq "") then "[0-9]{2}" else $giornoRiferimento
 	let $meseRiferimento := if ($meseRiferimento eq "") then "[0-9]{2}" else $meseRiferimento
 	let $annoRiferimento := if ($annoRiferimento eq "") then "[0-9]{4}" else $annoRiferimento
-	let $numeroRiferimento := if ($numeroRiferimento eq "") then "[0-9]+" else $numeroRiferimento
+	let $numeroRiferimento := if ($numeroRiferimento eq "") then "" else $numeroRiferimento
 
 	
 	let $giornoDoc := request:get-parameter("giornoDoc", "")  
@@ -390,50 +388,26 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 				where $res//nir:pubblicazione/starts-with(@norm,$annoFonte)"
 				
 		
-(:	let $query2 := if ($tipo eq "") then "" else " and $res//iit:tipoDoc/@valore=$tipo"  :)
-	let $query2 := if ($tipo eq "") then "" else " and $res//iit:tipoDoc/@valore=$tipo"
-
-
+	
+	let $query2 := if ($tipo eq "") then "" else " and $res//iit:tipoDoc/@valore=$tipo"  
 	let $query3 := if ($combinazione ne "articolo" or $testo eq "") then "" else " and $res//nir:articolo[. &amp;= $testo]" 
-	let $query4 := if ($dataDoc eq "????????") then "" else " and $res//nir:intestazione/nir:dataDoc/@norm &amp;= $dataDoc"	
-
+	let $query4 := if ($dataDoc eq "????????") then "" else " and $res//nir:intestazione/nir:dataDoc/@norm &amp;= $dataDoc"
 	let $query5 := if ($num eq "") then "" else " and $res//nir:intestazione/nir:numDoc=$num"
 	let $query6 := if ($emanante eq "") then "" else " and $res//nir:intestazione/contains(nir:emanante,$emanante)"
-
-(:	let $query7 := if ($combinazione eq "comma" or $combinazione eq "articolo" or $testo eq "") then "" else concat(" and $res//*", $opApertura," $testo",$opChiusura)	:)
-	let $query7 := if ($combinazione eq "comma" or $combinazione eq "articolo" or $testo eq "" or $soloTitolo="on") then "" else concat(" and $res//*", $opApertura," $testo",$opChiusura)
-
-(:	let $query8 := if ($titolo eq "") then "" else " and $res//nir:intestazione/contains(nir:titoloDoc[1], $titolo)"	:)
-	let $query8 := if ($soloTitolo eq "") then "" else concat(" and $res//nir:intestazione/nir:titoloDoc[1]", $opApertura," $testo",$opChiusura)
-(:	let $query8 := if ($titolo eq "") then "" else " and $res//nir:intestazione/contains(nir:titoloDoc[1], $titolo)" :)
-
-
+	let $query7 := if ($combinazione eq "comma" or $combinazione eq "articolo" or $testo eq "") then "" else concat(" and $res//*", $opApertura," $testo",$opChiusura)
+	let $query8 := if ($titolo eq "") then "" else " and $res//nir:intestazione/contains(nir:titoloDoc[1], $titolo)"
 	let $query9 := if ($combinazione ne "comma" or $testo eq "") then "" else " and $res//nir:comma[. &amp;= $testo]"
 	
-
-(:	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(;|-",$meseRiferimento,"-",$giornoRiferimento,";)",$numeroRiferimento) :)
-	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(-[0-9]{2}-[0-9]{2})*;",$numeroRiferimento,'#')	
-
-(:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif/matches(@xlink:href, $urnRif )" 	:)
-(:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif[matches(@xlink:href, $urnRif )]"   :)
-(:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif[matches(concat(@xlink:href,'#'), $urnRif )]" :)
-	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(-[0-9]{2}-[0-9]{2})*;[0-9]+#") then "" else " and $res//nir:rif[matches(concat(@xlink:href,'#'), $urnRif )]" 
-
+	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(;|-",$meseRiferimento,"-",$giornoRiferimento,";)",$numeroRiferimento)  
+	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif/matches(@xlink:href, $urnRif )" 
 	
-
-
 	let $urnRelazione := concat("urn:nir:",$autoritaModifica,":",$tipoModifica,":",$annoModifica,"(;|-",$meseModifica,"-",$giornoModifica,";)",$numeroModifica)
-
-(:	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva/matches(@xlink:href, $urnRelazione)"	:)
-	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva[matches(@xlink:href, $urnRelazione)]"
-
+	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva/matches(@xlink:href, $urnRelazione)"
 	
 	let $query12 := if ($materia eq "" ) then "" else " and $res//iit:materia/@valore=$materia"
 
-	let $query13 := if ($fonte eq "" ) then "" else " and $res//nir:descrittori/nir:pubblicazione/@tipo=$fonte" 	
-
-	let $ord := " order by $res//nir:intestazione/nir:dataDoc/@norm[1] descending, string-length($res//nir:intestazione/nir:numDoc[1]) descending, $res//nir:intestazione/nir:numDoc[1] descending "
-
+	let $query13 := if ($fonte eq "" ) then "" else " and $res//nir:descrittori/nir:pubblicazione/@tipo=$fonte"
+	
 	let $query14 := "
 				return
 				<li > 
@@ -456,17 +430,19 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 						</ul>
 					}
 
-					{
-(:					if ($urnRif eq 'urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)') then () else		:)
-					if ($urnRif eq 'urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(-[0-9]{2}-[0-9]{2})*;[0-9]+#') then () else		
-
-						<div>[elenco delle partizioni contenenti il riferimento cercato: 
-							{search:displayRif($res,$urnRif,$url)} ]
-						</div>
+					{if ($urnRif eq 'urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)') then () else
+						<ul>
+							{search:displayRif($res,$urnRif,$url)}
+							<span/>
+						</ul>
 					}
 				</li>"
+	
 
-let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$ord,$query14)
+
+
+
+let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$query14)
 				
 	
 return 
@@ -477,8 +453,8 @@ return
 <!--
 					<a href="#" onclick="javascript:ReverseContentDisplay('debug');
 							     javascript:ReverseContentDisplay('formRicerca')">[mostra/nascondi] XQuery</a>
-					<pre id="debug" style="display:none;border-style: solid; padding: 5px; z-index: -1; font-size:8pt">{$query}</pre>
 -->
+					<pre id="debug" style="display:none;border-style: solid; padding: 5px; z-index: -1; font-size:8pt">{$query}</pre>
 				</td>
 				<td class="nuovaRicerca" >
 					<a href="?panel=search">Imposta una Nuova Ricerca</a>

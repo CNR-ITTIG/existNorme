@@ -2,7 +2,6 @@
 	$("#modalContainer").load(doc,showModal);
  }
 
-
 function showModal(){
 		$("#modalContainer").css("display","block");
 		$("#background").css("display","block");
@@ -31,7 +30,7 @@ function aggiornaWidgets() {
 
 			var tipoRif = $('#tipoRiferimento').val();
 			
-			if (tipoRif =='decreto') 
+			if (tipoRif =='legge') 
 					$('#riferimentoEmanante').show();
 				else
 					$('#riferimentoEmanante').hide();

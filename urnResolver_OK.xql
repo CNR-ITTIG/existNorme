@@ -18,7 +18,6 @@ declare function local:getDoc($urn as xs:string) as xs:string* {
 	let $colName := "/db/nir/RegioneCampania"
 				for $res in collection($colName)
 				return 
-(:					if ($res//nir:ciclodivita/nir:relazioni/nir:originale[matches(@xlink:href, $urnMatches)]) then		:)
 					if ($res//nir:descrittori/nir:urn[matches(@valore, $urnMatches)]) then
 						concat(xdb:encode-uri(util:collection-name($res)),'/',xdb:encode-uri(util:document-name($res)))
 						else
@@ -54,8 +53,8 @@ let $ee_nume := substring($ee_temp,string-length($ee_temp)-3,4)
 			response:redirect-to(xs:anyURI(concat("http://eur-lex.europa.eu/Result.do?code=" , $ee_sett , $ee_anno , "R" , $ee_nume , "&amp;Submit=Cercare&amp;RechType=RECH_celex&amp;_submit=Cercare")
 ))
 
-	) else if (local:getDoc($urn)[1]) then
-		response:redirect-to(xs:anyURI(concat("xhtml?doc=",local:getDoc($urn)[1],"&amp;datafine=",$data)))		
+	) else if (local:getDoc($urn)) then
+		response:redirect-to(xs:anyURI(concat("xhtml?doc=",local:getDoc($urn),"&amp;datafine=",$data)))		
 		else
 		response:redirect-to(xs:anyURI(concat("http://www.nir.it/cgi-bin/N2Ln?",$urn)))		
 	}

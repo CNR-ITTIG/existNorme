@@ -1,3 +1,10 @@
+NON dimenticarsi di aggiornare catalog.xml dentro WEB-INF
+
+dopo init lanciare pure updatemeta
+
+
+
+
 La cartella cmsnir ha il seguente path: Jetty\webapps\cocoon
 
 Andare da console nella root di jetty e digitare:

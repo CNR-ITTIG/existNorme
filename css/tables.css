@@ -50,7 +50,7 @@ table a:visited {
 ----------------------------------------------- */
 
 #browsePanel table thead th, tfoot th, tfoot td {
-		background:#333 url(http://www.roscripts.com/images/llsh.gif) repeat-x;
+		background:#333 url(../img/llsh.gif) repeat;
 		color:#fff
 }
 

@@ -234,8 +234,18 @@ function parseURN(urnTxt){
 	var patternRD = /^urn:nir:stato:regio.decreto(.)*$/i;
 	var patternRDL = /^urn:nir:stato:regio.decreto.legge(.)*$/i;
 	var patternRDLgs = /^urn:nir:stato:regio.decreto.legislativo(.)*$/i;
+	var patternRegioneCampania = /^urn:nir:regione.campania:legge(.)*$/i;
+	var patternRegioneCampaniaStatuto = /^urn:nir:regione.campania:statuto(.)*$/i;
+	var patternRegioneCampaniaDel = /^urn:nir:regione.campania:delib(.)*$/i;
+
 	
-	if (patternC.test(urnTxt))	{
+	if (patternRegioneCampania.test(urnTxt))	{
+		type = "Legge R.C."; 
+	} else if (patternRegioneCampaniaStatuto.test(urnTxt))	{
+		type = "Statuto R.C."; 
+	} else if (patternRegioneCampaniaDel.test(urnTxt))	{
+		type = "Del. R.C."; 
+	} else if (patternC.test(urnTxt))	{
 		type = "Cost.";
 	} else if (patternCBC.test(urnTxt))	{
 		type = "Cod.B.Cult.";
@@ -266,7 +276,7 @@ function parseURN(urnTxt){
 	} else if (patternDPR.test(urnTxt))	{
 		type = "D.P.R.";
 	} else if (patternL.test(urnTxt))	{
-		type = "L.";
+		type = "Legge";
 	} else if (patternLC.test(urnTxt))	{
 		type = "L.C.";
 	} else if (patternRD.test(urnTxt))	{
@@ -425,6 +435,18 @@ function setNodeColor(node, type, center){
 		width="3px ";
 	}
 
+	if (type == "Legge R.C."){
+		graphui.getNode( node.id ).style.backgroundColor="#ff6633";
+		graphui.getNode( node.id ).style.border=width+"solid #993300";	
+	} 
+	if (type == "Statuto R.C."){
+		graphui.getNode( node.id ).style.backgroundColor="#ff6633";
+		graphui.getNode( node.id ).style.border=width+"solid #993300";		
+	}
+	if (type == "Del. R.C."){
+		graphui.getNode( node.id ).style.backgroundColor="#ff6633";
+		graphui.getNode( node.id ).style.border=width+"solid #993300";		
+	}
 	if (type == "Cost."){
 		graphui.getNode( node.id ).style.backgroundColor="#ff0000";
 		graphui.getNode( node.id ).style.border=width+"solid #990000";
@@ -432,8 +454,8 @@ function setNodeColor(node, type, center){
 		graphui.getNode( node.id ).style.backgroundColor="#ffcc00";
 		graphui.getNode( node.id ).style.border=width+"solid #996600";
 	} else if (type == "Cod.Civ."){
-		graphui.getNode( node.id ).style.backgroundColor="#ff6633";
-		graphui.getNode( node.id ).style.border=width+"solid #993300";
+		graphui.getNode( node.id ).style.backgroundColor="#cccccc";
+		graphui.getNode( node.id ).style.border=width+"solid #666666";
 	} else if (type == "C.Cost.Sent."){
 		graphui.getNode( node.id ).style.backgroundColor="#ff0066";
 		graphui.getNode( node.id ).style.border=width+"solid #990033";
@@ -464,7 +486,7 @@ function setNodeColor(node, type, center){
 	} else if (type == "D.P.R."){
 		graphui.getNode( node.id ).style.backgroundColor="#ff9999";
 		graphui.getNode( node.id ).style.border=width+"solid #996666";	
-	} else if (type == "L."){
+	} else if (type == "Legge"){
 		graphui.getNode( node.id ).style.backgroundColor="#ffcc33";
 		graphui.getNode( node.id ).style.border=width+"solid #cc9900";
 	} else if (type == "L.C."){

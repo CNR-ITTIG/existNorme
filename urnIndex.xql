@@ -11,9 +11,10 @@ declare namespace util = "http://exist-db.org/xquery/util";
 declare namespace xdb = "http://exist-db.org/xquery/xmldb";
 declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 
+
 			
 declare function urnIndex:urnList() as element() {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 	return 
 	<urnIndex>
 		{urnIndex:urnQuery()}	
@@ -22,7 +23,7 @@ declare function urnIndex:urnList() as element() {
 };
 
 declare function urnIndex:urnQuery() as element()* {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 				for $res in collection($colName)
 				return <list>{concat(xdb:encode-uri(util:collection-name($res)),'/',xdb:encode-uri(util:document-name($res)))}
 					{

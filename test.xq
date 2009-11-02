@@ -33,7 +33,7 @@ declare function local:annoDoc($urn as xs:string) as xs:string
 			
 <root xmlns="http://www.normeinrete.it/nir/2.2/">
 				{
-				for $doc in collection("/db/nir/normeCnipa")
+				for $doc in collection("/db/nir/RegioneCampania")
 					let $urns := $doc/nir:NIR/*/nir:meta/nir:descrittori/nir:urn/@valore
 					let $urn1 := $urns[1] cast as xs:string
 					let $anno := local:annoDoc($urn1[1])

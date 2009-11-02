@@ -1,5 +1,4 @@
 xquery version "1.0" encoding "iso-8859-15";
-(: Developed by Maurizio Tesconi - Istituto di Informatica e Telematica - CNR - maurizio.tesconi@iit.cnr.it :)
 (: $Id$ :)
 (:
     Module: display and browse collections.
@@ -57,12 +56,11 @@ declare function local:annoDoc($urn as xs:string) as xs:string
 :)
 declare function browse:main() as element()
 {
-    let $colName := request:get-parameter("collection", "/db/nir/normeCnipa") return
-        <div class="panel">
-			<div id="browse"><a href="index.xql?panel=clustering">Torna alla pagina principale</a></div>
-			<div id="browsePanel">
+    let $colName := request:get-parameter("collection", "/db/nir/RegioneCampania") return
+        <div id="browsePanel">
+			<div>
 	            { browse:process-action($colName) }
-	            <div class="panel-head">Browsing: {xdb:decode-uri(xs:anyURI($colName))}</div>
+	            <!-- div class="panel-head">Browsing: {xdb:decode-uri(xs:anyURI($colName))}</div-->
 	            <form method="POST" enctype="multipart/form-data">
 	                {
 	                    browse:display-collection($colName)
@@ -294,7 +292,6 @@ declare function browse:create-collection($parentColName as xs:string) as elemen
 declare function browse:display-collection($colName as xs:string) as element()
 {
  		<table summary="CMS NIR">
-			<caption>CMS NIR</caption>
 			<thead>
 				<tr>
 		            <th scope="col"/>
@@ -309,19 +306,6 @@ declare function browse:display-collection($colName as xs:string) as element()
 				</tr>
 			</thead>	
 			<tbody>
-				<tr>
-					<td/>
-					<td><a href="?panel=browse&amp;collection={browse:get-parent-collection(xdb:encode-uri($colName))}">Up</a></td>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-					<td/>
-				</tr>
 				{
 					browse:display-child-collections($colName),
 					browse:display-child-resources($colName)
@@ -336,7 +320,7 @@ declare function browse:display-child-collections($colName as xs:string) as elem
     for $child at $pos in xdb:get-child-collections($colName)
         let $path := concat($colName, '/', $child),
         $created := xdb:created($path)
-    order by $child return
+    order by $child ascending return
         <tr class="{if ($pos mod 2 eq 0) then 'odd' else ()}">
             <td><input type="checkbox" name="resource" value="{$path}"/></td>
             <td><a href="?panel=browse&amp;collection={xdb:encode-uri($path)}">{xdb:decode-uri(xs:anyURI($child))}</a></td>
@@ -359,8 +343,7 @@ declare function browse:display-child-resources($colName as xs:string) as elemen
     for $child in xdb:get-child-resources($colName) order by $child return
         <tr>
             <td><input type="checkbox" name="resource" value="{$colName}/{$child}"/></td>
-            <td><a target="_new" href="AllXml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}">{xdb:decode-uri(xs:anyURI($child))}</a></td>
-            
+            <td><a target="_new" href="xml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}">{xdb:decode-uri(xs:anyURI($child))}</a></td>
             <td><a target="_new" href="meta?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}">
 				{local:stringa(doc(concat($colName,"/",$child))//iit:author/@valore)}
 				</a>
@@ -381,7 +364,7 @@ declare function browse:display-child-resources($colName as xs:string) as elemen
 				
 			</td>
 				
-			<td><a target="_new" href="xhtml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/xhtml.png"/></a></td>
+			<td><a target="_new" href="xhtml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}&amp;datafine={date:normalize-date(current-dateTime())}"><img src="img/xhtml.png"/></a></td>
             <td><a target="_new" href="pdf?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/pdf.png"/></a></td>
             <td><a target="_new" href="xml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/xml.png"/></a></td>
             <td>{local:stringa(doc(concat($colName,"/",$child))//iit:comment/@valore)}</td>

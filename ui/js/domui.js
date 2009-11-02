@@ -12,7 +12,7 @@
 // Copyright: 2006
 //
 
-NODE_RADIUS=6;
+NODE_RADIUS=14;
 
 
 
@@ -136,17 +136,21 @@ GraphUI.prototype = {
 
 	urn =  urn.replace(/%20/, " ");
 
+
 	if ( type && date && number && urn && queryType) {
+
 	  domNode = textNodeTmpl.cloneNode(true);
 	 for (var i=0; i<urnList.length; i++ ){
 		
 		  var centerGraph = "&nbsp;&nbsp;&nbsp;";
-		  
+		
 		 if(urn.match(urnList[i]) || (urn==urnList[i])){
+	
 			 centerGraph = "<img src='./img/centro.gif' alt='Centra questo Atto' onclick='sendFirstQuery(\""+queryType+"\",\""+urn+"\");' class='pointer'/>";
 			  break;
-		  } 
-	  }
+		 } 
+
+	  } 
 
 	  var openNorma ="<img src='./img/freccia.gif' alt='Visualizza questo Atto' onclick='location.href=\"./urnResolver.html?urn="+urn+"\";' class='pointer'/>";
 	  domNode.innerHTML = "<table width='100%'><tr><td colspan='3' class='nodo'>"+type+"</td></tr><tr><td>"+centerGraph+"</td><td class='nodo'>" + date +"</td><td>"+openNorma+"</td></tr><tr><td colspan='3' class='nodo'>"+number+"</td></tr></table>";

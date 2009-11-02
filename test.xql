@@ -13,7 +13,7 @@ declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 		<body>
 			<ul>
 				{
-				let $colName := "/db/nir/normeCnipa"
+				let $colName := "/db/nir/RegioneCampania"
 				for $res in collection($colName)
 				where $res//nir:rif/contains(@xlink:href, "urn:nir:stato:decreto.legislativo:1993-02-12;39" )
 				return <li>{distinct-values($res//nir:descrittori/nir:urn/@valore)}</li>
@@ -24,7 +24,7 @@ declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 <ul>
 				{
 
-			let $colName := "/db/nir/normeCnipa"
+			let $colName := "/db/nir/RegioneCampania"
 				for $emanante in distinct-values(collection($colName)//nir:descrittori/nir:urn/@valore)
 					order by $emanante 
 
@@ -35,7 +35,7 @@ declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 
 	<ul>
 				{
-				let $colName := "/db/nir/normeCnipa"
+				let $colName := "/db/nir/RegioneCampania"
 				
 				for $link in distinct-values(collection($colName)//nir:rif/@xlink:href)
 						order by $link 
@@ -48,7 +48,7 @@ declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 
 		<ul>
 				{
-				let $colName := "/db/nir/normeCnipa"
+				let $colName := "/db/nir/RegioneCampania"
 				
 				for $link in distinct-values(collection($colName)//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href)
 						order by $link 

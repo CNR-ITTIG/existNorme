@@ -13,7 +13,7 @@ declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 
 			
 declare function graph:inRef($query as xs:string, $urnParam as xs:string) as element() {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 	return 
 	<graph>
 	<centerVertex>{$urnParam cast as xs:string}</centerVertex>
@@ -24,7 +24,7 @@ declare function graph:inRef($query as xs:string, $urnParam as xs:string) as ele
 };
 
 declare function graph:inRefQuery($urnParam as xs:string) as element()* {
-		let $colName := "/db/nir/normeCnipa"
+		let $colName := "/db/nir/RegioneCampania"
 		for $res in collection($colName)
 		for $urn in $res//nir:descrittori/nir:urn/@valore
 		where $res//nir:rif/contains(@xlink:href,$urnParam )
@@ -35,7 +35,7 @@ declare function graph:inRefQuery($urnParam as xs:string) as element()* {
 
 
 declare function graph:outRef($query as xs:string, $urnParam as xs:string) as element() {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 	return 
 	<graph>
 	<centerVertex>{$urnParam cast as xs:string}</centerVertex>
@@ -46,7 +46,7 @@ declare function graph:outRef($query as xs:string, $urnParam as xs:string) as el
 };
 
 declare function graph:outRefQuery($urnParam as xs:string) as element()* {
-		let $colName := "/db/nir/normeCnipa"
+		let $colName := "/db/nir/RegioneCampania"
 				for $res in collection($colName)
 				for $urn in $res//nir:rif/@xlink:href
 				where $res//nir:descrittori/nir:urn/contains(@valore,$urnParam )
@@ -58,7 +58,7 @@ declare function graph:outRefQuery($urnParam as xs:string) as element()* {
 
 
 declare function graph:inMod($query as xs:string, $urnParam as xs:string) as element() {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 	return 
 	<graph>
 	<centerVertex>{$urnParam cast as xs:string}</centerVertex>
@@ -69,7 +69,7 @@ declare function graph:inMod($query as xs:string, $urnParam as xs:string) as ele
 };
 
 declare function graph:inModQuery($urnParam as xs:string) as element()* {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 		for $res in collection($colName)
 		for $urn in $res//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href
 		where $res//nir:descrittori/nir:urn/contains(@valore,$urnParam )
@@ -80,7 +80,7 @@ declare function graph:inModQuery($urnParam as xs:string) as element()* {
 
 
 declare function graph:outMod($query as xs:string, $urnParam as xs:string) as element() {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 	return 
 	<graph>
 	<centerVertex>{$urnParam cast as xs:string}</centerVertex>
@@ -91,7 +91,7 @@ declare function graph:outMod($query as xs:string, $urnParam as xs:string) as el
 };
 
 declare function graph:outModQuery($urnParam as xs:string) as element()* {
-	let $colName := "/db/nir/normeCnipa"
+	let $colName := "/db/nir/RegioneCampania"
 		for $res in collection($colName)
 		for $urn in $res//nir:descrittori/nir:urn/@valore
 		where $res//nir:ciclodivita/nir:relazioni/nir:passiva/contains(@xlink:href,$urnParam )

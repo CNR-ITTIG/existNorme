@@ -207,7 +207,7 @@ declare namespace request="http://exist-db.org/xquery/request";
         <description>Distinct Values Materie</description>
         <code>declare namespace nir="http://www.normeinrete.it/nir/2.2/";
 
-let $colName := "/db/nir/normeCnipa"
+let $colName := "/db/nir/RegioneCampania"
 for $valore in distinct-values(collection($colName)//nir:meta/nir:descrittori/nir:materie/nir:materia/@valore)
 	return &lt;materia valore="{$valore}"/&gt;</code>
     </query>
@@ -215,7 +215,7 @@ for $valore in distinct-values(collection($colName)//nir:meta/nir:descrittori/ni
         <description>Distinct Trimmed Values Materie </description>
         <code>declare namespace nir="http://www.normeinrete.it/nir/2.2/";
 
-let $colName := "/db/nir/normeCnipa"
+let $colName := "/db/nir/RegioneCampania"
 for $valore in distinct-values(collection($colName)//nir:meta/nir:descrittori/nir:materie/nir:materia/normalize-space(@valore))
 	return &lt;materia valore="{$valore}"/&gt;</code>
     </query>

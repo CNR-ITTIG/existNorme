@@ -1,6 +1,6 @@
 /*************** Definizioni Generali ********************/
-body {
-	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
 }
 A {
 	TEXT-DECORATION: none
@@ -16,11 +16,11 @@ IMG {
 
 /*************** Intestazione Pagine ********************/
 #header {
-	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../img/head_new.jpg) no-repeat right top; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
 }
 
 #Contieneheader {
-	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../img/righella_arancio.gif) #ffffff repeat-x right top; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
 }
 /*************** Fine Intestazione Pagine ********************/
 
@@ -103,18 +103,28 @@ IMG {
 #linkinterniDx LI.cliccato A:active {
 	COLOR: #ffffff; BACKGROUND-COLOR: #2c5dbf
 }
+
+#linkinterniDx ul li.sel{
+	BACKGROUND-COLOR: #0066AA;
+}
+
+#linkinterniDx ul li.sel A{
+	COLOR: #ffffff;
+}
+
 /******* Fine Blocco Link a Destra ******/
 
 
 /*********** Area del Testo Principale ***********/
 #corpo {
-	WIDTH: 100%; POSITION: relative; TOP: 1.1em
+	WIDTH: 90%; POSITION: relative; TOP: 1.1em; MARGIN-LEFT:20px;
 }
 .spazioPiccolo {
 	DISPLAY: block; FONT-SIZE: 0.2em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
 }
 #contenuto {
-	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 1px solid; MARGIN-RIGHT: 20%; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 1px solid; MARGIN-RIGHT: 20%; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid; MARGIN-TOP: 20px;
+	min-height: 1300px; height: auto !important; height: 1300px;
 }
 #contenuto IMG.pallainterna {
 	FLOAT: left; MARGIN: 0px; WIDTH: auto; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: relative; TOP: -1.35em; BORDER-BOTTOM-STYLE: none
@@ -134,22 +144,24 @@ IMG {
 }
 
 #contenuto LI A {
-	COLOR: #3c3b15;  TEXT-DECORATION: underline; BACKGROUND-COLOR: #fdfae2; 
+	COLOR: #3c3b15;  TEXT-DECORATION: underline; /*BACKGROUND-COLOR: #fdfae2; */
 }
 #contenuto LI A:hover {
-	COLOR: #333333; BACKGROUND-COLOR: #f1f2ed; TEXT-DECORATION: underline
+	COLOR: #333333; /*BACKGROUND-COLOR: #f1f2ed;*/ TEXT-DECORATION: underline
 }
-
+/*
 #contenuto IMG {
 	BORDER-RIGHT: #6f6e40 1px solid; BORDER-TOP: #6f6e40 1px solid; FLOAT: left; MARGIN: 0px 5px 5px 0px; BORDER-LEFT: #6f6e40 1px solid; BORDER-BOTTOM: #6f6e40 1px solid
 }
+*/
+
 /********* Fine Elenco Risultato Ricerca ****************/
 /*********** Fine Area del Testo Principale ***********/
 
 
 /*********** Inizio Menu a Sinistra ***********/
 .tdMenuSx {
-	MARGIN-TOP: 0px; VERTICAL-ALIGN: top; WIDTH: 25%
+	MARGIN-TOP: 0px; VERTICAL-ALIGN: top; WIDTH: 15%
 }
 H3.titoloMenuPrimo {
 	PADDING-RIGHT: 2px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 1.05em; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #0066aa 15px solid; COLOR: #e28409; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
@@ -382,6 +394,7 @@ DIV.hrpiepagina A:hover {
 	cursor: default;
 	list-style-type: none;
 	display: inline;	
+	margin-left: 300px;
 }
 #nav li {
 	display: inline;
@@ -426,6 +439,12 @@ DIV.hrpiepagina A:hover {
 	text-decoration: none;
 }
 
+/*
+#formRicerca{
+	padding-left: 50px;
+	margin-left:200px;
+}
+*/
 #formRicerca{
 	width: 100%;
 	padding-left: 50px;
@@ -554,6 +573,10 @@ FONT-WEIGHT: bold;
 	width:100%;
 	overflow:no;
 	z-index:999;
+}
+
+#browsePanel {
+	margin-top:30px;
 }
 
 

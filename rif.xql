@@ -6,7 +6,7 @@ declare namespace search='http://xmlgroup.iit.cnr.it/nir/search';
 			declare namespace dsp='http://www.normeinrete.it/nir/disposizioni/2.2/';
 			declare namespace xlink='http://www.w3.org/1999/xlink';
                         
-			let $colName := "/db/nir/normeCnipa"
+			let $colName := "/db/nir/RegioneCampania"
 			let $name:= request:get-parameter("name", "")
 
 			let $emanante:= request:get-parameter("emanante", "")

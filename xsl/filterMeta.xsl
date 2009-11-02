@@ -6,6 +6,7 @@
 	xmlns:h="http://www.w3.org/HTML/1998/html4"
 	xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/">
 
+
 <!-- FILTRO-->
 <xsl:template match="@*">
 	<xsl:attribute name = "{name()}">
@@ -26,7 +27,7 @@
 </xsl:template>
 
 <xsl:template match="text()">
-	<xsl:value-of select="." disable-output-escaping="yes" />
+	<xsl:value-of select="."/>
 </xsl:template>
 
 </xsl:stylesheet>

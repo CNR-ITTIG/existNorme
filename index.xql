@@ -1,5 +1,4 @@
 xquery version "1.0" encoding "iso-8859-15";
-(: Developed by Maurizio Tesconi - Istituto di Informatica e Telematica - CNR - maurizio.tesconi@iit.cnr.it :)
 
 (: $Id: admin.xql 6739 2007-10-19 14:24:20Z deliriumsky $ :)
 (:
@@ -13,6 +12,10 @@ declare namespace session = "http://exist-db.org/xquery/session";
 declare namespace util = "http://exist-db.org/xquery/util";
 declare namespace xdb = "http://exist-db.org/xquery/xmldb";
 
+declare option exist:serialize "method=xhtml media-type=text/html omit-xml-declaration=no indent=yes 
+        doctype-public=-//W3C//DTD&#160;XHTML&#160;1.0&#160;Strict//EN
+        doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd";
+		
 import module namespace search = "http://xmlgroup.iit.cnr.it/nir/search" at "search.xqm";
 import module namespace browse = "http://xmlgroup.iit.cnr.it/nir/browse" at "browse.xqm";
 import module namespace clustering = "http://xmlgroup.iit.cnr.it/nir/clustering" at "clustering.xqm";
@@ -53,7 +56,7 @@ declare function admin:display-login-form() as element()
 	  <div class="panel">
         <div class="panel-head">Login</div>
         <p>Questa è una risorsa protetta. Solo gli utenti registrati possono accedervi. 
-		Per ogni problema contattare l'<a href="mailto:pietro.roselli.lorenzini@cnipa.it">amministratore</a> del sito.
+		Per ogni problema contattare l'<a href="mailto:maurizio.tesconi@iit.cnr.it">amministratore</a> del sito.
         </p>
 
         <form action="{session:encode-url(request:get-uri())}" method="post">
@@ -77,11 +80,12 @@ declare function admin:display-login-form() as element()
     </div>
      </TD></TR></TBODY></TABLE></DIV>
 };
-
+(:
 let $tmp := session:set-current-user("admin", "")
+:)
 (: main entry point :)
-let $isLoggedIn :=  true() 
-(: 
+(: let $isLoggedIn :=  true()  :)
+let $isLoggedIn :=  
 	if(xdb:get-current-user() eq "guest")then
     (
         (: is this a login attempt? :)
@@ -118,12 +122,12 @@ let $isLoggedIn :=  true()
             true()
         )
     )
-   :)
+   
 return
 
     <html>
         <head>
-            <title>CNIPA - Raccolta normativa ICT </title>
+            <title>Regione Campania - Raccolta normativa</title>
            	 <link type="text/css" href="css/cmsNIR.css" rel="stylesheet"/>
            	 <link type="text/css" href="css/tables.css" rel="stylesheet"/>
 			<script src="js/jquery-1.2.3.js" type="text/javascript" ><!-- jquery library --></script>
@@ -147,63 +151,63 @@ return
 	<!--inizio head -->
 
 <!--inizio loghi -->
-<DIV id="Contieneheader">
-<DIV id="header"><A href="http://www.cnipa.gov.it/"><IMG height="94" alt="CNIPA:Centro Nazionale per l'Informatica nella Pubblica Amministrazione" src="./img/logo_aipa_new.gif" width="317"/></A></DIV></DIV>
+<div id="Contieneheader">
+	<div id="header">
+		<div class="nobannerimm">
+			<div  id="bannerimm1"><img  src="img/banner.jpg" alt="Regione Campania" id="bannerimm2" /></div>
+			<div  id="bannerimm3"  class="fwd001bannerimm3" title="Regione Campania" ></div>
+		</div>
+	</div>
+</div>
 <!--fine loghi -->
  
 <!--inizio path -->
 <HR/>
-<DIV id="path">
-<UL>
-  <LI><A href="http://www.cnipa.gov.it/site/it-IT/">Home</A> :: </LI>
-  <LI>Normativa ::</LI>
-  <LI>Raccolta normativa ICT ::</LI></UL></DIV>
-<!--fine path -->
   
 <!--inizio menu Horizzontale alto -->
-<A name="menu_utility"></A>
-<DIV id="menuHor">
-<UL>
- <LI> <A href="http://www.cnipa.gov.it/site/it-IT/menuservizio/Guida/">Guida</A> </LI>
- <LI><A href="http://www.cnipa.gov.it/site/it-IT/menuservizio/Mappa/">Mappa</A> </LI>
- <LI><A  href="http://www.cnipa.gov.it/site/it-IT/menuservizio/Ricerca/">Ricerca</A> </LI>
- <LI><A href="http://www.cnipa.gov.it/site/it-IT/menuservizio/Area_riservata/">Area riservata</A></LI>
- <!--LI><A href="index.xql?panel=browse">CMS</A></LI--></UL></DIV>
+<a name="menu_utility"></a>
+<div id="menuHor">
+	<ul>    
+	         
+	         <!-- modifica michele li><a href="index.xql?panel=clustering&amp;tipo=annoDoc">Suddividi per anno</a></li-->
+		 <li><a href="index.xql?panel=clustering&amp;tipo=annoDoc&amp;valore={max(collection(/db/nir/RegioneCampania)//annoDoc/@valore[1])}">Suddividi per anno</a></li>
+		 <li><a href="index.xql?panel=search">Cerca Legge</a></li>
+		 <li><a href="index.xql?panel=browse">CMS</a></li>
+		 {
+		 if (xdb:get-current-user() eq "guest") then
+						<li><a href="index.xql?logout=true">Login</a></li>
+						else 
+						(
+						<li><a href="index.xql?logout=true">LogOut</a></li>,
+						<li>Benvenuto {xdb:get-current-user()}</li>
+						)
+		 }
+	</ul>
+</div>
 <!--fine menu Horizzontale alto -->
 
 <!--fine head -->  
 	   
 <!--inizio corpo centrale -->
 <DIV id="corpo">
-<!--inizio body -->
-      <DIV id="contieneLinkinterniDx">
-<!--div che contiene tutto -->
-
-<!--inizio contenuti -->
-      
-		 {
-                    if($isLoggedIn)then
-                    (
-                        admin:panel()
-                    )
-                    else
-                    (
-                        admin:display-login-form()
-                    )
-                }           
-		
-
-           
-					
-      <HR/>
-      
-	</DIV>
-
+	      <DIV id="contieneLinkinterniDx">
+				 {
+		            if($isLoggedIn)then
+		                    (
+		                        admin:panel()
+		                    )
+		                    else
+		                    (
+		                        admin:display-login-form()
+		                    )
+		          }           
+			<HR/>
+		</DIV>
 </DIV>
 
 <!--inizio footer-->
-<DIV class="hrpiepagina"><A href="http://www.cnipa.gov.it/Site/it-IT/menuservizio/Guida/#copyr">Developed by</A> 
- <A href="http://xmlgroup.iit.cnr.it">Istituto di Informatica e Telematica</A></DIV>
+<DIV class="hrpiepagina">Copyright
+- <A href="">IIT - ITTIG - CNIPA</A></DIV>
 <DIV class="spazioPiccolo">.</DIV>
 <!--fine footer-->
         </body>

@@ -44,23 +44,19 @@
 				<map:serialize type="xml"/>
 			</map:match>
 
-			<!--map:match pattern="xhtml">
-				<map:generate src="xmldb:exist://{session-context:request/parameter/doc}"/>
-				<map:transform src="xsl/nirExist.xsl">
-					<map:parameter name="doc" value="{session-context:request/parameter/doc}"/>
-					<map:parameter name="datafine" value="{session-context:request/parameter/datafine}"/>
-				</map:transform>
-				<map:serialize type="xhtml"/>
-			</map:match-->
+			<map:match pattern="urnResolver">
+				<map:generate src="urnResolver.xq" type="xquery"/>
+				<map:serialize type="xml"/>
+			</map:match>
+
 			<map:match pattern="xhtml">
 				<map:generate src="xmldb:exist://{session-context:request/parameter/doc}"/>
-				<map:transform src="xsl/nirPACTo.xsl">
+				<map:transform src="xsl/nir-generico-nocss.xsl">
 					<map:parameter name="doc" value="{session-context:request/parameter/doc}"/>
 					<map:parameter name="datafine" value="{session-context:request/parameter/datafine}"/>
 				</map:transform>
 				<map:serialize type="xhtml"/>
 			</map:match>
-			
 
 		
 			<map:match pattern="pdf">
@@ -72,7 +68,7 @@
 			<map:match pattern="xml">
 				<map:generate src="xmldb:exist://{session-context:request/parameter/doc}"/>
 				<map:transform src="xsl/filterMeta.xsl"/>
-				<map:serialize type="xml"/>
+				<map:serialize type="xml" disable-output-escaping="yes"/>
 			</map:match>
 
 			<map:match pattern="AllXml">
@@ -85,8 +81,7 @@
 				<map:transform src="xsl/extractMeta.xsl"/>
 				<map:serialize type="xml"/>
 			</map:match>
-			
-			
+
 			
 			</map:pipeline>
 

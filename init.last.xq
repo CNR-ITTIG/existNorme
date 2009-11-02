@@ -37,7 +37,7 @@ let $tmp := xmldb:chmod-collection("/db/nir/RegioneCampania", 508)
 
 let $modulePath := system:get-module-load-path()
 
-let $tmp:= xmldb:store-files-from-pattern("/db/nir/RegioneCampania", concat($modulePath, "/repository/RegioneCampania"), "**/*.xml", "text/xml", true()) 
+let $tmp:= xmldb:store-files-from-pattern("/db/nir/RegioneCampania", concat($modulePath, "/repository/RegioneCampania"), "*.xml", "text/xml", true()) 
 
 
 	return  <init>{$tmp}</init>
