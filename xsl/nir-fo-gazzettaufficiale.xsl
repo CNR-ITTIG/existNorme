@@ -12,10 +12,11 @@
 
 	<xsl:output method="xml" encoding="ISO-8859-1"/>
 
+	<xsl:include href="xhtml2foINCLUSO.xsl" />
 
 	<xsl:template match="/">
 		<fo:root>
-			<xsl:comment>Formato FO di un atto normativo</xsl:comment>
+			<xsl:comment>PDF - Leggi Campania</xsl:comment>
 			<fo:layout-master-set>
 				<!-- page size A4 
               orientation portrait -->
@@ -81,7 +82,7 @@
                  </fo:list-item-label>
                  <fo:list-item-body start-indent="body-start()">
                     <!-- fo:block -->
-                      <fo:block text-align="center" font-weight="bold">
+                      <fo:block text-align="right" font-weight="bold">
                          <xsl:call-template name="estremiAtto"/>
                       </fo:block>
                       <fo:block text-align="end" font-weight="bold">
@@ -122,7 +123,7 @@
 	<!-- 6.0 -->
 
 	<!-- Intestazione -->
-	<xsl:param name="headTitle">Progetto Norme In Rete (NIR)</xsl:param>
+	<xsl:param name="headTitle">Regione Campania</xsl:param>
 
 	<xsl:attribute-set name="oddPageStyle">
 		<xsl:attribute name="page-width">
@@ -181,7 +182,7 @@
 	</xsl:attribute-set>
 
 	<xsl:attribute-set name="bodyStyle">
-		<xsl:attribute name="column-count">2</xsl:attribute>
+		<xsl:attribute name="column-count">1</xsl:attribute>
 		<xsl:attribute name="column-gap">5mm</xsl:attribute>
 		<xsl:attribute name="margin-top">20mm</xsl:attribute>
 		<xsl:attribute name="margin-bottom">20mm</xsl:attribute>
@@ -284,10 +285,11 @@
 	</xsl:template>
 
 
-	<!-- RIGUARDARE T. -->
-	<!--xsl:template name="/*[name()='annessi']"-->
-	<!--/xsl:template-->
-	
+	<xsl:template match="*[name()='annessi']|*[name()='annesso']|*[name()='testata']|*[name()='denAnnesso']|*[name()='titAnnesso']">
+		<fo:block text-align="justify">
+			<xsl:apply-templates/>
+		</fo:block>
+	</xsl:template>	
 
 	<!-- Tutti gli elementi -->
 	<xsl:template match="*[name()='libro' or name()='parte' or name()='capo' or name()='titolo' or name()='sezione' or name()='articolo']">
@@ -330,9 +332,9 @@
 			<xsl:apply-templates/>
 		</fo:block>
 	</xsl:template>
-	<xsl:template match="*[name()='el' or name()='en']">
+	<xsl:template match="*[name()='el' or name()='en' or name()='ep']">
 		<fo:block margin-top="1mm" text-align="justify" text-indent="6mm">
-			<xsl:if test="*[name()='num']!=''">
+			<!-- xsl:if test="*[name()='num']!=''">
 				<xsl:value-of select="*[name()='num']"/>
 				<xsl:choose>
 					<xsl:when test="substring(./*,1,1)!=' '">
@@ -340,8 +342,8 @@
 					</xsl:when>
 					<xsl:otherwise/>
 				</xsl:choose>
-			</xsl:if>
-			<xsl:apply-templates select="*[name()='corpo' or name()='alinea' or name()='el']"/>
+			</xsl:if -->
+			<xsl:apply-templates/>
 		</fo:block>
 	</xsl:template>
 	

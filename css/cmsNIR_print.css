@@ -43,8 +43,8 @@ a img {
 
 /******* Inizio Menu Orizzontale Blu ******/
 #menuHor {
-	padding-right: 0px; padding-left: 0px; FONT-WEIGHT: bold; font-size: 80%; FLOAT: right; padding-bottom: 1px; margin: 0px; width: 100%; color: #ffffff; padding-top: 1px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; /*POSITION: absolute; top: 94px; */background-color: #0066aa; TEXT-ALIGN: right
-}
+		display:none;
+	}
 #menuHor UL {
 	DISPLAY: inline; padding-left: 0px; margin-left: 0px
 }
@@ -90,8 +90,8 @@ a img {
 	padding-right: 0px; padding-left: 0px; left: 0px; padding-bottom: 0px; margin: 0px; VERTICAL-ALIGN: top; width: auto; padding-top: 0px; POSITION: relative
 }
 #linkinterniDx {
-	FONT-WEIGHT: bold; FONT-SIZE: 0.7em; right: 1px; VERTICAL-ALIGN: top; width: 22%; LINE-HEIGHT: 1.6em; margin-right: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; POSITION: absolute; top: 2.5em
-}
+		display:none;
+		}
 #linkinterniDx UL {
 	padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 5px; border-bottom: #ffffff 5px solid; list-style-type: none; background-color: #f1f2ed
 }
@@ -139,7 +139,8 @@ a img {
 	DISPLAY: block; FONT-SIZE: 0.2em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
 }
 #contenuto {
-	border: #cccccc 1px solid; padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin-left: 5px; VERTICAL-ALIGN: top; margin-right: 20%; padding-top: 0px; margin-top: 20px; min-height: 1300px; height: auto !important; height: 1300px;
+	border-right: #cccccc 1px solid; padding-right: 0px; border-top: #cccccc 1px solid; padding-left: 0px; padding-bottom: 0px; margin-left: 5px; VERTICAL-ALIGN: top; border-left: #cccccc 1px solid; margin-right: 20%; padding-top: 0px; border-bottom: #cccccc 1px solid; margin-top: 20px;
+	min-height: 1300px; height: auto !important; height: 1300px;
 }
 #contenuto IMG.pallainterna {
 	FLOAT: left; margin: 0px; width: auto; border-top-STYLE: none; border-right-STYLE: none; border-left-STYLE: none; POSITION: relative; top: -1.35em; border-bottom-STYLE: none
@@ -437,7 +438,6 @@ DIV.hrpiepagina A:hover {
 	background-color: #E28409;
 }
 /***************** fine Menu Orizzontale cmsNIR **************************/
-
 #elencoArticoli{
 	width: 95%;
 	text-align: justify;
@@ -475,7 +475,6 @@ DIV.hrpiepagina A:hover {
 .risultatiRicerca{
 	width: 95%;
 	text-align: justify;
-	
 }
 
 .trovati{
@@ -487,17 +486,19 @@ FONT-WEIGHT: bold;
 .nuovaRicerca {
 font-size:10pt;
 text-align: right; color:  #0066aa;
+	
 FONT-WEIGHT: bold; 
+
 }
 
 .nuovaRicerca a:link {
     color:  #0066aa;
 text-decoration: none;
-	
+	background-color: #fff;
 }
 
 .nuovaRicerca a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #000000;
 }
 
@@ -505,7 +506,7 @@ text-decoration: none;
 #elencoRicerca a:link {
     color:  #0066aa;
 	text-decoration: none;
-	
+	background-color: White;
 }
 
 #elencoRicerca a:visited {
@@ -599,7 +600,7 @@ text-decoration: none;
 	display:none;
 }
 #page_head_navi {
-			display: block;
+			display: none;
 			padding: 0;
 			margin: 0;
 			text-align:left;
@@ -621,27 +622,17 @@ text-decoration: none;
 			margin:0px;
 			}
 #bannerimm1		{
-			border:0px;
-			padding: 0;
-			margin: 0px;
-			width:100%;
-			height:76px;
-			background: url('../img/banner.jpg')top left no-repeat;
+			display:none;
 			}
 #bannerimm3		{
-			width:200px;
-			float:right;
+			display:none;
 			}
 .loghi td		{
 			border:0px;
 			}
 #w3 {
+		display:none;
 		padding-left:10px;
 		width:100%;
 		clear:both;
 		}
-.atto_abrogato				{
-					color:#f00;
-					font-weight:bold;					
-					}
-

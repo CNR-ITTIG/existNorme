@@ -25,7 +25,7 @@ import module namespace clustering = "http://xmlgroup.iit.cnr.it/nir/clustering"
 :)
 declare function admin:panel() as element()
 {
-    let $panel := request:get-parameter("panel", "search") return
+    let $panel := request:get-parameter("panel", "clustering") return
          if($panel eq "search") then
         (
             search:main()
@@ -45,18 +45,18 @@ declare function admin:panel() as element()
 :)
 declare function admin:display-login-form() as element()
 {
-   <DIV id="contenuto">
-      <DIV class="spazioPiccolo">.</DIV>
-      <H3>Norme In Rete</H3><IMG class="pallainterna" height="50" alt="" src="./img/palla_elearning.gif" width="45"/> 
+   <div id="contenuto">
+      <div class="spazioPiccolo">.</div>
+      <h3>Norme In Rete</h3><img class="pallainterna" height="50" alt="" src="./img/palla_elearning.gif" width="45"/> 
       
-      <TABLE cellSpacing="0" cellPadding="0" border="0">
-        <TBODY>
-        <TR>
-          <TD>
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+        <tr>
+          <td>
 	  <div class="panel">
         <div class="panel-head">Login</div>
         <p>Questa è una risorsa protetta. Solo gli utenti registrati possono accedervi. 
-		Per ogni problema contattare l'<a href="mailto:maurizio.tesconi@iit.cnr.it">amministratore</a> del sito.
+		Per ogni problema contattare l'<a href="mailto:spinosa@ittig.cnr.it">amministratore</a> del sito.
         </p>
 
         <form action="{session:encode-url(request:get-uri())}" method="post">
@@ -78,7 +78,7 @@ declare function admin:display-login-form() as element()
             </table>
         </form>
     </div>
-     </TD></TR></TBODY></TABLE></DIV>
+     </td></tr></tbody></table></div>
 };
 (:
 let $tmp := session:set-current-user("admin", "")
@@ -123,26 +123,37 @@ let $isLoggedIn :=
         )
     )
    
-return
+let $panel := request:get-parameter("panel", "")
+let $tipo := request:get-parameter("tipo", "")
+let $valore := request:get-parameter("valore", "")
+let $css := request:get-parameter("css", ())
 
-    <html>
+return
+ 
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="it" dir="ltr">
         <head>
             <title>Regione Campania - Raccolta normativa</title>
-           	 <link type="text/css" href="css/cmsNIR.css" rel="stylesheet"/>
+	<meta name="description" content="Raccolta normativa Regione Campania" />
+	<meta name="keywords" content="regione,campania, leggi regionali,leggi,norme, regolamenti" />
+	<meta http-equiv="Content-Type" content="text/html" />
+           	 <link type="text/css" href="css/cmsNIR{$css}.css" rel="stylesheet"  media="screen" />
+           	 	 <link type="text/css" href="css/cmsNIR_print.css" rel="stylesheet"  media="print" />
            	 <link type="text/css" href="css/tables.css" rel="stylesheet"/>
-			<script src="js/jquery-1.2.3.js" type="text/javascript" ><!-- jquery library --></script>
+		<script src="js/jquery-1.2.3.js" type="text/javascript" ><!-- jquery library --></script>
 			<script src="js/main.js" type="text/javascript"><!-- main code --></script>
 
-			<script type="text/javascript" language="JavaScript"><!--
+			<script type="text/javascript"><!--
 			function ReverseContentDisplay(d) {
-					if(d.length < 1) { return; }
-					if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
-					else { document.getElementById(d).style.display = "none"; }
+					if(d.length < 1) {return;}
+					if(document.getElementById(d).style.display == "none") {document.getElementById(d).style.display = "block";}
+					else { document.getElementById(d).style.display = "none";}
 			}
 			//--></script>
 			
+        <script type="text/javascript" src="js/styleswitcher.js">&#160;</script>
         </head>
         <body>
+       
 
 	<!--servono per la fare la finestra modale -->
    		<div id="background">.</div>
@@ -151,35 +162,68 @@ return
 	<!--inizio head -->
 
 <!--inizio loghi -->
+<div id="page_head_navi">
+<a href="javascript:decreaseFontSize();" title="Descease Text Size" ><img src="img/dec.gif" alt="Decrease Text Size" /></a>
+<a href="javascript:defaultFontSize();" title="Default Text Size" ><img src="img/def.gif" alt="Default Text Size" /></a>
+<a href="javascript:increaseFontSize();" title="Increase Text Size" ><img src="img/inc.gif" alt="Increase Text Size" /></a>&#160;
+<a href="index.xql?valore={$valore}&amp;tipo={$tipo}&amp;panel={$panel}" title="Stile Normale" ><img src="img/color.gif" alt="[Style default]" /></a>
+<a href="index.xql?valore={$valore}&amp;tipo={$tipo}&amp;panel={$panel}&amp;css=2" title="Stile Alto contrasto - Bianco/Nero" ><img src="img/altocon.gif" alt="[Bianco/Nero]" /></a>
+<a href="index.xql?valore={$valore}&amp;tipo={$tipo}&amp;panel={$panel}&amp;css=4" title="Stile Alternativo - Colorato" ><img src="img/colori.gif" alt="[Stile Alternativo/Colorato]" /></a>
+<a href="index.xql?valore={$valore}&amp;tipo={$tipo}&amp;panel={$panel}&amp;css=3" title="Stile solo testo" ><img src="img/solotesto.gif" alt="[Solo Testo]" /></a>
+<a href="" title="Stampa pagina" ><img src="img/stampa.gif" alt="[Stampa Pagina]" onclick="window.print()" /></a>
+</div>
 <div id="Contieneheader">
+
+	
+
 	<div id="header">
 		<div class="nobannerimm">
-			<div  id="bannerimm1"><img  src="img/banner.jpg" alt="Regione Campania" id="bannerimm2" /></div>
-			<div  id="bannerimm3"  class="fwd001bannerimm3" title="Regione Campania" ></div>
+			<div  id="bannerimm1">
+			
+				<div  id="bannerimm3"  class="fwd001bannerimm3" title="Regione Campania" >
+					<table class="loghi">
+						<tbody>
+						<tr><td><a href="http://www.cnipa.gov.it" title="CNIPA" ><img src="img/cnipa.gif" alt="Logo CNIPA"/></a></td><td></td><td><a href="http://www.iit.cnr.it" title="IIT" ><img src="img/iit.gif"  alt="Logo IIT" /></a></td></tr>
+						<tr><td></td><td><a href="http://www.ittig.cnr.it" title="ITTIG" ><img src="img/ittig.gif"  alt="Logo ITTIG"/></a></td><td></td></tr>
+						</tbody>
+					</table>
+				</div>
+			
+			</div>
+			
 		</div>
 	</div>
 </div>
 <!--fine loghi -->
  
 <!--inizio path -->
-<HR/>
+<hr/>
   
 <!--inizio menu Horizzontale alto -->
-<a name="menu_utility"></a>
+<!--a name="menu_utility"></a-->
 <div id="menuHor">
 	<ul>    
 	         
 	         <!-- modifica michele li><a href="index.xql?panel=clustering&amp;tipo=annoDoc">Suddividi per anno</a></li-->
-		 <li><a href="index.xql?panel=clustering&amp;tipo=annoDoc&amp;valore={max(collection(/db/nir/RegioneCampania)//annoDoc/@valore[1])}">Suddividi per anno</a></li>
-		 <li><a href="index.xql?panel=search">Cerca Legge</a></li>
-		 <li><a href="index.xql?panel=browse">CMS</a></li>
-		 {
+		 <!-- li><a href="index.xql?panel=clustering&amp;tipo=annoDoc&amp;valore={max(collection(/db/nir/RegioneCampania)//annoDoc/@valore[1])}">Suddividi per anno</a></li -->
+
+		  {
 		 if (xdb:get-current-user() eq "guest") then
-						<li><a href="index.xql?logout=true">Login</a></li>
+						<!--li><a href="index.xql?logout=true">Login</a></li-->
 						else 
 						(
-						<li><a href="index.xql?logout=true">LogOut</a></li>,
 						<li>Benvenuto {xdb:get-current-user()}</li>
+						)
+		 }
+<li><a href="index.xql?panel=clustering&amp;css={$css}">Home</a></li>
+<li><a href="index.xql?panel=search&amp;css={$css}">Cerca Legge</a></li>
+<li><a href="index.xql?panel=browse&amp;css={$css}">Area Riservata</a></li>
+		 {
+		 if (xdb:get-current-user() eq "guest") then
+						<!--li><a href="index.xql?logout=true">Login</a></li-->
+						else 
+						(
+						<li><a href="index.xql?logout=true&amp;css={$css}">LogOut</a></li>						
 						)
 		 }
 	</ul>
@@ -189,10 +233,14 @@ return
 <!--fine head -->  
 	   
 <!--inizio corpo centrale -->
-<DIV id="corpo">
-	      <DIV id="contieneLinkinterniDx">
+<div id="corpo">
+	      <div id="contieneLinkinterniDx">
 				 {
-		            if($isLoggedIn)then
+
+				let $panel := request:get-parameter("panel", "") return
+         			if($panel eq "browse") then
+				(
+					if($isLoggedIn)then
 		                    (
 		                        admin:panel()
 		                    )
@@ -200,15 +248,35 @@ return
 		                    (
 		                        admin:display-login-form()
 		                    )
+				)
+            
+				else ( 
+					admin:panel()
+				)
 		          }           
-			<HR/>
-		</DIV>
-</DIV>
+			<hr/>
+		</div>
+<div style="width:100%;clear:both;">&#160;</div>
+</div>
 
 <!--inizio footer-->
-<DIV class="hrpiepagina">Copyright
-- <A href="">IIT - ITTIG - CNIPA</A></DIV>
-<DIV class="spazioPiccolo">.</DIV>
+<div class="hrpiepagina">Copyright
+- IIT - ITTIG - CNIPA
+</div>
+<div class="spazioPiccolo">.</div>
+<div id="w3" >
+			<p>
+				<a href="http://jigsaw.w3.org/css-validator/check/referer">
+				    <img style="border:0;width:88px;height:31px"
+					src="img/vcss-blue.gif"
+					alt="CSS Valido!" />
+				</a>
+			
+				    <a href="http://validator.w3.org/check?uri=referer"><img
+					src="img/valid-xhtml10-blue.gif"
+					alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+			</p>
+</div>
 <!--fine footer-->
         </body>
     </html>

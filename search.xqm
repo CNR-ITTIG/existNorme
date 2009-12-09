@@ -26,25 +26,28 @@ declare function search:main() as element() {
 	
 	let $comma:= request:get-parameter("comma", "")  
 	let $fonte:= request:get-parameter("fonte", "")  
-	let $tipo := request:get-parameter("tipo", "")  
+	let $tipo := request:get-parameter("tipo", "")
 	let $materia:= request:get-parameter("materia", "")  
 	
 	let $autoritaModifica:= request:get-parameter("autoritaModifica", "") 
-	let $tipoModifica:= request:get-parameter("tipoModifica", "") 
+	let $tipoModifica:= request:get-parameter("tipoModifica", "")
 	let $giornoModifica:= request:get-parameter("giornoModifica", "") 
 	let $meseModifica:= request:get-parameter("meseModifica", "") 
 	let $annoModifica:= request:get-parameter("annoModifica", "") 
 	let $numeroModifica:= request:get-parameter("numeroModifica", "") 
 
 	
-	let $autoritaRiferimento:= request:get-parameter("autoritaRiferimento", "") 
+(:	let $autoritaRiferimento:= request:get-parameter("autoritaRiferimento", "") 
 	let $tipoRiferimento:= request:get-parameter("tipoRiferimento", "") 
+:)
+	let $riferimentoAT:= request:get-parameter("riferimentoAT", "") 
+
 	let $giornoRiferimento:= request:get-parameter("giornoRiferimento", "") 
 	let $meseRiferimento:= request:get-parameter("meseRiferimento", "") 
 	let $annoRiferimento:= request:get-parameter("annoRiferimento", "") 
 	let $numeroRiferimento:= request:get-parameter("numeroRiferimento", "") 
 	
-	let $giornoDoc := request:get-parameter("giornoDoc", "")  
+	let $giornoDoc := request:get-parameter("giornoDoc", "")
 	let $meseDoc := request:get-parameter("meseDoc", "")  
 	let $annoDoc := request:get-parameter("annoDoc", "")  
 	let $annoFonte := request:get-parameter("annoFonte", "")  
@@ -62,8 +65,8 @@ declare function search:main() as element() {
 <div> 
 	<div id="contenuto">
 		<div class="spazioPiccolo">.</div>
-		<H3>Raccolta normativa Regione Campania </H3>
-		<IMG class="pallainterna" height="50" alt="" src="./img/palla_elearning.gif" width="45"/> 
+		<h3>Raccolta normativa Regione Campania </h3>
+		<img class="pallainterna" height="50" alt="sfondo" src="./img/palla_elearning.gif" width="45"/> 
 		
 
 		<br/><br/>
@@ -71,42 +74,49 @@ declare function search:main() as element() {
 
 		
 		<div id="elencoRicerca">
-					<ul>
+					
+						<!--ul-->
 						{
+						
 						if ($testo eq "" and $tipo eq "" and $fonte eq "" and $materia eq ""
 										 and $annoFonte eq "" and $num eq "" and $giornoDoc eq "" and $meseDoc eq "" and $annoDoc eq "" 
-										 and $tipoDisposizione eq "" and $emanante eq "" and $comma eq "" and $tipoModifica eq "" and $giornoModifica eq ""  and $meseModifica eq "" and $annoModifica eq "" and $numeroModifica eq "" and $tipoRiferimento eq "" and $giornoRiferimento eq "" and $meseRiferimento eq "" and $annoRiferimento eq "" and $numeroRiferimento eq "")
+										 and $tipoDisposizione eq "" and $emanante eq "" and $comma eq "" and $tipoModifica eq "" and $giornoModifica eq ""  and $meseModifica eq "" and $annoModifica eq "" and $numeroModifica eq "" and $riferimentoAT eq "" and $giornoRiferimento eq "" and $meseRiferimento eq "" and $annoRiferimento eq "" and $numeroRiferimento eq "")
 							then () else search:search()
+						
 						}
-					</ul>
+						<!--/ul-->
+					
 				</div>
 		<br/><br/>
+		
 		<div  id="formRicerca">
-			<form name="ricercaForm" method="post" action="{session:encode-url(request:get-uri())}" >
-                                <input type="hidden" name="panel" value="search"/>
-                                <div align="left">
+			<!--form name="ricercaForm" method="post" action="{session:encode-url(request:get-uri())}" -->
+			<form method="post" action="{session:encode-url(request:get-uri())}" >
+                          <input type='hidden' value='{request:get-parameter("css", "")}' name='css' />    
+                                <div style="float:left">
+                                 <input type="hidden" name="panel" value="search"/>
                                     <table width="685">
                                         <tr>
                                             <th colspan="2" align="center">
 											Atti contenenti le parole:</th>
                                         </tr>
                                         <tr>
-                                            <td align="right" width="504">Testo 
-											<input type="text" name="testo" style="width:410;height:21" value="{$testo}"/>
+                                          <td style="width:504px;text-align:right"><p>Testo 
+											<input type="text" name="testo" style="width:410;height:21" value="{$testo}"/></p>
                                             </td>
-                                            <td align="left" width="171">
-                                                <input id="soloTitolo" type="checkbox" name="soloTitolo">{if ($soloTitolo eq 'on') then attribute checked {"checked"} else ()} ricerca solo nel titolo</input>
+                                            <td style="width:171px;text-align:left">
+                                                <input id="soloTitolo" type="checkbox" name="soloTitolo">{if ($soloTitolo eq 'on') then attribute checked {"checked"} else ()}</input><span>ricerca solo nel titolo</span>
 												<br/>
-                                                <input type="radio" name="combinazione" value="esatta">{if ($combinazione eq 'esatta') then attribute checked {"checked"} else ()} frase esatta</input>
+                                                <input type="radio" name="combinazione" value="esatta">{if ($combinazione eq 'esatta') then attribute checked {"checked"} else ()}</input><span>frase esatta</span>
                                                 <br/>
-                                                <input type="radio" name="combinazione" value="almeno">{if ($combinazione eq 'almeno') then attribute checked {"checked"} else ()} almeno una parola</input>
+                                                <input type="radio" name="combinazione" value="almeno">{if ($combinazione eq 'almeno') then attribute checked {"checked"} else ()}</input><span>almeno una parola</span>
                                                 <br/>
-                                                <input type="radio" name="combinazione" value="tutte">{if ($combinazione eq 'tutte') then attribute checked {"checked"} else ()} tutte le parole</input>
+                                                <input type="radio" name="combinazione" value="tutte">{if ($combinazione eq 'tutte') then attribute checked {"checked"} else ()}</input><span>tutte le parole</span>
                                             	<br/>
 												<span id="nonInTitolo">
-                                                <input type="radio" name="combinazione" value="articolo">{if ($combinazione eq 'articolo') then attribute checked {"checked"} else ()} nello stesso articolo</input>
+                                                <input type="radio" name="combinazione" value="articolo">{if ($combinazione eq 'articolo') then attribute checked {"checked"} else ()}</input><span>nello stesso articolo</span>
                                                 <br/>
-                                                <input type="radio" name="combinazione" value="comma">{if ($combinazione eq 'comma') then attribute checked {"checked"} else ()} nello stesso comma</input>
+                                                <input type="radio" name="combinazione" value="comma">{if ($combinazione eq 'comma') then attribute checked {"checked"} else ()}</input><span>nello stesso comma</span>
 												</span>
                                                 </td>
                                         </tr>
@@ -121,7 +131,7 @@ declare function search:main() as element() {
 											Estremi dell'Atto</th>
                                         </tr>
                                         <tr>
-                                            <td align="right" width="275">Regione Campania
+                                            <td style="text-align:right;width:275px;">Legge della Regione Campania
 
 <!--
 											<span id="estremiEmanante">
@@ -138,24 +148,23 @@ declare function search:main() as element() {
                                                     <option value="AMMINISTRAZIONE">{if ($emanante eq 'AMMINISTRAZIONE') then attribute selected {"selected"} else ()}Pres Cons Ministri - dip. per le riforme e le innovazioni nella PA</option>
                                                 </select>
 											</span>
--->	
+	
 											</td>
-                                            <td align="right" width="190">Tipo 
+                                            <td style="text-align:right;width:190px;">Tipo 
 												<select id="estremiTipo" name="tipo" style="width:143;height:22">
 													<option/>
-<!--
+
 													<option value="decreto">{if ($tipo eq 'decreto') then attribute selected {"selected"} else ()}Decreto</option>
                                                     <option value="decreto del presidente del consiglio dei ministri">{if ($tipo eq 'decreto del presidente del consiglio dei ministri') then attribute selected {"selected"} else ()}DPCM</option>
                                                     <option value="decreto del presidente della repubblica">{if ($tipo eq 'decreto del presidente della repubblica') then attribute selected {"selected"} else ()}DPR</option>
                                                     <option value="decreto legislativo">{if ($tipo eq 'decreto legislativo') then attribute selected {"selected"} else ()}DLGS</option>
--->
-                                                    <!--option value="decreto ministeriale">{if ($tipo eq 'decreto ministeriale') then attribute selected {"selected"} else ()}???</option-->
+
                                                     <option value="legge">{if ($tipo eq 'legge') then attribute selected {"selected"} else ()}Legge</option>
                                                 </select>
-											</td>
-                                            <td align="right" width="110">Numero <input type="text" name="num" style="width:50px;" value="{$num}"/>
+-->											</td>
+                                            <td style="text-align:right;width:110px;">Numero <input type="text" name="num" style="width:50px;" value="{$num}"/>
                                             </td>
-                                            <td align="right" width="110">Anno <select name="annoDoc" style="width:60px;">
+                                            <td style="text-align:right;width:110px;">Anno <select name="annoDoc" style="width:60px;">
                                                     <option/>
 											{
 												for $valore in distinct-values(collection($colName)//iit:annoDoc/@valore)
@@ -173,33 +182,60 @@ declare function search:main() as element() {
 											contenenti riferimenti a:</th>
                                         </tr>
                                         <tr>
-                                            <td align="right" width="275">
-												<span id="riferimentoEmanante">
+                                            <td style="text-align:right;width:275px;">	
+
+
+<select id="tipoRiferimento" name="riferimentoAT" class="low">
+	<option/>
+	<option value="regione.campania:legge">{if ($riferimentoAT eq 'regione.campania:legge') then attribute selected {"selected"} else ()}Legge Regionale</option>	
+	<option value="stato:legge">{if ($riferimentoAT eq 'stato:legge') then attribute selected {"selected"} else ()}Legge</option>
+       <option value="stato:decreto.legge">{if ($riferimentoAT eq 'stato:decreto.legge') then attribute selected {"selected"} else ()}Decreto Legge</option>
+       <option value="stato:decreto.legislativo">{if ($riferimentoAT eq 'stato:decreto.legislativo') then attribute selected {"selected"} else ()}Decreto Legislativo</option>
+
+       <option value="presidente.repubblica:decreto">{if ($riferimentoAT eq 'presidente.repubblica:decreto') then attribute selected {"selected"} else ()}Decreto del Presidente della Repubblica</option>
+	<option value="presidente.consiglio.ministri:decreto">{if ($riferimentoAT eq 'presidente.consiglio.ministri:decreto') then attribute selected {"selected"} else ()}Decreto del Presidente del Consiglio dei Ministri</option>
+	<option value="minist[a-z|.]*:decreto">{if ($riferimentoAT eq 'minist[a-z|.]*:decreto') then attribute selected {"selected"} else ()}Decreto Ministeriale</option>
+       
+	<option value="regione.campania:regolamento">{if ($riferimentoAT eq 'regione.campania:regolamento') then attribute selected {"selected"} else ()}Regolamento Regionale</option>
+	<option value="comunita.europee:regolamento">{if ($riferimentoAT eq 'comunita.europee:regolamento') then attribute selected {"selected"} else ()}Regolamento Europeo</option>
+	<option value="comunita.europee:direttiva">{if ($riferimentoAT eq 'comunita.europee:direttiva') then attribute selected {"selected"} else ()}Direttiva Europea</option>
+</select>
+
+	
+<!--												<span id="riferimentoEmanante">
 												Emanante 
 													<select name="autoritaRiferimento" class="low">
 															<option value=""/>
-<!--
+
 															<option value="comunita.europee">{if ($autoritaRiferimento eq 'comunita.europee') then attribute selected {"selected"} else ()}Comunità Europee</option>
 															<option value="ministero.beni.culturali.ambientali">{if ($autoritaRiferimento eq 'ministero.beni.culturali.ambientali') then attribute selected {"selected"} else ()}Beni Culturali</option>
 															<option value="ministero.economia.finanze">{if ($autoritaRiferimento eq 'ministero.economia.finanze') then attribute selected {"selected"} else ()}Economia e Finanze</option>
 															<option value="presidente.consiglio.ministri">{if ($autoritaRiferimento eq 'presidente.consiglio.ministri') then attribute selected {"selected"} else ()}PCM</option>
--->
+
 															<option value="regione.campania">{if ($autoritaRiferimento eq 'regione.campania') then attribute selected {"selected"} else ()}Regione Campania</option>
 															<option value="stato">{if ($autoritaRiferimento eq 'stato') then attribute selected {"selected"} else ()}Stato</option>
 													</select>
 												</span>
 											</td>
-                                            <td align="right" width="190">Tipo 
+                                            <td style="text-align:right;width:190px;">Tipo 
 												<select id="tipoRiferimento" name="tipoRiferimento" class="low">
                                                     <option/>
                                                     <option value="decreto">{if ($tipoRiferimento eq 'decreto') then attribute selected {"selected"} else ()}Decreto</option>
                                                     <option value="decreto.legge">{if ($tipoRiferimento eq 'decreto.legge') then attribute selected {"selected"} else ()}Decreto Legge</option>
                                                     <option value="decreto.legislativo">{if ($tipoRiferimento eq 'decreto.legislativo') then attribute selected {"selected"} else ()}Decreto Legislativo</option>
                                                     <option value="legge">{if ($tipoRiferimento eq 'legge') then attribute selected {"selected"} else ()}Legge</option>
-                                                </select></td>
-                                            <td align="right" width="110">Numero <input type="text" name="numeroRiferimento" style="width:50px;" value="{$numeroRiferimento}"/>
+
+
+							    <option value="regolamento">{if ($tipoRiferimento eq 'regolamento') then attribute selected {"selected"} else ()}Regolamento</option>
+							    <option value="direttiva">{if ($tipoRiferimento eq 'direttiva') then attribute selected {"selected"} else ()}Direttiva</option>
+
+
+
+                                                </select>
+-->						   </td>
+                                            <td style="text-align:right;width:110px;">Numero <input type="text" name="numeroRiferimento" style="width:50px;" value="{$numeroRiferimento}"/>
                                             </td>
-                                            <td align="right" width="110">Anno <input type="text" name="annoRiferimento" style="width:60px;" value="{$annoRiferimento}"/> </td>
+                                            <td style="text-align:right;width:110px;">Anno <input type="text" name="annoRiferimento" style="width:60px;" value="{$annoRiferimento}"/> </td>
                                         </tr>
                                     </table>
                                     <br/>
@@ -208,42 +244,43 @@ declare function search:main() as element() {
                                             <th align="center" colspan="4">Atti modificati da:</th>
                                         </tr>
 										<tr>
-                                            <td align="right" width="275">Regione Campania
-											</td>
-                                            <td align="right" width="190">Tipo 
+                                            <td style="text-align:right;width:275px;">Legge della Regione Campania
+<!--											</td>
+                                            <td style="text-align:right;width:190px;">Tipo 
 												<select name="tipoModifica" class="low">
                                                     <option/>
-<!--
+
                                                     <option value="decreto">{if ($tipoModifica eq 'decreto') then attribute selected {"selected"} else ()}Decreto</option>
                                                     <option value="decreto.legge">{if ($tipoModifica eq 'decreto.legge') then attribute selected {"selected"} else ()}Decreto Legge</option>
                                                     <option value="decreto.legislativo">{if ($tipoModifica eq 'decreto.legislativo') then attribute selected {"selected"} else ()}Decreto Legislativo</option>
--->
+
                                                     <option value="legge">{if ($tipoModifica eq 'legge') then attribute selected {"selected"} else ()}Legge</option>
-                                                </select> </td>
-                                            <td align="right" width="110">Numero <input type="text" name="numeroModifica" style="width:50px;" value="{$numeroModifica}"/>
+                                                </select> 
+-->						   </td>
+                                            <td style="text-align:right;width:110px;">Numero <input type="text" name="numeroModifica" style="width:50px;" value="{$numeroModifica}"/>
                                             </td>
-                                            <td align="right" width="110">Anno <input type="text" name="annoModifica" style="width:60px;" value="{$annoModifica}"/> </td>
+                                            <td style="text-align:right;width:110px;">Anno <input type="text" name="annoModifica" style="width:60px;" value="{$annoModifica}"/> </td>
                                         </tr>
                                     </table>
                                     <br/>
                                     <br/>
                                     <table width="685">
                                         <tr>
-                                            <td align="right" width="232">
+                                            <td style="text-align:right;width:232px;">
                                                 <input id="trova" type="submit" value="Cerca"/>
                                             </td>
-                                            <td width="308" align="right">
+                                            <td style="text-align:right;width:308px;">
                                                 <input type="button" id="azzera" value="Annulla" onclick="javascript:location.href='./index.xql?panel=search'"/>
                                             </td>
-                                            <td width="125" align="right">
+                                            <td style="text-align:right;width:125px;">
                                                 </td>
                                         </tr>
                                     </table>
                                 </div>
                             </form>
-						</div>
+			</div>
 				
-
+<div  style="width:100%;clear:both">&#160;</div>
 	        </div>
 			<script type="text/javascript"> //<![CDATA[
 				aggiornaWidgets();
@@ -259,24 +296,26 @@ declare function search:displayRif($res as node(),$urnRif as xs:string,$url as x
 			altrimenti  scrive link:)
 	
 	
-	for $ref in $res//nir:rif[matches(@xlink:href, $urnRif)]
+	for $ref in $res//nir:rif[matches(concat(@xlink:href,'#'), $urnRif)]
 		return 
-		if (empty($ref/ancestor::nir:comma[1]/@id)) then () else 
-			<a target="_new" href="xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}#{$ref/ancestor::nir:comma[1]/@id}">{$ref/ancestor::nir:comma[1]/@id cast as xs:string}</a>
+		if (empty($ref/ancestor::nir:comma[1]/@id)) then 
+		<a href="xhtml?doc={$url}&amp;css=&amp;datafine={date:normalize-date(current-dateTime())}">[fuori articolato]</a> 
+		else 
+			<a href="xhtml?doc={$url}&amp;css=&amp;datafine={date:normalize-date(current-dateTime())}#{$ref/ancestor::nir:comma[1]/@id}">[{$ref/ancestor::nir:comma[1]/@id cast as xs:string}]</a>
 	
 };
 
 declare function search:displayComma($res as node(),$testo as xs:string,$url as xs:string) as element()*{
 	for $comma in $res//nir:comma 
 		where $comma &= $testo
-		return <li><a target="_new" href="xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}#{$comma/@id}">{if (empty($comma/@id)) then () else $comma/@id cast as xs:string}</a></li>
+		return <a href="xhtml?doc={$url}&amp;css=&amp;datafine={date:normalize-date(current-dateTime())}#{$comma/@id}">[{if (empty($comma/@id)) then () else $comma/@id cast as xs:string}]</a>
 			
 };
 
 declare function search:displayArticolo($res as node(),$testo as xs:string,$url as xs:string) as element()*{
 	for $articolo in $res//nir:articolo
 		where $articolo &= $testo
-		return <li><a target="_new" href="xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}#{$articolo/@id}">{if (empty($articolo/@id)) then () else $articolo/@id cast as xs:string}</a></li>
+		return <a href="xhtml?doc={$url}&amp;css=&amp;datafine={date:normalize-date(current-dateTime())}#{$articolo/@id}">[{if (empty($articolo/@id)) then () else $articolo/@id cast as xs:string}]</a>
 			
 };
 
@@ -288,23 +327,40 @@ declare function search:makeResName($res as node(),$url as xs:string) as element
 	let $emanante := if ($res//nir:intestazione/nir:emanante[1]/text()) then concat(" - ",$res//nir:intestazione/nir:emanante[1] cast as xs:string) else ()
 	let $dataDoc := if ($res//nir:intestazione/nir:dataDoc[1]/text()) then concat(" del ",$res//nir:intestazione/nir:dataDoc[1] cast as xs:string) else ()
 	let $numDoc := if ($res//nir:intestazione/nir:numDoc[1]/text()) then concat(" n°",$res//nir:intestazione/nir:numDoc[1] cast as xs:string) else ()
-	let $id := util:random()
+	let $vigenza := if ($res/nir:NIR/*/@status) then concat(" [Atto ",$res/nir:NIR/*/@status cast as xs:string,"]") else ()
+	let $id := concat('A', substring(string(util:random()),3))
 	let $titoloDoc := if ($res/nir:NIR/*/nir:intestazione/nir:titoloDoc[1]/text()) then concat("",$res/nir:NIR/*/nir:intestazione/nir:titoloDoc[1] cast as xs:string) else ()
-		return <span>
-					<a target='_new' href='xhtml?doc={$url}&amp;datafine={date:normalize-date(current-dateTime())}'>{concat('Legge Regionale', $dataDoc, $numDoc)}</a>
-					<br/>{$titoloDoc}
+		return <div style='display:inline'>
+					<a href='xhtml?doc={$url}&amp;css=&amp;datafine={date:normalize-date(current-dateTime())}'>{concat('Legge Regionale', $dataDoc, $numDoc)}</a><span class='atto_abrogato'>{$vigenza}</span>
+					<br/>{$titoloDoc}<br/>
+			</div>
+};
+					
+					
+declare function search:makeResName2($res as node(),$url as xs:string,$combinazione as xs:string,$testo as xs:string,$urnRif as xs:string) as element()*{
+
+	let $tipoDoc := if ($res//iit:tipoDoc[1]/@valore) then $res//iit:tipoDoc[1]/@valore cast as xs:string else () 
+	let $emanante := if ($res//nir:intestazione/nir:emanante[1]/text()) then concat(" - ",$res//nir:intestazione/nir:emanante[1] cast as xs:string) else ()
+	let $dataDoc := if ($res//nir:intestazione/nir:dataDoc[1]/text()) then concat(" del ",$res//nir:intestazione/nir:dataDoc[1] cast as xs:string) else ()
+	let $numDoc := if ($res//nir:intestazione/nir:numDoc[1]/text()) then concat(" n°",$res//nir:intestazione/nir:numDoc[1] cast as xs:string) else ()
+	let $vigenza := if ($res/nir:NIR/*/@status) then concat(" [Atto ",$res/nir:NIR/*/@status cast as xs:string,"]") else ()
+	let $id := concat('A', substring(string(util:random()),3))
+	let $titoloDoc := if ($res/nir:NIR/*/nir:intestazione/nir:titoloDoc[1]/text()) then concat("",$res/nir:NIR/*/nir:intestazione/nir:titoloDoc[1] cast as xs:string) else ()
+		return 
+			<div>
 					{if (empty($res//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href)) then () else
 						(
-						<a href='#{$id}' style="color:grey; margin-left: 15px; font-size:8pt" onclick="javascript:ReverseContentDisplay('{$id}');">[elenco dei documenti modificanti]</a>,
-						<ul id="{$id}" style="display:none; border-color:grey; border-style: 1px solid; margin-left: 15px; z-index: -1; font-size:8pt">
+						<a href='#{$id}' style="font-size:8pt;font-style:italic;padding:0px;margin:0px;color:#c13700;text-decoration:none;" onclick="javascript:ReverseContentDisplay('{$id}');">[elenco dei documenti modificanti]</a>,
+						<ul id="{$id}" style="display:none; border-left:1px solid #000; margin: 5px 0px 0px 0px; padding-left:5px; z-index: -1; font-size:8pt">
 							{for $passive in $res//nir:ciclodivita/nir:relazioni/nir:passiva/@xlink:href
-								return <li>{$passive cast as xs:string}</li>
+								return <li style="margin:0px;padding:0px;"><a href="urnResolver.xql?css={request:get-parameter("css", ())}&amp;urn={$passive cast as xs:string}">{$passive cast as xs:string}</a></li>
 							
 							}
 							</ul>
 						)
 					}
-				</span>
+			</div>
+
 			
 };
 
@@ -318,11 +374,11 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 	
 	let $comma:= request:get-parameter("comma", "")  
 	let $fonte:= request:get-parameter("fonte", "")  
-	let $tipo := request:get-parameter("tipo", "")  
+	let $tipo := request:get-parameter("tipo", "")
 	let $materia:= request:get-parameter("materia", "")  
 	
 	let $autoritaModifica:= request:get-parameter("autoritaModifica", "") 
-	let $tipoModifica:= request:get-parameter("tipoModifica", "") 
+	let $tipoModifica:= request:get-parameter("tipoModifica", "")
 	let $giornoModifica:= request:get-parameter("giornoModifica", "") 
 	let $meseModifica:= request:get-parameter("meseModifica", "") 
 	let $annoModifica:= request:get-parameter("annoModifica", "") 
@@ -336,15 +392,22 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 	let $numeroModifica := if ($numeroModifica eq "") then "" else $numeroModifica
 
 	
-	let $autoritaRiferimento:= request:get-parameter("autoritaRiferimento", "") 
+(:	let $autoritaRiferimento:= request:get-parameter("autoritaRiferimento", "") 
 	let $tipoRiferimento:= request:get-parameter("tipoRiferimento", "") 
+:)
+	let $riferimentoAT:= request:get-parameter("riferimentoAT", "") 
+
 	let $giornoRiferimento:= request:get-parameter("giornoRiferimento", "") 
 	let $meseRiferimento:= request:get-parameter("meseRiferimento", "") 
 	let $annoRiferimento:= request:get-parameter("annoRiferimento", "") 
 	let $numeroRiferimento:= request:get-parameter("numeroRiferimento", "") 
 
-	let $autoritaRiferimento := if ($autoritaRiferimento eq "") then "[a-z|.]*" else $autoritaRiferimento
+(:	let $autoritaRiferimento := if ($autoritaRiferimento eq "") then "[a-z|.]*" else $autoritaRiferimento
 	let $tipoRiferimento := if ($tipoRiferimento eq "") then "[a-z|.]*" else $tipoRiferimento
+:)
+	let $riferimentoAT := if ($riferimentoAT eq "") then "[a-z|.]*:[a-z|.]*" else $riferimentoAT
+
+
 	let $giornoRiferimento := if ($giornoRiferimento eq "") then "[0-9]{2}" else $giornoRiferimento
 	let $meseRiferimento := if ($meseRiferimento eq "") then "[0-9]{2}" else $meseRiferimento
 	let $annoRiferimento := if ($annoRiferimento eq "") then "[0-9]{4}" else $annoRiferimento
@@ -412,64 +475,86 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 	
 
 (:	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(;|-",$meseRiferimento,"-",$giornoRiferimento,";)",$numeroRiferimento) :)
-	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(-[0-9]{2}-[0-9]{2})*;",$numeroRiferimento,'#')	
+(:	let $urnRif := concat("urn:nir:",$autoritaRiferimento,":",$tipoRiferimento,":",$annoRiferimento,"(-[0-9]{2}-[0-9]{2})*;",$numeroRiferimento,'#')	:)
+	let $urnRif := concat("urn:nir:",$riferimentoAT,":",$annoRiferimento,"(-[0-9]{2}-[0-9]{2})*;",$numeroRiferimento,'#')	 
 
 (:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif/matches(@xlink:href, $urnRif )" 	:)
 (:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif[matches(@xlink:href, $urnRif )]"   :)
 (:	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:rif[matches(concat(@xlink:href,'#'), $urnRif )]" :)
 	let $query10 := if ($urnRif eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(-[0-9]{2}-[0-9]{2})*;[0-9]+#") then "" else " and $res//nir:rif[matches(concat(@xlink:href,'#'), $urnRif )]" 
 
+
 	
 
 
-	let $urnRelazione := concat("urn:nir:",$autoritaModifica,":",$tipoModifica,":",$annoModifica,"(;|-",$meseModifica,"-",$giornoModifica,";)",$numeroModifica)
+	let $urnRelazione := concat("urn:nir:",$autoritaModifica,":",$tipoModifica,":",$annoModifica,"(;|-",$meseModifica,"-",$giornoModifica,";)",$numeroModifica,'#')
 
 (:	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva/matches(@xlink:href, $urnRelazione)"	:)
-	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva[matches(@xlink:href, $urnRelazione)]"
+	let $query11 :=  if ($urnRelazione eq "urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)#") then "" else " and $res//nir:ciclodivita/nir:relazioni/nir:passiva[matches(concat(@xlink:href,'#'), $urnRelazione)]"
 
 	
 	let $query12 := if ($materia eq "" ) then "" else " and $res//iit:materia/@valore=$materia"
 
 	let $query13 := if ($fonte eq "" ) then "" else " and $res//nir:descrittori/nir:pubblicazione/@tipo=$fonte" 	
 
-	let $ord := " order by $res//nir:intestazione/nir:dataDoc/@norm[1] descending, string-length($res//nir:intestazione/nir:numDoc[1]) descending, $res//nir:intestazione/nir:numDoc[1] descending "
-
+	let $ord := " order by $res//nir:intestazione/nir:dataDoc/@norm[1] descending, string-length($res//nir:intestazione/nir:numDoc[1]) descending, $res//nir:intestazione/nir:numDoc[1] descending "  
+	let $id := concat('A', substring(string(util:random()),3))
+	(: 
 	let $query14 := "
+			
 				return
 				<li > 
-					<a target='_new' href='xml?doc={$url}'><img src='img/xml.png' /></a>
-					<a target='_new' href='pdf?doc={$url}'><img src='img/pdf.png'/></a>
-					{search:makeResName($res,$url)}
-				
-
-					{if ($combinazione ne 'articolo' or $testo eq '') then () else
-						<ul>
-							{search:displayArticolo($res,$testo,$url)}
-							<span/>
-						</ul>
+					
+					<!--a href='pdf?doc={$url}'><img src='img/pdf.png' alt='Visualizza pdf'/></a-->
+					{if (xdb:get-current-user() eq 'guest') then ()
+					else
+					(
+					<a href='xml?doc={$url}'><img src='img/xml.png' alt='Visualizza xml'/></a>
+					)
 					}
 					
+									
+					{search:makeResName($res,$url)}
+
+					<div id='{$id}'>
+
+					
+					{search:makeResName2($res,$url,$combinazione,$testo,$urnRif)}
+
+					{if ($combinazione ne 'articolo' or $testo eq '') then () else
+						<div><a href='#' style='font-size:8pt;font-style:italic;padding:0px;margin:0px;color:#c13700;text-decoration:none;'>[elenco degli articoli contenenti le parole cercate]</a><br/>
+							{search:displayArticolo($res,$testo,$url)}
+							
+						</div>
+					}
+				
 					{if ($combinazione ne 'comma' or $testo eq '') then () else
-						<ul>
+						<div><a href='#' style='font-size:8pt;font-style:italic;padding:0px;margin:0px;color:#c13700;text-decoration:none;'>[elenco dei commi contenenti le parole cercate]</a><br/>
 							{search:displayComma($res,$testo,$url)}
-							<span/>
-						</ul>
+							
+						</div>
 					}
 
 					{
 (:					if ($urnRif eq 'urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(;|-[0-9]{2}-[0-9]{2};)') then () else		:)
 					if ($urnRif eq 'urn:nir:[a-z|.]*:[a-z|.]*:[0-9]{4}(-[0-9]{2}-[0-9]{2})*;[0-9]+#') then () else		
-
-						<div>[elenco delle partizioni contenenti il riferimento cercato: 
-							{search:displayRif($res,$urnRif,$url)} ]
+						<div><a href='#' style='font-size:8pt;font-style:italic;padding:0px;margin:0px;color:#c13700;text-decoration:none;'>[elenco delle partizioni contenenti il riferimento cercato]</a><br/>
+						
+							{search:displayRif($res,$urnRif,$url)}
 						</div>
+						
 					}
-				</li>"
 
-let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$ord,$query14)
+					</div>
+
+				</li>
 				
-	
-return 
+				"
+:)
+let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$ord)
+		
+return
+
 	<div > 
 		<table width="470px" >
 			<tr>
@@ -488,7 +573,13 @@ return
 
 
 	<div  class="risultatiRicerca">
-		{util:eval($query)}
+		<ul>
+		{
+		
+		util:eval($query)
+
+		}
+		</ul>
 	</div>
 				
 </div>

@@ -37,6 +37,7 @@
 			<map:match pattern="search">
 				<map:generate src="search.xq" type="xquery"/>
 				<map:serialize type="xml"/>
+				
 			</map:match>
 
 			<map:match pattern="updatemeta">
@@ -53,12 +54,12 @@
 				<map:generate src="xmldb:exist://{session-context:request/parameter/doc}"/>
 				<map:transform src="xsl/nir-generico-nocss.xsl">
 					<map:parameter name="doc" value="{session-context:request/parameter/doc}"/>
+					<map:parameter name="css" value="{session-context:request/parameter/css}"/>
 					<map:parameter name="datafine" value="{session-context:request/parameter/datafine}"/>
 				</map:transform>
 				<map:serialize type="xhtml"/>
 			</map:match>
-
-		
+			
 			<map:match pattern="pdf">
 				<map:generate src="xmldb:exist://{session-context:request/parameter/doc}"/>
 				<map:transform src="xsl/nir-fo-gazzettaufficiale.xsl" />
@@ -92,6 +93,7 @@
 				<map:generate src="{1}.xq" type="xquery">
 					<map:parameter name="create-session" value="true"/>
 					<map:parameter name="file" value="{1}.xq"/>
+					
 				</map:generate>
 				<map:serialize encoding="UTF-8" type="html"/>
 			</map:match>
@@ -122,6 +124,10 @@
 
 			<map:match pattern="**.js">
 				<map:read mime-type="text/javascript"    src="{1}.js"/>
+			</map:match>
+			
+			<map:match pattern="**.pdf">
+				<map:read mime-type="application/pdf"    src="{1}.pdf"/>
 			</map:match>
 
 			<map:match pattern="**.css">

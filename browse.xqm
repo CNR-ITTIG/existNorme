@@ -61,7 +61,7 @@ declare function browse:main() as element()
 			<div>
 	            { browse:process-action($colName) }
 	            <!-- div class="panel-head">Browsing: {xdb:decode-uri(xs:anyURI($colName))}</div-->
-	            <form method="POST" enctype="multipart/form-data">
+	            <form method="post" enctype="multipart/form-data" >
 	                {
 	                    browse:display-collection($colName)
 	                }
@@ -79,7 +79,7 @@ declare function browse:main() as element()
 	                    </tr>
 	                    <tr>
 	                        <td>Comment</td>
-	                        <td><textarea name="comment">...</textarea></td>
+	                        <td><textarea name="comment"rows="4" cols="20">...</textarea></td>
 	                    </tr>
 
 					</table>
@@ -340,8 +340,8 @@ declare function browse:display-child-collections($colName as xs:string) as elem
 
 declare function browse:display-child-resources($colName as xs:string) as element()* 
 {
-    for $child in xdb:get-child-resources($colName) order by $child return
-        <tr>
+    for $child in xdb:get-child-resources($colName) order by $child return	
+           <tr>
             <td><input type="checkbox" name="resource" value="{$colName}/{$child}"/></td>
             <td><a target="_new" href="xml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}">{xdb:decode-uri(xs:anyURI($child))}</a></td>
             <td><a target="_new" href="meta?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}">
@@ -365,7 +365,7 @@ declare function browse:display-child-resources($colName as xs:string) as elemen
 			</td>
 				
 			<td><a target="_new" href="xhtml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}&amp;datafine={date:normalize-date(current-dateTime())}"><img src="img/xhtml.png"/></a></td>
-            <td><a target="_new" href="pdf?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/pdf.png"/></a></td>
+            <td><!--a target="_new" href="pdf?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/pdf.png"/></a--></td>
             <td><a target="_new" href="xml?doc={xdb:encode-uri($colName)}/{xdb:encode-uri($child)}"><img src="img/xml.png"/></a></td>
             <td>{local:stringa(doc(concat($colName,"/",$child))//iit:comment/@valore)}</td>
         </tr>

@@ -30,7 +30,7 @@ function aggiornaWidgets() {
 
 			var tipoRif = $('#tipoRiferimento').val();
 			
-			if (tipoRif =='legge') 
+			if (tipoRif =='legge' || tipoRif =='regolamento' || tipoRif =='direttiva') 
 					$('#riferimentoEmanante').show();
 				else
 					$('#riferimentoEmanante').hide();

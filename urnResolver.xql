@@ -34,6 +34,7 @@ let $giornoecc := substring-after($mesecc, "-")
 let $giorno := substring-before($giornoecc, "+")
 let $data := concat($anno,$mese,$giorno)
 
+let $css := request:get-parameter("css", "")  
 let $urn := request:get-parameter("urn", "")  
 let $datafine := request:get-parameter("datafine", "")  
 
@@ -48,14 +49,14 @@ let $ee_nume := substring($ee_temp,string-length($ee_temp)-3,4)
 	{
 	if (substring-after($urn, "urn:nir:comunita.europee")!="") then (
 		if (matches($urn,":direttiva")) then
-			response:redirect-to(xs:anyURI(concat("http://eur-lex.europa.eu/Result.do?code=" , $ee_sett , $ee_anno , "L" , $ee_nume , "&amp;Submit=Cercare&amp;RechType=RECH_celex&amp;_submit=Cercare")
+			response:redirect-to(xs:anyURI(concat("http://eur-lex.europa.eu/Result.do?code=" , $ee_sett , $ee_anno , "L" , $ee_nume , "&amp;Submit=Cercare&amp;RechType=RECH_celex&amp;_submit=Cercare","&amp;ihmlang=it")
 ))
 		else
-			response:redirect-to(xs:anyURI(concat("http://eur-lex.europa.eu/Result.do?code=" , $ee_sett , $ee_anno , "R" , $ee_nume , "&amp;Submit=Cercare&amp;RechType=RECH_celex&amp;_submit=Cercare")
+			response:redirect-to(xs:anyURI(concat("http://eur-lex.europa.eu/Result.do?code=" , $ee_sett , $ee_anno , "R" , $ee_nume , "&amp;Submit=Cercare&amp;RechType=RECH_celex&amp;_submit=Cercare","&amp;ihmlang=it")
 ))
 
 	) else if (local:getDoc($urn)[1]) then
-		response:redirect-to(xs:anyURI(concat("xhtml?doc=",local:getDoc($urn)[1],"&amp;datafine=",$data)))		
+		response:redirect-to(xs:anyURI(concat("xhtml?doc=",local:getDoc($urn)[1],"&amp;css=",$css,"&amp;datafine=",$data)))		
 		else
 		response:redirect-to(xs:anyURI(concat("http://www.nir.it/cgi-bin/N2Ln?",$urn)))		
 	}
