@@ -123,9 +123,9 @@ let $isLoggedIn :=
         )
     )
    
-let $panel := request:get-parameter("panel", "")
-let $tipo := request:get-parameter("tipo", "")
-let $valore := request:get-parameter("valore", "")
+let $panel := request:get-parameter("panel", "clustering")
+let $tipo := request:get-parameter("tipo", "annoDoc")
+let $valore := request:get-parameter("valore", string(max(collection(/db/nir/RegioneCampania)//annoDoc/@valore[1])))
 let $css := request:get-parameter("css", ())
 
 return

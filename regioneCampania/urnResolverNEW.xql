@@ -9,28 +9,45 @@ declare namespace xdb = "http://exist-db.org/xquery/xmldb";
 declare namespace nir='http://www.normeinrete.it/nir/2.2/';
 declare namespace response='http://exist-db.org/xquery/response';
 
-			
-declare function local:getDoc($urn as xs:string) as xs:string* {
+
+declare function local:getUrn2($urn as xs:string) as xs:string* {
 
 	let $urnPrima := substring-before($urn , ";")
 	let $urnDopo := substring-after($urn , ";")
-	let $urnMatches := concat($urnPrima, "(.)*;", $urnDopo)
+
+	let $urnPrima2 := substring-before($urnDopo , ";")
+	let $urnDopo2 := substring-after($urnDopo , ";")
+
+	let $urnPrima3 := substring-before($urnDopo2 , ";")
+	let $urnDopo3 := substring-after($urnDopo2 , ";")
+	
+	return 
+	if (matches($urnDopo3,'')) then (
+		if (matches($urnDopo2,'')) then (
+			concat($urnPrima, "(.)*;", $urnDopo)			
+		)
+		else (
+			concat($urnPrima,";",$urnPrima2, "(.)*;", $urnDopo2)
+		)
+	)
+	else (
+		concat($urnPrima,";",$urnPrima2,";",$urnPrima3, "(.)*;", $urnDopo3)
+	)
+				
+};
+			
+declare function local:getDoc($urn as xs:string) as xs:string* {
+
+
+	let $urnMatches := local:getUrn2($urn)
 	let $colName := "/db/nir/RegioneCampania"
-			for $res in collection($colName)
-			return 
+				for $res in collection($colName)
+				return 
 (:					if ($res//nir:ciclodivita/nir:relazioni/nir:originale[matches(@xlink:href, $urnMatches)]) then		:)
-				if ($urnPrima!="") then (
 					if ($res//nir:descrittori/nir:urn[matches(@valore, $urnMatches)]) then
 						concat(xdb:encode-uri(util:collection-name($res)),'/',xdb:encode-uri(util:document-name($res)))
 						else
 						()
-				)
-				else (				(: quando mi arriva una urn senza ; tipo, per la costituzione :)
-					if ($res//nir:descrittori/nir:urn[matches(@valore, $urn)]) then
-						concat(xdb:encode-uri(util:collection-name($res)),'/',xdb:encode-uri(util:document-name($res)))
-						else
-						()
-				)
 				
 };
 

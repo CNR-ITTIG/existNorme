@@ -1,0 +1,58 @@
+tr>
+                                        <tr>
+                                            <td align="right" width="504">Testo 
+											<input type="text" name="testo" style="width:410;height:21" value="{$testo}"/>
+                                            </td>
+                                            <td align="left" width="171">
+                                                <input id="soloTitolo" type="checkbox" name="soloTitolo">{if ($soloTitolo eq 'on') then attribute checked {"checked"} else ()} ricerca solo nel titolo</input>
+												<br/>
+                                                <input type="radio" name="combinazione" value="esatta">{if ($combinazione eq 'esatta') then attribute checked {"checked"} else ()} frase esatta</input>
+                                                <br/>
+                                                <input type="radio" name="combinazione" value="almeno">{if ($combinazione eq 'almeno') then attribute checked {"checked"} else ()} almeno una parola</input>
+                                                <br/>
+                                                <input type="radio" name="combinazione" value="tutte">{if ($combinazione eq 'tutte') then attribute checked {"checked"} else ()} tutte le parole</input>
+                                            	<br/>
+												<span id="nonInTitolo">
+                                                <input type="radio" name="combinazione" value="articolo">{if ($combinazione eq 'articolo') then attribute checked {"checked"} else ()} nello stesso articolo</input>
+                                                <br/>
+                                                <input type="radio" name="combinazione" value="comma">{if ($combinazione eq 'comma') then attribute checked {"checked"} else ()} nello stesso comma</input>
+												</span>
+                                                </td>
+                                        </tr>
+                                    </table>
+									<br/>
+                                    <table width="685">
+                                        <tr>
+                                            <th colspan="4" align="center"></th>
+                                        </tr>
+                                        <tr>
+                                            <th colspan="4" align="center">
+											Estremi dell'Atto</th>
+                                        </tr>
+                                        <tr>
+                                            <td align="right" width="275">Regione Campania
+
+<!--
+											<span id="estremiEmanante">
+											Emanante 
+												<select name="emanante" style="width:146;height:22">
+                                                    <option value=""/>
+                                                    <option value="LAVORO">{if ($emanante eq 'LAVORO') then attribute selected {"selected"} else ()}Lavoro e Politiche Sociali</option>
+                                                    <option value="FINANZE">{if ($emanante eq 'FINANZE') then attribute selected {"selected"} else ()}Economia e Finanze</option>
+                                                    <option value="INTERNO">{if ($emanante eq 'INTERNO') then attribute selected {"selected"} else ()}Interno </option>
+                                                    <option value="GIUSTIZIA">{if ($emanante eq 'GIUSTIZIA') then attribute selected {"selected"} else ()}Giustizia </option>
+                                                    <option value="SANITA">{if ($emanante eq 'SANITA') then attribute selected {"selected"} else ()}Sanità</option>
+                                                    <option value="INNOVAZIONE">{if ($emanante eq 'INNOVAZIONE') then attribute selected {"selected"} else ()}Ministero per l'innovazione e le tecnologie</option>
+                                                    <option value="INNOVAZIONE">{if ($emanante eq 'INNOVAZIONE') then attribute selected {"selected"} else ()}Pres Cons Ministri - dip. per l'innovazione e le tecnologie </option>
+ $valore]
+						else ()
+				)
+	
+	for $res in $resSelected (: collection($colName) :)
+	let $name := substring-before(util:document-name($res),".xml")
+	let $url := concat(xdb:encode-uri(util:collection-name($res)),"/",xdb:encode-uri(util:document-name($res)))
+		(: where $res//iit:materia[@valore=$valore] :)
+			order by $res//nir:intestazione/nir:dataDoc[1]/@norm , $res//nir:intestazione/nir:numDoc[1]
+			return
+			<li>
+				<a target='_new' href='xml?doc={$url}'

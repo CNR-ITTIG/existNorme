@@ -80,16 +80,16 @@ n.&#160;<xsl:value-of select="/*[name()='NIR']/*/*/*[name()='numDoc']"/>
 <img src="img/colori.gif" alt="[Stile Alternativo/Colorato]" />
 </a>
     <a href="?doc={$doc}&amp;datafine={$datafine}&amp;css=3" title="Stile solo testo" >
-<img src="img/solotesto.gif" alt="[Solo Testo]" />
+<img src="img/solotesto.gif" alt="[Solo Testo]" />&#160;
 </a>
-    <a href="" title="Stampa pagina" >
-<img src="img/stampa.gif" alt="[Stampa Pagina]" onclick="window.print()" />
-</a>&#160;
-     <a href="javascript:staticContainer();" title="Larghezza pagina fissa" >
+    <a href="javascript:staticContainer();" title="Larghezza pagina fissa" >
 <img src="img/small.gif" alt="Larghezza pagina fissa" />
 </a>
     <a href="javascript:fluidContainer();" title="Larghezza pagina fluida" >
 <img src="img/ext.gif" alt="Larghezza pagina fluida" />
+</a>&#160;
+<a href="" title="Stampa pagina" >
+<img src="img/stampa.gif" alt="[Stampa Pagina]" onclick="window.print()" />
 </a>
     </div>
 

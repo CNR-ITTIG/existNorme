@@ -92,8 +92,9 @@ declare function search:main() as element() {
 		<div  id="formRicerca">
 			<!--form name="ricercaForm" method="post" action="{session:encode-url(request:get-uri())}" -->
 			<form method="post" action="{session:encode-url(request:get-uri())}" >
-                          <input type='hidden' value='{request:get-parameter("css", "")}' name='css' />    
+                              
                                 <div style="float:left">
+                               
                                  <input type="hidden" name="panel" value="search"/>
                                     <table width="685">
                                         <tr>
@@ -267,6 +268,7 @@ declare function search:main() as element() {
                                     <table width="685">
                                         <tr>
                                             <td style="text-align:right;width:232px;">
+                                             <input type='hidden' value='{request:get-parameter("css", "")}' name='css' />
                                                 <input id="trova" type="submit" value="Cerca"/>
                                             </td>
                                             <td style="text-align:right;width:308px;">
@@ -357,7 +359,8 @@ declare function search:makeResName2($res as node(),$url as xs:string,$combinazi
 							
 							}
 							</ul>
-						)
+							)
+					
 					}
 			</div>
 
@@ -499,7 +502,7 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 
 	let $ord := " order by $res//nir:intestazione/nir:dataDoc/@norm[1] descending, string-length($res//nir:intestazione/nir:numDoc[1]) descending, $res//nir:intestazione/nir:numDoc[1] descending "  
 	let $id := concat('A', substring(string(util:random()),3))
-	(: 
+	 
 	let $query14 := "
 			
 				return
@@ -516,8 +519,7 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 									
 					{search:makeResName($res,$url)}
 
-					<div id='{$id}'>
-
+					
 					
 					{search:makeResName2($res,$url,$combinazione,$testo,$urnRif)}
 
@@ -545,13 +547,11 @@ let $soloTitolo := request:get-parameter("soloTitolo", "")
 						
 					}
 
-					</div>
+					
 
-				</li>
-				
-				"
-:)
-let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$ord)
+				</li>"
+
+let $query := 	concat($query1,$query2,$query3,$query4,$query5,$query6,$query7,$query8,$query9,$query10,$query11,$query12,$query13,$ord,$query14)
 		
 return
 
