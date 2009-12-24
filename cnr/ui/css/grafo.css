@@ -1,0 +1,93 @@
+a:link, a:visited{
+	text-decoration: none;
+	color: #FFFFFF;
+	
+}
+
+
+.nodo {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.toolbar{
+	width:170px;
+	z-index: 20;
+	position: absolute;
+	right:0;
+	top:0;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	font-style: italic;
+	padding: 10px;
+	color: #0066AA;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.legenda{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	padding: 10px;
+	color: #0066AA;	
+}
+
+.menu{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	text-align: left;
+	padding: 10px;
+	margin: 10px;
+	color: #0066AA;
+	width: 200px;
+}
+
+.querySelezionata{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	padding: 10px;
+	margin: 30px;
+	color: #FFFFFF;
+	background-color: #E28409;
+	border-top: 2 solid White;
+	border-bottom: 2 solid White;
+}
+
+
+.query {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	padding: 10px;
+	margin: 30px;
+	color: #FFFFFF;
+	background-color: #0066AA;
+	border-top: 2 solid White;
+	border-bottom: 2 solid White;
+
+}
+
+
+.titolo{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	font-style: italic;
+	color: #E28409;
+	background-color: #FFFFFF;
+
+	
+}
+

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root xmlns="http://www.normeinrete.it/nir/2.2/">
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2005">
+		<urn valore="urn:nir:stato:decreto.legislativo:2005-03-07;82"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1993">
+		<urn valore="urn:nir:stato:decreto.legislativo:1993-02-12;39"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1997">
+		<urn valore="urn:nir:stato:decreto.legislativo:1997-08-07;279"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1997">
+		<urn valore="urn:nir:stato:decreto.legislativo:1997-08-28;281"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1997">
+		<urn valore="urn:nir:stato:decreto.legislativo:1997-12-23;469"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1998">
+		<urn valore="urn:nir:stato:decreto.legislativo:1998-03-31;112"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1998">
+		<urn valore="urn:nir:stato:decreto.legislativo:1998-12-28;496"/>
+		<urn valore="urn:nir:stato:decreto.legislativo:1998-12-28;496@01-01-2001"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1999">
+		<urn valore="urn:nir:stato:decreto.legislativo:1999-04-13;112"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1999">
+		<urn valore="urn:nir:stato:decreto.legislativo:1999-05-27;165"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="codice.beni.culturali.stato" anno="2004">
+		<urn valore="urn:nir:stato:codice.beni.culturali:2004-01-22;42"/>
+		<urn valore="urn:nir:stato:decreto.legislativo:2004-01-22;42"/>
+		<urn valore="urn:nir:stato:decreto.legislativo:2004-01-22;42:allegato.a"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="1999">
+		<urn valore="urn:nir:stato:decreto.legislativo:1999-07-30;286"/>
+		<urn valore="urn:nir:stato:decreto.legislativo:1999-07-30;286@2003-06-04"/>
+		<urn valore="urn:nir:stato:decreto.legislativo:1999-07-30;286@2006-12-12"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2000">
+		<urn valore="urn:nir:stato:decreto.legislativo:2000-08-18;267"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2003">
+		<urn valore="urn:nir:stato:decreto.legislativo:2003-06-30;196"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2006">
+		<urn valore="urn:nir:stato:decreto.legislativo:2006-01-24;36"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2003">
+		<urn valore="urn:nir:stato:decreto.legislativo:2003-09-10;276"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2003">
+		<urn valore="urn:nir:stato:decreto.legislativo:2003-12-05;343"/>
+	</doc>
+	<doc primoElem="DecretoLegislativo" tipoDocIIT="decreto legislativo" tipo="decreto.legislativo.stato" anno="2004">
+		<urn valore="urn:nir:stato:decreto.legislativo:2004-02-20;52"/>
+	</doc>
+	<doc primoElem="DecretoMinisteriale" tipoDocIIT="decreto" tipo="decreto.ministro.innovazione.tecnologie" anno="2006">
+		<urn valore="urn:nir:ministro.innovazione.tecnologie:decreto:2006-05-02;237"/>
+	</doc>
+	<doc primoElem="DecretoMinisteriale" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2002">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2002-05-17;127"/>
+	</doc>
+	<doc primoElem="DecretoMinisteriale" tipoDocIIT="decreto" tipo="decreto.ministero.interno+ministro.funzione.pubblica+ministro.innovazione.tecnologie" anno="2005">
+		<urn valore="urn:nir:ministero.interno+ministro.funzione.pubblica+ministro.innovazione.tecnologie:decreto:2005-10-13;240"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.giustizia" anno="2004">
+		<urn valore="urn:nir:ministero.giustizia:decreto:2004-10-14;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2005">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2005-07-08;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.interno" anno="2005">
+		<urn valore="urn:nir:ministero.interno:decreto:2005-08-02;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.interno+ministero.comunicazioni+ministro.innovazione.tecnologie" anno="2005">
+		<urn valore="urn:nir:ministero.interno+ministero.comunicazioni+ministro.innovazione.tecnologie:decreto:2005-08-16;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze+ministro.innovazione.tecnologie" anno="2006">
+		<urn valore="urn:nir:ministero.economia.finanze+ministro.innovazione.tecnologie:decreto:2006-01-12;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.giustizia" anno="2007">
+		<urn valore="urn:nir:ministero.giustizia:decreto:2007-01-25;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministro.riforme.innovazioni.pubblica.amministrazione" anno="2007">
+		<urn valore="urn:nir:ministro.riforme.innovazioni.pubblica.amministrazione:decreto:2007-04-16;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.interno" anno="2007">
+		<urn valore="urn:nir:ministero.interno:decreto:2007-05-17;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2007">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2007-05-29;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.lavoro.politiche.sociali+ministro.innovazione.tecnologie" anno="2004">
+		<urn valore="urn:nir:ministero.lavoro.politiche.sociali+ministro.innovazione.tecnologie:decreto:2004-10-13;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministro.innovazione.tecnologie" anno="2002">
+		<urn valore="urn:nir:ministro.innovazione.tecnologie:decreto:2002-10-31;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministro.innovazione.tecnologie" anno="2004">
+		<urn valore="urn:nir:ministro.innovazione.tecnologie:decreto:2004-07-02;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2004">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2004-01-23;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2003">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2003-06-06;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.lavoro.politiche.sociali" anno="2002">
+		<urn valore="urn:nir:ministero.lavoro.politiche.sociali:decreto:2002-10-30;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministro.innovazione.tecnologie" anno="2002">
+		<urn valore="urn:nir:ministro.innovazione.tecnologie:decreto:2002-08-13;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.interno+ministero.finanze" anno="2000">
+		<urn valore="urn:nir:ministero.interno+ministero.finanze:decreto:2000-10-06;nir-s2006713"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto ministeriale" tipo="decreto.ministero.interno" anno="2000">
+		<urn valore="urn:nir:ministero.interno:decreto:2000-07-19;nir-s2004578"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.sanita" anno="1997">
+		<urn valore="urn:nir:ministero.sanita:decreto:1997-02-14;nir-s9971201"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.interno+ministro.innovazione.tecnologie" anno="2004">
+		<urn valore="urn:nir:ministero.interno+ministro.innovazione.tecnologie:decreto:2004-08-03;da assegnare"/>
+	</doc>
+	<doc primoElem="DecretoMinisterialeNN" tipoDocIIT="decreto" tipo="decreto.ministero.economia.finanze" anno="2007">
+		<urn valore="urn:nir:ministero.economia.finanze:decreto:2007-06-08;nir-1"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2001">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2001-05-18;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2003">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2003-01-24;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2004">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2004-01-13;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2000">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2000-10-31;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2000">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2000-12-09;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2001">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2001-09-27;da assegnare"/>
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2001-09-27;da assegnare@2003-06-30"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2001">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2001-08-09;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2007">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2007-06-01;110"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1994">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1994-04-14;609"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1974">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1974-09-11;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1999">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1999-10-22;437"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2005">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2005-05-06;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2005">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2005-05-31;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2006">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2006-04-03;200"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2006">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2006-06-15;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2006">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2006-12-28;318"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2007">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2007-02-21;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2002">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2002-04-11;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1994">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1994-10-06;769"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1996">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1996-12-06;694"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1998">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1998-10-09;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpcm" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="1999">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:1999-07-21;305"/>
+	</doc>
+	<doc primoElem="DpcmNN" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2004">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2004-09-09;259"/>
+	</doc>
+	<doc primoElem="DpcmNN" tipoDocIIT="decreto del presidente del consiglio dei ministri" tipo="decreto.presidente.consiglio.ministri" anno="2007">
+		<urn valore="urn:nir:presidente.consiglio.ministri:decreto:2007-07-24;da assegnare"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2004">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2004-03-02;117"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2003">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2003-02-27;97"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2003">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2003-04-07;137"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2003-04-07;137@2003-07-03*errata.corrige;2003-07-03"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2001">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2001-09-21;422"/>
+		<urn valore=""/>
+		<urn valore=""/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2005">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2005-02-11;68"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2005">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2005-03-01;75"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2000">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2002-01-23"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2002-11-14"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2003-01-16"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2003-06-30"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2003-04-07"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2005-02-11"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2000-12-28;445@2005-03-07"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1999">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1999-03-08;70"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1998">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@1999-10-14"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2000-03-10"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2001-12-07"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2003-04-16"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2004-12-30"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2005-11-18"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2006-07-04"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1998-07-22;322@2006-12-27"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1997">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1997-12-23;522"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1994">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-11-11;680"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1994">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-10-28;748"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-10-28;748@2005-10-25"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="1994">
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-04-20;367"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-04-20;367@1998-01-30"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-04-20;367@1998-02-20"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-04-20;367@1998-05-08"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:1994-04-20;367@2001-12-15"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2001">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2001-02-13;123"/>
+	</doc>
+	<doc primoElem="Dpr" tipoDocIIT="decreto del presidente della repubblica" tipo="decreto.presidente.repubblica" anno="2001">
+		<urn valore="urn:nir:presidente.repubblica:decreto:2001-10-05;404"/>
+		<urn valore="urn:nir:presidente.repubblica:decreto:2001-10-05;404@2003-04-16"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="1992">
+		<urn valore="urn:nir:stato:legge:1992-10-23;421"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="1992">
+		<urn valore="urn:nir:stato:legge:1992-10-23;421"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="1998">
+		<urn valore="urn:nir:stato:legge:1998-06-16;191"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="2000">
+		<urn valore="urn:nir:stato:legge:2000-06-07;150"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="2000">
+		<urn valore="urn:nir:stato:legge:2000-11-24;340"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="2003">
+		<urn valore="urn:nir:stato:legge:2003-01-16;3"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="2003">
+		<urn valore="urn:nir:stato:legge:2003-07-29;229"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="legge" tipo="legge.stato" anno="2004">
+		<urn valore="urn:nir:stato:legge:2004-01-09;4@2005-04-21"/>
+	</doc>
+	<doc primoElem="Legge" tipoDocIIT="" tipo="legge.stato" anno="1992">
+		<urn valore="urn:nir:stato:legge:1992-10-23;421"/>
+	</doc>
+</root>

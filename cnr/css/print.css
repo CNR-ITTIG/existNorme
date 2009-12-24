@@ -1,0 +1,411 @@
+BODY {
+	FONT-SIZE: 100%; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	TEXT-DECORATION: none
+}
+.invisibile {
+	DISPLAY: none
+}
+#header {
+	BACKGROUND: url(/img/spacer.gif) #0066aa no-repeat right top; MARGIN-BOTTOM: 25px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px; TEXT-ALIGN: center
+}
+#menuHor {
+	DISPLAY: none
+}
+#path {
+	DISPLAY: none
+}
+.tdMenuSx {
+	DISPLAY: none
+}
+.tdMenuDx {
+	DISPLAY: none
+}
+.tdMenuSxVuoto {
+	DISPLAY: none
+}
+.tdMenuDxVuoto {
+	DISPLAY: none
+}
+#spazioPiccolo {
+	DISPLAY: block; FONT-SIZE: 0.2em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#spazio1em {
+	DISPLAY: block; FONT-SIZE: 1em; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.invisibileNN {
+	DISPLAY: none
+}
+DIV.hr {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(/img/spacer_bianco.gif); MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; HEIGHT: 1px
+}
+DIV.hrblu {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(/img/righe_blu.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px; PADDING-TOP: 0px; HEIGHT: 14px
+}
+DIV.hrcorrelati {
+	DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; HEIGHT: 1px; BACKGROUND-COLOR: #fadaab
+}
+DIV.hrpuntini {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(/img/spacer.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 5px
+}
+* HTML BODY DIV.hrpuntini {
+	BACKGROUND-IMAGE: url(/img/puntini.gif)
+}
+DIV.hrpiepagina {
+	DISPLAY: none
+}
+HR {
+	DISPLAY: none
+}
+#menuSxPrimo {
+	DISPLAY: none
+}
+H1.titoloMenu {
+	DISPLAY: none
+}
+.capoletteraAutorita {
+	DISPLAY: none
+}
+#menuSxSecondo {
+	DISPLAY: none
+}
+.capoletteraAttivita {
+	DISPLAY: none
+}
+#menuSxTerzo {
+	DISPLAY: none
+}
+.capoletteraOsservatori {
+	DISPLAY: none
+}
+.bianco {
+	DISPLAY: none
+}
+UL.newsletterSx {
+	DISPLAY: none
+}
+UL.pubblicazioniSx {
+	DISPLAY: none
+}
+UL.newsletterSx LI {
+	DISPLAY: none
+}
+UL.pubblicazioniSx LI {
+	DISPLAY: none
+}
+UL.newsletterSx LI A {
+	DISPLAY: none
+}
+UL.pubblicazioniSx LI A {
+	DISPLAY: none
+}
+#inprimopiano {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 1px solid; MARGIN-RIGHT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 0px solid
+}
+#inprimopiano H5 {
+	FONT-SIZE: 0.6em; MARGIN: 2px 5px 5px; COLOR: #666666
+}
+#inprimopiano H2 {
+	FONT-SIZE: 2em; MARGIN: 2px 5px 5px; COLOR: #00349a; FONT-FAMILY: "Times New Roman", Times, TimesNR, serif
+}
+.testo {
+	FONT-SIZE: 0.8em; MARGIN: 2px 5px 5px; COLOR: #333333; LINE-HEIGHT: 1.3em
+}
+.testoaltrenotizie {
+	FONT-SIZE: 0.9em; MARGIN: 5px 5px 5px 15px; COLOR: #333333; LINE-HEIGHT: 1.3em
+}
+A.continua {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 2px 5px 5px; COLOR: #ff0000; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
+}
+A.continua:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.7em; COLOR: #ff0000; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; TEXT-DECORATION: underline
+}
+A.continuadestra {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 2px 15px 5px; COLOR: #ff0000; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
+}
+.croce {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bolder; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 0px; BACKGROUND-COLOR: #ff0000
+}
+.approfondimentiImg {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+#linkapprofondimenti {
+	BORDER-RIGHT: #cccccc 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; BACKGROUND: url(/img/sfera_approfondimenti.gif) #e5f4fb no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 0px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid
+}
+#linkapprofondimenti P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 165px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; COLOR: #00349a; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif
+}
+#linkapprofondimenti UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 180px; FONT-WEIGHT: normal; FONT-SIZE: 0.7em; LIST-STYLE-IMAGE: url(/img/freccia_verde.gif); PADDING-BOTTOM: 2px; MARGIN: 0px; VERTICAL-ALIGN: middle; COLOR: #ffffff; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; LIST-STYLE-TYPE: disc
+}
+#linkapprofondimenti LI {
+	PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 1px
+}
+#linkapprofondimenti LI A {
+	COLOR: #00349a; PADDING-TOP: 1px; TEXT-DECORATION: none
+}
+#linkapprofondimenti LI A:hover {
+	DISPLAY: block; FONT-WEIGHT: bold; COLOR: #ffffff; PADDING-TOP: 1px; BACKGROUND-COLOR: #00349a; TEXT-DECORATION: underline
+}
+#linkapprofondimenti LI A:active {
+	DISPLAY: block; FONT-WEIGHT: bold; COLOR: #ffffff; PADDING-TOP: 1px; BACKGROUND-COLOR: #00349a
+}
+.fotonotizia {
+	BORDER-RIGHT: #6f6e40 1px solid; BORDER-TOP: #6f6e40 1px solid; FLOAT: left; MARGIN: 0px 5px 5px 0px; BORDER-LEFT: #6f6e40 1px solid; BORDER-BOTTOM: #6f6e40 1px solid
+}
+H3.confondo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 1.2em; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; COLOR: #6f6e40; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #f1f2ed
+}
+.capolettera {
+	DISPLAY: block; FLOAT: left; MARGIN: 0px 2px 0px 0px; WIDTH: 1.4em; HEIGHT: 1.1em
+}
+.palla {
+	DISPLAY: none
+}
+#palla {
+	DISPLAY: none
+}
+#notizieDx {
+	DISPLAY: none
+}
+#bandiDx {
+	DISPLAY: none
+}
+#archivio {
+	DISPLAY: none
+}
+#archivioGiallo {
+	DISPLAY: none
+}
+#menuNotizieHome {
+	DISPLAY: none
+}
+#bandigara {
+	DISPLAY: none
+}
+#linkHome {
+	DISPLAY: none
+}
+#linkinterniDx {
+	DISPLAY: none
+}
+#contenuto {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN-LEFT: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 1px solid; MARGIN-RIGHT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px solid
+}
+#contenuto P {
+	FONT-SIZE: 0.8em; MARGIN: 1em 5px 1.5em 15px; COLOR: #444444; LINE-HEIGHT: 1.4em; TEXT-ALIGN: justify
+}
+.data {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.65em; MARGIN: 0.5em 20px 1.5em 0px; COLOR: #333333; TEXT-ALIGN: right
+}
+#contenuto H1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 0.9em; PADDING-BOTTOM: 2px; MARGIN: 0px 20px 3px 0px; COLOR: #ba0707; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #fdfae2
+}
+#contenuto H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 1.1em; PADDING-BOTTOM: 2px; MARGIN: 0px 20px 3px 0px; COLOR: #ba0707; PADDING-TOP: 2px; FONT-STYLE: normal; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #fdfae2
+}
+#contenuto H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 1.2em; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; COLOR: #6f6e40; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #f1f2ed
+}
+#contenuto H4 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 1em; PADDING-BOTTOM: 2px; MARGIN: 0px 20px 0px 5px; COLOR: #6f6e40; PADDING-TOP: 2px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #f1f2ed
+}
+#contenuto H6 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 1.3em; PADDING-BOTTOM: 2px; MARGIN: 0px 20px 3px 0px; COLOR: #6f6e40; PADDING-TOP: 2px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+#contenuto UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 60px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; FONT-STYLE: italic; LIST-STYLE-TYPE: none
+}
+#contenuto LI {
+	PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#contienecorrelati {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+#correlatibordo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 20px 0px 5px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+#correlati {
+	BORDER-RIGHT: #cccccc 1px dashed; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 0px dashed; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: #cccccc 0px dashed; LINE-HEIGHT: 1.6em; PADDING-TOP: 0px; BORDER-BOTTOM: #cccccc 1px dashed; FONT-STYLE: normal; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#correlati P.correla {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 15px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 0.75em; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px 5px 3px; COLOR: #000000; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; BORDER-RIGHT-WIDTH: 0px
+}
+#correlati UL.correlalista {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 1px; MARGIN: 0px 5px 5px; PADDING-TOP: 1px; FONT-STYLE: normal; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #ffffff
+}
+#correlati LI.correladue {
+	FONT-SIZE: 0.85em; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 6px; MARGIN: 1px 2px 6px; TEXT-INDENT: -0.9em; LINE-HEIGHT: 120%; BACKGROUND-COLOR: #ffffff
+}
+#correlati A.correlalink {
+	FONT-WEIGHT: normal; COLOR: #444444; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+H5.labelCorrelati {
+	BORDER-RIGHT: #cccccc 1px dashed; PADDING-RIGHT: 30px; BORDER-TOP: #cccccc 1px dashed; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 1em; BACKGROUND: url(/img/spacer.gif) #ffffff no-repeat right top; PADDING-BOTTOM: 3px; MARGIN: 0px; BORDER-LEFT: #cccccc 0px dashed; COLOR: #000000; PADDING-TOP: 3px; BORDER-BOTTOM: #cccccc 0px dashed; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+#contenuto IMG.pallainterna {
+	DISPLAY: none
+}
+#elencoSiti {
+	FONT-SIZE: 0.9em; WIDTH: 100%; COLOR: #333333; LINE-HEIGHT: 1.4em; MARGIN-RIGHT: 20px; TEXT-ALIGN: left
+}
+#elencoSiti TD {
+	FONT-SIZE: 0.9em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+#elencoSiti TD A {
+	FONT-SIZE: 0.9em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+#elencoSiti TD.descrizione {
+	BACKGROUND-COLOR: #f1f2ed
+}
+#elencoSiti TD.descrizione {
+	WIDTH: 80%
+}
+#elencoSiti UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 20px; VERTICAL-ALIGN: middle; COLOR: #333333; LINE-HEIGHT: 1.1em; PADDING-TOP: 0px; FONT-STYLE: normal! important; LIST-STYLE-TYPE: none
+}
+#elencoSiti LI A {
+	COLOR: #6f6e40; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#elencoSiti LI A:hover {
+	COLOR: #555555; TEXT-DECORATION: underline
+}
+.elencoSitiTable {
+	FONT-SIZE: 0.9em; WIDTH: 100%; COLOR: #333333; LINE-HEIGHT: 1.4em; MARGIN-RIGHT: 20px; TEXT-ALIGN: left
+}
+.elencoSitiTable TD {
+	FONT-SIZE: 1em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+.elencoSitiTable TD A {
+	FONT-SIZE: 1em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+.elencoSitiTable TD.descrizione {
+	BACKGROUND-COLOR: #f1f2ed
+}
+.elencoSitiTable TD.descrizione {
+	WIDTH: 80%
+}
+.elencoSitiTable UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 20px; VERTICAL-ALIGN: middle; COLOR: #333333; LINE-HEIGHT: 1.1em; PADDING-TOP: 0px; FONT-STYLE: normal! important; LIST-STYLE-TYPE: none
+}
+.elencoSitiTable TD.descrizione UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.85em! important; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 20px; VERTICAL-ALIGN: middle; COLOR: #333333; LINE-HEIGHT: 1.1em; PADDING-TOP: 0px; FONT-STYLE: normal! important; LIST-STYLE-TYPE: none
+}
+.elencoSitiTable LI A {
+	COLOR: #6f6e40; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+.elencoSitiTable LI A:hover {
+	COLOR: #555555; TEXT-DECORATION: underline
+}
+#tabellaInternaPag {
+	FONT-SIZE: 0.9em; COLOR: #333333; LINE-HEIGHT: 1.4em; MARGIN-RIGHT: 20px; TEXT-ALIGN: left
+}
+#tabellaInternaPag TD {
+	FONT-SIZE: 0.9em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+#tabellaInternaPag TD A {
+	FONT-SIZE: 0.9em; COLOR: #333333; LINE-HEIGHT: 1.4em
+}
+#tabellaInternaPag TD.descrizione {
+	BACKGROUND-COLOR: #f1f2ed
+}
+#tabellaInternaPag TD.descrizione {
+	WIDTH: 80%
+}
+#tabellaInternaPag UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 20px; VERTICAL-ALIGN: middle; COLOR: #333333; LINE-HEIGHT: 1.1em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#tabellaInternaPag LI A {
+	COLOR: #6f6e40; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#tabellaInternaPag LI A:hover {
+	COLOR: #555555; TEXT-DECORATION: underline
+}
+#contenuto .tornasu {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.8em; COLOR: #990000; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; TEXT-ALIGN: right
+}
+#contenuto .tornasu A {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.8em; COLOR: #990000; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; BACKGROUND-COLOR: transparent
+}
+#contenuto .tornasu A:hover {
+	COLOR: #444444; BACKGROUND-COLOR: transparent
+}
+#mappaSito UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 0.9em; LIST-STYLE-IMAGE: url(/img/spacer.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 20px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#mappaSito LI {
+	PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: 0px; COLOR: #6f6e40; PADDING-TOP: 0px
+}
+#mappaSito LI A {
+	COLOR: #000000; BACKGROUND-COLOR: transparent; TEXT-DECORATION: underline
+}
+#mappaSito LI A:hover {
+	COLOR: #333333; BACKGROUND-COLOR: #e6e6dc; TEXT-DECORATION: underline
+}
+#mappaSito UL.mappaLivello {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: normal; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista.gif); PADDING-BOTTOM: 10px; MARGIN: 10px 10px 0px 40px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #f6f6f4
+}
+#mappaSito UL.mappaLivelloDue {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: normal; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista2.gif); PADDING-BOTTOM: 10px; MARGIN: 10px 0px 0px 35px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #f6f6f4
+}
+#mappaSito UL.mappaLivelloTre {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: normal; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista3.gif); PADDING-BOTTOM: 10px; MARGIN: 10px 0px 0px 50px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #f6f6f4
+}
+.tdPdf {
+	WIDTH: 10%
+}
+DIV.clearer {
+	HEIGHT: 0px
+}
+#contenuto OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; PADDING-BOTTOM: 0px; MARGIN: 0px 50px 0px 90px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px
+}
+#ultimoAggiornamento {
+	PADDING-RIGHT: 2px; BORDER-TOP: #c6191d 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 2px; MARGIN-RIGHT: 5px; PADDING-TOP: 2px; BORDER-BOTTOM: #c6191d 1px solid; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+#ultimoAggiornamento A {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #c6191d
+}
+#ultimoAggiornamento A:hover {
+	DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 0.7em; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #990c0f; TEXT-DECORATION: underline
+}
+#ultimoAggiornamento A:active {
+	COLOR: #ffffff; BACKGROUND-COLOR: #c6191d
+}
+.tdFormChiara {
+	PADDING-RIGHT: 4px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 0.8em; PADDING-BOTTOM: 4px; LINE-HEIGHT: 1.3em; PADDING-TOP: 4px; BACKGROUND-COLOR: #ffffff
+}
+.tdFormScura {
+	PADDING-RIGHT: 4px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 0.8em; PADDING-BOTTOM: 4px; LINE-HEIGHT: 1.3em; PADDING-TOP: 4px; BACKGROUND-COLOR: #f1f2ed
+}
+.tdFormInvio {
+	PADDING-RIGHT: 10px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 1em; PADDING-BOTTOM: 10px; LINE-HEIGHT: 1.3em; PADDING-TOP: 10px; BACKGROUND-COLOR: #ffffff
+}
+#contenuto UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista2.gif); PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#contenuto UL UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista3.gif); PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#contenuto UL UL UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; LIST-STYLE-IMAGE: url(/img/quadrato_lista4.gif); PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#contenuto OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; PADDING-BOTTOM: 0px; MARGIN: 0px 50px 0px 90px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+#contenuto OL OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+#contenuto OL OL OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+#contenuto OL OL OL OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+#contenuto OL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 30px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; LIST-STYLE-TYPE: decimal
+}
+#contenuto IMG.nocontornotesto {
+	CLEAR: both! important; BORDER-RIGHT: #6f6e40 1px solid; BORDER-TOP: #6f6e40 1px solid; FLOAT: none! important; MARGIN: 0px 5px 5px 0px; BORDER-LEFT: #6f6e40 1px solid; BORDER-BOTTOM: #6f6e40 1px solid
+}

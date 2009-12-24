@@ -1,0 +1,40 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1   1948   644 ?        Ss   10:22   0:01 init [2]  
+root         2  0.0  0.0      0     0 ?        SN   10:22   0:00 [ksoftirqd/0]
+root         3  0.0  0.0      0     0 ?        S<   10:22   0:00 [events/0]
+root         4  0.0  0.0      0     0 ?        S<   10:22   0:00 [khelper]
+root         5  0.0  0.0      0     0 ?        S<   10:22   0:00 [kthread]
+root         8  0.0  0.0      0     0 ?        S<   10:22   0:00 [kblockd/0]
+root         9  0.0  0.0      0     0 ?        S<   10:22   0:00 [kacpid]
+root        87  0.0  0.0      0     0 ?        S<   10:22   0:00 [kseriod]
+root       129  0.0  0.0      0     0 ?        S    10:22   0:00 [pdflush]
+root       130  0.0  0.0      0     0 ?        S    10:22   0:00 [pdflush]
+root       131  0.0  0.0      0     0 ?        S<   10:22   0:00 [kswapd0]
+root       132  0.0  0.0      0     0 ?        S<   10:22   0:00 [aio/0]
+root       565  0.0  0.0      0     0 ?        S<   10:23   0:00 [khubd]
+root       850  0.0  0.0      0     0 ?        S<   10:23   0:00 [kjournald]
+root      1026  0.0  0.1   2180   588 ?        S<s  10:23   0:00 udevd --daemon
+root      1269  0.0  0.0      0     0 ?        S<   10:23   0:00 [kpsmoused]
+root      1497  0.0  0.0      0     0 ?        S<   10:23   0:00 [kmirrord]
+daemon    1581  0.0  0.0   1688   368 ?        Ss   10:23   0:00 /sbin/portmap
+root      1812  0.0  0.1   1628   620 ?        Ss   10:23   0:00 /sbin/syslogd
+root      1818  0.0  0.0   1580   380 ?        Ss   10:23   0:00 /sbin/klogd -x
+root      1887  0.0  0.1   1572   556 ?        Ss   10:23   0:00 /usr/sbin/acpid -c /etc/acpi/events -s /var/run/acpid.socket
+100       1930  0.0  0.1   5344   996 ?        Ss   10:23   0:00 /usr/sbin/exim4 -bd -q30m
+root      2047  0.0  0.1   1748   564 ?        Ss   10:23   0:00 /usr/sbin/inetd
+root      2068  0.0  0.2   4928  1088 ?        Ss   10:23   0:00 /usr/sbin/sshd
+statd     2090  0.0  0.1   1760   740 ?        Ss   10:23   0:00 /sbin/rpc.statd
+daemon    2100  0.0  0.0   1828   420 ?        Ss   10:23   0:00 /usr/sbin/atd
+root      2107  0.0  0.1   2192   748 ?        Ss   10:23   0:00 /usr/sbin/cron
+root      2134  0.0  0.0   1572   492 tty1     Ss+  10:23   0:00 /sbin/getty 38400 tty1
+root      2136  0.0  0.0   1576   496 tty2     Ss+  10:23   0:00 /sbin/getty 38400 tty2
+root      2137  0.0  0.0   1572   488 tty3     Ss+  10:23   0:00 /sbin/getty 38400 tty3
+root      2138  0.0  0.0   1576   492 tty4     Ss+  10:23   0:00 /sbin/getty 38400 tty4
+root      2139  0.0  0.0   1576   496 tty5     Ss+  10:23   0:00 /sbin/getty 38400 tty5
+root      2149  0.0  0.0   1576   492 tty6     Ss+  10:23   0:00 /sbin/getty 38400 tty6
+root      2254  3.0 32.2 565236 166780 ?       Sl   10:32   0:29 /usr/lib/jvm/java-1.5.0-sun-1.5.0.14/jre/bin/java -DSTART=/usr/share/jetty6/etc/start.config -Xmx256m -Djava.awt.headless=true -Djetty.home=/usr/share/jetty6 -Djava.io.tmpdir=/var/cache/jetty6 -jar /usr/share/jetty6/start.jar /etc/jetty6/jetty-logging.xml /etc/jetty6/jetty.xml
+root      2305  0.0  0.4   7704  2360 ?        Ss   10:40   0:00 sshd: root@pts/1 
+root      2307  0.0  0.3   4004  1740 pts/1    Ss   10:40   0:00 -bash
+root      2319  0.0  0.4   8040  2404 ?        Ss   10:42   0:00 sshd: root@notty 
+root      2321  0.0  0.2   4236  1332 ?        Ss   10:42   0:00 /usr/lib/openssh/sftp-server
+root      2337  0.0  0.1   3432   984 pts/1    R+   10:48   0:00 ps -aux

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+
+ <link type="text/css" href="./css/grafo.css" rel="stylesheet"/>
+ <script type="text/javascript" src="./js/menu.js"></script>
+   
+ </HEAD>
+ <BODY onload="loadParam();">
+
+<table class="menu">
+	<tr>
+		<td colspan="2" class="titolo">Visualizza il grafo della norma corrente per</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" class="query" id="inRef"><a href="#" onclick="showGraph('inRef');">chi la cita</a></td>
+	</tr>
+	<tr>
+		<td colspan="2" class="query" id="outRef"><a href="#" onclick="showGraph('outRef');">chi &egrave; citato</a></td>
+	</tr>
+	<tr>
+		<td colspan="2" class="query" id="inMod"><a href="#" onclick="showGraph('inMod');">chi la modifica</a></td>
+	</tr>
+	<tr>
+		<td colspan="2" class="query" id="outMod"><a href="#" onclick="showGraph('outMod');">chi ne &egrave; modificato</a></td>
+	</tr>
+		<tr>
+		<td colspan="2">&nbsp;</td>
+	</tr>
+	
+		<tr>
+		<td colspan="2" class="titolo">Spostati tra le norme che<br/> hai visitato</td>
+	</tr>
+
+	<tr>
+		<td><img id="undo" src="./img/undoDisable.gif" align="right"/></td>
+		<td><img id="redo" src="./img/redoDisable.gif" align="left"/></td>
+	</tr>
+	<tr>
+		<td colspan="2">&nbsp;</td>
+	</tr>
+<tr>
+		<td colspan="2" class="query"><a href="../index.xql?panel=search" target="_parent">Torna alla Ricerca</a></td>
+	</tr>
+
+</table>
+ </BODY>
+</HTML>

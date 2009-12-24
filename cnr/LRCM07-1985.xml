@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19850117" num="3" tipo="BURC" />
+					<entratainvigore norm="19850201" />
+					<redazione id="red1" nome="Regione Campania" norm="20080501" url="http://www.regione.campania.it" />
+					<urn finevigore="t2" iniziovigore="t1" valore="urn:nir:regione.campania:legge:1985-01-03;7" />
+					<urn finevigore="t3" iniziovigore="t2" valore="urn:nir:regione.campania:legge:1985-01-03;7@19850426" />
+					<urn finevigore="t4" iniziovigore="t3" valore="urn:nir:regione.campania:legge:1985-01-03;7@19891228" />
+					<urn finevigore="t5" iniziovigore="t4" valore="urn:nir:regione.campania:legge:1985-01-03;7@19950406" />
+					<urn finevigore="t6" iniziovigore="t5" valore="urn:nir:regione.campania:legge:1985-01-03;7@20000328" />
+					<urn iniziovigore="t6" valore="urn:nir:regione.campania:legge:1985-01-03;7@20010811" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19850201" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19850524" fonte="rp1" id="t2" tipo="" />
+						<evento data="19900116" fonte="rp2" id="t3" tipo="" />
+						<evento data="19950419" fonte="rp3" id="t4" tipo="" />
+						<evento data="20000404" fonte="rp4" id="t5" tipo="" />
+						<evento data="20010830" fonte="rp5" id="t6" tipo="" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.campania:legge:1985-01-03;7" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1985-04-26;31" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1995-04-06;14" xlink:type="simple" />
+						<passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple" />
+						<passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2001-08-11;10" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="??" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1985-04-26;31" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1985-04-26;31#art1" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 legge Regione Campania 26 aprile 1985, n. 31" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="h6" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="h5" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4-com3-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1989-12-28;27#art4-com1" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 4 Comma 1 legge Regione Campania 28 dicembre 1989, n. 27" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11-t4-com5-t3" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4-com3-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4-com8-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1989-12-28;27#art4-com2" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 4 Comma 2 legge Regione Campania 28 dicembre 1989, n. 27" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11-t4-com4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4-com8-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4-com5-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1989-12-28;27#art4-com2" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 4 Comma 2 legge Regione Campania 28 dicembre 1989, n. 27" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11-t4-com4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4-com5-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4-com1-pun1-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1989-12-28;27#art4-com3" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 4 Comma 3 legge Regione Campania 28 dicembre 1989, n. 27" id="itt5" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11-t4-com1-pun4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4-com1-pun1-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4-com1-pun5-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1989-12-28;27" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1989-12-28;27#art4-com3" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 4 Comma 3 legge Regione Campania 28 dicembre 1989, n. 27" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11-t4-com1-pun4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4-com1-pun5-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art11-t4" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:1995-04-06;14" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:1995-04-06;14#art1" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 legge Regione Campania 6 aprile 1995, n. 14" id="itt7" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art11" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art11-t4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="sez3-t5" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com3" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 3 legge Regione Campania 28 marzo 2000, n. 8" id="itt8" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="sez3-t5" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art1-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com4" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 4 legge Regione Campania 28 marzo 2000, n. 8" id="itt9" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="h1" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art14-com1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com4-letb" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 4 Lettera b legge Regione Campania 28 marzo 2000, n. 8" id="itt10" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="h2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art14-com2-t5" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com4-letc" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 4 Lettera c legge Regione Campania 28 marzo 2000, n. 8" id="itt11" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art14-com2-t5" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art16-t6-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com4-letd" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 4 Lettera d legge Regione Campania 28 marzo 2000, n. 8" id="itt12" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="h3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art17-t6-com1-pun9" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2000-03-28;8" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2000-03-28;8#art1-com4-lete" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 1 Comma 4 Lettera e legge Regione Campania 28 marzo 2000, n. 8" id="itt13" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="h4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:sostituzione completa="no" implicita="no">
+							<dsp:pos xlink:href="art16-t6" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2001-08-11;10" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2001-08-11;10#art44-com1" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 44 Comma 1 legge Regione Campania 11 agosto 2001, n. 10" id="itt14" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="art16" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art16-t6" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="no" implicita="no">
+							<dsp:pos xlink:href="art17-t6" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:regione.campania:legge:2001-08-11;10" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:regione.campania:legge:2001-08-11;10#art44-com2" xlink:type="simple" />
+								<ittig:notavigenza auto="Articolo 44 Comma 2 legge Regione Campania 11 agosto 2001, n. 10" id="itt15" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="art17-t6" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Regione Campania</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19850103">3 gennaio 1985</dataDoc>
+				, n. 
+				<numDoc>7</numDoc>
+				<titoloDoc>&lt;&lt; Riorganizzazione dell' intervento regionale in materia di sperimentazione, informazione e consulenza in agricoltura &gt;&gt;.</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio Regionale ha approvato. </h:p>
+				<h:p>Il Commissario del Governo ha apposto il visto. </h:p>
+				<h:p>Il Presidente della Giunta Regionale</h:p>
+				<h:p>promulga la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<sezione id="sez1">
+					<num>SEZ. I</num>
+					<rubrica>FINALITÀ</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Finalità</rubrica>
+						<comma id="art1-com1">
+							<num />
+							<alinea>Allo scopo di promuovere l' incremento della produttività e dei redditi in agricoltura e di creare i presupposti per lo studio dell' adeguamento strutturale delle aziende agricole ed il migliore recepimento degli indirizzi di politica agraria attraverso: </alinea>
+							<ep id="art1-com1-pun1">
+								<num>-</num>
+								<corpo>l' elevazione delle capacità professionali ed imprenditoriali degli operatori agricoli; </corpo>
+							</ep>
+							<ep id="art1-com1-pun2">
+								<num>-</num>
+								<corpo>il miglioramento del quadro conoscitivo cui gli stessi possono far riferimento; </corpo>
+							</ep>
+							<ep id="art1-com1-pun3">
+								<num>-</num>
+								<corpo>la diffusione dei moderni metodi di gestione aziendale; </corpo>
+							</ep>
+							<ep id="art1-com1-pun4">
+								<num>-</num>
+								<corpo>lo studio per l' individuazione delle dimensioni aziendali adeguate ai moderni processi produttivi.</corpo>
+							</ep>
+						</comma>
+						<comma id="art1-com2">
+							<num />
+							<corpo>
+								Con la presente legge viene disposta la riorganizzazione ed il potenziamento delle strutture pubbliche 
+								<h:span finevigore="t5" id="h1" iniziovigore="t1" status="abrogato">e di quelle autogestite dalle organizzazioni agricole</h:span>
+								per interventi nei campi della sperimentazione, dell' informazione e della consulenza in agricoltura.
+							</corpo>
+						</comma>
+					</articolo>
+				</sezione>
+				<sezione id="sez2">
+					<num>SEZ. II</num>
+					<rubrica>SERVIZIO REGIONALE DI SPERIMENTAZIONE, INFORMAZIONE E CONSULENZA IN AGRICOLTURA</rubrica>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>Istituzione del Servizio regionale di Sperimentazione, Informazione e Consulenza in Agricoltura</rubrica>
+						<comma id="art2-com1">
+							<num />
+							<corpo>
+								Per la realizzazione degli interventi di cui al 
+								<rif xlink:href="#art1" xlink:type="simple">precedente art. 1</rif>
+								, è istituito, ai sensi della 
+								<rif xlink:href="urn:nir:regione.campania:legge:1975-05-14;29" xlink:type="simple">LR 14 maggio 1975, n. 29</rif>
+								e successive modificazioni, il &lt;&lt; Servizio Sperimentazione, Informazione e Consulenza in Agricoltura &gt;&gt;. 
+							</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num />
+							<corpo>
+								La sovraintendenza operativa sul Servizio di cui al 
+								<rif xlink:href="#art2-com1" xlink:type="simple">comma</rif>
+								precedente e sul Servizio Agricoltura, Caccia e Pesca, in sede di adozione del provvedimento di cui all' 
+								<rif xlink:href="urn:nir:regione.campania:statuto:#art33" xlink:type="simple">art. 33 dello Statuto regionale</rif>
+								, va attribuita ad un unico Assessore. 
+							</corpo>
+						</comma>
+						<comma id="art2-com3">
+							<num />
+							<corpo>
+								Il Servizio di cui al 
+								<rif xlink:href="#art2-com1" xlink:type="simple">1º comma</rif>
+								si articola in un centro regionale di coordinamento, cinque centri provinciali quali articolazioni specializzate degli ispettorati provinciali dell' agricoltura e trentacinque centri zonali le cui aree di operatività - allegato A - sono delimitate a seconda degli ambiti territoriali considerati ai fini dei piani zonali di sviluppo agricolo. 
+							</corpo>
+						</comma>
+						<comma id="art2-com4">
+							<num />
+							<corpo>La competenza territoriale di ciascuna struttura provinciale è riferita alle aree di operatività che ricadono in tutto o in prevalenza nei confini provinciali.</corpo>
+						</comma>
+						<comma id="art2-com5">
+							<num />
+							<corpo>
+								Eventuali modifiche alla delimitazione delle aree di operatività di cui al 
+								<rif xlink:href="#art2-com4" xlink:type="simple">comma</rif>
+								precedente , correlate dalla ridelimitazione degli ambiti territoriali considerati ai fini dei piani zonali di sviluppo agricolo, saranno definite con provvedimenti della Giunta regionale, sentita la competente Commissione Consiliare. 
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>Compiti e funzioni delle strutture centrali e periferiche</rubrica>
+						<comma id="art3-com1">
+							<num />
+							<alinea />
+							<el id="art3-com1-leta">
+								<num>a) </num>
+								<alinea>
+									Centro regionale di coordinamento 
+									<h:br />
+									Il centro regionale di coordinamento di cui al 
+									<rif xlink:href="#art2" xlink:type="simple">precedente art. 2</rif>
+									dovrà curare in particolare: 
+								</alinea>
+								<ep id="art3-com1-leta-pun1">
+									<num>-</num>
+									<corpo>l' indirizzo e la programmazione, il coordinamento ed il controllo delle attività di sperimentazione, informazione e consulenza in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun2">
+									<num>-</num>
+									<corpo>il collegamento e la collaborazione con le istituzioni di ricerca e sperimentazione agraria;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun3">
+									<num>-</num>
+									<corpo>la messa a punto, anche attraverso specifiche attività di ricerca, dei metodi, delle tecniche e dei sussidi per la promozione, l' informazione e la consulenza in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun4">
+									<num>-</num>
+									<corpo>
+										l' elaborazione dei dati rilevati attraverso la rete di contabilità agraria della Campania, di cui al 
+										<rif xlink:href="#art6" xlink:type="simple">successivo art. 6</rif>
+										, e attraverso ogni altro rilevamento riguardante l' agricoltura; 
+									</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun5">
+									<num>-</num>
+									<corpo>il collegamento con gli organi regionali, gli Enti e le istituzioni che operano nel campo della formazione professionale;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun6">
+									<num>-</num>
+									<corpo>il collegamento con gli organi regionali della programmazione economica e della pianificazione territoriale;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun7">
+									<num>-</num>
+									<corpo>la elaborazione e diffusione di pubblicazioni periodiche a carattere divulgativo;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun8">
+									<num>-</num>
+									<corpo>l' attuazione delle iniziative di sperimentazione, informazione e consulenza in agricoltura a carattere regionale;</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun9">
+									<num>-</num>
+									<corpo>la formazione e l' aggiornamento del personale impiegato, in collaborazione con il &lt;&lt; Consorzio interregionale per la Formazione dei Divulgatori Agricoli Abruzzo, Campania e Molise &gt;&gt;.</corpo>
+								</ep>
+								<ep id="art3-com1-leta-pun10">
+									<num>-</num>
+									<corpo>gli studi e le ricerche finalizzate all' individuazione delle strutture e degli ordinamenti produttivi che massimizzino l' utilizzazione delle risorse disponibili.</corpo>
+								</ep>
+							</el>
+							<el id="art3-com1-letb">
+								<num>b)</num>
+								<alinea>
+									Centri provinciali 
+									<h:br />
+									I centri provinciali sono istituiti presso gli Ispettorati provinciali dell' Agricoltura e dovranno curare in particolare: 
+								</alinea>
+								<ep id="art3-com1-letb-pun1">
+									<num>-</num>
+									<corpo>le attività amministrative connesse all' attuazione dei programmi operativi di propria competenza e di quelli affidati ai centri zonali per l' informazione e la consulenza in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun2">
+									<num>-</num>
+									<corpo>la gestione dei servizi tecnici a carattere provinciale di supporto alle attività di informazione e consulenza in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun3">
+									<num>-</num>
+									<corpo>il controllo periodico sullo stato di attuazione dei programmi operativi delle strutture zonali.</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun4">
+									<num>-</num>
+									<corpo>la collaborazione con gli Enti territoriali operanti in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun5">
+									<num>-</num>
+									<corpo>il coordinamento zonale di tutti gli interventi nel settore, al fine di pervenire all' integrazione delle azioni operative pubbliche e private;</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun6">
+									<num>-</num>
+									<corpo>
+										i servizi di informazione, di orientamento tecnologico ed organizzativo e di consulenza, erogati a livello specialistico anche a supporto ed integrazione delle attività svolte dagli organismi di cui al 
+										<rif xlink:href="#art8" xlink:type="simple">successivo art. 8</rif>
+										; 
+									</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun7">
+									<num>-</num>
+									<corpo>la gestione dei servizi di supporto a carattere zonale;</corpo>
+								</ep>
+								<ep id="art3-com1-letb-pun8">
+									<num>-</num>
+									<corpo>il rilevamento delle informazioni utili ai fini dell' impianto e gestione di basi informative per l' agricoltura.</corpo>
+								</ep>
+							</el>
+							<el id="art3-com1-letc">
+								<num>c)</num>
+								<alinea>
+									Centri zonali 
+									<h:br />
+									I Centri zonali per l' informazione e la consulenza in agricoltura dovranno in particolare curare: 
+								</alinea>
+								<ep id="art3-com1-letc-pun1">
+									<num>-</num>
+									<corpo>la collaborazione con gli Enti territoriali operanti in agricoltura;</corpo>
+								</ep>
+								<ep id="art3-com1-letc-pun2">
+									<num>-</num>
+									<corpo>il coordinamento zonale di tutti gli interventi nel settore, al fine di pervenire all' integrazione delle azioni operative pubbliche e private;</corpo>
+								</ep>
+								<ep id="art3-com1-letc-pun3">
+									<num>-</num>
+									<corpo>
+										i servizi di informazione, di orientamento tecnologico ed organizzativo e di consulenza, erogati a livello specialistico anche a supporto ed integrazione delle attività svolte dagli organismi di cui al 
+										<rif xlink:href="#art8" xlink:type="simple">successivo art. 8</rif>
+										; 
+									</corpo>
+								</ep>
+								<ep id="art3-com1-letc-pun4">
+									<num>-</num>
+									<corpo>la gestione dei servizi di supporto a carattere zonale;</corpo>
+								</ep>
+								<ep id="art3-com1-letc-pun5">
+									<num>-</num>
+									<corpo>il rilevamento delle informazioni utili ai fini dell' impianto e gestione di basi informative per l' agricoltura.</corpo>
+								</ep>
+							</el>
+						</comma>
+						<comma id="art3-com2">
+							<num />
+							<corpo>Le competenze di cui ai commi precedenti comprendono gli interventi regionali in agricoltura comunque definiti di assistenza tecnica, di divulgazione, di valorizzazione della produzione, di promozione, di informazione socio - economica, di ricerca.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>Organizzazione provvisoria del lavoro</rubrica>
+						<comma id="art4-com1">
+							<num />
+							<corpo>Fino all' entrata in vigore della legge riguardante l' organizzazione amministrativa della Giunta regionale, il servizio sperimentazione, informazione e consulenza in agricoltura, svolge i propri compiti per mezzo di gruppi di lavoro attivati presso le strutture centrali e periferiche del Servizio stesso, con apposito provvedimento regionale.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>Organico del servizio</rubrica>
+						<comma id="art5-com1">
+							<num />
+							<corpo>La pianta organica del personale della Giunta regionale è incrementata delle unità previste dalle tabelle di cui all' allegato B).</corpo>
+						</comma>
+						<comma id="art5-com2">
+							<num />
+							<alinea>
+								L' incremento di cui al 
+								<rif xlink:href="#art5-com1" xlink:type="simple">comma</rif>
+								precedente sarà composto: 
+							</alinea>
+							<ep id="art5-com2-pun1">
+								<num>-</num>
+								<corpo>dal personale tecnico di ruolo già in servizio presso le strutture centrali e periferiche del servizio agricoltura, caccia e pesca che alla data del 31 dicembre 1983 risultava impegnato in attività di assistenza tecnica e di statistica agraria; </corpo>
+							</ep>
+							<ep id="art5-com2-pun2">
+								<num>-</num>
+								<corpo>da personale amministrativo già in servizio presso le strutture centrali e periferiche dell' Amministrazione regionale; </corpo>
+							</ep>
+							<ep id="art5-com2-pun3">
+								<num>-</num>
+								<corpo>
+									da personale già assunto in attuazione della 
+									<rif xlink:href="urn:nir:stato:legge:1977-06-01;285" xlink:type="simple">legge 1º giugno 1977, n. 285</rif>
+									ed inserito nel contingente unico regionale, individuato secondo le modalità previste dalle leggi in vigore; 
+								</corpo>
+							</ep>
+							<ep id="art5-com2-pun4">
+								<num>-</num>
+								<corpo>
+									dal personale che alla data del 31 dicembre 1983 operava alle dipendenze dell' Unione Nazionale Comuni e Enti Montani Delegazione Regionale della Campania su concessione della Cassa per il Mezzogiorno per lo svolgimento di attività di promozione dello sviluppo agricolo nelle zone interne, previa partecipazione ai corsi che saranno organizzati dalla Amministrazione regionale ai sensi e in applicazione del 
+									<rif xlink:href="#art5-com3" xlink:type="simple">3º comma</rif>
+									del presente articolo e successivo superamento di pubblico concorso; 
+								</corpo>
+							</ep>
+							<ep id="art5-com2-pun5">
+								<num>-</num>
+								<corpo>
+									dal personale tecnico laureato in agraria inserito nei ruoli della Giunta regionale ai sensi della 
+									<rif xlink:href="urn:nir:regione.campania:legge:1984-07-09;32" xlink:type="simple">legge regionale n. 32 del 9 luglio 1984</rif>
+									, su domanda degli interessati e a seguito di superamento di specifico accertamento dei requisiti professionali ed attitudinali. 
+								</corpo>
+							</ep>
+							<ep id="art5-com2-pun6">
+								<num>-</num>
+								<corpo>
+									da personale tecnico formato in attuazione del 
+									<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">regolamento CEE 270/ 79</rif>
+									, previo superamento di pubblico concorso. 
+								</corpo>
+							</ep>
+						</comma>
+						<comma id="art5-com3">
+							<num />
+							<corpo>
+								Le unità previste in organico che non saranno individuate con le modalità di cui al 
+								<rif xlink:href="#art5-com2" xlink:type="simple">comma</rif>
+								precedente saranno assunte mediante pubblico concorso. 
+							</corpo>
+						</comma>
+						<comma id="art5-com4">
+							<num />
+							<corpo>
+								I tecnici agricoli potranno partecipare al concorso solo se in possesso di attestato di frequenza con profitto agli appositi corsi di formazione che l' Amminisrazione regionale organizzerà con le stesse modalità di selezione e la stessa durata previste per i corsi attuati in applicazione del 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+								. 
+							</corpo>
+						</comma>
+						<comma id="art5-com5">
+							<num />
+							<corpo>
+								L' individuazione e la relativa assegnazione del personale già inserito nei ruoli della Regione e di quello proveniente dalla graduatoria unica regionale formulata in applicazione della 
+								<rif xlink:href="urn:nir:stato:legge:1977-06-01;285" xlink:type="simple">legge 285/ 77</rif>
+								, sarà operata, entro tre mesi dall' entrata in vigore della presente legge, con decreti del Presidente della Giunta regionale; tale personale è tenuto a frequentare corsi di perfezionamento per la durata complessiva di tre mesi distribuiti nell' arco di due anni, ovvero corsi di formazione della durata di nove mesi se non ha mai operato nel campo della assistenza tecnica agricola. 
+							</corpo>
+						</comma>
+						<comma id="art5-com6">
+							<num />
+							<corpo>Allo scopo di tutelare le specifiche professionalità del personale assegnato al Servizio è fatto divieto di utilizzare lo stesso per interventi diversi da quelli indicati dalla presente legge.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>Servizi tecnici di supporto</rubrica>
+						<comma id="art6-com1">
+							<num />
+							<alinea>A supporto delle attività di sperimentazione, informazione e consulenza in agricoltura, la Regione Campania attiva, fra l' altro: </alinea>
+							<el id="art6-com1-leta">
+								<num>a)</num>
+								<corpo>banche - dati che utilizzino soprattutto informazioni provenienti da una rappresentativa rete di contabilità agraria e da altri rilevamenti campionari in agricoltura, da ricerche sull' ambiente fisico e socio - economico, delle statistiche degli interventi di sostegno del settore agricolo;</corpo>
+							</el>
+							<el id="art6-com1-letb">
+								<num>b)</num>
+								<corpo>laboratori di analisi agro - pedologiche;</corpo>
+							</el>
+							<el id="art6-com1-letc">
+								<num>c)</num>
+								<corpo>una rete regionale di agro - metereologia;</corpo>
+							</el>
+							<el id="art6-com1-letd">
+								<num>d)</num>
+								<corpo>la diffusione di informazioni utili agli operatori agricoli pubblici e privati, attraverso servizi di telematica.</corpo>
+							</el>
+						</comma>
+					</articolo>
+				</sezione>
+				<sezione finevigore="t5" id="sez3-t5" iniziovigore="t1" status="abrogato">
+					<num>SEZ. III</num>
+					<rubrica>SOSTEGNO DELLE ATTIVITA' DI ASSISTENZA TECNICA DELLE ORGANIZZAZIONI DEI COLTIVATORI IMPRENDITORI AGRICOLI</rubrica>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>Attività autogestite</rubrica>
+						<comma id="art7-com1">
+							<num />
+							<corpo>
+								La Regione Campania promuove e sostiene iniziative di informazione e consulenza in agricoltura gestite direttamente dagli imprenditori agricoli, riuniti nelle organizzazioni di cui al 
+								<rif xlink:href="#art8" xlink:type="simple">successivo articolo 8</rif>
+								. 
+							</corpo>
+						</comma>
+						<comma id="art7-com2">
+							<num />
+							<corpo>Le iniziative dovranno inquadrarsi in programmi coerenti con i piani zonali di sviluppo agricolo e le altre indicazioni programmatiche formulate dall' Amministrazione regionale.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Associazioni riconosciute</rubrica>
+						<comma id="art8-com1">
+							<num />
+							<alinea>
+								Per la realizzazione degli interventi di cui al precedente 
+								<rif xlink:href="#art7" xlink:type="simple">articolo</rif>
+								la Regione riconosce: 
+							</alinea>
+							<el id="art8-com1-leta">
+								<num>a)</num>
+								<corpo>
+									le associazioni regionali per l' informazione e la consulenza in agricoltura che siano emanazione delle organizzazioni professionali agricole individuate ai sensi ed in applicazione della 
+									<rif xlink:href="urn:nir:regione.campania:legge:1982-08-02;41" xlink:type="simple">legge regionale 2 agosto 1982, n. 41</rif>
+									; 
+								</corpo>
+							</el>
+							<el id="art8-com1-letb">
+								<num>b)</num>
+								<corpo>le associazioni regionali per lo sviluppo della cooperazione che siano emanazione delle associazioni delle cooperative agricole che fanno capo alle organizzazioni nazionali di vigilanza e tutela giuridicamente riconosciute;</corpo>
+							</el>
+							<el id="art8-com1-letc">
+								<num>c)</num>
+								<corpo>le Associazioni di Produttori riconosciute ai sensi della vigente legislazione sono assimilate, agli effetti della presente legge, alle Associazioni di cui ai precedenti punti a) e b).</corpo>
+							</el>
+						</comma>
+						<comma id="art8-com2">
+							<num />
+							<corpo>Le associazioni di cui al presente articolo dovranno costituire &lt;&lt; Gruppi di sviluppo agricolo &gt;&gt; ovvero &lt;&lt; Gruppi di gestione cooperativa &gt;&gt;, ciascuno formato da un numero di aziende agricole o di cooperative tale da assicurare un equilibrato rapporto tra tecnici impiegati ed aziende servite, sulla base di indicazioni che saranno fornite dalla Giunta regionale, sentita la Commissione Consiliare competente.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>Compiti delle Associazioni</rubrica>
+						<comma id="art9-com1">
+							<num />
+							<alinea>
+								Ai fini dell' applicazione della presente legge, gli statuti delle Associazioni di cui al 
+								<rif xlink:href="#art8" xlink:type="simple">precedente art. 8</rif>
+								, dovranno prevedere lo svolgimento dei compiti specificati di seguito: 
+							</alinea>
+							<el id="art9-com1-leta">
+								<num>a)</num>
+								<alinea>associazione di cui al punto a): </alinea>
+								<ep id="art9-com1-leta-pun1">
+									<num>-</num>
+									<corpo>informazione e orientamento tecnico a favore degli imprenditori associati, in armonia con gli indirizzi di politica agraria generali e specifici; </corpo>
+								</ep>
+								<ep id="art9-com1-leta-pun2">
+									<num>-</num>
+									<corpo>
+										assistenza ai Gruppi associati costituiti prevalentemente da coltivatori diretti in applicazione all' 
+										<rif xlink:href="urn:nir:stato:legge:1975-05-09;153#art30" xlink:type="simple">art. 30 , della legge 9 maggio 1975, n. 153</rif>
+										; 
+									</corpo>
+								</ep>
+								<ep id="art9-com1-leta-pun3">
+									<num>-</num>
+									<corpo>assistenza agli imprenditori agricoli ai fini della formulazione ed esecuzione di piani di sviluppo aziendale ed interaziendale; </corpo>
+								</ep>
+								<ep id="art9-com1-leta-pun4">
+									<num>-</num>
+									<corpo>assistenza agli imprenditori agricoli ai fini di una più efficiente gestione aziendale, anche attraverso la tenuta della contabilità ; </corpo>
+								</ep>
+								<ep id="art9-com1-leta-pun5">
+									<num>-</num>
+									<corpo>attività di collaudo di nuove tecnologie agricole.</corpo>
+								</ep>
+							</el>
+							<el id="art9-com1-letb">
+								<num>b)</num>
+								<alinea>associazione di cui al punto b): </alinea>
+								<ep id="art9-com1-letb-pun1">
+									<num>-</num>
+									<corpo>promozione della costituzione di cooperative agricole; </corpo>
+								</ep>
+								<ep id="art9-com1-letb-pun2">
+									<num>-</num>
+									<corpo>qualificazione ed aggiornamento dei soci e quadri delle cooperative; </corpo>
+								</ep>
+								<ep id="art9-com1-letb-pun3">
+									<num>-</num>
+									<corpo>assistenza alle cooperative nella formulazione ed attuazione dei programmi di attività ; </corpo>
+								</ep>
+								<ep id="art9-com1-letb-pun4">
+									<num>-</num>
+									<corpo>assistenza alle cooperative ai fini della gestione amministrativa e delle attività in comune.</corpo>
+								</ep>
+							</el>
+							<el id="art9-com1-letc">
+								<num>c)</num>
+								<alinea>le associazioni dei produttori, riconosciute ai fini della presente legge, operano nei seguenti campi: </alinea>
+								<ep id="art9-com1-letc-pun1">
+									<num>-</num>
+									<corpo>informazioni di mercato; </corpo>
+								</ep>
+								<ep id="art9-com1-letc-pun2">
+									<num>-</num>
+									<corpo>valorizzazione della produzione; </corpo>
+								</ep>
+								<ep id="art9-com1-letc-pun3">
+									<num>-</num>
+									<corpo>programmazione collettiva della produzione.</corpo>
+								</ep>
+							</el>
+						</comma>
+						<comma id="art9-com2">
+							<num />
+							<corpo>La sovraintendenza sulle attività promozionali e di assistenza tecnica, comprese quelle relative alla tenuta dei libri genealogici, che vengono realizzate in collaborazione con le Associazioni degli Allevatori, ai sensi delle leggi regionali in vigore, viene affidata al Servizio Sperimentazione, Informazione e Consulenza in Agricoltura.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>Riconoscimento degli organismi associativi</rubrica>
+						<comma id="art10-com1">
+							<num />
+							<alinea>
+								Ai fini del loro riconoscimento le Associazioni di cui al 
+								<rif xlink:href="#art8" xlink:type="simple">precedente art. 8</rif>
+								dovranno possedere i seguenti requisiti: 
+							</alinea>
+							<ep id="art10-com1-pun1">
+								<num>-</num>
+								<corpo>essere costituite da lameno 2000 imprenditori agricoli, corrispondenti ad altrettante aziende, ovvero disporre di una base produttiva di almeno 8000 ettari, se trattasi di Associazioni di cui al punto a); </corpo>
+							</ep>
+							<ep id="art10-com1-pun2">
+								<num>-</num>
+								<corpo>essere costituite per la durata non inferiore a 10 anni; </corpo>
+							</ep>
+							<ep id="art10-com1-pun3">
+								<num>-</num>
+								<corpo>avere autonomia gestionale e amministrativa.</corpo>
+							</ep>
+						</comma>
+						<comma id="art10-com2">
+							<num />
+							<corpo>
+								Per essere riconosciute, le associazioni di cui all' 
+								<rif xlink:href="#art8" xlink:type="simple">art. 8</rif>
+								dovranno inoltrare domanda alla Giunta regionale, secondo le modalità che saranno fissate dalla Giunta stessa entro 60 giorni dall' entrata in vigore della presente legge. 
+							</corpo>
+						</comma>
+						<comma id="art10-com3">
+							<num />
+							<corpo>La Giunta regionale, accertata la sussistenza dei requisiti e verificato che gli imprenditori associati non aderiscono ad altra associazione avente gli stessi scopi, provvede con propria delibera al riconoscimento. </corpo>
+						</comma>
+						<comma id="art10-com4">
+							<num />
+							<corpo>Il riconoscimento potrà essere revocato dalla Giunta regionale qualora vengano accertate irregolarità o sussistano situazioni di perdurante inattività .</corpo>
+						</comma>
+					</articolo>
+					<articolo finevigore="t4" id="art11-t4" iniziovigore="t1" status="abrogato">
+						<num>Art. 11</num>
+						<rubrica>Contributi annuali</rubrica>
+						<comma id="art11-t4-com1">
+							<num />
+							<alinea>
+								Agli organismi di cui al 
+								<rif xlink:href="#art8" xlink:type="simple">precedente art. 8</rif>
+								può essere concesso un contributo in conto capitale sulla spesa ritenuta ammissibile, ivi compresi gli oneri derivanti dall' impiego di personale, per la realizzazione dei programmi annuali di attività , nelle misure appresso indicate: 
+							</alinea>
+							<ep finevigore="t3" id="art11-t4-com1-pun1-t3" iniziovigore="t1" status="abrogato">
+								<num>-</num>
+								<corpo>fino all' 80% per il primo e secondo anno di attività ; </corpo>
+							</ep>
+							<ep id="art11-t4-com1-pun4" iniziovigore="t3">
+								<num>-</num>
+								<corpo>fino al 90% per i primi tre anni di attività ;</corpo>
+							</ep>
+							<ep finevigore="t3" id="art11-t4-com1-pun5-t3" iniziovigore="t1" status="abrogato">
+								<num>-</num>
+								<corpo>fino al 70% dal terzo anno in poi.</corpo>
+							</ep>
+							<ep id="art11-t4-com1-pun4" iniziovigore="t3">
+								<num>-</num>
+								<corpo>fino all' 85% dal quarto anno in poi.</corpo>
+							</ep>
+						</comma>
+						<comma id="art11-t4-com2">
+							<num />
+							<corpo>
+								Ai fini della determinazione degli importi da ammettere a contributo, il trattamento economico del personale impiegato, che dovrà essere in possesso di uno dei titoli di studio ammessi dal 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+								, non potrà superare quello dei dipendenti regionali che svolgono le stesse funzioni ed hanno la stessa anzianità di servizio. 
+							</corpo>
+						</comma>
+						<comma finevigore="t3" id="art11-t4-com3-t3" iniziovigore="t1" status="abrogato">
+							<num />
+							<corpo>
+								Tale personale, inoltre, dovrà essere in possesso di attestato di frequenza con profitto ad uno dei corsi di formazione svolti dai centri interregionali di formazione e aggiornamento dei divulgatori agricoli, istituiti in applicazione del 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+								. 
+							</corpo>
+						</comma>
+						<comma id="art11-t4-com4" iniziovigore="t3">
+							<num />
+							<corpo>
+								Tale personale, imoltre, dovrà essere in possesso di attestato di frequenza con profitto ad uno dei corsi di formazione istituiti in applicazione del 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE n. 270/ 1979</rif>
+								e successive modificazioni, svolti da CIFDAACM o dalle OrganizzazioniProfessionali Agricole riconosciute ai sensi del 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1987-06-15;1760" xlink:type="simple">Regolamento CEE n. 1760/ 1987</rif>
+								. 
+							</corpo>
+						</comma>
+						<comma id="art11-t4-com5">
+							<num />
+							<corpo>In sede di prima applicazione della legge , potranno essere impiegati tecnici agricoli, per un numero complessivo non superiore a 150, che abbiano comunque frequentato con profitto gli appositi corsi di formazione della durata di 9 mesi, articolata in più moduli, che saranno organizzati dalla Regione Campania. Per le unità che abbiano già acquisito una esperienza professionale nel campo dei servizi di sviluppo agricolo - e comunque per un numero complessivo di tecnici non superiore a 30 - i moduli di formazione potranno essere collocati nell' arco di 3 anni e l' assunzione potrà intervenire dopo il primo periodo di formazione metodologica della durata di 3 mesi e la conseguente verifica attitudinale. </corpo>
+						</comma>
+						<comma id="art11-t4-com6">
+							<num />
+							<corpo>I programmi di attività dovranno essere presentati, ai fini del finanziamento, al Servizio Sperimentazione, Informazione e Consulenza in Agricoltura entro il 15 settembre dell' anno precedente a quello cui si riferiscono. Essi dovranno contenere indicazioni puntuali in ordine: alle attività da svolgere; al numero dei &lt;&lt; Gruppi di sviluppo agricolo &gt;&gt;, o &lt;&lt; Gruppi di gestione cooperativa &gt;&gt;, attivati dall' associazione, nonchè alla consistenza ed alla localizzazione territoriale degli stessi; ai divulgatori impiegati; ai costi di gestione amministrativa dei suddetti programmi.</corpo>
+						</comma>
+						<comma id="art11-t4-com7">
+							<num />
+							<corpo>In rapporto alla consistenza numerica dei divulgatori impiegati può essere riconosciuta la costituzione di un nucleo centrale di coordinamento e di collegamento.</corpo>
+						</comma>
+						<comma finevigore="t3" id="art11-t4-com8-t3" iniziovigore="t1" status="abrogato">
+							<num />
+							<corpo>Alla concessione e liquidazione del contributo provvede la Giunta regionale, previa istruttoria del Servizio Sperimentazione, Informazione e Consulenza in Agricoltura operata attraverso le sue strutture centrali e periferiche.</corpo>
+						</comma>
+						<comma id="art11-t4-com4" iniziovigore="t3">
+							<num />
+							<corpo>
+								E' ammessa a contributo, nei limiti di cui al primo comma, la spesa per non più di n. 1 unità amministrativa e per non più di n, 1 unità di segreteria, ancorchè non in possesso dell'attestato di Divulgatore Agricolo, inserite stabilmente nel nucleo centrale di coordinamento e di collegamento. Le spese ammesse ai sensi del precedente comma sono calcolate sulla base del trattamento economico corrisposto ai dipendenti regionali con la qualifica rispettivamente di istruttore e di esecutore. Sono ammissibili a contributo le spese generali (strutture attrezzature, spese di funzionamento e gestione, etc.) nei limiti di cui al primo comma del presente articolo. Il contributo concesso ai sensi del precedente comma non può comunque eccedere il massimale del 30% della spesa ammissibile relativa al trattamento economico dei Divulgatori Agricoli impiegati. I programmi di attività possono essere riferiti al triennio di validità degli indirizzi di cui al 
+								<rif xlink:href="#art16" xlink:type="simple">successivo articolo 16</rif>
+								. Alla concessione dei contributi provvede la Giunta regionale previa istruttoria del Servizio Sperimentazione Informazione e Consulenza in Agricoltura. All' impegno ed alla liquidazione del contributo concesso si provvede annualmente con atto monocratico. 
+							</corpo>
+						</comma>
+						<comma finevigore="t3" id="art11-t4-com5-t3" iniziovigore="t1" status="abrogato">
+							<num />
+							<alinea>La liquidazione viene effettuata: </alinea>
+							<ep id="art11-t4-com5-t3-pun1">
+								<num>-</num>
+								<corpo>per il 75% contestualmente alla concessione; </corpo>
+							</ep>
+							<ep id="art11-t4-com5-t3-pun2">
+								<num>-</num>
+								<corpo>per il 25% a presentazione della documentazione comprovante l' attività svolta. </corpo>
+							</ep>
+						</comma>
+						<comma id="art11-t4-com4" iniziovigore="t3">
+							<num />
+							<corpo>Il pagamento è disposto: per il 75% quale anticipazione sul rateo annuale; per il 25% a presentazione della documentazione comprovante l' attività svolta. Nell' ambito delle funzioni e dei compiti attribuiti al SeSICA (divulgazione specialistica e du supporto) e agli organismi autogestiti di cui alla Legge regionale n. 7/ 1985 (divulgazione di base), i programmi di attività , così come sopra definiti, dovranno assicurare la tutela del profilo professionale dei Divulgatori Agricoli (Allegati 3.1, 3.2 e 3.3) che si approvano con la presente legge. All' impegno e alla liquidazione dei successivi ratei annuali si potrà provvedere previa rendicontazione delle attività svolte e riferite al penultimo contributo erogato.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art11" iniziovigore="t4">
+						<num>Art.11</num>
+						<rubrica>Contributi annuali</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<alinea>Agli organismi di cui al precedente art. 8 può essere concesso un contributo in conto capitale sulla spesa ritenuta ammissibile, ivi compresi gli oneri derivanti dall' impiego di personale, per la realizzazione dei programmi annuali di attività , nelle misure appresso indicate:</alinea>
+							<el id="art11-com1-leta">
+								<num>a)</num>
+								<corpo>fino al 90% per i primi tre anni di attività ; </corpo>
+							</el>
+							<el id="art11-com1-letb">
+								<num>b)</num>
+								<corpo>fino all' 85% dal quarto anno in poi.</corpo>
+							</el>
+							<coda>Il contributo per la quota di spesa ammissibile afferente all' impiego dei divulgatori agricoli potrà essere elevato fino all' ammontare della somma rimborsata alla Regione, in attuazione del Regolamento CEE n. 2052/ 88 e successive modificazioni e integrazioni.</coda>
+						</comma>
+						<comma id="art11-com2">
+							<num>2.</num>
+							<corpo>
+								Ai fini della determinazione degli importi da ammettere a contributo, il trattamento economico del personale impiegato, che dovrà essere in possesso di uno dei titoli di studio ammessi dal 
+								<rif xlink:href="urn:nir:comunita.europee+comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+								, non potrà superare quello dei dipendenti regionali che svolgono le stesse funzioni ed hanno la stessa anzianità di servizio.
+							</corpo>
+						</comma>
+						<comma id="art11-com3">
+							<num>3.</num>
+							<corpo>
+								Tale personale, inoltre, dovrà essere in possesso di attestato di frequenza con profitto ad uno dei corsi di formazione istituiti in applicazione del 
+								<rif xlink:href="urn:nir:comunita.europee+comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE nº 270/ 1979</rif>
+								e successive modificazioni, svolti dal CIFDA - ACM o dalle Organizzazioni Professionali Agricole riconosciute ai sensi del 
+								<rif xlink:href="urn:nir:comunita.europee+comunita.europee:regolamento:1987-06-15;1760" xlink:type="simple">Regolamento CEE n. 1760/ 1987</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art11-com4">
+							<num>4.</num>
+							<corpo>In sede di prima applicazione della legge, potranno essere impiegati tecnici agricoli, per un numero complessivo non superiore a 150, che abbiano comunque frequentato con profitto gli appositi corsi di formazione della durata di 9 mesi, articolata in più moduli, che saranno organizzati dalla Regione Campania. Per le unità che abbiano già acquisito una esperienza professionale nel campo dei servizi di sviluppo agricolo - e comunque per un numero complessivo di tecnici non superiore a 30 - i moduli di formazione potranno essere collocati nell' arco di 3 anni e l' assunzione potrà intervenire dopo il primo periodo di formazione metodologica della durata di 3 mesi e la conseguente verifica attitudinale.</corpo>
+						</comma>
+						<comma id="art11-com5">
+							<num>5.</num>
+							<corpo>I programmi di attività dovranno essere presentati, ai fini del finanziamento, al Servizio Sperimentazione, Informazione e Consulenza in Agricoltura entro il 15 settembre dell' anno precedente a quello a cui si riferiscono. Essi dovranno contenere indicazioni puntuali in ordine: alle attività da svolgere; al numero dei &quot; Gruppi di sviluppo agricolo&quot; o &quot; Gruppi di gestione cooperative&quot;, attivati dall' associazione, nonchè alla consistenza ed alla localizzazione territoriale degli stessi; ai divulgatori impiegati; ai costi di gestione amministrativa dei suddetti programmi. In rapporto alla consistenza numerica dei divulgatori impiegati può essere riconosciuta la costituzione di un nucleo centrale di coordinamento e di collegamento.</corpo>
+						</comma>
+						<comma id="art11-com6">
+							<num>6.</num>
+							<corpo>E' ammessa a contributo la spesa per non più di 2 unità amministrative e per non più di una unità di segreteria, ancorchè non in possesso dell' attestato di divulgatore agricolo, inserite stabilmente nel nucleo centrale di coordinamento e di collegamento.</corpo>
+						</comma>
+						<comma id="art11-com7">
+							<num>7.</num>
+							<corpo>Le spese ammesse ai sensi del precedente comma sono calcolate sulla base del trattamento economico corrisposto ai dipendenti regionali con la qualifica rispettivamente di istruttore e di esecutore. </corpo>
+						</comma>
+						<comma id="art11-com8">
+							<num>8.</num>
+							<corpo>Sono ammissibili a contributo le spese generali per strutture, funzionamento e gestione nella misura forfettaria e non da rendicontare del 7% della spesa totale ritenuta ammissibile. </corpo>
+						</comma>
+						<comma id="art11-com9">
+							<num>9.</num>
+							<corpo>
+								I programmi di attività possono essere riferiti al triennio di validità degli indirizzi di cui al 
+								<rif xlink:href="#art16" xlink:type="simple">successivo art. 16</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art11-com10">
+							<num>10.</num>
+							<corpo>Alla concessione del contributo provvede la Giunta regionale previa istruttoria del Servizio Sperimentazione Informazione e Consulenza in Agricoltura.</corpo>
+						</comma>
+						<comma id="art11-com11">
+							<num>11.</num>
+							<corpo>All' impegno ed alla liquidazione del contributo concesso si provvede annualmente con atto monocratico. </corpo>
+						</comma>
+						<comma id="art11-com12">
+							<num>12.</num>
+							<alinea>. Il pagamento del contributo viene effettuato in tre quote anticipate con le seguenti modalità : </alinea>
+							<el id="art11-com12-leta">
+								<num>a)</num>
+								<corpo>per il 35% entro il 31 gennaio di ciascun anno;</corpo>
+							</el>
+							<el id="art11-com12-letb">
+								<num>b)</num>
+								<corpo>per il 35% su richiesta delle Associazioni beneficiarie, che dovranno dimostrare di aver impegnato la prima quota di finanziamento erogato;</corpo>
+							</el>
+							<el id="art11-com12-letc">
+								<num>c)</num>
+								<corpo>per il 30% su richiesta delle Associazioni beneficiarie che dovranno dimostrare di aver impegnato la seconda quota di finanziamento erogato. </corpo>
+							</el>
+						</comma>
+						<comma id="art11-com13">
+							<num>13.</num>
+							<corpo>Nell' ambito delle funzioni e dei compiti attribuiti al SeSICA (divulgazione specialistica e di supporto) e agli organismi autogestiti di cui alla legge regionale n. 7/ 1985 (divulgazione di base) i programmi di attività , così come sopra definiti, dovranno assicurare la tutela del profilo professionale dei Divulgatori agricoli (allegati 3.1, 3.2 e 3.3) che si approvano con la presente legge.</corpo>
+						</comma>
+						<comma id="art11-com14">
+							<num>14.</num>
+							<corpo>La rendicontazione delle spese sostenute dovrà essere presentata entro il 30 giugno dell' anno successivo a quello di riferimento. </corpo>
+						</comma>
+						<comma id="art11-com15">
+							<num>15.</num>
+							<corpo>La mancata approvazione del rendiconto comporta la sospensione dei benefici della presente legge. </corpo>
+						</comma>
+					</articolo>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>Rapporto sulle attività di informazione e consulenza in agricoltura</rubrica>
+						<comma id="art12-com1">
+							<num />
+							<corpo>
+								Il Servizio Sperimentazione, Informazione e Consulenza in Agricoltura trasmette alla Giunta regionale, con cadenza semestrale, un dettagliato rapporto sullo stato di attuazione del programma annuale di cui al 
+								<rif xlink:href="#art16" xlink:type="simple">successivo art. 16</rif>
+								, dovranno essere forniti tutti gli elementi occorrenti per una precisa valutazione delle modalità di attuazione delle stesse, dei livelli professionali e di impegno dei divulgatori impiegati, della validità ed efficacia del Servizio che nel complesso viene reso agli associati. 
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<rubrica>Vincoli</rubrica>
+						<comma id="art13-com1">
+							<num />
+							<corpo>
+								Agli organismi di cui al 
+								<rif xlink:href="#art8" xlink:type="simple">precedente articolo 8</rif>
+								, non potranno essere concessi contributi per nuove iniziative se tutte quelle precedentemente finanziate non siano state portate a termine nei tempi previsti ed in modo soddisfacente. 
+							</corpo>
+						</comma>
+						<comma id="art13-com2">
+							<num />
+							<corpo>Nel caso in cui venga accertato che i tecnici assunti per lo svolgimento di iniziative autogestite siano stati impiegati per attività diverse, la Giunta regionale, su proposta dell' Assessore all' Agricoltura, provvede alla revoca dei finanziamenti assegnati ed al recupero delle somme già accreditate.</corpo>
+						</comma>
+					</articolo>
+				</sezione>
+				<sezione id="sez4">
+					<num>SEZ. IV</num>
+					<rubrica>QUALIFICAZIONE PROFESSIONALE DEL PERSONALE IMPIEGATO</rubrica>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>Corsi di aggiornamento</rubrica>
+						<comma id="art14-com1">
+							<num />
+							<corpo>
+								I tecnici impiegati dal Servizio Sperimentazione, Informazione e Consulenza in Agricoltura 
+								<h:span finevigore="t5" id="h2" iniziovigore="t1" status="abrogato">
+									e dagli organismi di cui al 
+									<rif xlink:href="#art8" xlink:type="simple">precedente art. 8</rif>
+								</h:span>
+								, dovranno partecipare annualmente a seminari di aggiornamento della durata complessiva di almeno 15 giorni. 
+							</corpo>
+						</comma>
+						<comma finevigore="t5" id="art14-com2-t5" iniziovigore="t1" status="abrogato">
+							<num />
+							<corpo>I seminari saranno realizzati in collaborazione con il &lt;&lt; Consorzio Interregionale per la Formazione dei Divulgatori Agricoli - Abruzzo, Campania e Molise &gt;&gt;.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art15">
+						<num>Art. 15</num>
+						<rubrica>Albo degli Informatori e Consulenti Agricoli della Campania</rubrica>
+						<comma id="art15-com1">
+							<num />
+							<corpo>Allo scopo di promuovere e tutelare la specifica qualificazione professionale dei tecnici impiegati nel settore regolamentato dalla presente legge, è istituito l' Albo degli Informatori e Consulenti Agricoli della Campania.</corpo>
+						</comma>
+						<comma id="art15-com2">
+							<num />
+							<alinea>Potranno chiedere l' iscrizione all' albo i tecnici che avranno frequentato con profitto: </alinea>
+							<ep id="art15-com2-pun1">
+								<num>-</num>
+								<corpo>
+									i corsi di formazione svolti in applicazione della 
+									<rif xlink:href="urn:nir:comunita.europee:direttiva:1972;161" xlink:type="simple">direttiva CEE 161/ 72</rif>
+									e del 
+									<rif xlink:href="urn:nir:comunita.europee:regolamento:1979-02-06;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+									; 
+								</corpo>
+							</ep>
+							<ep id="art15-com2-pun2">
+								<num>-</num>
+								<corpo>
+									i corsi organizzati dall' Amministrazione regionale in attuazione del progetto &lt;&lt; Assistenza Tecnica in Agricoltura &gt;&gt; formulato in applicazione della 
+									<rif xlink:href="urn:nir:stato:legge:1977-06-01;285" xlink:type="simple">legge 285/ 77</rif>
+									; 
+								</corpo>
+							</ep>
+							<ep id="art15-com2-pun3">
+								<num>-</num>
+								<corpo>i corsi che saranno organizzati e svolti in applicazione della presente legge.</corpo>
+							</ep>
+						</comma>
+						<comma id="art15-com3">
+							<num />
+							<corpo>In sede di primo impianto dell' Albo potranno chiedere l' iscrizione i tecnici che siano in possesso di un attestato rilasciato da un Ente pubblico comprovante l' impiego continuativo in attività di assistenza tecnica per lameno 3 anni.</corpo>
+						</comma>
+						<comma id="art15-com4">
+							<num />
+							<corpo>Entro 6 mesi dall' entrata in vigore della presente legge, la Giunta regionale sentite le Commissioni Consiliari competenti, emanerà un regolamento per l' impianto e la tenuta dell' Albo degli Informatori e Consulenti Agricoli della Campania. </corpo>
+						</comma>
+					</articolo>
+				</sezione>
+				<sezione id="sez5">
+					<num>SEZ. V</num>
+					<rubrica>PROGRAMMAZIONE DELLE ATTIVITÀ</rubrica>
+					<articolo finevigore="t6" id="art16-t6" iniziovigore="t1" status="abrogato">
+						<num>Art. 16</num>
+						<rubrica>Indirizzi e programmi di attività </rubrica>
+						<comma id="art16-t6-com1">
+							<num />
+							<corpo>Gli indirizzi di programmazione degli interventi regionali nel Settore della Sperimentazione, Informazione e Consulenza in Agricoltura sono definiti a cadenza triennale dalla Giunta regionale, sentita la Commissione Consiliare competente. L' attuazione degli indirizzi è disposta attraverso programmi annuali definiti dal Servizio Sperimentazione, Informazione e Consulenza in Agricoltura ed approvati dalla Giunta regionale, sentito il Comitato Consultivo.</corpo>
+						</comma>
+						<comma id="art16-t6-com2">
+							<num />
+							<alinea>
+								Gli indirizzi ed i programmi di cui al precedente 
+								<rif xlink:href="#art16-com1" xlink:type="simple">comma</rif>
+								dovranno riguardare le attività da attuarsi direttamente dal Servizio Sperimentazione, Informazione e Consulenza in Agricoltura, quelle da attuarsi a cura e su proposta dell' Ente regionale di sviluppo Agricolo in Campania nel campo della valorizzazione commerciale dei prodotti agricoli e della promozione cooperativa 
+								<h:span finevigore="t5" id="h3" iniziovigore="t1" status="abrogato">
+									e quelli a cura degli organismi di cui all' 
+									<rif xlink:href="#art8" xlink:type="simple">art. 8</rif>
+								</h:span>
+								della presente legge e saranno formulati sulla base: 
+							</alinea>
+							<ep id="art16-t6-com2-pun1">
+								<num>-</num>
+								<corpo>delle risultanze delle attività svolte nel periodo precedente; </corpo>
+							</ep>
+							<ep id="art16-t6-com2-pun2">
+								<num>-</num>
+								<corpo>dei documenti di programmazione in agricoltura a carattere zonale, regionale, nazionale e comunitario; </corpo>
+							</ep>
+							<ep id="art16-t6-com2-pun3">
+								<num>-</num>
+								<corpo>dei documenti di programmazione intersettoriale; </corpo>
+							</ep>
+							<ep id="art16-t6-com2-pun4">
+								<num>-</num>
+								<corpo>delle indicazioni provenienti dalla ricerca e sperimentazione. </corpo>
+							</ep>
+						</comma>
+					</articolo>
+					<articolo id="art16" iniziovigore="t6">
+						<num>Art.16</num>
+						<rubrica>Indirizzi e programmi di attività</rubrica>
+						<comma id="art16-com1">
+							<num />
+							<corpo>Gli interventi regionali nel campo dei servizi di sviluppo agricolo sono definiti con programmi annuali predisposti dal Settore Sperimentazione, Informazione, Consulenza, Ricerca in Agricoltura dell’AGC Sviluppo Attività Settore Primario ed approvati dalla Giunta Regionale. I programmi saranno formulati sulla base delle risultanze delle attività svolte nel periodo precedente, dei documenti di programmazione in agricoltura a carattere zonale, regionale, nazionale e comunitario, delle indicazioni provenienti dalla ricerca e sperimentazione.</corpo>
+						</comma>
+					</articolo>
+					<articolo finevigore="t6" id="art17-t6" iniziovigore="t1" status="abrogato">
+						<num>Art. 17</num>
+						<rubrica>Comitato Consultivo</rubrica>
+						<comma id="art17-t6-com1">
+							<num />
+							<alinea>Ai fini dell' applicazione della presente legge è istituito il &lt;&lt; Comitato Consultivo per la Sperimentazione, Informazione e Consulenza in Agricoltura &gt;&gt;, composto da: </alinea>
+							<ep id="art17-t6-com1-pun1">
+								<num>-</num>
+								<corpo>l' Assessore all' Agricoltura, che lo presiede; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun2">
+								<num>-</num>
+								<corpo>il Coordinatore del Servizio Sperimentazione, Informazione e Consulenza in Agricoltura; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun3">
+								<num>-</num>
+								<corpo>il Coordinatore del Servizio Agricoltura, Caccia e Pesca; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun4">
+								<num>-</num>
+								<corpo>il Coordinatore del Servizio Foreste; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun5">
+								<num>-</num>
+								<corpo>il Direttore dell' Ente regionale di Sviluppo Agricolo o suo delegato; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun6">
+								<num>-</num>
+								<corpo>tre rappresentanti della Facoltà di Agraria di Portici; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun7">
+								<num>-</num>
+								<corpo>tre rappresentanti degli Istituti Sperimentali dell' Agricoltura, facenti capo al Ministero dell' Agricoltura e Foreste; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun8">
+								<num>-</num>
+								<corpo>un rappresentante del Consiglio Nazionale delle Ricerche; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun9">
+								<num>-</num>
+								<corpo>
+									<h:span finevigore="t5" id="h4" iniziovigore="t1" status="abrogato">
+										un rappresentante designato da ciascuna Associazione di cui ai 
+										<mrif>
+											punti 
+											<rif xlink:href="#art8-com1-leta" xlink:type="simple">a)</rif>
+											e 
+											<rif xlink:href="#art8-com1-letb" xlink:type="simple">b) </rif>
+											dell' art. 8 
+										</mrif>
+										della presente legge;
+									</h:span>
+								</corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun10">
+								<num>-</num>
+								<corpo>un rappresentante di ciascuna Unione delle Associazioni dei produttori riconosciute ai fini dell' applicazione della presente legge; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun11">
+								<num>-</num>
+								<corpo>un rappresentante designato dall' Associazione regionale degli allevatori della Campania; </corpo>
+							</ep>
+							<ep id="art17-t6-com1-pun12">
+								<num>-</num>
+								<corpo>un funzionario del Servizio Sperimentazione e Consulenza in Agricoltura, con funzione di Segretario.</corpo>
+							</ep>
+						</comma>
+						<comma id="art17-t6-com2">
+							<num />
+							<corpo>
+								Il Comitato dura in carica tre anni e viene convocato dall' Assessore regionale all' Agricoltura per esprimere pareri in ordine agli indirizzi ed ai programmi di cui al 
+								<rif xlink:href="#art16" xlink:type="simple">precedente art. 16</rif>
+								. 
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art18">
+						<num>Art. 18</num>
+						<rubrica>Norme finanziarie</rubrica>
+						<comma id="art18-com1">
+							<num />
+							<corpo>A partire dall' esercizio 1985 la legge regionale di approvazione del bilancio di previsione determinerà per ciascun esercizio finanziario lo stanziamento da destinarsi agli interventi previsti dalla presente legge a carico del bilancio regionale. </corpo>
+						</comma>
+					</articolo>
+				</sezione>
+				<sezione id="sez6">
+					<num>SEZ. VI</num>
+					<rubrica>NORME TRANSITORIE</rubrica>
+					<articolo id="art19">
+						<num>Art. 19</num>
+						<comma id="art19-com1">
+							<num />
+							<corpo>Il personale già impiegato da organizzazioni agricole per attività promozionali e di assistenza tecnica sostenute da finanziamenti pubblici può godere di titolo preferenziale ai fini della partecipazione ai corsi di formazione ed ai concorsi previsti dalla presente legge, semprechè in possesso degli altri requisiti prescritti.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art20">
+						<num>Art. 20</num>
+						<comma id="art20-com1">
+							<num />
+							<alinea>
+								Alle Organizzazioni di cui all' 
+								<rif xlink:href="#art8" xlink:type="simple">art. 8</rif>
+								punto a) e b) relativamente all' anno 1985, per la costituzione delle Associazioni di cui all' 
+								<rif xlink:href="#art10" xlink:type="simple">art. 10</rif>
+								, può essere concesso un contributo una tanum rapportato al numero di aziende che aderiranno alle associazioni che saranno promosse secondo i seguenti criteri: 
+							</alinea>
+							<ep id="art20-com1-pun1">
+								<num>-</num>
+								<corpo>L. 5 .000 per azienda e fino a 2.000 adesioni; </corpo>
+							</ep>
+							<ep id="art20-com1-pun2">
+								<num>-</num>
+								<corpo>L. 3 .000 per azienda e per le adesioni comprese fra le 2.001 e le 5.000 (cinquemila); </corpo>
+							</ep>
+							<ep id="art20-com1-pun3">
+								<num>-</num>
+								<corpo>L. 1 .000 per azienda e per le adesioni successive alle 5.000. </corpo>
+							</ep>
+						</comma>
+					</articolo>
+					<articolo id="art21">
+						<num>Art. 21</num>
+						<comma id="art21-com1">
+							<num />
+							<corpo>
+								Il personale già assunto in attuazione del progetto &lt;&lt; Assistenza tecnica in agricoltura &gt;&gt; e del progetto &lt;&lt; Assistenza tecnica per lo sviluppo dell' irrigazione &gt;&gt;, elaborati in applicazione della 
+								<rif xlink:href="urn:nir:stato:legge:1977-06-01;285" xlink:type="simple">legge 1 giugno 1977, n. 285</rif>
+								, compreso nel contingente unico regionale previsto dal 
+								<rif xlink:href="urn:nir:stato:legge:1984-05-16;138#art5-com2" xlink:type="simple">2º comma dell' art. 5 della legge 16 maggio 1984, n. 138</rif>
+								, che, in servizio alla data 16 maggio 1984 presso le strutture centrali e periferiche del Servizio Agricoltura, Caccia e Pesca, non viene immesso nei ruoli degli Enti indicati nel 
+								<rif xlink:href="#art5-com1" xlink:type="simple">1º comma del citato art. 5</rif>
+								per mancanza di posti disponibili, è collocato in soprannumero nei ruoli organici del personale della Giunta regionale e messo a disposizione del Servizio Sperimentazione, Informazione e Consulenza in Agricoltura. 
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art22">
+						<num>Art. 22</num>
+						<comma id="art22-com1">
+							<num />
+							<corpo>
+								A modifica ed integrazione dell' 
+								<rif xlink:href="urn:nir:regione.campania:legge:1982-08-02;42#art61" xlink:type="simple">art. 61 della legge regionale 2 agosto 1982, n. 42</rif>
+								, a partire dall' 1 gennaio 1985, lo svolgimento delle funzioni regionali connesse all' applicazione dei Regolamenti CEE e dalle norme statali concernenti la regolazione ed il sostegno del mercato agricolo è curato dal Servizio Agricoltura, Caccia e Pesca attraverso gli Ispettorati per l' Alimentazione. 
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art23">
+						<num>Art. 23</num>
+						<comma id="art23-com1">
+							<num />
+							<corpo>
+								Nelle more della promulgazione di un' apposita legge regionale sulla riorganizzazione dell' intervento nel campo della formazione professionale in agricoltura, le attività in tale campo sono svolte dal Servizio Sperimentazione, Informazione e Consulenza in Agricoltura al quale vengono assegnati i tecnici agricoli già impiegati per tali attività ed inseriti nei ruoli della Giunta regionale ai sensi della 
+								<rif xlink:href="urn:nir:regione.campania:legge:1984-07-09;32" xlink:type="simple">legge regionale 9 luglio 1984, n. 32</rif>
+								. 
+							</corpo>
+						</comma>
+					</articolo>
+				</sezione>
+			</articolato>
+			<formulafinale>La presente legge regionale sarà pubblicata nel Bollettino Ufficiale della Regione Campania.E' fatto obbligo, a chiunque spetti, di osservarla e di farla osservare come legge della Regione Campania . </formulafinale>
+			<conclusione>
+				<dataeluogo codice="" norm="">Napoli, 3 gennaio 1985 </dataeluogo>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:p>Allegato A</h:p>
+						</denAnnesso>
+						<titAnnesso>
+							<h:p>SERVIZIO SPERIMENTAZIONE, INFORMAZIONE E CONSULENZA IN AGRICOLTURA</h:p>
+							<h:p>Delimitazione delle aree di operatività dei centri zonali di Informazione e Consulenza in Agricoltura per la Campania </h:p>
+						</titAnnesso>
+						<preAnnesso>
+							<h:p />
+						</preAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.campania:legge:1985-01-03;7:allegato.a" />
+							</descrittori>
+						</meta>
+						<intestazione />
+						<formulainiziale />
+						<contenitore id="con1" nome="">
+							<h:p>
+								Area n. 1 - Monte Santa Croce - Teanese 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Caianiello</h:li>
+								<h:li>Ciorlano (parte non montana) </h:li>
+								<h:li>Conca della Campania </h:li>
+								<h:li>Galluccio</h:li>
+								<h:li>Marzano Appio</h:li>
+								<h:li>Mignano Montelungo</h:li>
+								<h:li>Pietramelara (parte non montana)</h:li>
+								<h:li>Pietravairano </h:li>
+								<h:li>Pratella (parte non montana)</h:li>
+								<h:li>Presenzano </h:li>
+								<h:li>Riardo</h:li>
+								<h:li>Roccadevandro </h:li>
+								<h:li>Roccamonfina</h:li>
+								<h:li>Roccaromana (parte non montana) </h:li>
+								<h:li>S. Pietro Infine </h:li>
+								<h:li>Teano </h:li>
+								<h:li>Tora e Piccilli </h:li>
+								<h:li>Vairano Patenora</h:li>
+								<h:li>Ailano (parte non montana)</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Vairano Patenora.</h:p>
+							<h:p>
+								Area n. 2 - Matese 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Ailano (parte montana)</h:li>
+								<h:li>Alife (parte montana) </h:li>
+								<h:li>Capriati al Volturno</h:li>
+								<h:li>Castello Matese </h:li>
+								<h:li>Ciorlano (parte montana) </h:li>
+								<h:li>Fontegreca</h:li>
+								<h:li>Gallo</h:li>
+								<h:li>Gioia Sannitica</h:li>
+								<h:li>Letino</h:li>
+								<h:li>Piedimonte Matese</h:li>
+								<h:li>Prata Sannitica</h:li>
+								<h:li>Pratella (parte montana) </h:li>
+								<h:li>Raviscanina</h:li>
+								<h:li>S. Angelo d' Alife (parte montana) </h:li>
+								<h:li>S. Gregorio Matese</h:li>
+								<h:li>S. Potito Sannitico</h:li>
+								<h:li>Valle Agricola</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Piedimonte Matese. </h:p>
+							<h:p>
+								Area n. 3 - Monte Maggiore - Caiatina 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Alife (parte non montana) </h:li>
+								<h:li>Alvignano</h:li>
+								<h:li>Baia e Latina</h:li>
+								<h:li>Caiazzo</h:li>
+								<h:li>Castel Campagnano</h:li>
+								<h:li>Castel di Sasso </h:li>
+								<h:li>Dragoni </h:li>
+								<h:li>Formicola </h:li>
+								<h:li>Giano Vetusto (parte montana) </h:li>
+								<h:li>Liberi</h:li>
+								<h:li>Piana di Monte Verna</h:li>
+								<h:li>Pietramelara (parte montana) </h:li>
+								<h:li>Pontelatone</h:li>
+								<h:li>Roccaromana (parte montana) </h:li>
+								<h:li>Rocchetta e Croce </h:li>
+								<h:li>Ruviano</h:li>
+								<h:li>S. Angelo d' Alife (parte non montana)</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Caiazzo.</h:p>
+							<h:p>
+								Area n. 4 - Sessana 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Carinola</h:li>
+								<h:li>Cellole</h:li>
+								<h:li>Falciano del Massico </h:li>
+								<h:li>Francolise</h:li>
+								<h:li>Mondragone</h:li>
+								<h:li>Sessa Aurunca</h:li>
+								<h:li>Sparanise</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Sessa Aurunca.</h:p>
+							<h:p>
+								Area n. 5 - Mazzoni 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Bellona </h:li>
+								<h:li>Calvi Risorta</h:li>
+								<h:li>Camigliano</h:li>
+								<h:li>Cancello e Arnone</h:li>
+								<h:li>Capua</h:li>
+								<h:li>Castelvolturno</h:li>
+								<h:li>Giano Vetusto (parte non montana)</h:li>
+								<h:li>Grazzanise</h:li>
+								<h:li>Pastorano</h:li>
+								<h:li>Pignataro Maggiore</h:li>
+								<h:li>S. Maria La Fossa</h:li>
+								<h:li>S. Tammaro 13) Vitulazio</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Capua. </h:p>
+							<h:p>
+								Area n. 6 - Casertana 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Arienzo</h:li>
+								<h:li>Capodrise</h:li>
+								<h:li>Casagiove</h:li>
+								<h:li>Casapulla </h:li>
+								<h:li>Caserta </h:li>
+								<h:li>Castelmorrone </h:li>
+								<h:li>Cervino </h:li>
+								<h:li>Curti </h:li>
+								<h:li>Macerata Campania </h:li>
+								<h:li>Maddaloni </h:li>
+								<h:li>Marcianise </h:li>
+								<h:li>Portico di Caserta </h:li>
+								<h:li>Recale </h:li>
+								<h:li>S. Felice a Cancello </h:li>
+								<h:li>S. Marco Evangelista </h:li>
+								<h:li>S. Maria a Vico </h:li>
+								<h:li>S. Maria Capua Vetere </h:li>
+								<h:li>S. Nicola La Strada </h:li>
+								<h:li>S. Prisco </h:li>
+								<h:li>Valle di Maddaloni</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Caserta.</h:p>
+							<h:p>
+								Area n. 7 - Aversana 
+								<h:br />
+								Comuni: (provincia di Caserta) 
+							</h:p>
+							<h:ol>
+								<h:li>Aversa </h:li>
+								<h:li>Carinaro </h:li>
+								<h:li>Casal di Principe </h:li>
+								<h:li>Casaluce </h:li>
+								<h:li>Casapesenna </h:li>
+								<h:li>Cesa </h:li>
+								<h:li>Frignano </h:li>
+								<h:li>Gricignano d' Aversa </h:li>
+								<h:li>Lusciano </h:li>
+								<h:li>Orta di Atella </h:li>
+								<h:li>Parete </h:li>
+								<h:li>S. Arpino </h:li>
+								<h:li>S. Cipriano d' Aversa </h:li>
+								<h:li>S. Marcellino </h:li>
+								<h:li>Succivo </h:li>
+								<h:li>Teverola </h:li>
+								<h:li>Trentola Ducenta </h:li>
+								<h:li>Villa di Briano </h:li>
+								<h:li>Villa Literno</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Aversa.</h:p>
+							<h:p>
+								Area n. 8 - Titerno - Alto Tammaro 
+								<h:br />
+								Comuni: (provincia di Benevento) 
+							</h:p>
+							<h:ol>
+								<h:li>Campolattaro (parte montana) </h:li>
+								<h:li>Castelpagano</h:li>
+								<h:li>Cerreto Sannita </h:li>
+								<h:li>Circello </h:li>
+								<h:li>Colle Sannita </h:li>
+								<h:li>Cusano Mutri </h:li>
+								<h:li>Faicchio (parte montana) </h:li>
+								<h:li>Morcone </h:li>
+								<h:li>Pietraroia </h:li>
+								<h:li>Pontelandolfo </h:li>
+								<h:li>Reino (parte montana) </h:li>
+								<h:li>S. Lorenzello </h:li>
+								<h:li>S. Lupo (parte montana) </h:li>
+								<h:li>S. Salvatore Telesino (parte montana) </h:li>
+								<h:li>Sassinoro </h:li>
+								<h:li>S. Croce del Sannio</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Morcone. </h:p>
+							<h:p>
+								Area n. 9 - Fortore 
+								<h:br />
+								Comuni: (provincia di Benevento) 
+							</h:p>
+							<h:ol>
+								<h:li>Baselice </h:li>
+								<h:li>Buonalbergo (parte montana) </h:li>
+								<h:li>Castelfranco in Miscano </h:li>
+								<h:li>Castelvetere in Valfortore</h:li>
+								<h:li>Foiano di Valfortore </h:li>
+								<h:li>Ginestra degli Schiavoni </h:li>
+								<h:li>Molinara </h:li>
+								<h:li>Montefalcone in Valfortore </h:li>
+								<h:li>S. Bartolomeo in Galdo </h:li>
+								<h:li>S. Giorgio La Molara </h:li>
+								<h:li>S. Marco dei Cavoti</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: S. Marco dei Cavoti.</h:p>
+							<h:p>
+								Area n. 10 - Valle Telesina 
+								<h:br />
+								Comuni: (provincia di Benevento) 
+							</h:p>
+							<h:ol>
+								<h:li>Amorosi </h:li>
+								<h:li>Castelvenere </h:li>
+								<h:li>Dugenta </h:li>
+								<h:li>Faicchio (parte non montana) </h:li>
+								<h:li>Frasso Telesino (parte non montana) </h:li>
+								<h:li>Guardia Sanframondi </h:li>
+								<h:li>Limatola </h:li>
+								<h:li>Melizzano </h:li>
+								<h:li>Paupisi </h:li>
+								<h:li>Ponte </h:li>
+								<h:li>Puglianello </h:li>
+								<h:li>S. Lorenzo Maggiore </h:li>
+								<h:li>S. Lupo (parte non montana) </h:li>
+								<h:li>S. Salvatore Telesino (parte non montana) </h:li>
+								<h:li>Solopaca (parte non montana)</h:li>
+								<h:li>Telese</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Telese.</h:p>
+							<h:p>
+								Area n. 11 - Taburno - Valle Caudina 
+								<h:br />
+								Comuni: (provincia di Benevento) 
+							</h:p>
+							<h:ol>
+								<h:li>Airola </h:li>
+								<h:li>Arpaia (parte non montana) </h:li>
+								<h:li>Arpaise </h:li>
+								<h:li>Bonea </h:li>
+								<h:li>Bucciano </h:li>
+								<h:li>Cautano </h:li>
+								<h:li>Durazzano </h:li>
+								<h:li>Forchia (parte non montana) </h:li>
+								<h:li>Frasso Telesino (parte montana) </h:li>
+								<h:li>Moiano </h:li>
+								<h:li>Montesarchio </h:li>
+								<h:li>Paolisi (parte non montana) </h:li>
+								<h:li>S. Agata dei Goti </h:li>
+								<h:li>Solopaca (parte montana) </h:li>
+								<h:li>Tocco Caudio </h:li>
+								<h:li>Vitulano</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Montesarchio. </h:p>
+							<h:p>
+								Area. n. 12 - Colline Beneventane 
+								<h:br />
+								Comuni: (provincia di Benevento) 
+							</h:p>
+							<h:ol>
+								<h:li>Apice (parte non montana) </h:li>
+								<h:li>Apollosa </h:li>
+								<h:li>Benevento </h:li>
+								<h:li>Buonalbergo (parte non montana) </h:li>
+								<h:li>Calvi </h:li>
+								<h:li>Campolattaro (parte non montana) </h:li>
+								<h:li>Campoli di Monte Taburno </h:li>
+								<h:li>Casalduni </h:li>
+								<h:li>Castelpoto </h:li>
+								<h:li>Ceppaloni </h:li>
+								<h:li>Foglianise</h:li>
+								<h:li>Fragneto l' Abate </h:li>
+								<h:li>Fragneto Monforte </h:li>
+								<h:li>Paduli </h:li>
+								<h:li>Pago Veiano </h:li>
+								<h:li>Pesco Sannita </h:li>
+								<h:li>Pietrelcina </h:li>
+								<h:li>Reino (parte non montana) </h:li>
+								<h:li>S. Angelo a Cupolo </h:li>
+								<h:li>S. Arcangelo Trimonte </h:li>
+								<h:li>S. Giorgio del Sannio </h:li>
+								<h:li>S. Leucio del Sannio </h:li>
+								<h:li>S. Martino Sannita </h:li>
+								<h:li>S. Nazzaro </h:li>
+								<h:li>S. Nicola Manfredi </h:li>
+								<h:li>Torrecuso</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Benevento.</h:p>
+							<h:p>
+								Area n. 13 - Ufita 
+								<h:br />
+								Comuni: 
+							</h:p>
+							<h:ol>
+								<h:li>
+									Apice (parte montana) (provincia di Benevento). 
+									<h:br />
+									Provincia di Avellino: 
+								</h:li>
+								<h:li>Ariano Irpino</h:li>
+								<h:li>Carife </h:li>
+								<h:li>Casalbore </h:li>
+								<h:li>Castel Baronia (parte montana) </h:li>
+								<h:li>Flumeri (parte montana) </h:li>
+								<h:li>Frigento (parte montana) </h:li>
+								<h:li>Greci </h:li>
+								<h:li>Montaguto </h:li>
+								<h:li>Montecalvo Irpino (parte montana) </h:li>
+								<h:li>S. Nicola Baronia </h:li>
+								<h:li>S. Sossio Baronia </h:li>
+								<h:li>Savignano Irpino </h:li>
+								<h:li>Scampitella </h:li>
+								<h:li>Trevico </h:li>
+								<h:li>Vallata </h:li>
+								<h:li>Vallesaccarda </h:li>
+								<h:li>Villanova del Battista </h:li>
+								<h:li>Zungoli </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Ariano Irpino. </h:p>
+							<h:p>
+								Area n. 14 - Alta Irpinia 
+								<h:br />
+								Comuni: (provincia di Avellino) 
+							</h:p>
+							<h:ol>
+								<h:li>Andretta </h:li>
+								<h:li>Aquilonia </h:li>
+								<h:li>Bisaccia </h:li>
+								<h:li>Cairano </h:li>
+								<h:li>Calitri </h:li>
+								<h:li>Conza della Campania </h:li>
+								<h:li>Guardia dei Lombardi </h:li>
+								<h:li>Lacedonia </h:li>
+								<h:li>Lioni </h:li>
+								<h:li>Monteverde </h:li>
+								<h:li>Morra De Sanctis </h:li>
+								<h:li>Rocca S. Felice </h:li>
+								<h:li>S. Andrea di Conza </h:li>
+								<h:li>S. Angelo dei Lombardi </h:li>
+								<h:li>Teora </h:li>
+								<h:li>Torella dei Lombardi (parte montana) </h:li>
+							</h:ol>
+							<h:p>
+								<h:span finevigore="t2" id="h5" iniziovigore="t1" status="abrogato">Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: S. Angelo dei Lombardi - Sede Coordinata: Calitri.</h:span>
+								<h:span id="h6" iniziovigore="t2">Le sedi del Centro zonale per l' informazione e la consulenza in Agricoltura sono: Sant' Angelo dei Lombardi e Calitri.</h:span>
+							</h:p>
+							<h:p>
+								Area n. 15 - Ter minio Cervialto 
+								<h:br />
+								Accanto ad ogni comune viene indicata la sigla della provincia: 
+							</h:p>
+							<h:ol>
+								<h:li>Acerno SA </h:li>
+								<h:li>Bagnoli Irpino AV </h:li>
+								<h:li>Cassano Irpino (parte montana) AV </h:li>
+								<h:li>Castelfranci (parte montana) AV </h:li>
+								<h:li>Castelvetere sul Calore AV </h:li>
+								<h:li>Chiusano S. Domenico AV </h:li>
+								<h:li>Giffoni Valle Piana (parte montana) SA </h:li>
+								<h:li>Montecorvino Rovella (parte montana) SA </h:li>
+								<h:li>Montella AV </h:li>
+								<h:li>Montemarano AV </h:li>
+								<h:li>Nusco AV </h:li>
+								<h:li>Olevano sul Tusciano SA </h:li>
+								<h:li>Salza Irpina (parte montana) AV </h:li>
+								<h:li>S. Lucia di Serino (parte montana) AV </h:li>
+								<h:li>S. Mango sul Calore (parte montana) AV </h:li>
+								<h:li>S. Stefano del Sole (parte montana) AV </h:li>
+								<h:li>Serino (parte montana) AV </h:li>
+								<h:li>Sorbo Serpico (parte montana) AV </h:li>
+								<h:li>Volturara Irpina AV</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Montella. </h:p>
+							<h:p>
+								Area n. 16 - Vallo Lauro e Baianese 
+								<h:br />
+								Accanto ad ogni comune viene indicata la sigla della provincia: 
+							</h:p>
+							<h:ol>
+								<h:li>Arpaia (parte montana) BN </h:li>
+								<h:li>Avella (parte montana) AV </h:li>
+								<h:li>Baiano (parte montana) AV </h:li>
+								<h:li>Bracigliano (parte montana) SA</h:li>
+								<h:li>Cervinara (parte montana) AV </h:li>
+								<h:li>Forchia (parte montana) BN </h:li>
+								<h:li>Lauro (parte montana) AV </h:li>
+								<h:li>Mercogliano (parte montana) AV </h:li>
+								<h:li>Montefusco AV </h:li>
+								<h:li>Moschiano (parte montana) AV </h:li>
+								<h:li>Mugnano del Cardinale (parte montana) AV </h:li>
+								<h:li>Ospedaletto D' Alpinolo (parte montana) AV </h:li>
+								<h:li>Pannarano BN </h:li>
+								<h:li>Paolisi (parte montana) BN </h:li>
+								<h:li>Pietrastornina (parte montana) AV </h:li>
+								<h:li>Quadrelle AV </h:li>
+								<h:li>Quindici (parte montana) AV </h:li>
+								<h:li>Roccarainola (parte montana) NA </h:li>
+								<h:li>Rotondi (parte montana) AV </h:li>
+								<h:li>S. Martino Valle Caudina (parte montana) AV </h:li>
+								<h:li>S. Angelo a Scala AV </h:li>
+								<h:li>S. Paolina AV </h:li>
+								<h:li>Sarno (parte montana) SA </h:li>
+								<h:li>Sirignano AV</h:li>
+								<h:li>Summonte AV </h:li>
+								<h:li>Taurano AV</h:li>
+								<h:li>Torrioni AV </h:li>
+								<h:li>Visciano NA</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Baiano. </h:p>
+							<h:p>
+								Area n. 17 - Arborata di Avellino 
+								<h:br />
+								Comuni: (provincia di Avellino) 
+							</h:p>
+							<h:ol>
+								<h:li>Aiello del Sabato</h:li>
+								<h:li>Altavilla Irpina </h:li>
+								<h:li>Atripalda</h:li>
+								<h:li>Avella (parte non montana) </h:li>
+								<h:li>Avellino </h:li>
+								<h:li>Baiano (parte non montana) </h:li>
+								<h:li>Capriglia Irpina </h:li>
+								<h:li>Cervinara (parte non montana) </h:li>
+								<h:li>Cesinali </h:li>
+								<h:li>Chianche </h:li>
+								<h:li>Contrada </h:li>
+								<h:li>Domicella </h:li>
+								<h:li>Forino </h:li>
+								<h:li>Grottolella </h:li>
+								<h:li>Lauro (parte non montana) </h:li>
+								<h:li>Manocalzati </h:li>
+								<h:li>Marzano di Nola </h:li>
+								<h:li>Mercogliano (parte non montana) </h:li>
+								<h:li>Monteforte Irpino (parte non montana) </h:li>
+								<h:li>Montefredane </h:li>
+								<h:li>Montoro Inferiore (parte non montana) </h:li>
+								<h:li>Montoro Superiore (parte non montana) </h:li>
+								<h:li>Moschiano (parte non montana) </h:li>
+								<h:li>Mugnano del Cardinale (parte non montana) </h:li>
+								<h:li>Ospedaletto d' Alpinolo (parte non montana) </h:li>
+								<h:li>Pago del Vallo di Lauro </h:li>
+								<h:li>Petruro Irpino </h:li>
+								<h:li>Pietrastornina (parte non montana) </h:li>
+								<h:li>Prata di Principato Ultra </h:li>
+								<h:li>Pratola Serra </h:li>
+								<h:li>Quindici (parte non montana) </h:li>
+								<h:li>Roccabascerana </h:li>
+								<h:li>Rotondi (parte non montana) </h:li>
+								<h:li>Santa Lucia di Serino (parte non montana) </h:li>
+								<h:li>S. Martino Valle Caudina (parte non montana) </h:li>
+								<h:li>S. Michele di Serino </h:li>
+								<h:li>S. Stefano del Sole (parte non montana) </h:li>
+								<h:li>Serino (parte non montana) </h:li>
+								<h:li>Solofra (parte non montana) </h:li>
+								<h:li>Sperone</h:li>
+								<h:li>Tufo </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Avellino.</h:p>
+							<h:p>
+								Area n. 18 - Irpinia Centrale 
+								<h:br />
+								Comuni: (provincia di Avellino) 
+							</h:p>
+							<h:ol>
+								<h:li>Bonito </h:li>
+								<h:li>Candida </h:li>
+								<h:li>Cassano Irpino (parte non montana) </h:li>
+								<h:li>Castel Baronia (parte non montana) </h:li>
+								<h:li>Castel Franci (parte non montana) </h:li>
+								<h:li>Fontanarosa </h:li>
+								<h:li>Flumeri (parte non montana) </h:li>
+								<h:li>Frigento (parte non montana) </h:li>
+								<h:li>Gesualdo </h:li>
+								<h:li>Grottaminarda </h:li>
+								<h:li>Lapio </h:li>
+								<h:li>Luogosano </h:li>
+								<h:li>Melito Irpino </h:li>
+								<h:li>Mirabella Eclano </h:li>
+								<h:li>Montecalvo Irpino (parte non montana) </h:li>
+								<h:li>Montefalcione </h:li>
+								<h:li>Montemiletto </h:li>
+								<h:li>Parolise </h:li>
+								<h:li>Paternopoli </h:li>
+								<h:li>Pietradefusi </h:li>
+								<h:li>Salza Irpina (parte non montana) </h:li>
+								<h:li>Sant' Angelo All' Esca </h:li>
+								<h:li>S. Mango sul Calore (parte non montana)</h:li>
+								<h:li>S. potito Ultra </h:li>
+								<h:li>Sorbo Serpico (parte non montana) </h:li>
+								<h:li>Sturno </h:li>
+								<h:li>Taurasi </h:li>
+								<h:li>Torella dei Lombardi (parte non montana) </h:li>
+								<h:li>Torre le Nocelle </h:li>
+								<h:li>Venticano </h:li>
+								<h:li>Villamaina</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Mirabella Eclano.</h:p>
+							<h:p>
+								Area n. 19 - Flegrea 
+								<h:br />
+								Comuni: (provincia di Napoli) 
+							</h:p>
+							<h:ol>
+								<h:li>Bacoli </h:li>
+								<h:li>Barano d' Ischia </h:li>
+								<h:li>Calvizzano </h:li>
+								<h:li>Casamicciola Terme </h:li>
+								<h:li>Forio </h:li>
+								<h:li>Giugliano in Campania </h:li>
+								<h:li>Ischia </h:li>
+								<h:li>Lacco Ameno </h:li>
+								<h:li>Marano di Napoli </h:li>
+								<h:li>Melito di Napoli </h:li>
+								<h:li>Monte di Procida </h:li>
+								<h:li>Mugnano di Napoli </h:li>
+								<h:li>Napoli </h:li>
+								<h:li>Pozzuoli </h:li>
+								<h:li>Procida </h:li>
+								<h:li>Qualiano </h:li>
+								<h:li>Quarto </h:li>
+								<h:li>S. Antimo </h:li>
+								<h:li>Serrara Fontana </h:li>
+								<h:li>Villaricca</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Giugliano in Campania.</h:p>
+							<h:p>
+								Area n. 20 - Acerrana Nolana 
+								<h:br />
+								Comuni: (provincia di Napoli) 
+							</h:p>
+							<h:ol>
+								<h:li>Acerra </h:li>
+								<h:li>Afragola </h:li>
+								<h:li>Arzano </h:li>
+								<h:li>Brusciano </h:li>
+								<h:li>Caivano </h:li>
+								<h:li>Camposano </h:li>
+								<h:li>Carbonara di Nola </h:li>
+								<h:li>Cardito </h:li>
+								<h:li>Casalnuovo di Napoli </h:li>
+								<h:li>Casamarciano </h:li>
+								<h:li>Casandrino </h:li>
+								<h:li>Casavatore </h:li>
+								<h:li>Casoria </h:li>
+								<h:li>Castello di Cisterna </h:li>
+								<h:li>Cicciano </h:li>
+								<h:li>Cimitile </h:li>
+								<h:li>Comiziano </h:li>
+								<h:li>Crispano </h:li>
+								<h:li>Frattamaggiore </h:li>
+								<h:li>Frattaminore </h:li>
+								<h:li>Grumo Nevano</h:li>
+								<h:li>Liveri </h:li>
+								<h:li>Mariglianella </h:li>
+								<h:li>Marigliano </h:li>
+								<h:li>Nola </h:li>
+								<h:li>Palma Campania </h:li>
+								<h:li>Poggiomarino </h:li>
+								<h:li>Pomigliano d' Arco </h:li>
+								<h:li>Roccarainola (parte non montana) </h:li>
+								<h:li>S. Gennaro Vesuviano </h:li>
+								<h:li>S. Paolo Belsito </h:li>
+								<h:li>S. Vitaliano </h:li>
+								<h:li>Saviano </h:li>
+								<h:li>Scisciano </h:li>
+								<h:li>Striano </h:li>
+								<h:li>Tufino </h:li>
+								<h:li>Volla </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Nola</h:p>
+							<h:p>
+								Area n. 21 - Vesuviana 
+								<h:br />
+								Comuni: (provincia di Napoli) 
+							</h:p>
+							<h:ol>
+								<h:li>Boscoreale </h:li>
+								<h:li>Boscotrecase </h:li>
+								<h:li>Casola di Napoli (parte non montana) </h:li>
+								<h:li>Castellammare di Stabia (parte non montana) </h:li>
+								<h:li>Cercola </h:li>
+								<h:li>Ercolano </h:li>
+								<h:li>Gragnano (parte non montana) </h:li>
+								<h:li>ettere (parte non montana) </h:li>
+								<h:li>Ottaviano </h:li>
+								<h:li>Pollena Trocchia </h:li>
+								<h:li>Pompei </h:li>
+								<h:li>Portici </h:li>
+								<h:li>S. Anastasia </h:li>
+								<h:li>S. Antonio Abate </h:li>
+								<h:li>S. Giorgio a Cremano </h:li>
+								<h:li>S. Giuseppe Vesuviano </h:li>
+								<h:li>S. Maria la Carità </h:li>
+								<h:li>S. Sebastiano al Vesuvio </h:li>
+								<h:li>Somma Vesuviana </h:li>
+								<h:li>Terzigno </h:li>
+								<h:li>Torre Annunziata </h:li>
+								<h:li>Torre del Greco </h:li>
+								<h:li>Trecase </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Boscoreale.</h:p>
+							<h:p>
+								Area n. 22 Penisola Sorrentina e Isola di Capri 
+								<h:br />
+								Comuni: (provincia di Napoli) 
+							</h:p>
+							<h:ol>
+								<h:li>Agerola </h:li>
+								<h:li>Anacapri </h:li>
+								<h:li>Capri </h:li>
+								<h:li>Casola di Napoli (parte montana) </h:li>
+								<h:li>Castellammare di Stabia (parte montana) </h:li>
+								<h:li>Gragnano (parte montana) </h:li>
+								<h:li>Lettere (parte montana) </h:li>
+								<h:li>Massalubrense </h:li>
+								<h:li>Meta di Sorrento </h:li>
+								<h:li>Piano di Sorrento </h:li>
+								<h:li>Pimonte </h:li>
+								<h:li>S. Agnello </h:li>
+								<h:li>Sorrento </h:li>
+								<h:li>Vico Equense</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Castellammare di Stabia. </h:p>
+							<h:p>
+								Area n. 23 - Penisola Amalfitana 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Amalfi</h:li>
+								<h:li>Atrani </h:li>
+								<h:li>Cava dei Tirreni (parte montana) </h:li>
+								<h:li>Cetara </h:li>
+								<h:li>Conca dei Marini </h:li>
+								<h:li>Corbara </h:li>
+								<h:li>Furore </h:li>
+								<h:li>Maiori </h:li>
+								<h:li>Minori </h:li>
+								<h:li>Nocera Inferiore (parte montana) </h:li>
+								<h:li>Nocesa Superiore (parte montana) </h:li>
+								<h:li>Pagani (parte montana) </h:li>
+								<h:li>Positano </h:li>
+								<h:li>Praiano </h:li>
+								<h:li>Ravello </h:li>
+								<h:li>S. Egidio Monte Albino (parte montana </h:li>
+								<h:li>Scala </h:li>
+								<h:li>Tramonti </h:li>
+								<h:li>Vietri sul Mare</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Tramonti. </h:p>
+							<h:p>
+								Area n. 24 - Agro - Nocerino - Sarnese 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Angri</h:li>
+								<h:li>Castel San Giorgio </h:li>
+								<h:li>Cava dei Tirreni (parte non montana) </h:li>
+								<h:li>Nocera Inferiore (parte non montana) </h:li>
+								<h:li>Nocera Superiore (parte non montana) </h:li>
+								<h:li>Pagani (parte non montana) </h:li>
+								<h:li>Roccapiemonte </h:li>
+								<h:li>S. Egidio Monte Albino (parte non montana) </h:li>
+								<h:li>S. Marzano sul Sarno </h:li>
+								<h:li>S. Valentino Torio </h:li>
+								<h:li>Sarno (parte non montana) </h:li>
+								<h:li>Scafati </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Nocera Inferiore.</h:p>
+							<h:p>
+								Area n. 25 - Valle dell' Irno e Com. Capoluogo 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Baronissi (parte non montana) </h:li>
+								<h:li>Bracigliano (parte non montana) </h:li>
+								<h:li>Fisciano (parte non montana) </h:li>
+								<h:li>Giffoni Sei Casali (parte non montana)</h:li>
+								<h:li>Giffoni Valle Piana (parte non montana) </h:li>
+								<h:li>Mercato S. Severino </h:li>
+								<h:li>Pellezzano </h:li>
+								<h:li>Salerno</h:li>
+								<h:li>S. Cipriano Picentino (parte non montana) </h:li>
+								<h:li>S. Mango Piemonte </h:li>
+								<h:li>Siano </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Salerno. </h:p>
+							<h:p>
+								Area n. 26 - Alto e Medio Sele 
+								<h:br />
+								Accanto ad ogni comune viene indicata la sigla della provincia: 
+							</h:p>
+							<h:ol>
+								<h:li>Calabritto AV </h:li>
+								<h:li>Campagna SA </h:li>
+								<h:li>Caposele AV </h:li>
+								<h:li>Castelnuovo di Conza SA </h:li>
+								<h:li>Colliano SA </h:li>
+								<h:li>Contursi (parte montana) SA </h:li>
+								<h:li>Laviano SA </h:li>
+								<h:li>Oliveto Citra SA </h:li>
+								<h:li>Santomenna SA </h:li>
+								<h:li>Senerchia AV </h:li>
+								<h:li>Valva SA </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Oliveto Citra. </h:p>
+							<h:p>
+								Area n. 27 - Piana del Sele 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Albanella (parte non montana) </h:li>
+								<h:li>Altavilla Silentina (parte non montana) </h:li>
+								<h:li>Battipaglia </h:li>
+								<h:li>Capaccio (parte non montana) </h:li>
+								<h:li>Eboli </h:li>
+								<h:li>Montecorvino Pugliano </h:li>
+								<h:li>Montecorvino Rovella (parte non montana) </h:li>
+								<h:li>Pontecagnano Faiano </h:li>
+								<h:li>Serre (parte non montana)</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Eboli </h:p>
+							<h:p>
+								Area n. 28 - Tanagro Mont. e Basso Tanagro 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Auletta </h:li>
+								<h:li>Buccino </h:li>
+								<h:li>Caggiano </h:li>
+								<h:li>Contursi (parte non montana) </h:li>
+								<h:li>Palomonte </h:li>
+								<h:li>Pertosa </h:li>
+								<h:li>Ricigliano </h:li>
+								<h:li>Romagnano al Monte </h:li>
+								<h:li>Salvitelle </h:li>
+								<h:li>S. Gregorio Magno</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Buccino.</h:p>
+							<h:p>
+								Area n. 29 - Alburni 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Aquara </h:li>
+								<h:li>Bellosguardo </h:li>
+								<h:li>Castelcivita </h:li>
+								<h:li>Controne </h:li>
+								<h:li>Corleto Monforte </h:li>
+								<h:li>Ottati </h:li>
+								<h:li>Petina </h:li>
+								<h:li>Postiglione </h:li>
+								<h:li>Roscigno </h:li>
+								<h:li>S. Angelo a Fasanella </h:li>
+								<h:li>Serre (parte montana) </h:li>
+								<h:li>Sicignano degli Alburni </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Postiglione. </h:p>
+							<h:p>
+								Area n. 30 - Calore Salernitano 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Albanella (parte montana) </h:li>
+								<h:li>Altavilla Silentina (parte montana) </h:li>
+								<h:li>Campora </h:li>
+								<h:li>Capaccio (parte montana)</h:li>
+								<h:li>Castel S. Lorenzo </h:li>
+								<h:li>Felitto </h:li>
+								<h:li>Laurino </h:li>
+								<h:li>Magliano Vetere </h:li>
+								<h:li>Monteforte Cilento </h:li>
+								<h:li>Piaggine </h:li>
+								<h:li>Roccadaspide </h:li>
+								<h:li>Sacco </h:li>
+								<h:li>Stio </h:li>
+								<h:li>Trentinara </h:li>
+								<h:li>Valle dell' Angelo</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Roccadaspide.</h:p>
+							<h:p>
+								Area n. 31 - Vallo di Diano 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Atena Lucana </h:li>
+								<h:li>Buonabitacolo </h:li>
+								<h:li>Casalbuono </h:li>
+								<h:li>Monte S. Giacomo </h:li>
+								<h:li>Montesano Sulla Marcellana</h:li>
+								<h:li>Padula </h:li>
+								<h:li>Polla </h:li>
+								<h:li>Sala Consilina </h:li>
+								<h:li>S. Arsenio </h:li>
+								<h:li>S. Pietro al Tanagro </h:li>
+								<h:li>S. Rufo </h:li>
+								<h:li>Sanza </h:li>
+								<h:li>Sassano </h:li>
+								<h:li>Teggiano</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Sala Consilina. </h:p>
+							<h:p>
+								Area n. 32 - Alento M. Stella e Cost. Cilent. 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Agropoli </h:li>
+								<h:li>Castellabbate</h:li>
+								<h:li>Cicerale </h:li>
+								<h:li>Giungano </h:li>
+								<h:li>Laureana Cilento </h:li>
+								<h:li>Lustra </h:li>
+								<h:li>Montecorice </h:li>
+								<h:li>Ogliastro Cilento</h:li>
+								<h:li>Omignano </h:li>
+								<h:li>Perdifumo </h:li>
+								<h:li>Pollica </h:li>
+								<h:li>Prignano Cilento</h:li>
+								<h:li>Rutino</h:li>
+								<h:li>S. Mauro Cilento </h:li>
+								<h:li>Serramezzana</h:li>
+								<h:li>Sessa Cilento</h:li>
+								<h:li>Stella Cilento</h:li>
+								<h:li>Torchiara</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Agropoli. </h:p>
+							<h:p>
+								Area n. 33 - Gelbison Cervati - Valle Alento 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Cannalonga </h:li>
+								<h:li>Casalvelino </h:li>
+								<h:li>Castelnuovo Cilento </h:li>
+								<h:li>Ceraso </h:li>
+								<h:li>Gioi </h:li>
+								<h:li>Moio della Civitella </h:li>
+								<h:li>Novi Velia </h:li>
+								<h:li>Orria </h:li>
+								<h:li>Perito </h:li>
+								<h:li>Salento </h:li>
+								<h:li>Vallo della Lucania</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la consulenza in Agricoltura: Vallo della Lucania. </h:p>
+							<h:p>
+								Area n. 34 - Mingardo 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Alfano </h:li>
+								<h:li>Ascea </h:li>
+								<h:li>Camerota </h:li>
+								<h:li>Celle di Bulgheria</h:li>
+								<h:li>Centola</h:li>
+								<h:li>Cuccaro Vetere </h:li>
+								<h:li>Futani </h:li>
+								<h:li>Laurito </h:li>
+								<h:li>Montano Antilia </h:li>
+								<h:li>Pisciotta </h:li>
+								<h:li>Roccagloriosa </h:li>
+								<h:li>Rofrano </h:li>
+								<h:li>S. Giovanni a Piro </h:li>
+								<h:li>S. Mauro La Bruca</h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Futani. </h:p>
+							<h:p>
+								Area n. 35 - Bussento 
+								<h:br />
+								Comuni: (provincia di Salerno) 
+							</h:p>
+							<h:ol>
+								<h:li>Casaletto Spartano </h:li>
+								<h:li>Caselle in Pittari </h:li>
+								<h:li>Ispani </h:li>
+								<h:li>Morigerati </h:li>
+								<h:li>S. Marina </h:li>
+								<h:li>Sapri </h:li>
+								<h:li>Torraca </h:li>
+								<h:li>Torre Orsaia </h:li>
+								<h:li>Tortorella </h:li>
+								<h:li>Vibonati </h:li>
+							</h:ol>
+							<h:p>Sede del Centro Zonale per l' Informazione e la Consulenza in Agricoltura: Sapri.</h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>
+							<h:p>Allegato B</h:p>
+						</denAnnesso>
+						<titAnnesso>
+							<h:p>Servizio sperimentazione informazione e consulenza in agricoltura Organico del personale</h:p>
+						</titAnnesso>
+						<preAnnesso>
+							<h:p />
+						</preAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:regione.campania:legge:1985-01-03;7:allegato.b" />
+							</descrittori>
+						</meta>
+						<intestazione />
+						<formulainiziale />
+						<contenitore id="con2" nome="">
+							<h:p>
+								<h:b>TABELLA 1</h:b>
+							</h:p>
+							<h:p>
+								<h:b>Organico del personale distinto per qualifiche professionali e titoli di studio</h:b>
+							</h:p>
+							<h:p>Qualifica funzionale di ingresso: istruttore direttivo. </h:p>
+							<h:p>Per l' accesso alla qualifica di istruttore direttivo sono richiesti i titoli di studio e sono previsti i posti in organico sottoindicati: // istruttore direttivo nel campo tecnico: titolo di studio richiesto: </h:p>
+							<h:p>
+								Diploma di Laurea in Scienze Agrarie oppure Diploma di Laurea in Scienze della Produzione Animale o in Medicina Veterinaria o in Scienze Forestali, abbinato ad attestato di qualifica di Divulgatore agricolo rilasciato ai sensi del 
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1979;270" xlink:type="simple">Regolamento CEE 270/ 79</rif>
+								: organico delle strutture operative: centrali 25, provinciali 14, zonali 180, totale 219; 
+							</h:p>
+							<h:p>Diploma di Laurea in Chimica; organico della struttura centrale: 3; // istruttore direttivo nel campo amministrativo: // titolo di studio richiesto: </h:p>
+							<h:p>Diploma di Laurea in economia e Commercio o Giurisprudenza: organico delle strutture operative: centrali 2, provinciali 5, totale 7; // totale organici per la qualifica di istruttore direttivo: </h:p>
+							<h:p>strutture centrali 13, provinciali 19, zonali 180, totale 229. </h:p>
+							<h:p>Qualifica funzionale di ingresso: istruttore. </h:p>
+							<h:p>Per l' accesso alla qualifica di istruttore sono richiesti i titoli di studio e sono previsti i posti in organico sottoindicati: // istruttore nel campo dell' informazione ed elaborazione dati: titolo di studio richiesto: </h:p>
+							<h:p>Licenza di istituzione secondaria di 2º grado e specializzazione professionale &lt;&lt; programmatore &gt;&gt;: organico della struttura operativa centrale: 3; // istruttore nel campo tecnico: titolo di studio richiesto: </h:p>
+							<h:p>Diploma di Perito Agrario o Agrotecnico, licenza di istruzione secondaria di 2º grado e specializzazione in Economia Domestica Rurale: </h:p>
+							<h:p>organici delle strutture operative: </h:p>
+							<h:p>centrale 8, provinciale 11, zonale 101, totale 120; // diploma di perito chimico: organico della struttura operativa centrale 4; // licenza di istruzione secondaria di 2º grado e qualifica &lt;&lt; Disegnatore &gt;&gt;: organico della struttura centrale 3; // istruttore nel campo amministrativo: titolo di studio richiesto: diploma di ragioniere o perito commerciale: organici delle strutture operative: </h:p>
+							<h:p>centrale 4, provinciale 8, totale 12; // totale organici per la qualifica di istruttore: </h:p>
+							<h:p>strutture centrali 22, provinciali 19, zonali 101, totale 142. </h:p>
+							<h:p>Qualifica funzionale di ingresso: esecutore. </h:p>
+							<h:p>Per l' accesso alla qualifica di esecutore sono richiesti i titoli di studio e sono previsti i posti in organico sottoindicati: // esecutore con mansioni connesse allo svolgimento di attività amministrative: licenza di istruzione secondaria di 1º grado: organici delle strutture operative: </h:p>
+							<h:p>centrali 10, provinciali 10, zonali 32, totale 52; // esecutre con mansioni di dattilografo: </h:p>
+							<h:p>Licenza di istruzione secondaria di 1º grado e specializzazione professionale in dattilografia: organici delle strutture operative: </h:p>
+							<h:p>centrali 6, provincaili 10, zonali 35, totale 51; // esecutore con mansioni di esecuzione di programmi di elaborazione: </h:p>
+							<h:p>Licenza di istruzione secondaria di 1º grado e specializzazione professionale di digitazione dati: organico della struttura operativa centrale 4; // totale organici per la qualifica di esecutore: // strutture centrali 20, provinciali 20, zonali 67, totale 107. </h:p>
+							<h:p>Qualifica funzionale di ingresso: operatore. </h:p>
+							<h:p>Per l' accesso alla qualifica di operatore sono richiesti i titoli di studio e sono previsti i posti in organico sottoindicati: // operatore: licenza di istruzione secondaria di 1º grado: </h:p>
+							<h:p>organici delle strutture operative: centrali 3, provinciali 5, totale 8; // operatore con mansioni di autista: licenza di istruzione secondaria di 1º grado e patente auto: organico della struttura operativa centrale 2; // totale organici per la qualifica di operatore: </h:p>
+							<h:p>strutture centrali 5, provinciali 5, totale 10. </h:p>
+							<h:p>Qualifica funzionale di ingresso: ausiliario. </h:p>
+							<h:p>Qualifica di ausiliario: // titolo di studio richiesto: scuola dell' obbligo; // organico della struttura operativa centrale: 3. </h:p>
+							<h:p>Totale generale degli organici delle strutture operative: // centrali 80, provinciali 63, zonali 348, totale 491. </h:p>
+							<h:p>
+								<h:b>TABELLA 2</h:b>
+							</h:p>
+							<h:p>
+								<h:b>Organico del personale distinto per sedi di lavoro</h:b>
+								<h:br />
+								<h:b>Accanto alla sede della struttura operativa sono indicati gli organici corrispondenti nell' ordine alle seguenti qualifiche funzionali di ingresso: 7º istruttore direttivo, 6º istruttore, 4º esecutore, 3º operatore, 2º ausiliario.</h:b>
+							</h:p>
+							<h:p>
+								a) Struttura regionale: // 
+								<h:br />
+								Napoli: 30, 22, 20, 5, 3, totale 80. 
+							</h:p>
+							<h:p>
+								b) Strutture provinciali: // 
+								<h:br />
+								Avellino: 4, 4, 4, 1, 0, totale 13; // 
+								<h:br />
+								Benevento: 3, 3, 4, 1, 0, totale 11; // 
+								<h:br />
+								Caserta: 4, 4, 4, 1, 0, totale 13; // 
+								<h:br />
+								Napoli: 3, 3, 4, 1, 0, totale 11; // 
+								<h:br />
+								Salerno: 5, 5, 4, 1, 0, totale 15; // 
+								<h:br />
+								TOTALE PROVINCIALE: 7º 19, 6º 19, 4º 20, 3º 5, 2º 0, totale 63. 
+							</h:p>
+							<h:p>
+								c) Centri zonali 
+								<h:br />
+								Vairano: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Piedimonte Matese: 4, 2, 1, 0, 0, totale 7; // 
+								<h:br />
+								Caiazzo: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Sessa Aurunca: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Capua: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Caserta: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Aversa: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Morcone: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								S. Marco dei Cavoti: 6, 3, 2, 0, 0, totale; 11 // 
+								<h:br />
+								Telese: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Montesarchio: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Benevento: 7, 3, 2, 0, 0, totale 12; // 
+								<h:br />
+								Ariano Irpino: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								S. Angelo dei Lombardi - Calitri: 7, 3, 2, 0, 0, totale 12; // 
+								<h:br />
+								Montella: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Baiano: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Avellino: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Mirabella Eclano: 7, 3, 2, 0, 0, totale 12; // 
+								<h:br />
+								Giugliano: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Nola: 7, 3, 2, 0, 0, totale 12; // 
+								<h:br />
+								Boscoreale: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Castellammare: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Tramonti: 2, 1, 1, 0, 0, totale 4; // 
+								<h:br />
+								Nocera inferiore: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Salerno: 4, 3, 2, 0, 0, totale 9; // 
+								<h:br />
+								Oliveto Citra: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Eboli: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Buccino: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Postiglione: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Roccadaspide: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Sala Consilina: 6, 3, 2, 0, 0, totale 11; // 
+								<h:br />
+								Agropoli: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Vallo della Lucania: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Futani: 5, 3, 2, 0, 0, totale 10; // 
+								<h:br />
+								Sapri: 3, 2, 1, 0, 0, totale 6; // 
+								<h:br />
+								TOTALI ZONALI: 7º 180, 6º 101, 4º 67, 3º 0, 2º 0, totale 348. 
+							</h:p>
+							<h:p>TOTALE GENERALE: 7º 229, 6º 102, 4º 107, 3º 10, 2º 3, totale 491. </h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>
