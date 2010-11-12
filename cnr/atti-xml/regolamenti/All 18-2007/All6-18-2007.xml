@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="xxxxx">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="GU" />
+					<entratainvigore norm="" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.6" />
+				</descrittori>
+			</meta>
+			<intestazione>
+				<tipoDoc>Allegato al Regolamento</tipoDoc>
+				<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+				, n.
+				<numDoc>18</numDoc>
+				<titoloDoc>Attività di gestione delle biblioteche, di centri di documentazione aperti al pubblico e di Musei</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="corpo">
+				<contenitore id="con2" nome="">
+					<h:p>
+						<h:b>Fonti normative:</h:b>
+					</h:p>
+					<h:p>
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
+						,
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+						(
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
+						(G.U. n. 124 del 30 maggio 2005);
+						<rif xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1987-10-07;475" xlink:type="simple">DPCM 7.10.1987 n. 475</rif>
+						;
+						<rif xlink:href="urn:nir:ministero.beni.attivita.culturali:decreto:2001-05-10;nir-1" xlink:type="simple">D.M. 10/5/2001</rif>
+						;
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42" xlink:type="simple">D.lg. 22.01.2004, n. 42</rif>
+						,
+						<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">L 5/2/1992, n. 104</rif>
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+					</h:p>
+					<h:p>
+						Attività di promozione della cultura scientifica (
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art73-com2-letc" xlink:type="simple">art. 73, comma 2, lett. c</rif>
+						) e attività di assistenza, integrazione sociale e tutela dei diritti delle persone handicappate (
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art86-com1-letc" xlink:type="simple">86 comma 1 lettera c</rif>
+						)
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con4" nome="">
+					<h:p>
+						<h:b>Tipi di dati trattati</h:b>
+					</h:p>
+					<h:p>
+						<h:b>stato di salute:</h:b>
+						patologie attuali.
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con5" nome="">
+					<h:p />
+					<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+					<h:ul>
+						<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+						<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+					</h:ul>
+					<h:p />
+				</contenitore>
+				<contenitore id="con6" nome="">
+					<h:p>
+						<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+					</h:p>
+					<h:p>
+						Alcuni dati sulle condizioni di salute possono essere acquisiti al solo fine di consentire l'utilizzo di specifici ausili atti a garantire ai diversamente abili - ai sensi della
+						<rif xlink:href="urn:nir:stato:legge:1992;104" xlink:type="simple">legge 104/92</rif>
+						- il pieno ed autonomo godimento dei servizi e delle risorse informatiche della biblioteca, dei centri di documentazione e dei Musei.
+					</h:p>
+				</contenitore>
+			</contenitore>
+		</DocumentoNIR>
+	</NIR>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20090715" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.designazione.revoca.rappresentanti:2009-07-15;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20090715" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20090715" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.designazione.revoca.rappresentanti:2009-07-15;138" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20090715">15 luglio 2009</dataDoc>
+				, n.
+				<numDoc>138</numDoc>
+				<titoloDoc>DISCIPLINARE PER LA NOMINA, LA DESIGNAZIONE E LA REVOCA DEI RAPPRESENTANTI DEL CONSIGLIO NAZIONALE DELLE RICERCHE PRESSO ALTRE ISTITUZIONI E INIZIATIVE COMUNI CON ALTRI SOGGETTI, PUBBLICI E PRIVATI, PARTECIPATE DAL CNR (CONSORZI, FONDAZIONI, SOCIETA, ECC.).</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Requisiti generali</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Sulla base degli indirizzi stabiliti nel presente documento, con atto del Presidente si procede alla nomina dei rappresentanti dell'Ente presso altre istituzioni e iniziative comuni con altri soggetti, pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Nella scelta delle persone da nominare o da designare si dovrà fare esclusivo riferimento ai requisiti di moralità pubblica, competenza e professionalità richiesti per lo specifico incarico.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Requisiti individuali</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>I rappresentanti dell'Ente presso altre istituzioni e iniziative comuni con altri soggetti pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) devono possedere una comprovata competenza tecnica, giuridica o amministrativa, derivante da attività di studio e/o professionali compiute e/o da specitiche esperienze maturate per funzioni svolte in relazione all'incarico da ricoprire, adeguata alle specifiche caratteristiche della Carica da ricoprire e all'attività svolta dall'istituzione o al settore relativo all'iniziativa, nonché agli obiettivi che il CNR si propone di raggiungere attraverso la partecipazione.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Il requisito della competenza deve essere documentato da un dettagliato curriculum vitae.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>
+							Alle nomine e alle designazioni sono assicurate le condizioni di pari opportunità previste dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2006;198" xlink:type="simple">D. Lgs. 198/2006</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>Per le nomine nei collegi sindacali è necessaria l'iscrizione al Registro dei revisori Contabili.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Competenze del Consiglio di Amministrazione</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>Il Consiglio di Amministrazione:</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>definisce gli indirizzi per la nomina, la designazione e la eventuale revoca da parte del Consiglio di Amministrazione e del Presidente, dei rappresentanti del CNR presso altre istituzioni e iniziative comuni con altri soggetti, pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.);</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>
+								delibera la nomina o la designazione, scegliendo all'intemo di una terna predisposta dal Presidente, e l'eventuale revoca dei rappresentanti dell'Ente presso gli organi gestionali inerenti altre istituzioni e iniziative comuni con altri soggetti, pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Societa, ecc.), qualora la quota di partecipazione del CNR sia pari o superiore al 40% ovvero qualora la partecipazione al capitale sociale sia pari o superiore ad un terzo della cifra riportata nell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18" xlink:type="simple">articolo 18 del decreto legislativo 4 giugno 2003, n. 127</rif>
+								o qualora, pur essendo la partecipazione al di sotto delle soglie indicate, sia specificamente deliberato dal Consiglio di Amministrazione in sede di approvazione del Piano triennale di attività sulla base della sezione prevista dall'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com2" xlink:type="simple">articolo 18 comma 2 del decreto legislativo 4 giugno 2003, n. 127</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Competenze del Presidente</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Sulla base degli indirizzi stabiliti dal Consiglio di Amministrazione, il Presidente provvede alla nomina, alla designazione e alla eventuale revoca di ogni rappresentante dell'Ente presso altre istituzioni e iniziative comuni con altri soggetti, pubblici e privati, partecipate dai CNR (Consorzi, Fondazioni. Società, ecc.), in tutti i casi non espressamente riservati al Consiglio di Amministrazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Incompatibilità ed esclusioni</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<alinea>
+							Fatte salve le cause di incompatibilità specificamente stabilite dalla normativa vigente per gli enti o organismi cui si riferisce la norma, con espresso riferimento agli
+							<mrif>
+								articoli
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art10" xlink:type="simple">10</rif>
+								,
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art12" xlink:type="simple">12</rif>
+								,
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art19" xlink:type="simple">19</rif>
+								e
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art28" xlink:type="simple">28</rif>
+								del Regolamento di organizzazione e funzionamento del CNR
+							</mrif>
+							emanato con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, n. 0025033</rif>
+							, non possono essere nominati o designati quali rappresentanti del CNR presso altre istituzioni e iniziative comuni con altri soggetti pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) coloro che:
+						</alinea>
+						<el id="art5-com1-leta">
+							<num>a)</num>
+							<corpo>si trovino in stato di conflitto di interessi rispetto alle istituzioni ed iniziative comuni con altri soggetti pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società. ecc.) nel quale rappresenta l'Ente;</corpo>
+						</el>
+						<el id="art5-com1-letb">
+							<num>b)</num>
+							<corpo>si trovino in rapporto di impiego, consulenza o incarico con le istituzioni ed iniziative comuni con altri soggetti pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) presso cui dovrebbero essere nominati;</corpo>
+						</el>
+						<el id="art5-com1-letc">
+							<num>c)</num>
+							<corpo>i dipendenti, consulenti o incaricati del CNR che operano in settori di controllo o indirizzo sull'attività dello specifico ente.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<alinea>
+							Secondo quanto previsto dall'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15" xlink:type="simple">art. 15 del decreto legislativo 4 giugno 2003, n. 127</rif>
+							(Decreto di riordino del CNR) e dal
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
+							emanato con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, n. 0025033</rif>
+							, il Presidente, il Direttore Generale, i membri del Consiglio di Amministrazione, i membri del Consiglio scientifico generale, i membri del Collegio dei revisori dei conti, i membri del Comitato di valutazione, i Direttori di Dipartimento e i Direttori di Istituto non possono svolgere le funzioni di amministratori o sindaci di:
+						</alinea>
+						<el id="art5-com2-leta">
+							<num>a)</num>
+							<corpo>società o imprese che abbiano fini di lucro;</corpo>
+						</el>
+						<el id="art5-com2-letb">
+							<num>b)</num>
+							<corpo>società o imprese che partecipano a programmi o progetti di ricerca nei quali il CNR è presente con ruolo prevalente.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>I nominati o designati quali rappresentanti del CNR presso altre istituzioni e iniziative comuni con altri soggetti, pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) non possono assumere incarichi o consulenze per conto dell'ente rappresentato.</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>
+							Qualora si proceda alla nomina di soggetti ricadenti nelle previsioni di cui all'
+							<rif xlink:href="#art5-com1" xlink:type="simple">articolo 5, comma 1</rif>
+							, essi dovranno dimettersi dall'incarico, entro 15 giorni dalla notifica della nomina.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Nomine e designazioni</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Il Presidente o il Consiglio di Amministrazione effettuano le proprie valutazioni in merito alle nomine o designazioni sulla base dell'apposita relazione, corredata dal parere del Dipartimento cui l'istituzione o iniziativa afferisce per macroarea, predisposta dall'Ufficio competente per materia, Nel caso in cui con delibera del Consiglio di Amministrazione la gestione della partecipazione sia attribuita o delegata ad un Istituto è acquisito anche il parere del Direttore dell'Istituto.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>
+							Nel caso di motivata urgenza il Presidente, in deroga alle suindicate disposizioni, consultati i Direttori di Dipartimento e/o gli Istituti interessati, procede alle nomine e designazioni di competenza del Consiglio di Amministrazione, previo accertamento del possesso dei requisiti necessari ed esame dei curricula, preventivamente acquisiti dai soggetti che intende nominare, da sottoporre a ratifica nella prima seduta utile del Consiglio, ai sensi dell'
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art3" xlink:type="simple">art. 3 del Regolamento di organizzazione e funzionamento</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Accettazione della nomina o designazione</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<corpo>
+							Il rappresentante nominato o designato deve far pervenire al Presidente, entro 15 giomi dal ricevimento della comunicazione della nomina o designazione, una dichiarazione con la quale si accetta la nomina o designazione, si attesta l'inesistenza di situazioni di incompatibilità o di conflitto di interessi e di cause di esclusione di cui all'
+							<rif xlink:href="#art6" xlink:type="simple">articolo 6</rif>
+							, si impegna ad osservare gli indirizzi stabiliti dal Consiglio di Amministrazione nell'attività da svolgere all'intemo degli organi nei quali è stato nominato, nonché le direttive impartite anche successivamente dal Presidente e tutto quanto previsto dal presente atto di indirizzo.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Obblighi dei rappresentanti</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							I rappresentanti del CNR hanno l'obbligo di tenere, pena la revoca di cui al
+							<rif xlink:href="#art10" xlink:type="simple">successivo articolo 10</rif>
+							, un costante rapporto informativo con il Presidente, trasmettendo almeno una volta l'anno una relazione sull'attività svolta dall'istituzione in cui sono stati nominati e sulle iniziative assunte al suo interno con l'esaustiva illustrazione dei fatti e delle situazioni di particolare rilevanza con specifico riferimento a quelle di potenziale interesse per il CNR. Tale relazione deve essere obbligatoriamente redatta e trasmessa anche in caso di mancato funzionamento dell'organismo o di gravi problemi insorgenti nell'istituzione o iniziativa di riferimento nonché per questioni di particolare interesse come, ad esempio, la programmata acquisizione o alienazione di quote societarie o la programmata e/o dovuta nomina di rappresentanti nelle partecipate dell'istituzione o iniziativa di cui trattasi.
+							<h:br />
+							Il Presidente, nella prima riunione utile del Consiglio di Amministrazione nel mese di Aprile di ogni anno, fornirà al Consiglio di Amministrazione una relazione generale sulle altre istituzioni e iniziati comuni con altri soggetti, pubblici e privati, partecipate dal CNR (Consorzi, Fondazioni, Società, ecc.) corredate dalle relazioni di tutti i rappresentanti CNR.
+						</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Nello svolgimento dell'incarico assunto, i rappresentanti dovranno tenere conto degli indirizzi politico-amministrativi stabiliti dal Consiglio di Amministrazione a tutela degli interessi generali del CNR.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Revoca dei rappresentanti</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							I rappresentanti del CNR possono essere revocati in qualsiasi tempo, con provvedimento motivato del Presidente, nel caso di irregolare funzionamento dell'organo, di violazione di leggi, regolamenti o programmi, di mancato adempimento degli obblighi di cui al
+							<rif xlink:href="#art8" xlink:type="simple">precedente articolo 8</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>
+							Per le partecipazioni societarie ove i rappresentanti siano nominati ai sensi dell'
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2449" xlink:type="simple">articolo 2449 del codice civile</rif>
+							, i rappresentanti potranno essere revocati anche in caso di mancata osservanza degli indirizzi e direttive impartiti dal CNR, di assenteismo o di negligenza nella tutela degli interessi dell'Ente, del venir meno del necessario rapporto fiduciario.
+						</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>Fermo restando il rispetto di norme di legge o regolamenti i dipendenti CNR nominati o designati quali rappresentanti possono essere revocati qualora cessi, durante il periodo di svolgimento dell'incarico, il rapporto organico o di servizio con il CNR in essere all'atto della nomina/designazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Dimissioni dei rappresentanti</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Il rappresentante dell'Ente che intenda dimettersi dall'incarico deve inviare lettera motivata al Presidente del CNR e per conoscenza al Direttore del Dipartimento competente per materia e al Presidente della istituzione o iniziativa interessata.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>L'efficacia delle dimissioni decorre dal momento della sostituzione da parte del Presidente o del Consiglio di Amministrazione del rappresentante dimissionario e, comunque, non oltre 30 giorni dal ricevimento della lettera di cui al comma precedente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Anagrafe</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>Gli Uffici competenti per materia curano la tenuta e l'aggiornamento dell'anagrafe degli incarichi conferiti per le materie di rispettiva competenza.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>La Direzione Centrale Supporto alla Programmazione e alle Infrastrutture cura la tenuta dell'anagrafe generale di tutti gli incarichi conferiti provvedendo alla fine di ciascun anno alla trasmissione di detto Albo al Consiglio di Amministrazione.</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<alinea>Nell'anagrafe sono indicati:</alinea>
+						<ep id="art11-com3-pun1">
+							<num>-</num>
+							<corpo>l'istituzione o iniziativa;</corpo>
+						</ep>
+						<ep id="art11-com3-pun2">
+							<num>-</num>
+							<corpo>l'organo statutario, il Comitato o, più in generale, qualunque tipo di organismo;</corpo>
+						</ep>
+						<ep id="art11-com3-pun3">
+							<num>-</num>
+							<corpo>la scadenza del termine di durata;</corpo>
+						</ep>
+						<ep id="art11-com3-pun4">
+							<num>-</num>
+							<corpo>il cognome e il nome, la data e il luogo di nascita, la residenza del soggetto nominato o designato;</corpo>
+						</ep>
+						<ep id="art11-com3-pun5">
+							<num>-</num>
+							<corpo>l'atto di nomina o designazione;</corpo>
+						</ep>
+						<ep id="art11-com3-pun6">
+							<num>-</num>
+							<corpo>le surroghe successive;</corpo>
+						</ep>
+						<ep id="art11-com3-pun7">
+							<num>-</num>
+							<corpo>l'organo competente alla nomina;</corpo>
+						</ep>
+						<ep id="art11-com3-pun8">
+							<num>-</num>
+							<corpo>le eventuali indennità connesse all'incarico.</corpo>
+						</ep>
+					</comma>
+					<comma id="art11-com4">
+						<num>4.</num>
+						<corpo>
+							L'Ufficio Supporto alle Partecipazioni Societarie della Direzione Centrale Supporto alla Programmazione e alle Infrastrutture ottempera a quanto previsto in base alla
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com587" xlink:type="simple">Legge n. 296 del 27 dicembre 2006 (finanziaria 2007) - art. 1 comma 587</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione />
+		</DocumentoNIR>
+	</NIR>

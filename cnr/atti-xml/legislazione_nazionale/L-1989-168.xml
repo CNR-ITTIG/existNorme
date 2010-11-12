@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<Legge>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19890509" num="50" tipo="GU" />
+					<entratainvigore norm="19890524" />
+					<redazione id="red1" nome="" norm="" />
+					<urn finevigore="t3" iniziovigore="t1" valore="urn:nir:stato:legge:1989-05-09;168" />
+					<urn finevigore="t2" iniziovigore="t3" valore="urn:nir:stato:legge:1989-05-09;168@1993-02-03" />
+					<urn finevigore="t4" iniziovigore="t2" valore="urn:nir:stato:legge:1989-05-09;168@1998-06-05" />
+					<urn iniziovigore="t4" valore="urn:nir:stato:legge:1989-05-09;168@1999-01-30" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19890524" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19980716" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="19930221" fonte="rp2" id="t3" tipo="modifica" />
+						<evento data="19990220" fonte="rp3" id="t4" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:legge:1989-05-09;168" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<redazionale xlink:type="simple">
+					<nota id="n1">
+						<h:p>
+							Abrogazione confermata in seguito dall'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art72-com1-letm" xlink:type="simple">art. 72, comma 1, lettera m) del D.Lgs. n. 165 del 30 marzo 2001</rif>
+							.
+						</h:p>
+					</nota>
+				</redazionale>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letb-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-leta" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="Articolo 7 Comma 4 Lettera a decreto legislativo 5 giugno 1998, n. 204" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com1-letb" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-com1-letb-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letbbis" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-leta" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="Articolo 7 Comma 4 Lettera a decreto legislativo 5 giugno 1998, n. 204" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com1-letbbis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letbter" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-leta" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="Articolo 7 Comma 4 Lettera a decreto legislativo 5 giugno 1998, n. 204" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com1-letbter" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letc" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letb" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterab, decreto legislativo 5 giugno 1998, n. 204" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h1" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letd-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letc" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterac, decreto legislativo 5 giugno 1998, n. 204" id="itt5" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com1-letd" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-com1-letd-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-lete" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letd" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterad, decreto legislativo 5 giugno 1998, n. 204" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letf" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letd" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterad, decreto legislativo 5 giugno 1998, n. 204" id="itt7" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com1-letg-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-lete" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterae, decreto legislativo 5 giugno 1998, n. 204" id="itt8" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com1-letg" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-com1-letg-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com3-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letf" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letteraf, decreto legislativo 5 giugno 1998, n. 204" id="itt9" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-com3-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art3-com1-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letg" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterag, decreto legislativo 5 giugno 1998, n. 204" id="itt10" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art3-com1-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art3-com2-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letg" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterag, decreto legislativo 5 giugno 1998, n. 204" id="itt11" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art3-com2-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art3-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-letg" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterag, decreto legislativo 5 giugno 1998, n. 204" id="itt12" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art8-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com4-leth" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo7, comma4, letterah, decreto legislativo 5 giugno 1998, n. 204" id="itt13" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h5" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art9-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art74-com1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo74, comma1, decreto legislativo 3 febbraio 1993, n. 29" id="itt14" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art9-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art20-t4" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art13-com3-letd" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo13, comma3, letterad, decreto legislativo 30 gennaio 1999, n. 19" id="itt15" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art20-t4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>LEGGE</tipoDoc>
+				<dataDoc norm="19890509">9 maggio 1989</dataDoc>
+				, n.
+				<numDoc>168</numDoc>
+				<titoloDoc>Istituzione del Ministero dell'Università e della Ricerca Scientifica e Tecnologica</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>La Camera dei deputati ed il Senato della Repubblica hanno approvato;</h:p>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<h:p>PROMULGA</h:p>
+				<h:p>la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<titolo id="tit1">
+					<num>Titolo I</num>
+					<rubrica>Istituzione e funzioni del Ministero</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Istituzione</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								È istituito il Ministero dell'università e della ricerca scientifica e tecnologica, di seguito denominato «Ministero», con il compito di promuovere, in attuazione dell'
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art9" xlink:type="simple">articolo 9 della Costituzione</rif>
+								, la ricerca scientifica e tecnologica, nonché lo sviluppo delle università e degli istituti di istruzione superiore di grado universitario, di seguito compresi nella denominazione «università».
+							</corpo>
+						</comma>
+						<comma id="art1-com2">
+							<num>2.</num>
+							<corpo>
+								Il Ministro dell'università e della ricerca scientifica e tecnologica, di seguito denominato «Ministro», a tal fine, dà attuazione all'indirizzo ed al coordinamento nei confronti delle università e degli enti di ricerca, nel rispetto dei princìpi di autonomia stabiliti dall'
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art33" xlink:type="simple">articolo 33 della Costituzione</rif>
+								e specificati dalla legge e dalle disposizioni di cui alla
+								<rif xlink:href="urn:nir:stato:legge:1988-08-23;400" xlink:type="simple">legge 23 agosto 1988, n. 400</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>Funzioni</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<alinea>Il Ministro:</alinea>
+							<el id="art2-com1-leta">
+								<num>a)</num>
+								<corpo>elabora ogni tre anni il piano di sviluppo dell'università in base alle vigenti disposizioni e presenta al Parlamento, ogni triennio, un rapporto sullo stato dell'istruzione universitaria, formulato sulla base delle relazioni delle università, sentiti il Consiglio universitario nazionale (CUN) e la Conferenza permanente dei rettori delle università italiane;</corpo>
+							</el>
+							<el finevigore="t2" id="art2-com1-letb-t2" iniziovigore="t1" status="abrogato">
+								<num>b)</num>
+								<corpo>
+									propone ed adotta nei casi previsti dalla legge gli atti di programmazione annuale e pluriennale, generale, settoriale e speciale della ricerca scientifica e tecnologica e promuove la realizzazione di programmi e progetti finalizzati di interesse generale, sentito il Consiglio nazionale della scienza e della tecnologica (CNST), di cui all'
+									<rif xlink:href="#art11" xlink:type="simple">articolo 11</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art2-com1-letb" iniziovigore="t2">
+								<num>b)</num>
+								<corpo>valorizza e sostiene, anche con adeguato supporto finanziario, la ricerca libera nelle università e negli enti di ricerca, nel rispetto delle autonomie previste dalla presente legge e definite nei rispettivi ordinamenti, promuovendo opportune integrazioni e sinergie tra la ricerca pubblica e quella del settore privato, favorendone lo sviluppo nei settori di rilevanza strategica;</corpo>
+							</el>
+							<el id="art2-com1-letbbis" iniziovigore="t2">
+								<num>b-bis)</num>
+								<corpo>sovrintende al monitoraggio del PNR, con riferimento anche alla verifica della coerenza tra esso e i piani e i programmi delle amministrazioni dello Stato e degli enti da esse vigilati; riferisce al CIPE sull'attuazione del PNR; redige ogni tre anni un rapporto sullo stato di attuazione del medesimo e sullo stato della ricerca nazionale</corpo>
+							</el>
+							<el id="art2-com1-letbter" iniziovigore="t2">
+								<num>b-ter)</num>
+								<corpo>approva i programmi pluriennali degli enti di ricerca, con annesso finanziamento a carico dell'apposito Fondo istituito nel proprio stato di previsione, verifica il rispetto della programmazione triennale del fabbisogno di personale, approva statuti e regolamenti di enti strumentali o agenzie da esso vigilate, esercita le funzioni di cui all'articolo 8 nei confronti degli enti non strumentali, con esclusione di ogni altro atto di controllo o di approvazione di determinazioni di enti o agenzie, i quali sono comunque tenuti a comunicare al Ministero i bilanci</corpo>
+							</el>
+							<el id="art2-com1-letc">
+								<num>c)</num>
+								<corpo>
+									procede alla ripartizione degli stanziamenti iscritti nel bilancio del ministero destinati alle università sulla base di criteri oggettivi definiti con suo decreto, volti anche ad assicurare un equilibrato sviluppo delle sedi universitarie, sentiti il CUN e la Conferenza permanente dei rettori delle universita' italiane, e gli enti di ricerca
+									<h:span finevigore="t2" id="h1" iniziovigore="t1" status="abrogato">sentito il CNST</h:span>
+									, nel rispetto delle previsioni delle leggi di settore;
+								</corpo>
+							</el>
+							<el finevigore="t2" id="art2-com1-letd-t2" iniziovigore="t1" status="abrogato">
+								<num>d)</num>
+								<corpo>
+									presenta al Parlamento, ogni tre anni, la relazione sullo stato della ricerca scientifica e tecnologica, elaborata sulla base delle relazioni delle singole università e degli enti di ricerca, anche vigilati da altre amministrazioni tenuto conto dei dati dell'Anagrafe nazionale delle ricerche, di cui agli
+									<mrif>
+										articoli
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art63" xlink:type="simple">63</rif>
+										e
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art64" xlink:type="simple">64</rif>
+										del decreto del presidente della Repubblica 11 luglio 1980, n. 382
+									</mrif>
+									;
+								</corpo>
+							</el>
+							<el id="art2-com1-letd" iniziovigore="t2">
+								<num>d)</num>
+								<corpo>riferisce al Parlamento ogni anno in apposita audizione sull'attuazione del PNR e sullo stato della ricerca nazionale;</corpo>
+							</el>
+							<el id="art2-com1-lete">
+								<num>e)</num>
+								<corpo>
+									coordina le attività connesse alla partecipazione italiana a programmi di istruzione universitaria e ricerca scientifica e tecnologica comunitari ed internazionali,
+									<h:span finevigore="t2" id="h2" iniziovigore="t1" status="abrogato">sentito il CNST</h:span>
+									nonché la rappresentanza italiana in materia di istruzione universitaria e di ricerca scientifica e tecnologica nelle sedi internazionali, d'intesa con il Ministro degli affari esteri e, in quelle comunitarie, anche con il Ministro per il coordinamento delle politiche comunitarie. Gli accordi internazionali in materia di istruzione universitaria e di ricerca scientifica e tecnologica, che riguardano le amministrazioni dello Stato, le università e gli enti pubblici di ricerca per programmi di rilevanza nazionale e internazionale, sono stipulati, fatti salvi i principi di autonomia di cui al
+									<rif xlink:href="#tit2" xlink:type="simple">titolo II</rif>
+									, previa intesa con il ministro dell'università e della ricerca scientifica e tecnologica;
+								</corpo>
+							</el>
+							<el id="art2-com1-letf">
+								<num>f)</num>
+								<corpo>
+									propone al Comitato interministeriale per la programmazione economica (CIPE) programmi di incentivazione e sostegno della ricerca scientifica e tecnologica nel settore privato
+									<h:span finevigore="t2" id="h3" iniziovigore="t1" status="abrogato">, sentito il CNST</h:span>
+									;
+								</corpo>
+							</el>
+							<el finevigore="t2" id="art2-com1-letg-t2" iniziovigore="t1" status="abrogato">
+								<num>g)</num>
+								<corpo>coordina le funzioni relative alla Anagrafe nazionale delle ricerche;</corpo>
+							</el>
+							<el id="art2-com1-letg" iniziovigore="t2">
+								<num>g)</num>
+								<corpo>
+									coordina le funzioni relative all'Anagrafe nazionale delle ricerche, istituita ai sensi dell'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art63" xlink:type="simple">articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+									, ridefinendone con apposito decreto ministeriale finalità ed organizzazione, ed esercita altresì, nell'ambito di attività di ricerca scientifica e tecnologica, funzioni di supporto al monitoraggio e alla valutazione della ricerca, nonché di previsione tecnologica e di analisi di impatto delle tecnologie;
+								</corpo>
+							</el>
+							<el id="art2-com1-leth">
+								<num>h)</num>
+								<corpo>
+									assicura, con il Ministro della pubblica istruzione, il coordinamento fra l'istruzione universitaria e gli altri gradi di istruzione universitaria e gli altri gradi di istruzione in Italia e nei rapporti comunitari, collabora alle iniziative di aggiornamento del personale della scuola, ai sensi dell'
+									<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+									, e favorisce la ricerca in campo educativo.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<alinea>Al Ministro e al Ministero sono trasferite le funzioni in materia di istruzione universitaria, ivi comprese quelle relative ai ruoli organici del personale ad esse addetto, nonché quelle in materia di ricerca scientifica e tecnologica, attribuite</alinea>
+							<el id="art2-com2-leta">
+								<num>a)</num>
+								<corpo>al Presidente e alla presidenza del Consiglio dei ministri;</corpo>
+							</el>
+							<el id="art2-com2-letb">
+								<num>b)</num>
+								<corpo>al Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica;</corpo>
+							</el>
+							<el id="art2-com2-letc">
+								<num>c)</num>
+								<corpo>al Ministro e al Ministero della pubblica istruzione.</corpo>
+							</el>
+						</comma>
+						<comma finevigore="t2" id="art2-com3-t2" iniziovigore="t1" status="abrogato">
+							<num>3.</num>
+							<corpo>
+								La relazione sullo stato della ricerca scientifica e tecnologica, di cui al
+								<rif xlink:href="#art2-com1-letd-t2" xlink:type="simple">comma 1, lettera d)</rif>
+								, è corredata da un programma pluriennale di sviluppo della ricerca, elaborato sulla base delle indicazioni espresse dal CNST e degli indirizzi formulati in materia dal CIPE. A tal fine il Ministro può avvalersi delle strutture del consiglio nazionale delle ricerche (CNR). Le relazioni delle singole università e di ciascun ente di ricerca, previste al
+								<mrif>
+									comma 1,
+									<rif xlink:href="#art2-com1-leta" xlink:type="simple">lettera a)</rif>
+									e
+									<rif xlink:href="#art2-com1-letd-t2" xlink:type="simple">d)</rif>
+								</mrif>
+								, sono trasmesse rispettivamente dal rettore e dal presidente al Ministro sei mesi prima dell'inizio di ciascun triennio.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>Programmazione e coordinamento della ricerca</rubrica>
+						<comma finevigore="t2" id="art3-com1-t2" iniziovigore="t1" status="abrogato">
+							<num>1.</num>
+							<corpo>Il Ministro è membro permanente del CIPE, del Comitato interministeriale per il coordinamento della politica industriale (CIPI) e del Comitato interministeriale per la politica economica estera (CIPES).</corpo>
+						</comma>
+						<comma finevigore="t2" id="art3-com2-t2" iniziovigore="t1" status="abrogato">
+							<num>2.</num>
+							<alinea>Il CIPE, su proposta del Ministro:</alinea>
+							<el id="art3-com2-t2-leta">
+								<num>a)</num>
+								<corpo>indica le linee generali ed i criteri per la elaborazione della programmazione pluriennale degli interventi dello Stato destinati allo sviluppo della ricerca scientifica e tecnologica di interesse nazionale, anche in sede internazionale;</corpo>
+							</el>
+							<el id="art3-com2-t2-letb">
+								<num>b)</num>
+								<corpo>adotta deliberazioni per la coordinata utilizzazione delle risorse finanziarie destinate alla ricerca scientifica e tecnologica assegnate dalla legge di approvazione del bilancio dello Stato alle diverse amministrazioni o direttamente agli enti e istituzioni di ricerca ad esse afferenti;</corpo>
+							</el>
+							<el id="art3-com2-t2-letc">
+								<num>c)</num>
+								<corpo>
+									indica le linee generali per la definizione dei programmi coordinati di ricerca di cui al
+									<rif xlink:href="#art3-com3" xlink:type="simple">comma 3</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art3-com3">
+							<num>3.</num>
+							<corpo>
+								Il Ministro, d'intesa con le altre amministrazioni dello Stato, con le università e con gli enti interessati, definisce,
+								<h:span finevigore="t2" id="h4" iniziovigore="t1" status="abrogato">sentito il CNST,</h:span>
+								iniziative di ricerca di comune interesse e ne promuove la coordinata attuazione. A tal fine il Ministro conclude specifici accordi, con i quali sono definiti i programmi, con l'indicazione dei relativi obiettivi, i tempi di attuazione, il reperimento delle risorse finanziarie e le modalità di finanziamento.
+							</corpo>
+						</comma>
+						<comma id="art3-com4">
+							<num>4.</num>
+							<corpo>Le norme relative alle procedure di formazione degli accordi, alla loro applicazione, nonché agli strumenti amministrativi e contabili sono fissate con decreto del Ministro dell'università e della ricerca scientifica e tecnologica, emanato di concerto con il Ministro del tesoro, anche in deroga alle norme dell'ordinamento contabile dello Stato e degli enti pubblici.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art4" status="omissis">
+						<num>Art. 4</num>
+						<rubrica>Coordinamento dell'istruzione universitaria con gli altri gradi di istruzione</rubrica>
+						<comma id="art4-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art5" status="omissis">
+						<num>Art. 5</num>
+						<rubrica>Denominazioni</rubrica>
+						<comma id="art5-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit2">
+					<num>Titolo II</num>
+					<rubrica>Autonomia delle università e degli enti di ricerca</rubrica>
+					<articolo id="art6" status="omissis">
+						<num>Art. 6</num>
+						<rubrica>Autonomia delle università</rubrica>
+						<comma id="art6-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art7" status="omissis">
+						<num>Art. 7</num>
+						<rubrica>Autonomia finanziaria e contabile delle università</rubrica>
+						<comma id="art7-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Autonomia degli enti di ricerca</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>
+								Il CNR, l'Istituto nazionale di fisca nucleare (INFN), gli Osservatori astronomici, astrofisici e vesuviano, nonché gli enti e istituzioni pubbliche nazionali di ricerca a carattere non strumentale hanno autonomia scientifica, organizzativa, finanziaria e contabile ai sensi dell'
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art33" xlink:type="simple">articolo 33 della Costituzione</rif>
+								e si danno ordinamenti autonomi, nel rispetto delle loro finalità istituzionali, con propri regolamenti.
+							</corpo>
+						</comma>
+						<comma id="art8-com2">
+							<num>2.</num>
+							<corpo>
+								Gli enti e le istituzioni pubbliche di ricerca di cui al
+								<rif xlink:href="#art8-com1" xlink:type="simple">comma 1</rif>
+								sono individuati con decreto del Presidente della Repubblica. Il decreto viene adottato sentite le competenti Commissioni della Camera dei deputati e del Senato della Repubblica, dal Consiglio dei ministri, su proposta del Ministro
+								<h:span finevigore="t2" id="h5" iniziovigore="t1" status="abrogato">, il quale avrà preventivamente acquisito il parere del CNST, parere che dovrà essere espresso, a pena di decadenza, entro sessanta giorni dalla richiesta</h:span>
+								. In prima applicazione, il decreto è emanato entro sei mesi dalla data di entrata in vigore della presente legge.
+							</corpo>
+						</comma>
+						<comma id="art8-com3">
+							<num>3.</num>
+							<alinea>Gli enti di cui al presente articolo:</alinea>
+							<el id="art8-com3-leta">
+								<num>a)</num>
+								<corpo>svolgono attività di ricerca scientifica nel rispetto dell'autonomia di ricerca delle strutture scientifiche e della libertà di ricerca dei ricercatori, singoli o associati, in coerenza con le rispettive funzioni istituzionali e nel quadro della programmazione nazionale;</corpo>
+							</el>
+							<el id="art8-com3-letb">
+								<num>b)</num>
+								<corpo>gestiscono programmi di ricerca di interesse nazionale, attuati anche in collaborazione con altri enti pubblici e privati, e partecipano alla elaborazione, al coordinamento ed alla elaborazione, al coordinamento ed alla esecuzione di programmi di ricerca comunitari ed internazionali;</corpo>
+							</el>
+							<el id="art8-com3-letc">
+								<num>c)</num>
+								<corpo>provvedono all'istituzione, alla organizzazione e al funzionamento delle strutture di ricerca e di servizio, anche per quanto concerne i connessi aspetti amministrativi, finanziari e di gestione;</corpo>
+							</el>
+							<el id="art8-com3-letd">
+								<num>d)</num>
+								<corpo>
+									esercitano la propria autonomia finanziaria e contabile ai sensi del
+									<rif xlink:href="#art8-com5" xlink:type="simple">comma 5</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art8-com4">
+							<num>4.</num>
+							<corpo>
+								I regolamenti di cui al
+								<rif xlink:href="#art8-com1" xlink:type="simple">comma 1</rif>
+								sono deliberati nel rispetto dei limiti e delle procedure stabiliti dalla apposita legge di attuazione dei principi di autonomia di cui al presente articolo e sono trasmessi al Ministro che esercita i controlli di legittimità e di merito. I controlli di legittimità e di merito si esercitano nelle forme di cui all'
+								<rif xlink:href="#art6" xlink:type="simple">articolo 6</rif>
+								, commi 9 e 10; il controllo di merito è esercitato nella forma della richiesta motivata di riesame nel termine perentorio di sessanta giorni dalla loro comunicazione, decorso il quale si intendono approvati. I regolamenti sono emanati dagli enti e pubblicati nella Gazzetta Ufficiale.
+							</corpo>
+						</comma>
+						<comma id="art8-com5">
+							<num>5.</num>
+							<corpo>
+								Agli enti cui al presente articolo si estendono, in quanto compatibili con i rispettivi ordinamenti, le norme in materia di autonomia finanziaria e contabile di cui ai commi 1, 4, 5, 6, 7 e 8 dell'
+								<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+								. Il regolamento di amministrazione, finanza e contabilità di ciascuno degli enti di ricerca è emanato secondo le procedure previste dalle rispettive normative ed è sottoposto al controllo del Ministro nelle forme di cui al
+								<rif xlink:href="#art8-com4" xlink:type="simple">comma 4</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo finevigore="t3" id="art9-t3" iniziovigore="t1" status="abrogato">
+						<num>
+							Art. 9
+							<ndr num="#n1" valore="" xlink:type="simple">(a)</ndr>
+						</num>
+						<rubrica>Stato giuridico del personale degli Enti di ricerca</rubrica>
+						<comma id="art9-t3-com1">
+							<num>1.</num>
+							<corpo>
+								Lo stato giuridico ed il trattamento economico di attività del personale dependente delle istituzioni e degli enti di cui all'
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1986-03-05;68#art7" xlink:type="simple">articolo 7 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68</rif>
+								, sono regolati in conformità ai principi di cui al
+								<rif xlink:href="#art9-t3-com2" xlink:type="simple">comma 2</rif>
+								, da un contratto di durata triennale stipulato mediante accordo tra la delegazione di parte pubblica e la delegazione di parte sindacale indicate nel citato
+								<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+								e reso esecutivo con decreto del presidente della Repubblica, su proposta del Ministro dell'università e della ricerca scientifica e tecnologica, di concerto con i Ministri vigilanti e con i Ministri per la funzione pubblica, del tesoro, del bilancio e della programmazione economica, del lavoro e della previdenza sociale.
+							</corpo>
+						</comma>
+						<comma id="art9-t3-com2">
+							<num>2.</num>
+							<corpo>Il personale degli enti di ricerca sarà articolato in più livelli professionali con dotazioni organiche in relazione alle esigenze di ciascun ente. Per il medesimo personale il reclutamento ai diversi livelli sarà regolato mediante concorsi nazionali aperti anche all'esterno, con commissioni giudicatrici composte da esperti di riconosciuta competenza, scelti anche al di fuori dell'ente interessato. Per la progressione ai livelli superiori si attueranno procedure concorsuali o, comunque, criteri generali sull'accertamento del merito e della professionalità. Saranno definite le modalità generali per l'inquadramento del personale in servizio alla data di entrata in vigore della presente legge.</corpo>
+						</comma>
+						<comma id="art9-t3-com3">
+							<num>3.</num>
+							<corpo>
+								<mod id="mod1">E' abrogata ogni contraria dispozione.</mod>
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit3">
+					<num>Titolo III</num>
+					<rubrica>Organizzazione del ministero</rubrica>
+					<articolo id="art10" status="omissis">
+						<num>Art. 10</num>
+						<rubrica>Organi collegiali - CUN</rubrica>
+						<comma id="art10-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art11" status="omissis">
+						<num>Art. 11</num>
+						<rubrica>Consiglio nazionale della scienza e della tecnologia</rubrica>
+						<comma id="art11-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art12" status="omissis">
+						<num>Art. 12</num>
+						<rubrica>Organizzazione</rubrica>
+						<comma id="art12-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art13" status="omissis">
+						<num>Art. 13</num>
+						<rubrica>Personale</rubrica>
+						<comma id="art13-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit4">
+					<num>Titolo IV</num>
+					<rubrica>Norme transitorie e finali</rubrica>
+					<articolo id="art14" status="omissis">
+						<num>Art. 14</num>
+						<rubrica>Ragioneria centrale</rubrica>
+						<comma id="art14-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art15" status="omissis">
+						<num>Art. 15</num>
+						<rubrica>Trasferimento di fondi</rubrica>
+						<comma id="art15-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art16" status="omissis">
+						<num>Art. 16</num>
+						<rubrica>Università</rubrica>
+						<comma id="art16-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art17">
+						<num>Art. 17</num>
+						<rubrica>Enti di ricerca</rubrica>
+						<comma id="art17-com1">
+							<num>1.</num>
+							<corpo>
+								Fino alla data di entrata in vigore della legge di attuazione dei princìpi di autonomia di cui all'
+								<rif xlink:href="#art8-com4" xlink:type="simple">articolo 8, comma 4</rif>
+								, i regolamenti degli enti sono emanati nel rispetto delle disposizioni e delle procedure previste dalla normativa vigente.
+							</corpo>
+						</comma>
+						<comma id="art17-com2">
+							<num>2.</num>
+							<corpo>
+								Decorso comunque un anno dalla data di entrata in vigore della presente legge, in mancanza della legge predetta, i regolamenti degli enti sono emanati nel rispetto delle relative finalità istituzionali e dei principi di autonomia, di cui all'
+								<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+								, secondo le procedure e le modalità ivi previste. Con decreto del Ministro, sentito il CNST, i collegi per l'emanazione dei regolamenti possono essere integrati con rappresentanze delle varie componenti che operano nell'ente.
+							</corpo>
+						</comma>
+						<comma id="art17-com3">
+							<num>3.</num>
+							<corpo>
+								Fino alla data di entrata in vigore della legge di attuazione dei principi di autonomia, per la ripartizione e il trasferimento dei mezzi finanziari destinati dallo Stato agli enti di ricerca di cui all'
+								<rif xlink:href="#art8-com1" xlink:type="simple">articolo 8, comma 1</rif>
+								, continua ad applicarsi la normativa vigente.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art18" status="omissis">
+						<num>Art. 18</num>
+						<rubrica>Organizzazione</rubrica>
+						<comma id="art18-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art19" status="omissis">
+						<num>Art. 19</num>
+						<rubrica>Personale</rubrica>
+						<comma id="art19-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo finevigore="t4" id="art20-t4" iniziovigore="t1" status="abrogato">
+						<num>Art. 20</num>
+						<rubrica>Norme particolari per il CNR</rubrica>
+						<comma id="art20-t4-com1">
+							<num>1.</num>
+							<corpo>
+								Fermo restando quanto stabilito all'
+								<rif xlink:href="#art8-com1" xlink:type="simple">articolo 8, comma 1</rif>
+								, il CNR, organo dello Stato dotato di personalità giuridica e gestione autonoma ai sensi delle norme vigenti, adempie ai propri fini istituzionali definiti dalle norme legislative in vigore, ad eccezione del coordinamento delle attività nazionali nei vari rami della scienza e delle sue applicazioni previsto dall'articolo 2, primo comma, numero 1), del decreto legislativo luogotenenziale 1° marzo 1945, n. 82.
+							</corpo>
+						</comma>
+						<comma id="art20-t4-com2">
+							<num>2.</num>
+							<corpo>
+								Il consiglio di presidenza del CNR delibera i regolamenti interni per il funzionamento dell'ente in osservanza delle procedure previste dall'
+								<rif xlink:href="#art8-com4" xlink:type="simple">articolo 8, comma 4</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art21" status="omissis">
+						<num>Art. 21</num>
+						<rubrica>Norma abrogativa</rubrica>
+						<comma id="art21-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art22" status="omissis">
+						<num>Art. 22</num>
+						<rubrica>Copertura finanziaria</rubrica>
+						<comma id="art22-com1">
+							<num />
+							<corpo>Omissis</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+			</articolato>
+			<formulafinale>
+				<h:p>La presente legge, munita del sigillo dello Stato, sarà inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.</h:p>
+			</formulafinale>
+			<conclusione>
+				<dataeluogo codice="" norm="">Data a Roma, addì 9 maggio 1989</dataeluogo>
+				<firma tipo="sottoscrizione">COSSIGA</firma>
+				<firma tipo="sottoscrizione">DE MITA, Presidente del Consiglio dei Ministri</firma>
+				<firma tipo="sottoscrizione">RUBERTI, Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica</firma>
+				<firma tipo="visto">Visto, il Guardasigilli: VASSALLI</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1" status="omissis">
+					<testata>
+						<denAnnesso>Tabella A</denAnnesso>
+						<titAnnesso>(prevista dall'articolo 13, comma 1 e dall'articolo 19, comma 10)</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:stato:legge:1989-05-09;168:tabella.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p status="omissis">(Omissis)</h:p>
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2" status="omissis">
+					<testata>
+						<denAnnesso>Tabella B</denAnnesso>
+						<titAnnesso>(prevista dall'articolo 13, comma 2 e dell'articolo 19, comma 6)</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:stato:legge:1989-05-09;168:tabella.b" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p status="omissis">(Omissis)</h:p>
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</Legge>
+	</NIR>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="xxxxx">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="GU" />
+					<entratainvigore norm="" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.4" />
+				</descrittori>
+			</meta>
+			<intestazione>
+				<tipoDoc>Allegato al Regolamento</tipoDoc>
+				<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+				, n.
+				<numDoc>18</numDoc>
+				<titoloDoc>Attività relative alla consulenza giuridica, gestione del contenzioso giudiziale e stragiudiziale, nonché alla consulenza e copertura assicurativa in caso di responsabilità civile verso terzi dell'amministrazione.</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="corpo">
+				<contenitore id="con2" nome="">
+					<h:p>
+						<h:b>Fonti normative:</h:b>
+					</h:p>
+					<h:p>
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">decreto legislativo 127/2003</rif>
+						,
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+						(
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
+						(G.U. n. 124 del 30 maggio 2005);
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza</rif>
+						(
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">D.P.CNR prot. n. 25034 del 4 maggio 2005</rif>
+						(G.U. n. 124 del 30 maggio 2005);
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
+						(G.U. n. 124 del 30 maggio 2005); Leggi sulla giustizia amministrativa;
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.lg, 30.03.2001, n. 165</rif>
+						;
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">DPR. 29.10.2001, n. 461</rif>
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+					</h:p>
+					<h:p>
+						Finalità volte a fare valere il diritto di difesa in sede amministrativa o giudiziaria (
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art71" xlink:type="simple">art. 71 del d.lgs. n. 196/2003</rif>
+						) e correlate alla gestione del rapporto di lavoro (
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112" xlink:type="simple">art. 112 del d.lgs. n. 196/2003</rif>
+						)
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con4" nome="">
+					<h:p>
+						<h:b>Tipi di dati trattati</h:b>
+					</h:p>
+					<h:p>
+						<h:b>Origine:</h:b>
+						razziale / etnica;
+						<h:b>convinzioni:</h:b>
+						religiose / filosoliche / politiche / sindacali / d'altro genere;
+						<h:b>stato di salute:</h:b>
+						patologie attuali / patologie pregresse / terapie in corso / relativi anche ai familiari dell'interessato;
+						<h:b>vita sessuale</h:b>
+						;
+						<h:b>dati a carattere giudiziario</h:b>
+						(
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+						)
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con5" nome="">
+					<h:p>
+						<h:b>Operazioni eseguite</h:b>
+					</h:p>
+					<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+					<h:ul>
+						<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+						<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+					</h:ul>
+					<h:p>b) Particolari forme di elaborazione</h:p>
+					<h:ul>
+						<h:li>
+							Raffronti di dati con: amministrazioni certificanti ai sensi del
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445" xlink:type="simple">d.P.R. n. 445/2000</rif>
+						</h:li>
+					</h:ul>
+					<h:p>c) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+					<h:ul>
+						<h:li>Autorità giudiziaria, avvocati e consulenti tecnici incaricati dall'Autorità giudiziaria, Avvocatura Generale dello Stato, Uffici provinciali del lavoro, Enti previdenziali (INAIL, INPS, INPDAP), enti di patronato, sindacati, incaricati di indagini difensive proprie e altrui, consulenti della controparte (per le finalità di corrispondenza sia in fase pregiudiziale, sia in corso di causa, per la gestione dei sinistri causati direttamente o indirettamente a terzi);</h:li>
+						<h:li>società assicuratrici (per la valutazione e la copertura economica degli indennizzi per la responsabilità civile verso terzi);</h:li>
+						<h:li>
+							struttura sanitaria e Comitato di verifica per le cause di servizio (per la relativa trattazione amministrativa ai sensi del
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001;461" xlink:type="simple">D.P.R. n. 461/2001</rif>
+							);
+						</h:li>
+						<h:li>
+							alle amministrazioni coinvolte nel caso in cui venga presentato il ricorso straordinario al Capo dello Stato (per la relativa trattazione, ai sensi della
+							<rif xlink:href="urn:nir:stato:legge:1971;1199" xlink:type="simple">legge n. 1199/1971</rif>
+							)
+						</h:li>
+						<h:li>Ministero del Lavoro (Uff. Prov. Lav.) per tentativo obbligatorio di conciliazione</h:li>
+					</h:ul>
+					<h:p />
+				</contenitore>
+				<contenitore id="con6" nome="">
+					<h:p>
+						<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+					</h:p>
+					<h:p>
+						Il trattamento dei dati giudiziari e sensibili è effettuato per quanto strettamente indispensabile in relazione ad ogni fattispecie che possa dar luogo ad un contenzioso, in particolare nell'ambito di pareri resi all'Amministrazione di scritti difensivi prodotti in giudizio, così come nell'ambito delle richieste di indennizzo e/o danni inerenti la responsabilità civile verso terzi dell'Amministrazione. Vengono effettuati eventuali raffronti con amministrazioni e gestori di pubblici servizi: tale tipo di operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R n. 445/2000</rif>
+						. Gli stessi possono essere comunicati agli uffici competenti per la relativa trattazione amministrativa, all'Autorità giudiziaria (che può anche comunicarli all'ente), al professionista per un'eventuale attribuzione di incarico; all'avvocatura generale dello Stato per acquisire pareri e/o fornire elementi per la difesa in giudizio, all'Ufficio provinciale del lavoro per il tentativo di conciliazione, agli Enti previdenziali (INAIL, INPS INPDAP), agli enti di patronato ed ai sindacati (incaricati di indagini difensive proprie e altrui); nonché al consulente della controparte e al consulente nominato dall'autorità giudiziaria (per le finalità di corrispondenza sia in fase pregiudiziale, sia in corso di causa, nonché per la gestione dei sinistri causati direttamente o indirettamente a terzi). I dati riguardano ogni fattispecie che possa dare luogo ad un contenzioso.
+					</h:p>
+				</contenitore>
+			</contenitore>
+		</DocumentoNIR>
+	</NIR>

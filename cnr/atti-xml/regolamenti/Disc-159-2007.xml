@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20070919" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070919" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20070919" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-09-19;159" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:strutturaDestinataria valore="" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Allegato alla Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20070919">19 settembre 2007</dataDoc>
+				, n.
+				<numDoc>159</numDoc>
+				<titoloDoc>
+					Disposizioni organizzative interne per il funzionamento del Consiglio di amministrazione del CNR ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art4-com9" xlink:type="simple">art. 4 comma 9 del Regolamento di Organizzazione e Funzionamento</rif>
+				</titoloDoc>
+			</intestazione>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>(Convocazione)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Il Consiglio di amministrazione, d'ora innanzi Consiglio, si riunisce di regola due volta al mese e, comunque ogni qualvolta il Presidente lo ritenga necessario oppure quando ne facciano richiesta almeno 5 consiglieri ai sensi del
+							<rif xlink:href="#art1-com4" xlink:type="simple">comma 4</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Nella prima seduta dell'anno, di norma, viene indicato il calendario di massima per le sedute successive; nella definizione del calendario il presidente tiene conto di eventuali indicazioni dei consiglieri.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>L'avviso di convocazione è trasmesso con telegramma ai Consiglieri, almeno 5 giorni prima della data della riunione e, contestualmente, tramite posta elettronica o fax, all'indirizzo fornito dai singoli destinatari.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>Nei casi di motivata urgenza la convocazione può essere fatta anche con altri mezzi ritenuti adeguati a raggiungere gli interessati, almeno 24 ore prima della riunione.</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num>5.</num>
+						<corpo>L'avviso di convocazione deve indicare la data, il giorno, l'ora ed il luogo della riunione, e dovrà comprendere l'elenco dei punti iscritti all'ordine del giorno.</corpo>
+					</comma>
+					<comma id="art1-com6">
+						<num>6.</num>
+						<corpo>
+							L'avviso di convocazione è altresì inviato ai componenti del Collegio dei Revisori dei Conti, che possono assistere alle sedute del Consiglio, al Magistrato che esercita le funzioni di delegato al controllo della Corte dei Conti presso il CNR a norma dell'
+							<rif xlink:href="urn:nir:stato:legge:1958-03-21;259#art12" xlink:type="simple">articolo 12 della legge 21 marzo 1958, n. 259</rif>
+							ed al Direttore Generale, che partecipa alle riunioni a norma dell'
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art4-com5" xlink:type="simple">articolo 4 comma 5 del Regolamento di organizzazione e funzionamento</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com7">
+						<num>7.</num>
+						<corpo>Con le stesse modalità con cui è effettuata la convocazione il Presidente può disporre l'integrazione dell'ordine del giorno con argomenti di particolare urgenza sopravvenuti dopo l'invio dell'avviso di convocazione con comunicazione da inviare almeno 24 ore prima della riunione.</corpo>
+					</comma>
+					<comma id="art1-com8">
+						<num>8.</num>
+						<corpo>Il direttore generale assicura la diffusione dell'avviso di convocazione attraverso l'albo elettronico di diramazione interna.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>(Documentazione relativa ai punti all'ordine del giorno)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Il Direttore generale è tenuto a far pervenire alla segreteria del Consiglio di amministrazione la documentazione relativa agli argomenti all'ordine del giorno entro e non oltre i sei giorni precedenti il giorno fissato per la riunione.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							Il termine di cui al
+							<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
+							può essere dimezzato in presenza di particolari esigenze che devono essere previamente autorizzate dal Presidente e da questi illustrate nel corso della riunione.
+						</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>La documentazione dovrà contenere l'indicazione dell'Ufficio proponente, ed una relazione dettagliata della questione sottoposta all'esame del Consiglio sottoscritta dal responsabile dell'Ufficio proponente.</corpo>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>La relazione deve indicare la base giuridica della proposta deliberativa, contenere ipotesi di scelta motivate sia sotto il profilo della legittimità che della convenienza, indicare eventuali oneri derivanti dalla decisione e il capitolo di bilancio sul quale andrà a gravare la spesa.</corpo>
+					</comma>
+					<comma id="art2-com5">
+						<num>5.</num>
+						<corpo>La relazione è trasmessa dal Direttore generale che predispone il relativo schema di delibera . Il direttore generale ne attesta la conformità a leggi e regolamenti nonché la copertura finanziaria.</corpo>
+					</comma>
+					<comma id="art2-com6">
+						<num>6.</num>
+						<corpo>Tutti gli schemi di deliberazioni che comportano assunzioni di spesa indicano il capitolo di bilancio su cui grava e sono vistate dal responsabile dell'Ufficio Bilancio.</corpo>
+					</comma>
+					<comma id="art2-com7">
+						<num>7.</num>
+						<corpo>Le relazioni e gli schemi di deliberazioni predisposte dagli Uffici sugli argomenti all'ordine del giorno devono essere rese disponibili a cura del Segretario del Consiglio di Amministrazione ai membri del Consiglio anche per via telematica almeno cinque giorni prima dell'adunanza. La documentazione richiamata nelle relazioni e quant'altro ritenuto utile dagli uffici per la cognizione della problematica deve essere posta a disposizione dei Consiglieri presso la Segreteria del Consiglio di amministrazione almeno quattro giorni prima della data di seduta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>(Costituzione del Consiglio)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>Il Presidente, verificata la presenza del quorum costitutivo stabilito dal Regolamento di organizzazione e funzionamento dichiara aperta la seduta. Decorsi inutilmente trenta minuti dall'ora indicata nell'avviso di convocazione il Presidente, verificata la regolarità della convocazione, dichiara deserta la seduta, salvo che i presenti decidano diversamente.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>I consiglieri che entrino a seduta iniziata o che l'abbandonino prima del termine devono darne comunicazione al Presidente. Il Segretario ne curerà la verbalizzazione.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>Qualora venga meno il quorum costitutivo il Presidente sospende la seduta per non più di trenta minuti. Se alla ripresa il numero legale non è raggiunto, il Presidente aggiorna la seduta.</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>Su proposta del Presidente o di un consigliere e previo consenso di tutti i componenti del Consiglio presenti in riunione possono essere invitati a partecipare alle sedute del Consiglio di amministrazione soggetti esterni per la trattazione di specifiche questioni all'ordine del giorno.</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<corpo>Tutti i partecipanti alla riunione, con e senza diritto di voto, devono apporre la propria firma su apposito registro.</corpo>
+					</comma>
+					<comma id="art3-com6">
+						<num>6.</num>
+						<corpo>Nessuno può prendere parte alla discussione ed alla votazione in ordine ad argomenti che riguardano direttamente la sua persona o i suoi parenti o affini entro il 4° grado.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>(Partecipazione in videoconferenza)</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>I consiglieri che intendono partecipare alle riunioni del Consiglio di amministrazione tramite sistemi di videoconferenza, devono darne comunicazione alla Segreteria del Consiglio di amministrazione in tempo utile per consentire di approntare le necessarie misure tecniche e comunque non oltre il termine di tre giorni interi non festivi precedenti la data della seduta.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>La seduta si considera tenuta nel luogo in cui si trovano il presidente ed il segretario.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Qualora per motivi tecnici vi sia una interruzione del servizio o altro ostacolo che non consenta la partecipazione dei Consiglieri in Videoconferenza il Presidente sospende la riunione. Dopo aver verificato le possibilità di risolvere il problema e sempre che non sia venuto meno il numero legale, il Presidente, udito il consigliere collegato in videoconferenza, decide su un eventuale aggiornamento della riunione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>(Segretario del Consiglio di amministrazione)</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Il Presidente è assistito da un Segretario, nominato dal Presidente previa delibera del Consiglio di amministrazione tra i dirigenti amministrativi, i ricercatori e i tecnologi del CNR.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>Il Segretario assiste il Presidente nelle riunioni, accerta la regolare costituzione del Consiglio, provvede alla formazione e alla tenuta di verbali e deliberazioni, cura che le decisioni del Consiglio siano trasmesse tempestivamente al direttore generale per la loro esecuzione, provvede ad organizzare strumenti tecnici per la partecipazione in videoconferenza.</corpo>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>Per l'espletamento delle funzioni attribuitegli si avvale di una segreteria-tecnica nell'ambito degli uffici di diretta collaborazione e, nel corso delle riunioni acquisito il consenso del presidente e dei consiglieri, può farsi coadiuvare da personale di sua fiducia.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>(Discussione)</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>La discussione degli argomenti è diretta dal Presidente, che ne assicura il regolare svolgimento.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>L'ordine di discussione è quello stabilito nell'ordine del giorno. Nel porre in discussione gli argomenti, il Presidente, sempre che nessuno dei Consiglieri vi si opponga, può seguire un ordine diverso da quello risultante dall'avviso di convocazione e può disporre che tutti o alcuni degli argomenti posti all'ordine del giorno siano discussi in un'unica soluzione.</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Il Presidente può affidare a singoli o a gruppi di Consiglieri gli adempimenti istruttori e il compito di provvedere ad effettuare la relazione al Consiglio su specifici argomenti o determinate materie su cui il Consiglio è chiamato a pronunciarsi. Può altresì chiedere al Direttore Generale di intervenire per illustrare le relazioni presentate in Consiglio.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>Per le discussioni che implicano apprezzamenti o valutazioni circa le qualità o le capacità di una persona, o questioni di particolare delicatezza, al Direttore Generale, al Segretario e ai suoi collaboratori può essere richiesto di allontanarsi temporaneamente dal luogo della riunione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>(Verbalizzazione e tenuta dei verbali)</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>Il verbale della seduta viene redatto dal Segretario del Consiglio di Amministrazione sulla base di bozze stenografiche. Non è consentita la registrazione delle sedute con mezzi meccanici, fonografici o audiovisivi.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>Il verbale contiene la sintetica rappresentazione degli argomenti discussi, del nome degli intervenuti, delle opinioni espresse, delle determinazioni assunte e dell'esito delle votazioni.</corpo>
+					</comma>
+					<comma id="art7-com3">
+						<num>3.</num>
+						<corpo>Ciascun componente e il Direttore generale possono richiedere che siano inseriti integralmente il proprio intervento o la propria dichiarazione di voto.</corpo>
+					</comma>
+					<comma id="art7-com4">
+						<num>4.</num>
+						<corpo>Il verbale è sottoscritto dal Presidente e dal segretario.</corpo>
+					</comma>
+					<comma id="art7-com5">
+						<num>5.</num>
+						<corpo>Il verbale deve rispettare l'ordine cronologico effettivo della discussione degli argomenti all'ordine del giorno, di cui è fornito un resoconto in forma sintetica, pur nel rispetto della chiarezza, comprensivo degli interventi dei partecipanti, dell'oggetto delle delibere assunte e dando conto delle votazioni effettuate.</corpo>
+					</comma>
+					<comma id="art7-com6">
+						<num>6.</num>
+						<corpo>Costituisce parte integrante del verbale un allegato ove sono raccolti sia la documentazione istruttoria distribuita ai Consiglieri per la seduta, sia le delibere assunte.</corpo>
+					</comma>
+					<comma id="art7-com7">
+						<num>7.</num>
+						<corpo>Il verbale di ogni seduta viene di norma distribuito a tutti i componenti almeno cinque giorni prima della seduta successiva a quella cui esso si riferisce e si intende approvato se nessun componente ha trasmesso rilievi per iscritto prima della seduta o formulato rilievi nella seduta medesima.</corpo>
+					</comma>
+					<comma id="art7-com8">
+						<num>8.</num>
+						<corpo>Dopo l'approvazione, il verbale, munito della firma del Presidente e del Segretario, viene conservato a cura della Segreteria del Consiglio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>(Deliberazioni)</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Le deliberazioni sono nei limiti indicati dal Regolamento immediatamente esecutive e, salvo casi motivati di deroga per esigenze redazionali, sono approvate nel corso della seduta a stralcio del verbale.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Le delibere sono numerate progressivamente anno per anno, repertoriate e inserite nella raccolta tenuta dal segretario del Consiglio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>(Pubblicità delle decisioni)</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>Il Presidente coadiuvato dal Segretario da informativa in forma sintetica delle decisioni assunte a tutti i dipendenti attraverso strumenti telematici.</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>Le delibere sono rese pubbliche salvo che la pubblicazione possa recare danno all'ente o ai terzi e nel rispetto delle disposizioni sul trattamento dei dati personali. L'eventuale carattere riservato anche temporaneo della delibera è stabilito direttamente dal Consiglio all'atto della sua adozione o successivamente dal Direttore Generale che ne informa il Presidente.</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>
+							Il verbale non è pubblico ed è reso accessibile ai sensi della
+							<rif xlink:href="urn:nir:stato:legge:1990;241" xlink:type="simple">legge 241/1990</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione />
+		</DocumentoNIR>
+	</NIR>

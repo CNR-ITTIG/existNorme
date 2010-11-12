@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<Legge>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19860702" num="151" tipo="GU" />
+					<entratainvigore norm="19860703" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn finevigore="t4" iniziovigore="t1" valore="urn:nir:stato:legge:1986-06-21;317" />
+					<urn finevigore="t2" iniziovigore="t4" valore="urn:nir:stato:legge:1986-06-21;317@1990-12-29" />
+					<urn finevigore="t3" iniziovigore="t2" valore="urn:nir:stato:legge:1986-06-21;317@1996-02-06" />
+					<urn iniziovigore="t3" valore="urn:nir:stato:legge:1986-06-21;317@2000-11-23" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19860703" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19960225" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="20010208" fonte="rp2" id="t3" tipo="modifica" />
+						<evento data="19910127" fonte="rp3" id="t4" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:legge:1986-06-21;317" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:stato:legge:1996-02-06;52" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:stato:legge:1990-12-29;428" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:1996-02-06;52" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:1996-02-06;52#art46-com1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo46, comma1, legge 6 febbraio 1996, n. 52" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art1-t3" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art1-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-t3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427#art2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo2, decreto legislativo 23 novembre 2000, n. 427" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art1" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art1-t3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#??" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427#art1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo1, decreto legislativo 23 novembre 2000, n. 427" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h2" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h1" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-t4" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:1990-12-29;428" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:1990-12-29;428#art53" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo53, legge 29 dicembre 1990, n. 428" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-t2" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-t4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:1996-02-06;52" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:1996-02-06;52#sez46" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="sezione46, legge 6 febbraio 1996, n. 52" id="itt5" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art2-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1bis" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427#art3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo3, decreto legislativo 23 novembre 2000, n. 427" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art1bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art3-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:1996-02-06;52" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:1996-02-06;52#art46-com2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo46, comma2, legge 6 febbraio 1996, n. 52" id="itt7" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art3" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art3-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art3-com1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427#art1-com2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo1, comma2, decreto legislativo 23 novembre 2000, n. 427" id="itt8" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art4-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:1996-02-06;52" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:1996-02-06;52#art46-com3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo46, comma3, legge 6 febbraio 1996, n. 52" id="itt9" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art4" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art4-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art4-com1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2000-11-23;427#art1-com2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo1, comma2, decreto legislativo 23 novembre 2000, n. 427" id="itt10" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h6" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h5" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>LEGGE</tipoDoc>
+				<dataDoc norm="19860621">21 giugno 1986</dataDoc>
+				, n.
+				<numDoc>317</numDoc>
+				<titoloDoc>
+					<h:span finevigore="t3" id="h1" iniziovigore="t1" status="abrogato">
+						Attuazione della
+						<rif xlink:href="urn:nir:comunita.europee:direttiva:1983;189" xlink:type="simple">Direttiva N. 83/189/CEE</rif>
+						relativa alla procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche
+					</h:span>
+					<h:span id="h2" iniziovigore="t3">
+						Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione in attuazione della
+						<rif xlink:href="urn:nir:comunita.europee:direttiva:1998-06-22;34" xlink:type="simple">direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998</rif>
+						, modificata dalla
+						<rif xlink:href="urn:nir:comunita.europee:direttiva:1998-07-20;48" xlink:type="simple">direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998</rif>
+					</h:span>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>La Camera dei deputati ed il Senato della Repubblica hanno approvato;</h:p>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<h:p>PROMULGA</h:p>
+				<h:p>la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo finevigore="t2" id="art1-t2" iniziovigore="t1" status="abrogato">
+					<num>Art. 1</num>
+					<rubrica>Definizioni preliminari</rubrica>
+					<comma id="art1-t2-com1">
+						<num>1.</num>
+						<alinea>
+							Ai fini della presente legge, nonché per l'esercizio delle competenze di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legge:1982-06-30;390" xlink:type="simple">decreto-legge 30 giugno 1982, n. 390</rif>
+							, convertito, con modificazioni, dalla
+							<rif xlink:href="urn:nir:stato:legge:1982-08-12;597" xlink:type="simple">legge 12 agosto 1982, n. 597</rif>
+							, si intende per:
+						</alinea>
+						<el id="art1-t2-com1-leta">
+							<num>a)</num>
+							<corpo>"specifica tecnica": la specifica normativa contenuta in un documento che definisce le caratteristiche di un prodotto e concernente in particolare i livelli di qualità o di utilizzazione, la sicurezza, le dimensioni, nonché le prescrizioni applicabili al prodotto stesso per quanto riguarda la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marchiatura e la etichettatura;</corpo>
+						</el>
+						<el id="art1-t2-com1-letb">
+							<num>b)</num>
+							<corpo>"norma": la specifica tecnica approvata da un organismo riconosciuto ed abilitato ad emanare atti di normalizzazione la cui osservanza non sia obbligatoria;</corpo>
+						</el>
+						<el id="art1-t2-com1-letc">
+							<num>c)</num>
+							<corpo>"programma di normalizzazione": il documento che elenca le materie per le quali si intende adottare una norma o modificarla;</corpo>
+						</el>
+						<el id="art1-t2-com1-letd">
+							<num>d)</num>
+							<corpo>"progetto di norma": il documento contenente il testo delle specifiche tecniche per una determinata materia per la quale si prevede l'adozione secondo la procedura di normalizzazione nazionale, quale risulta da lavori preparatori e che è distribuito a fini di indagine pubblica o di commento;</corpo>
+						</el>
+						<el id="art1-t2-com1-lete">
+							<num>e)</num>
+							<corpo>"regola tecnica": la specifica tecnica ivi compresa ogni disposizione che ad essa si applichi, la cui osservanza sia obbligatoria per la commercializzazione o la utilizzazione, ad eccezione delle disposizioni fissate dalle autorità locali;</corpo>
+						</el>
+						<el id="art1-t2-com1-letf">
+							<num>f)</num>
+							<corpo>"progetto di regola tecnica": il testo di una specifica tecnica, comprendente anche disposizioni amministrative, elaborato per l'adozione come regola tecnica da parte degli organi competenti e che si trovi in una fase preparatoria che permetta ancora di apportarvi emendamenti sostanziali;</corpo>
+						</el>
+						<el id="art1-t2-com1-letg">
+							<num>g)</num>
+							<corpo>
+								"prodotto": i prodotti di fabbricazione industriale, esclusi quelli indicati nel successivo
+								<rif xlink:href="#art2-t4" xlink:type="simple">articolo 2</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo finevigore="t3" id="art1-t3" iniziovigore="t2" status="abrogato">
+					<num>Art. 1</num>
+					<rubrica>Definizioni preliminari</rubrica>
+					<comma id="art1-t3-com1">
+						<num>1.</num>
+						<alinea>
+							Ai fini della presente legge, nonché per l'esercizio delle competenze di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legge:1982-06-30;390" xlink:type="simple">decretolegge 30 giugno 1982, n. 390</rif>
+							, convertito, con modificazioni, dalla
+							<rif xlink:href="urn:nir:stato:legge:1982-08-12;597" xlink:type="simple">legge 12 agosto 1982, n. 597</rif>
+							, si intende per:
+						</alinea>
+						<el id="art1-t3-com1-leta">
+							<num>a)</num>
+							<corpo>"prodotto": i prodotti di fabbricazione industriale e i prodotti agricoli;</corpo>
+						</el>
+						<el id="art1-t3-com1-letb">
+							<num>b)</num>
+							<corpo>
+								"specifica tecnica": una specifica normativa contenuta in un documento che definisce le caratteristiche richieste a un prodotto, quali i livelli di qualità o di utilizzazione, la sicurezza, le dimensioni, nonché le prescrizioni applicabili al prodotto per quanto riguarda la denominazione di vendita, la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marcatura e l'etichettatura e le procedure di valutazione della conformità. Sono altresì ricompresi i metodi ed i procedimenti di produzione relativi ai prodotti agricoli ai sensi dell'articolo 38, paragrafo 1, del trattato istitutivo della comunità europea, i prodotti destinati all'alimentazione umana e animale, nonché i medicinali definiti dall'
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1965;65#art1" xlink:type="simple">articolo 1 della direttiva 65/65/CEE del consiglio</rif>
+								ed inoltre i metodi ed i procedimenti di produzione relativi agli altri prodotti, quando abbiano un'incidenza sulle caratteristiche di questi ultimi;
+							</corpo>
+						</el>
+						<el id="art1-t3-com1-letc">
+							<num>c)</num>
+							<corpo>"altro requisito": un requisito diverso da una specifica tecnica, imposto ad un prodotto per motivi di tutela, in particolare dei consumatori o dell'ambiente, e concernente il suo ciclo di vita dopo la commercializzazione, quali le sue condizioni di utilizzazione, di reimpiego o di eliminazione, qualora tali condizioni possano influenzare in modo significativo la composizione o la natura del prodotto o la sua commercializzazione;</corpo>
+						</el>
+						<el id="art1-t3-com1-letd">
+							<num>d)</num>
+							<corpo>"norma": una specifica tecnica, approvata da un organismo riconosciuto ed abilitato ad emanare atti di normalizzazione, la cui osservanza non sia obbligatoria ed appartenente ad una delle seguenti categorie: norme internazionali, norme europee, norme nazionali. sono norme internazionali, europee o nazionali, le norme adottate e messe a disposizione del pubblico rispettivamente da un'organizzazione internazionale, da un organismo europeo o da un organismo nazionale di normalizzazione;</corpo>
+						</el>
+						<el id="art1-t3-com1-lete">
+							<num>e)</num>
+							<corpo>"programma di normalizzazione": il piano di lavoro predisposto da uno degli organismi di cui alla lettera d), contenente l'elenco degli argomenti oggetto di lavori di normalizzazione;</corpo>
+						</el>
+						<el id="art1-t3-com1-letf">
+							<num>f)</num>
+							<corpo>"progetto di norma": il documento contenente il testo delle specifiche tecniche per una determinata materia, per la quale si prevede l'adozione secondo la procedura di normalizzazione nazionale e che è distribuito ai fini di inchiesta pubblica o commento;</corpo>
+						</el>
+						<el id="art1-t3-com1-letg">
+							<num>g)</num>
+							<corpo>
+								"organismo europeo di normalizzazione": uno degli organismi elencati nell'allegato I alla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1994;10" xlink:type="simple">direttiva 94/10/CE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-t3-com1-leth">
+							<num>h)</num>
+							<corpo>
+								"organismo nazionale di normalizzazione": uno degli organismi elencati nell'allegato II alla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1994;10" xlink:type="simple">direttiva 94/10/CE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-t3-com1-leti">
+							<num>i)</num>
+							<corpo>"progetto di regola tecnica": il testo di una specifica tecnica o di altro requisito, comprendente anche disposizioni amministrative, elaborato per l'adozione come regola tecnica da parte degli organi competenti e che si trovi in una fase preparatoria che permetta ancora di apportarvi degli emendamenti sostanziali;</corpo>
+						</el>
+						<el id="art1-t3-com1-letl">
+							<num>l)</num>
+							<corpo>
+								"regola tecnica": una delle specifiche tecniche o uno degli altri requisiti, comprese le disposizioni amministrative che ad esso si applicano, indicati al comma 2 e comunque ogni specifica tecnica o altro requisito, la cui osservanza è obbligatoria per la commercializzazione o l'utilizzazione di un prodotto sul territorio nazionale o in una parte importante di esso, nonché le disposizioni legislative, regolamentari ed amministrative degli stati membri intese a vietare la fabbricazione, la commercializzazione o l'utilizzazione di un prodotto ad eccezione di quelle indicate all'
+								<rif xlink:href="#art9" xlink:type="simple">articolo 9, comma 6</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art1-t3-com2">
+						<num>2.</num>
+						<alinea>Costituiscono, in ogni caso, regole tecniche:</alinea>
+						<el id="art1-t3-com2-leta">
+							<num>a)</num>
+							<corpo>le disposizioni legislative, regolamentari o amministrative, che fanno riferimento a specifiche tecniche, ad altri requisiti, a codici professionali o di buona prassi che si riferiscono, a loro volta, a specifiche tecniche o ad altri requisiti e la cui osservanza conferisce una presunzione di conformità alle prescrizioni fissate dalle suddette disposizioni legislative, regolamentari o amministrative;</corpo>
+						</el>
+						<el id="art1-t3-com2-letb">
+							<num>b)</num>
+							<corpo>gli accordi facoltativi dei quali l'autorità pubblica è parte contraente e che mirano al rispetto di specifiche tecniche o di altri requisiti, ad eccezione del capitolato degli appalti pubblici;</corpo>
+						</el>
+						<el id="art1-t3-com2-letc">
+							<num>c)</num>
+							<corpo>le specifiche tecniche e gli altri requisiti connessi con misure di carattere fiscale o finanziario che influenzano il consumo di prodotti, incoraggiando l'osservanza di tali specifiche tecniche o di altri requisiti ad eccezione delle specifiche tecniche e degli altri requisiti volti a finalità di sicurezza sociale.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art1" iniziovigore="t3">
+					<num>Art. 1</num>
+					<rubrica>Definizioni preliminari</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							Ai fini della presente legge, nonché per l'esercizio delle competenze di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legge:1982-06-30;390" xlink:type="simple">decreto-legge 30 giugno 1982, n. 390</rif>
+							, convertito, con modificazioni dalla
+							<rif xlink:href="urn:nir:stato:legge:1982-08-12;597" xlink:type="simple">legge 12 agosto 1982, n. 597</rif>
+							, si intende per:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>"prodotto": i prodotti di fabbricazione industriale ed i prodotti agricoli compresi i prodotti della pesca;</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>"servizio": qualsiasi servizio della società dell'informazione, vale a dire qualsiasi servizio prestato normalmente dietro retribuzione, a distanza, per via elettronica e a richiesta individuale di un destinatario di servizi. Ai fini della presente definizione si intende: per "servizio a distanza" un servizio fornito senza la presenza simultanea delle parti; per "servizio per via elettronica" un servizio inviato all'origine e ricevuto a destinazione mediante attrezzature elettroniche di trattamento, compresa la compressione digitale e di memorizzazione di dati e che è interamente trasmesso, inoltrato e ricevuto mediante fili, radio, mezzi ottici od altri mezzi elettromagnetici; per "servizio a richiesta individuale di un destinatario di servizi" un servizio fornito mediante trasmissione di dati su richiesta individuale;</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								"regola relativa ai servizi": un requisito di natura generale relativo all'accesso alle attività di servizio di cui al punto b) ed al loro esercizio, in particolare le disposizioni relative al prestatore di servizi, ai servizi ed al destinatario di servizi, ad esclusione delle regole che non riguardino specificamente i servizi definiti al predetto
+								<rif xlink:href="#art1-com1-letb" xlink:type="simple">punto b)</rif>
+								. Si considera riguardante specificamente i servizi della società dell'informazione una regola che, alla luce della sua motivazione e del testo del relativo dispositivo, si pone come finalità e obiettivo specifici, nel suo insieme o in alcune disposizioni puntuali, di disciplinare in modo esplicito e mirato tali servizi; non si considera riguardante specificamente i servizi della società dell'informazione una regola che riguarda tali servizi solo in modo implicito o incidentale;
+							</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>
+								"specifica tecnica": una specifica normativa contenuta in un documento che definisce le caratteristiche richieste ad un prodotto, quali i livelli di qualità o di appropriata utilizzazione, la sicurezza, le dimensioni comprese le prescrizioni applicabili al prodotto per quanto riguarda la denominazione di vendita, la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marcatura e l'etichettatura, nonchè le procedure di valutazione della conformità. Sono altresì compresi i metodi ed i procedimenti di produzione relativi ai prodotti agricoli ai sensi dell'articolo 32, paragrafo 1, del Trattato istitutivo della Comunità europea, ai prodotti destinati all'alimentazione umana e animale, nonchè ai medicinali definiti all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1991-05-29;178#art1" xlink:type="simple">articolo 1 del decreto legislativo 29 maggio 1991, n. 178</rif>
+								, e successive modificazioni, così come i metodi ed i procedimenti di produzione relativi agli altri prodotti, quando abbiano un'incidenza sulle caratteristiche di questi ultimi;
+							</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>"altro requisito": un requisito diverso da una specifica tecnica, prescritto per un prodotto per motivi di tutela, in particolare dei consumatori o dell'ambiente, e concernente il suo ciclo di vita dopo la commercializzazione, quali le sue condizioni di utilizzazione, di riciclaggio, di reimpiego o di eliminazione, qualora tali condizioni possano influenzare in modo significativo la composizione o la natura del prodotto o la sua commercializzazione;</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>"norma": una specifica tecnica, approvata da un organismo riconosciuto e abilitato ad emanare atti di normalizzazione, la cui osservanza non sia obbligatoria e che appartenga ad una delle seguenti categorie: norma internazionale, norma europea, norma nazionale. Sono norme internazionali, europee o nazionali, le norme adottate e messe a disposizione del pubblico rispettivamente da un'organizzazione internazionale di normalizzazione, da un organismo europeo di normalizzazione o da un organismo nazionale di normalizzazione;</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>
+								"programma di normalizzazione": un piano di lavoro predisposto da uno degli organismi di cui alla
+								<rif xlink:href="#art1-com1-letl" xlink:type="simple">lettera l)</rif>
+								contenente l'elenco delle materie costituenti oggetto dei lavori di normalizzazione;
+							</corpo>
+						</el>
+						<el id="art1-com1-leth">
+							<num>h)</num>
+							<corpo>"progetto di norma" il documento contenente il testo delle specifiche tecniche per una determinata materia, predisposto ai fini dell'adozione secondo la procedura di normalizzazione nazionale, quale risulta dai lavori preparatori e qual è distribuito ai fini di pubblica inchiesta o di commento;</corpo>
+						</el>
+						<el id="art1-com1-leti">
+							<num>i)</num>
+							<corpo>
+								"organismo europeo di normalizzazione": uno degli organismi elencati nell'allegato I della
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;34" xlink:type="simple">direttiva 98/34/CE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com1-letl">
+							<num>l)</num>
+							<corpo>
+								"organismo nazionale di normalizzazione": uno degli organismi elencati nell'allegato II della
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;34" xlink:type="simple">direttiva 98/34/CE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com1-letm">
+							<num>m)</num>
+							<alinea>
+								"regola tecnica": una specifica tecnica o altro requisito o una regola relativa ai servizi, comprese le disposizioni, anche amministrative, che ad esse si applicano, la cui osservanza è obbligatoria per la commercializzazione, la prestazione di servizi, lo stabilimento di un prestatore di servizi o l'utilizzo degli stessi in tutto il territorio nazionale o in una parte importante di esso.
+								<h:br />
+								Costituiscono, inoltre, regole tecniche le disposizioni legislative, regolamentari ed amministrative, che vietano la fabbricazione, l'importazione, la commercializzazione o l'utilizzo di un prodotto oppure la prestazione o l'utilizzo di un servizio o lo stabilimento come fornitore di servizi, ad eccezione di quelle indicate all'
+								<rif xlink:href="#art9ter" xlink:type="simple">articolo 9-ter</rif>
+								.
+								<h:br />
+								Costituiscono in ogni caso regole tecniche:
+							</alinea>
+							<en id="art1-com1-letm-num1">
+								<num>1)</num>
+								<corpo>le disposizioni legislative, regolamentari o amministrative che fanno riferimento diretto ovvero indiretto, attraverso codici professionali o di buona prassi, a specifiche tecniche o ad alti requisiti o a regole relative ai servizi e la cui osservanza conferisce una presunzione di conformità alle prescrizioni fissate dalle suddette disposizioni legislative, regolamentari o amministrative;</corpo>
+							</en>
+							<en id="art1-com1-letm-num2">
+								<num>2)</num>
+								<corpo>gli accordi facoltativi dei quali l'Amministrazione è parte contraente e che, nell'interesse generale mirano al rispetto di specifiche tecniche o di altri requisiti o di regole relative ai servizi, ad eccezione del capitolato degli appalti pubblici;</corpo>
+							</en>
+							<en id="art1-com1-letm-num3">
+								<num>3)</num>
+								<corpo>le specifiche tecniche o altri requisiti o le regole relative ai servizi connessi con misure di carattere fiscale o finanziario che influenzano il consumo di prodotti o di servizi, promuovendo l'osservanza di tali specifiche tecniche o altri requisiti o regole relative ai servizi; sono escluse le specifiche tecniche o altri requisiti o le regole relative ai servizi connessi con misure di sicurezza sociale;</corpo>
+							</en>
+						</el>
+						<el id="art1-com1-letn">
+							<num>n)</num>
+							<corpo>"progetto di regola tecnica": il testo di una regola tecnica, comprendente anche disposizioni amministrative, elaborato per adottarlo o farlo adottare come regola tecnica e che si trovi in una fase preparatoria in cui sia ancora possibile apportarvi emendamenti sostanziali;</corpo>
+						</el>
+						<el id="art1-com1-leto">
+							<num>o)</num>
+							<corpo>"ispettorato tecnico": l'ispettorato tecnico del Ministero dell'industria, del commercio e dell'artigianato.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art1bis" iniziovigore="t3">
+					<num>Art. 1-bis</num>
+					<rubrica>Ambito di applicazione della procedura di informazione</rubrica>
+					<comma id="art1bis-com1">
+						<num>1.</num>
+						<corpo>I progetti di regole tecniche sono sottoposti alla procedura d'informazione di cui alla presente legge.</corpo>
+					</comma>
+					<comma id="art1bis-com2">
+						<num>2.</num>
+						<alinea>La presente legge non si applica:</alinea>
+						<el id="art1bis-com2-leta">
+							<num>a)</num>
+							<corpo>ai servizi del tipo di quelli elencati nell'allegato I;</corpo>
+						</el>
+						<el id="art1bis-com2-letb">
+							<num>b)</num>
+							<corpo>ai servizi di radiodiffusione sonora;</corpo>
+						</el>
+						<el id="art1bis-com2-letc">
+							<num>c)</num>
+							<corpo>
+								ai servizi di radiodiffusione televisiva di cui all'
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1989;552#art1" xlink:type="simple">articolo 1, lettera a), della direttiva 89/552/CEE</rif>
+								, come modificata dalla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1997;36" xlink:type="simple">direttiva 97/36/CE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1bis-com2-letd">
+							<num>d)</num>
+							<corpo>
+								alle regole relative ai servizi concernenti questioni che costituiscono oggetto di normativa comunitaria in materia di servizi di telecomunicazione, quali definiti dalla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1990;387" xlink:type="simple">direttiva 90/387/CEE</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1bis-com2-lete">
+							<num>e)</num>
+							<corpo>alle regole relative ai servizi concernenti questioni che costituiscono oggetto di una normativa comunitaria in materia di servizi finanziari del tipo di quelli indicati nell'allegato II;</corpo>
+						</el>
+						<el id="art1bis-com2-letf">
+							<num>f)</num>
+							<corpo>
+								salvo quanto previsto all'
+								<rif xlink:href="#art9bis" xlink:type="simple">articolo 9-bis, comma 8</rif>
+								, alle regole relative ai servizi emanate dai o per i mercati regolamentati ai sensi del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1996-07-23;415" xlink:type="simple">decreto legislativo 23 luglio 1996, n. 415</rif>
+								, da o per altri mercati o organi che effettuano operazioni di compensazione o di pagamento su tali mercati;
+							</corpo>
+						</el>
+						<el id="art1bis-com2-letg">
+							<num>g)</num>
+							<corpo>alle misure necessarie, nell'ambito del Trattato, per garantire la protezione delle persone e, in particolare, dei lavoratori, in relazione all'impiego dei prodotti, a condizione che tali misure non influiscano sui prodotti stessi.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo finevigore="t4" id="art2-t4" iniziovigore="t1" status="abrogato">
+					<num>Art. 2</num>
+					<rubrica>Prodotti esclusi dalla normativa</rubrica>
+					<comma id="art2-t4-com1">
+						<num>1.</num>
+						<alinea>Le disposizioni della presente legge non si applicano:</alinea>
+						<el id="art2-t4-com1-leta">
+							<num>a)</num>
+							<corpo>ai prodotti agricoli, intendendosi come tali i prodotti del suolo, dell'allevamento e della pesca, nonché i prodotti di prima trasformazione che sono in diretta connessione con tali prodotti;</corpo>
+						</el>
+						<el id="art2-t4-com1-letb">
+							<num>b)</num>
+							<corpo>a qualsiasi prodotto destinato all'alimentazione umana ed animale;</corpo>
+						</el>
+						<el id="art2-t4-com1-letc">
+							<num>c)</num>
+							<corpo>ai prodotti medicinali;</corpo>
+						</el>
+						<el id="art2-t4-com1-letd">
+							<num>d)</num>
+							<corpo>ai prodotti cosmetici.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo finevigore="t2" id="art2-t2" iniziovigore="t4" status="abrogato">
+					<num>Art. 2</num>
+					<rubrica>Prodotti esclusi dalla normativa</rubrica>
+					<comma id="art2-t2-com1">
+						<num>1.</num>
+						<corpo>Le disposizioni della presente legge non si applicano ai prodotti cosmetici.</corpo>
+					</comma>
+				</articolo>
+				<articolo finevigore="t2" id="art3-t2" iniziovigore="t1" status="abrogato">
+					<num>Art. 3</num>
+					<rubrica>Nomine di rappresentanti dello Stato nel Comitato della Commissione delle Comunità europee</rubrica>
+					<comma id="art3-t2-com1">
+						<num>1.</num>
+						<corpo>
+							I rappresentanti dello Stato italiano in seno al Comitato permanente previsto dall'
+							<rif xlink:href="urn:nir:comunita.europee:direttiva:1983-03-28;189#art5" xlink:type="simple">articolo 5 della direttiva n. 83/189/CEE del 28 marzo 1983</rif>
+							sono nominati dal Ministro degli affari esteri, su designazione, rispettivamente, del Ministro della industria, del commercio e dell'artigianato e del Ministro del lavoro e della previdenza sociale, nell'ambito dei funzionari delle direzioni generali specificamente competenti.
+						</corpo>
+					</comma>
+					<comma id="art3-t2-com2">
+						<num>2.</num>
+						<corpo>I rappresentanti di cui al comma precedente coordinano la propria attività con le altre amministrazioni pubbliche interessate.</corpo>
+					</comma>
+					<comma id="art3-t2-com3">
+						<num>3.</num>
+						<corpo>
+							Il Ministro degli affari esteri può anche designare, di volta in volta, in casi particolari, funzionari di amministrazioni pubbliche altamente specializzati su specifici argomenti da trattare in seno al Comitato di cui al
+							<rif xlink:href="#art3-t2-com1" xlink:type="simple">comma 1</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3" iniziovigore="t2">
+					<num>Art. 3</num>
+					<rubrica>Nomine di rappresentanti dello Stato nel Comitato della Commissione delle Comunità europee</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							I rappresentanti dello Stato italiano in seno al Comitato permanente previsto dall'articolo 5 della
+							<h:span finevigore="t3" id="h3" iniziovigore="t1" status="abrogato">
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1983-03-28;189" xlink:type="simple">direttiva 83/189/CEE del 28 marzo 1983</rif>
+							</h:span>
+							<h:span id="h4" iniziovigore="t3">
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;34" xlink:type="simple">direttiva 98/34/CE</rif>
+								, modificata dalla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;48" xlink:type="simple">direttiva 98/48/CE</rif>
+							</h:span>
+							, sono nominati dal Ministro degli affari esteri, su designazione, rispettivamente, del Ministro dell'industria, del commercio e dell'artigianato, del Ministro dei lavori pubblici, del Ministro del lavoro e della previdenza sociale e del Ministro delle poste e delle telecomunicazioni, nell'ambito dei funzionari delle direzioni generali specificatamente competenti e di esperti altamente specializzati.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>I rappresentanti di cui al comma 1 coordinano la propria attività con le altre amministrazioni pubbliche interessate, anche mediante la periodica convocazione di conferenze di servizi con i rappresentanti delle amministrazioni interessate.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>
+							Possono essere designati, di volta in volta, in casi particolari, funzionari di amministrazioni pubbliche ed esperti altamente specializzati su specifici argomenti da trattare in seno al Comitato di cui al
+							<rif xlink:href="#art3-com1" xlink:type="simple">comma 1</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo finevigore="t2" id="art4-t2" iniziovigore="t1" status="abrogato">
+					<num>Art. 4</num>
+					<rubrica>Organismi italiani di normalizzazione</rubrica>
+					<comma id="art4-t2-com1">
+						<num>1.</num>
+						<corpo>
+							Ogni modifica degli organismi italiani di normalizzazione, di cui all'elenco allegato alla
+							<rif xlink:href="urn:nir:comunita.europee:direttiva:1983-03-28;189" xlink:type="simple">direttiva n. 83/189/CEE del 28 marzo 1983</rif>
+							, è comunicata alla Commissione delle Comunità europee dal Ministro dell'industria, del commercio e dell'artigianato, previo decreto interministeriale adottato di concerto con i Ministri degli affari esteri, del lavoro e della previdenza sociale e per il coordinamento delle iniziative per la ricerca scientifica e tecnologica. Le modifiche entrano in vigore alla data di pubblicazione del provvedimento nella Gazzetta Ufficiale delle Comunità europee.
+						</corpo>
+					</comma>
+					<comma id="art4-t2-com2">
+						<num>2.</num>
+						<corpo>La vigilanza sugli enti che assolvono le funzioni di organismo di normalizzazione, ai fini della presente legge, è esercitata dal Consiglio nazionale delle ricerche, che riferisce al Ministero dell'industria, del commercio e dell'artigianato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4" iniziovigore="t2">
+					<num>Art. 4</num>
+					<rubrica>Organismi italiani di normalizzazione</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							Ogni modifica degli organismi italiani di normalizzazione di cui all'elenco allegato alla
+							<h:span finevigore="t3" id="h5" iniziovigore="t1" status="abrogato">
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1983-03-28;189" xlink:type="simple">direttiva 83/189/CEE del 28 marzo 1983</rif>
+							</h:span>
+							<h:span id="h6" iniziovigore="t3">
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;34" xlink:type="simple">direttiva 98/34/CE</rif>
+								, modificata dalla
+								<rif xlink:href="urn:nir:comunita.europee:direttiva:1998;48" xlink:type="simple">direttiva 98/48/CE</rif>
+							</h:span>
+							, è comunicata alla Commissione delle Comunità europee dal Ministro dell'industria, del commercio e dell'artigianato, previo decreto interministeriale adottato di concerto con i Ministri degli affari esteri, del lavoro e della previdenza sociale, dei lavori pubblici e dell'università e della ricerca scientifica e tecnologica. Le modifiche entrano in vigore alla data di pubblicazione del provvedimento nella Gazzetta Ufficiale delle Comunità europee.
+						</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>La vigilanza sugli enti che assolvono le funzioni di organismo di normalizzazione ai fini della presente legge è esercitata dal Consiglio nazionale delle ricerche, che riferisce al Ministero dell'industria, del commercio e dell'artigianato, e, limitatamente al settore dell'ingegneria civile e strutturale, d'intesa fra il Consiglio nazionale delle ricerche e il Consiglio superiore dei lavori pubblici, i quali riferiscono ai Ministeri dell'industria, del commercio e dell'artigianato e dei lavori pubblici.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5" status="omissis">
+					<num>Art. 5</num>
+					<rubrica>Adempimenti degli organismi di normalizzazione e delle amministrazioni pubbliche</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art6" status="omissis">
+					<num>Art. 6</num>
+					<rubrica>Comunicazione delle informazioni da parte del Ministero dell'industria, del commercio e dell'artigianato</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art7" status="omissis">
+					<num>Art. 7</num>
+					<rubrica>Spesa per il funzionamento dell'Ispettorato tecnico dell'industria</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art8" status="omissis">
+					<num>Art. 8</num>
+					<rubrica>Contributo agli organismi di normalizzazione</rubrica>
+					<comma id="art8-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art9" status="omissis">
+					<num>Art. 9</num>
+					<rubrica>Differimento della messa in vigore di regole tecniche</rubrica>
+					<comma id="art9-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art9bis" status="omissis">
+					<num>Art. 9-bis</num>
+					<rubrica>Adempimenti procedurali</rubrica>
+					<comma id="art9bis-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art9ter" status="omissis">
+					<num>Art. 9-ter</num>
+					<rubrica>Esclusione di adempimenti</rubrica>
+					<comma id="art9ter-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art10" status="omissis">
+					<num>Art. 10</num>
+					<rubrica>Disposizioni finanziarie</rubrica>
+					<comma id="art10-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art11" status="omissis">
+					<num>Art. 11</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art11-com1">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>
+				<h:p>La presente legge, munita del sigillo dello Stato, sarà inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.</h:p>
+			</formulafinale>
+			<conclusione>
+				<dataeluogo codice="" norm="">Data a Roma, addì 21 giugno 1986</dataeluogo>
+				<firma tipo="sottoscrizione">Cossiga</firma>
+				<firma tipo="sottoscrizione">Craxi, Presidente del Consiglio dei Ministri</firma>
+				<firma tipo="sottoscrizione">Altissimo, Ministro dell'industria, del commercio e dell'artigianato</firma>
+				<firma tipo="visto">Visto, il Guardasigilli: Martinazzoli</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1" status="omissis">
+					<testata>
+						<denAnnesso>Allegato I</denAnnesso>
+						<titAnnesso>
+							Elenco indicativo dei servizi di cui all'
+							<rif xlink:href="#art1bis-com2-leta" xlink:type="simple">articolo 1-bis, comma 2, lettera a)</rif>
+						</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:stato:legge:1986-06-21;317:allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p>Omissis</h:p>
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2" status="omissis">
+					<testata>
+						<denAnnesso>Allegato II</denAnnesso>
+						<titAnnesso>
+							Elenco indicativo dei servizi finanziari di cui all'
+							<rif xlink:href="#art1bis-com2-lete" xlink:type="simple">articolo 1-bis, comma 2, lettera e)</rif>
+						</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:stato:legge:1986-06-21;317:allegato.2" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p>Omissis</h:p>
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</Legge>
+	</NIR>

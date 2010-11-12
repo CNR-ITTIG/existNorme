@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="xxxxx">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="GU" />
+					<entratainvigore norm="" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.7" />
+				</descrittori>
+			</meta>
+			<intestazione>
+				<tipoDoc>Allegato al Regolamento</tipoDoc>
+				<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+				, n.
+				<numDoc>18</numDoc>
+				<titoloDoc>Denominazione del trattamento: Attività di ricerca medica, biomedica ed epidemiologica</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="corpo">
+				<contenitore id="con2" nome="">
+					<h:p>
+						<h:b>Fonti normative:</h:b>
+					</h:p>
+					<h:p>
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n.127</rif>
+						(Riordino del CNR);
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
+						(
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
+						);
+						<mrif>
+							decreto legislativo n. 196/2003 artt.
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art107" xlink:type="simple">107</rif>
+							e
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art110" xlink:type="simple">110</rif>
+						</mrif>
+						; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004.
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+					</h:p>
+					<h:p>
+						Sono le finalità contenute nell'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-letc" xlink:type="simple">art. 98 comma 1 lettera c) del decreto legislativo n. 196/2003</rif>
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con4" nome="">
+					<h:p>
+						<h:b>Tipi di dati trattati</h:b>
+					</h:p>
+					<h:p>
+						<h:b>Origine:</h:b>
+						razziale / etnica;
+						<h:b>stato di salute:</h:b>
+						patologie attuali / patologie pregresse / terapie in corso anche relativi ai familiari;
+						<h:b>vita sessuale</h:b>
+					</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con5" nome="">
+					<h:p>
+						<h:b>Operazioni eseguite</h:b>
+					</h:p>
+					<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+					<h:ul>
+						<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+						<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+					</h:ul>
+					<h:p>
+						b) Particolari forme di elaborazione
+						<h:br />
+						Interconnessione e raffronti di dati: Con altri trattamenti o banche dati delle Strutture di Ricerca del CNR
+					</h:p>
+					<h:p>c) Comunicazione ai seguenti soggetti:</h:p>
+					<h:ul>
+						<h:li>Altri enti, istituzioni e organismi pubblici e privati aventi finalità di ricerca, esclusivamente nell'ambito di progetti congiunti;</h:li>
+						<h:li>Altri enti, istituzioni e organismi pubblici e privati, aventi finalità di ricerca e non partecipanti a progetti congiunti, limitatamente a informazioni prive di dati identificativi e per scopi storici o scientifici chiaramente determinati per iscritto nella richiesta dei dati in tali casi si applicano gli articoli 8 e 9 del codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004;</h:li>
+					</h:ul>
+					<h:p />
+				</contenitore>
+				<contenitore id="con6" nome="">
+					<h:p>
+						<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+					</h:p>
+					<h:p>Il trattamento dei dati riguarda abitanti dei paesi oggetto di studio, campioni di popolazione, individui affetti da patologie in studio, previa informativa sugli scopi della ricerca e sulla volontarietà dell'adesione per la realizzazione di progetti di ricerca che indicano: il tipo di dati; le operazioni eseguite; le finalità e le modalità di trattamento; e previo espletamento delle procedure previste dalla legge e dai regolamenti per l'autorizzazione (parere comitato etico). ll trattamento è effetuato con modalità tali da rendere anonimi successivamente alla raccolta i dati sensibili. In particolare laddove gli scopi scientifici non possono essere raggiunti mediante l'utilizzo di dati anonimi, il trattamento successivo alla raccolta non deve permettere di identificare gli interessati a meno che l'abbinamento al materiale di ricerca dei dati identificativi di questi ultimi non sia temporaneo ed essenziale per il risultato della ricerca, e sia altresì motivato per iscritto nel progetto di ricerca. I risultati della ricerca non sono diffusi se non in forma anonima. Con riferimento a particolari modalità di raccolta si precisa che i dati possono essere desunti anche dal trattamento delle immagini e/o dalle dichiarazioni raccolte nel corso di eventuali video conferenze, teleconsulti, videoregistrazioni o interviste previa informativa all'interessato.</h:p>
+				</contenitore>
+			</contenitore>
+		</DocumentoNIR>
+	</NIR>

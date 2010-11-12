@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Regolamento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20060503" num="101" tipo="GU" />
+					<entratainvigore norm="20060518" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060518" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20060518" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Regolamento</tipoDoc>
+				<dataDoc norm="20060404">4 aprile 2006</dataDoc>
+				<titoloDoc>
+					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<articolato>
+				<titolo id="tit1">
+					<num>Titolo I</num>
+					<rubrica>Principi generali</rubrica>
+					<articolo id="art1">
+						<num>Art. 1.</num>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								Il presente Regolamento si applica nei casi di partecipazione del personale dipendente alle attività relative alla realizzazione di opere e di lavori previsti dal «piano triennale dei lavori pubblici dell'Ente» secondo quanto previsto dalla
+								<rif xlink:href="urn:nir:stato:legge:1994;109" xlink:type="simple">legge n. 109/1994</rif>
+								e successive modifiche ed integrazioni. L'attribuzione dell'incentivo di cui all'
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">art. 18 della legge medesima</rif>
+								è finalizzata alla valorizzazione delle professionalità interne e all'incremento della produttività. In caso di appalti misti l'incentivo è corrisposto per le attività connesse alla componente lavori.
+							</corpo>
+						</comma>
+						<comma id="art1-com2">
+							<num>2.</num>
+							<corpo>
+								Il personale destinatario del compenso è individuato in base all'
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
+								, come da ultimo sostituito dall'
+								<rif xlink:href="urn:nir:stato:legge:1999-05-11;144#art13-com4" xlink:type="simple">art. 13, comma 4 della legge 11 maggio 1999, n. 144</rif>
+								, tra il responsabile unico del procedimento, gli incaricati della redazione del progetto, del piano della sicurezza, della direzione dei lavori e del collaudo, nonché' tra i loro collaboratori.
+							</corpo>
+						</comma>
+						<comma id="art1-com3">
+							<num>3.</num>
+							<corpo>
+								Nell'importo dei lavori sui quali è calcolato l'incentivo non rientrano le spese concernenti le attività propedeutiche, di supporto o integrative alla progettazione, necessarie all'approvazione dei progetti. Gli incentivi sono riconosciuti soltanto quando le opere ed i lavori oggetto di progettazione di cui al
+								<rif xlink:href="#art1-com1" xlink:type="simple">punto 1)</rif>
+								, sono posti a base di gara e si perviene alla pubblicazione della gara medesima, attraverso l'emanazione del bando o attraverso l'inoltro delle lettere d'invito.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit2">
+					<num>Titolo II</num>
+					<rubrica>Costituzione del fondo</rubrica>
+					<articolo id="art2">
+						<num>Art. 2.</num>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<corpo>
+								Per i progetti di cui all'
+								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+								, il fondo è calcolato nel limite massimo dell'1,50% dell'importo dei lavori posti a base di gara al netto dell'IVA, secondo quanto più dettagliatamente specificato al
+								<rif xlink:href="#art3" xlink:type="simple">successivo art. 3</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<corpo>L'importo del fondo, una volta determinato, non è soggetto ad alcuna rettifica successiva.</corpo>
+						</comma>
+						<comma id="art2-com3">
+							<num>3.</num>
+							<corpo>Le somme occorrenti per la corresponsione dell'incentivo sono previste nell'ambito delle somme a disposizione all'interno del quadro economico del relativo progetto e sono comprensive della quota di oneri previdenziali ed assistenziali a carico dell'Amministrazione.</corpo>
+						</comma>
+						<comma id="art2-com4">
+							<num>4.</num>
+							<corpo>Tutti i quadri economici dei progetti previsti ed approvati in fase di previsione di bilancio o in corso di esercizio, che debbano essere posti a gara, vanno tempestivamente e preventivamente trasmessi al competente ufficio del personale; gli importi necessari al pagamento degli incentivi saranno messi a disposizione di tale ultimo ufficio che provvederà alla corresponsione delle somme spettanti agli interessati, secondo le modalità descritte nei seguenti articoli.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit3">
+					<num>Titolo III</num>
+					<rubrica>Composizione del fondo e ripartizione dell'incentivo</rubrica>
+					<articolo id="art3">
+						<num>Art. 3.</num>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<alinea />
+							<el id="art3-com1-leta">
+								<num>a)</num>
+								<corpo>Per progetti di importo fino a 150.000 Euro il fondo è costituito in ragione dell'1,50%;</corpo>
+							</el>
+							<el id="art3-com1-letb">
+								<num>b)</num>
+								<corpo>per progetti di importo da 150.001 Euro e fino a 770.000 Euro il fondo è costituito in ragione dell'1,45%;</corpo>
+							</el>
+							<el id="art3-com1-letc">
+								<num>c)</num>
+								<corpo>per progetti di importo da 770.001 Euro e fino 5.000.000 Euro il fondo è costituito in ragione dell'1,40%;</corpo>
+							</el>
+							<el id="art3-com1-letd">
+								<num>d)</num>
+								<corpo>per progetti di importo da 5.000.001 Euro e fino a 25.000.000 Euro il fondo è costituito in ragione dell'1,35%;</corpo>
+							</el>
+							<el id="art3-com1-lete">
+								<num>e)</num>
+								<corpo>per progetti di importo maggiore di 25.000.000 Euro il fondo è costituito in ragione dell'1,30%.</corpo>
+							</el>
+						</comma>
+						<comma id="art3-com2">
+							<num>2.</num>
+							<alinea>In base al fondo come sopra costituito, l'incentivo è comunque ripartito, nelle percentuali di cui alla seguente tabella, tra le figure professionali sottoindicate, previa formalizzazione dei relativi incarichi da parte del dirigente dell'ufficio attuatore dell'intervento:</alinea>
+							<en id="art3-com2-num1">
+								<num>1.</num>
+								<corpo>Responsabile del procedimento: 10%;</corpo>
+							</en>
+							<en id="art3-com2-num2">
+								<num>2.</num>
+								<corpo>Progettazione preliminare: 9%; definitiva: 11%; esecutiva: 23%;</corpo>
+							</en>
+							<en id="art3-com2-num3">
+								<num>3.</num>
+								<corpo>Coordinatore per la sicurezza in fase di progettazione: 6%;</corpo>
+							</en>
+							<en id="art3-com2-num4">
+								<num>4.</num>
+								<corpo>Direttore dei lavori: 18%;</corpo>
+							</en>
+							<en id="art3-com2-num5">
+								<num>5.</num>
+								<corpo>Coordinatore per la sicurezza in fase di esecuzione: 3%;</corpo>
+							</en>
+							<en id="art3-com2-num6">
+								<num>6.</num>
+								<corpo>Collaudatore: 11 %;</corpo>
+							</en>
+							<en id="art3-com2-num7">
+								<num>7.</num>
+								<corpo>Collaboratori delle figure professionali di cui sopra (con tetto massimo individuale del 2%, ad eccezione dell'eventuale figura del responsabile dei lavori cui viene attribuito il 3%): 9%.</corpo>
+							</en>
+						</comma>
+						<comma id="art3-com3">
+							<num>3.</num>
+							<corpo>
+								Il fondo è comunque costituito, per qualsiasi importo, in ragione dell'1,50% per lavori di particolare rilevanza e complessità, rilevabili in base alla necessità di utilizzare molteplici specializzazioni per la redazione del progetta (impiantistica, strutturistica, architettonica). In tal caso, in presenza di almeno tre progettisti di specializzazione diversa per ciascuna tipologia progettuale di cui al
+								<rif xlink:href="#art3-com2" xlink:type="simple">punto 2)</rif>
+								e qualora venga redatto il solo progetto preliminare o il progetto preliminare e quello definitivo, le rispettive aliquote sopra determinate devono intendersi incrementate affinché ad ogni progettista sia corrisposta un'aliquota del 5%, nel caso di redazione del solo progetto preliminare e del 6%, nel caso del progetto preliminare e definitivo. Nelle ipotesi suddette, il totale degli incentivi corrisposti ai progettisti non potrà eccedere il totale delle aliquote relative alle diverse fasi della progettazione, di cui alla tabella precedente.
+							</corpo>
+						</comma>
+						<comma id="art3-com4">
+							<num>4.</num>
+							<corpo>
+								Resta fermo che sulle disponibilità del fondo, come costituito ai sensi del presente articolo, faranno carico le spese di assicurazione dei progettisti, ai sensi dell'
+								<rif xlink:href="urn:nir:stato:legge:1994;109#art30" xlink:type="simple">art. 30 della legge n. 109/1994</rif>
+								e successive modificazioni e integrazioni e comunque ogni altro onere assicurativo relativo al personale di cui al
+								<rif xlink:href="#art3-com2" xlink:type="simple">punto 2)</rif>
+								. Agli adempimenti corrispondenti provvederà il Dirigente dell'ufficio attuatore dell'intervento.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit4">
+					<num>Titolo IV</num>
+					<rubrica>Condizioni per l'erogazione</rubrica>
+					<articolo id="art4">
+						<num>Art. 4.</num>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<alinea>La corresponsione dell'incentivo è subordinata alle seguenti verifiche da effettuarsi da parte del dirigente dell'Ufficio attuatore dell'intervento:</alinea>
+							<el id="art4-com1-leta">
+								<num>a)</num>
+								<corpo>
+									per quanto riguarda la progettazione, alla verifica dei contenuti indicata all'
+									<mrif>
+										articolo 16, commi
+										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com1" xlink:type="simple">1</rif>
+										e
+										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com2" xlink:type="simple">2</rif>
+										della legge n. 109/1994
+									</mrif>
+									e relativo regolamento di attuazione emanato con
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1999-12-21;554" xlink:type="simple">decreto del Presidente della Repubblica 21 dicembre 1999, n. 554</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art4-com1-letb">
+								<num>b)</num>
+								<corpo>per quanto riguarda tutte le altre attività necessarie alla realizzazione del progetto, alla verifica che. tali attività riguardino opere o lavori disciplinati dalla normativa sui lavori pubblici.</corpo>
+							</el>
+						</comma>
+						<comma id="art4-com2">
+							<num>2.</num>
+							<corpo>Nessuna ripartizione ed attribuzione dell'incentivo viene effettuata qualora i lavori relativi non siano stati posti a base di gara attraverso l'emanazione del bando o attraverso l'inoltro delle lettere d'invito.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit5">
+					<num>Titolo V</num>
+					<rubrica>Criteri di assegnazione degli incarichi</rubrica>
+					<articolo id="art5">
+						<num>Art. 5.</num>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<corpo>
+								L'assegnazione degli incarichi riguardanti i lavori e le opere disciplinate dalla
+								<rif xlink:href="urn:nir:stato:legge:1994;109" xlink:type="simple">legge n. 109/1994</rif>
+								deve garantire il pieno impiego della professionalità in servizio nonché l'equa ripartizione degli stessi, anche al fine della distribuzione degli incentivi previsti dall'
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">articolo 18, comma 1, della legge medesima</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art5-com2">
+							<num>2.</num>
+							<corpo>
+								Il conferimento degli incarichi è disposto, in conformità a quanto previsto al
+								<rif xlink:href="#art5-com1" xlink:type="simple">comma 1</rif>
+								, dal dirigente dell'ufficio attuatore dell'intervento, tenuto conto dell'esigenza di un uniforme affidamento degli stessi, del carico di lavoro dei soggetti aventi diritto e della complessità dell'opera.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit6">
+					<num>Titolo VI</num>
+					<rubrica>Quote spettanti</rubrica>
+					<articolo id="art6">
+						<num>Art. 6.</num>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>L'incentivo a ciascun dipendente dell'unità organizzativa, costituita per ogni singolo intervento, è attribuito con disposizione del dirigente dell'ufficio attuatore dell'intervento.</corpo>
+						</comma>
+						<comma id="art6-com2">
+							<num>2.</num>
+							<corpo>L'incentivo per la redazione del progetto non è attribuito quando l'attività di progettazione consiste in un'opera di mero assemblaggio di apporti progettuali esterni.</corpo>
+						</comma>
+						<comma id="art6-com3">
+							<num>3.</num>
+							<corpo>
+								L'incentivo per gli incaricati della progettazione e i loro collaboratori non è conferito quando nel corso dei lavori si renda necessario apportare al progetto varianti dovute al manifestarsi di errori o di omissioni del progetto esecutivo, secondo quanto previsto dall'
+								<mrif>
+									articolo 25,
+									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art25-com1-letd" xlink:type="simple">comma 1, lettera d)</rif>
+									e
+									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art25-com4" xlink:type="simple">comma 4</rif>
+									della legge n. 109/1994
+								</mrif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit7">
+					<num>Titolo VII</num>
+					<rubrica>Disposizioni particolari</rubrica>
+					<articolo id="art7">
+						<num>Art. 7.</num>
+						<comma id="art7-com1">
+							<num>1.</num>
+							<corpo>La quota parte del fondo incentivante corrispondente a prestazioni che non sono state svolte dai dipendenti, in quanto affidate a personale esterno all'organico dell'amministrazione medesima, costituisce economia.</corpo>
+						</comma>
+						<comma id="art7-com2">
+							<num>2.</num>
+							<corpo>
+								Nel caso di elaborati progettuali redatti congiuntamente da più soggetti o di attività professionali svolte congiuntamente da più soggetti, la ripartizione della quota dell'incentivo da attribuire al singolo dipendente è effettuata dal dirigente dell'ufficio attuatore dell'intervento, con riferimento alla effettiva prestazione fornita da ciascun soggetto e alla responsabilità legata all'attività espletata, fermo restando quanto disciplinato dall'
+								<rif xlink:href="#art3-com3" xlink:type="simple">art. 3, punto 3</rif>
+								, ultimo capoverso.
+							</corpo>
+						</comma>
+						<comma id="art7-com3">
+							<num>3.</num>
+							<corpo>Nel caso che un soggetto svolga nell'ambito di un medesimo progetto una pluralità di compiti, la quota dell'incentivo da attribuire al singolo dipendente fa riferimento alla pluralità delle prestazioni svolte.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit8">
+					<num>Titolo VIII</num>
+					<rubrica>Liquidazione degli incentivi</rubrica>
+					<articolo id="art8">
+						<num>Art. 8.</num>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>
+								Fermo restando quanto previsto dal
+								<rif xlink:href="#art4-com2" xlink:type="simple">comma 2 dell'art. 4</rif>
+								, la liquidazione dei compensi è effettuata dal dirigente dell'ufficio sentito il responsabile del procedimento che segnala le attività per le quali è possibile procedere al pagamento.
+							</corpo>
+						</comma>
+						<comma id="art8-com2">
+							<num>2.</num>
+							<corpo>La ripartizione e la liquidazione delle quote individuali avviene semestralmente, entro il mese di maggio ed il mese di novembre, e riguarda le attività relative alle singole fasi dei procedimenti maturate nel semestre precedente.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit9">
+					<num>Titolo IX</num>
+					<rubrica>Norma transitoria</rubrica>
+					<articolo id="art9">
+						<num>Art. 9.</num>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>
+								Le disposizioni del presente regolamento si applicano per la determinazione degli incentivi relativi ai lavori oggetto di progettazione ancorché posti a base di gara prima dell'entrata in vigore della
+								<rif xlink:href="urn:nir:stato:legge:1994;109" xlink:type="simple">legge n. 109/1994</rif>
+								e il cui collaudo non sia stato effettuato alla data del 31 maggio 2004.
+							</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>
+								In sede di prima applicazione del presente Regolamento, la liquidazione delle quote di incentivo già maturate avverrà entro 90 giorni dalla data di entrata in vigore dello stesso e sulla base di quanto previsto dall'
+								<rif xlink:href="#art8-com1" xlink:type="simple">art. 8 comma 1</rif>
+								, fatti salvi i tempi tecnici correlati all'espletamento degli adempimenti connessi alla risoluzione di problemi di carattere finanziario e contabile.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</DocumentoNIR>
+	</NIR>

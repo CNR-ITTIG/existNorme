@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Regolamento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20050530" num="124" tipo="GU" />
+					<entratainvigore norm="20050601" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050601" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20050601" fonte="ra1" id="t2" tipo="modifica" />
+						<evento data="20050601" fonte="all1" id="t3" tipo="allegato" />
+						<evento data="20050601" fonte="all2" id="t4" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;26" xlink:type="simple" />
+						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="atto" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+					</modificheattive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Regolamento</tipoDoc>
+				<dataDoc norm="20050504">4 maggio 2005</dataDoc>
+				, n.
+				<numDoc>26</numDoc>
+				(Protocollo n.
+				<numDoc nome="protocollo">25034</numDoc>
+				)
+				<titoloDoc>Regolamento di amministrazione, contabilità e finanza del Consiglio Nazionale delle Ricerche</titoloDoc>
+			</intestazione>
+			<articolato>
+				<parte id="prt1">
+					<num>PARTE I</num>
+					<rubrica>DISCIPLINA DELL'ATTIVITÀ CONTABILE</rubrica>
+					<titolo id="prt1-tit1">
+						<num>Titolo I</num>
+						<rubrica>Disposizioni generali e articolazioni organizzative</rubrica>
+						<articolo id="art1">
+							<num>Art. 1</num>
+							<rubrica>(Finalità ed ambito di applicazione)</rubrica>
+							<comma id="art1-com1">
+								<num>1.</num>
+								<corpo>
+									Il presente regolamento è adottato in attuazione del
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">decreto legislativo 4 giugno 2003, n. 127</rif>
+									, e successive modificazioni, di seguito denominato "decreto di riordino", e con riferimento al
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2003-02-27;97" xlink:type="simple">decreto del Presidente della Repubblica 27 febbraio 2003, n. 97</rif>
+									, nell'ambito dell'autonomia finanziaria e contabile degli enti pubblici di ricerca sancita dall'
+									<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com1" xlink:type="simple">articolo 8, comma 1 della legge 9 maggio 1989 n. 168</rif>
+									. Esso disciplina le materie di cui all'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art19-com3" xlink:type="simple">articolo 19, comma 3 del decreto di riordino</rif>
+									anche in deroga alle norme dell'ordinamento contabile dello Stato e degli Enti Pubblici, ma comunque nel rispetto dei relativi principi.
+								</corpo>
+							</comma>
+							<comma id="art1-com2">
+								<num>2.</num>
+								<corpo>Le disposizioni del presente regolamento mirano a realizzare un sistema contabile integrato tra contabilità finanziaria, contabilità economico patrimoniale e contabilità analitica, allo scopo di fornire il quadro complessivo dei ricavi e dei costi, delle entrate e delle spese nonché delle conseguenti variazioni nel patrimonio, per realizzare, anche attraverso l'analisi dei costi ed il controllo di gestione, l'efficacia e l'efficienza dell'azione amministrativa.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art2">
+							<num>Art. 2</num>
+							<rubrica>(Definizioni e denominazioni)</rubrica>
+							<comma id="art2-com1">
+								<num>1.</num>
+								<alinea>Nel presente Regolamento si intendono per:</alinea>
+								<el id="art2-com1-leta">
+									<num>a)</num>
+									<corpo>«istituto cassiere»: il responsabile del servizio cassa esercitato per conto del Consiglio Nazionale delle Ricerche (CNR). È un istituto di credito che, previa sottoscrizione di una convenzione, provvede a riscuotere le entrate ed a pagare le spese per conto dell'Ente senza alcuna corresponsabilità nella gestione delle risorse;</corpo>
+								</el>
+								<el id="art2-com1-letb">
+									<num>b)</num>
+									<corpo>«centro di costo e/o di ricavo»: l'entità, cui vengono imputati i costi diretti ed indiretti al fine di conoscerne il costo complessivo, e i ricavi derivanti dall'attività svolta;</corpo>
+								</el>
+								<el id="art2-com1-letc">
+									<num>c)</num>
+									<corpo>«centro di responsabilità»: la struttura organizzativa incaricata di assumere le decisioni in ordine alla gestione delle risorse umane, finanziarie e strumentali;</corpo>
+								</el>
+								<el id="art2-com1-letd">
+									<num>d)</num>
+									<corpo>«costo»: la causa economica dell'uscita finanziaria sopportata dall'operatore economico per acquisire un fattore produttivo, ovvero l'accadimento di gestione che incide negativamente sul patrimonio dell'Ente;</corpo>
+								</el>
+								<el id="art2-com1-lete">
+									<num>e)</num>
+									<corpo>«entrata finanziaria»: l'aumento di valori numerari certi, assimilati e presunti attivi, ovvero la diminuzione di valori numerari assimilati e presunti passivi;</corpo>
+								</el>
+								<el id="art2-com1-letf">
+									<num>f)</num>
+									<corpo>« titolare del centro di responsabilità»: qualunque soggetto, dipendente o non dipendente, preposto ad un centro di responsabilità;</corpo>
+								</el>
+								<el id="art2-com1-letg">
+									<num>g)</num>
+									<corpo>«ricavo/provento»: la causa economica dell'entrata finanziaria e non, che l'operatore economico riceve dallo scambio di beni e servizi, ovvero l'accadimento di gestione che incide positivamente sul patrimonio dell'Ente;</corpo>
+								</el>
+								<el id="art2-com1-leth">
+									<num>h)</num>
+									<corpo>«risultato di amministrazione»: somma algebrica tra il fondo di cassa (o deficit di cassa), residui attivi e residui passivi. Se il saldo è di segno positivo, negativo o uguale a zero, il risultato costituisce, rispettivamente, avanzo, disavanzo o pareggio di amministrazione;</corpo>
+								</el>
+								<el id="art2-com1-leti">
+									<num>i)</num>
+									<corpo>
+										«unità previsionale di base» (di seguito denominata UPB): insieme organico di risorse finanziarie finalizzate a distinti obiettivi programmatici (con centri di responsabilità individuati nei dipartimenti), all'obiettivo ricerca spontanea a tema libero di cui all'
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art42-com1" xlink:type="simple">articolo 42 comma 1 del Regolamento di organizzazione e funzionamento</rif>
+										, nonché ad un obiettivo funzionale (con centro di responsabilità individuato nell'amministrazione centrale dell'Ente);
+									</corpo>
+								</el>
+								<el id="art2-com1-letl">
+									<num>l)</num>
+									<corpo>«uscita finanziaria»: la diminuzione di valori numerari certi, assimilati e presunti attivi, ovvero l'aumento di valori numerari assimilati e presunti passivi.</corpo>
+								</el>
+								<el id="art2-com1-letm">
+									<num>m)</num>
+									<corpo>
+										«regolamenti»: testi normativi di cui all'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art19" xlink:type="simple">articolo 19, del decreto di riordino</rif>
+										;
+									</corpo>
+								</el>
+								<el id="art2-com1-letn">
+									<num>n)</num>
+									<corpo>«disciplinari»: testi normativi, adottati con apposite delibere del Consiglio di amministrazione, sulla base di una proposta del direttore generale e sentito il Collegio dei revisori dei conti, che agevolano l'applicazione del presente regolamento.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art3">
+							<num>Art. 3</num>
+							<rubrica>(Principi contabili)</rubrica>
+							<comma id="art3-com1">
+								<num>1.</num>
+								<corpo>Il CNR ispira la propria gestione ai principi contabili vigenti in materia di ordinamento degli enti pubblici.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art4">
+							<num>Art. 4</num>
+							<rubrica>(Funzioni obiettivo)</rubrica>
+							<comma id="art4-com1">
+								<num>1.</num>
+								<corpo>
+									Le funzioni obiettivo, individuate con riguardo al processo di programmazione di cui all'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art42" xlink:type="simple">articolo 42 del regolamento di organizzazione e funzionamento</rif>
+									, consistono in: progetti relativi a linee tematiche di carattere strategico, in coerenza con le macroaree dell'Ente; progetti di sviluppo delle competenze professionali, strumentali ed infrastrutturali; ricerca spontanea a tema libero.
+								</corpo>
+							</comma>
+							<comma id="art4-com2">
+								<num>2.</num>
+								<corpo>
+									L'articolazione degli strumenti di pianificazione, programmazione e rendicontazione per funzioni obiettivo permette agli organi di governo di avere contezza circa la provenienza e l'impiego delle risorse destinate alle singole attività dell'Ente previste dall'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3" xlink:type="simple">articolo 3 del decreto di riordino</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art5">
+							<num>Art. 5</num>
+							<rubrica>(Centri di responsabilità)</rubrica>
+							<comma id="art5-com1">
+								<num>1.</num>
+								<corpo>
+									In coerenza con l'assetto organizzativo delineato nel
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+									, il CNR si articola in centri di responsabilità.
+								</corpo>
+							</comma>
+							<comma id="art5-com2">
+								<num>2.</num>
+								<alinea>Costituiscono centri di responsabilità:</alinea>
+								<el id="art5-com2-leta">
+									<num>a)</num>
+									<corpo>programmatici di primo livello: ciascun dipartimento;</corpo>
+								</el>
+								<el id="art5-com2-letb">
+									<num>b)</num>
+									<corpo>di attività scientifica di primo livello: gli istituti;</corpo>
+								</el>
+								<el id="art5-com2-letc">
+									<num>c)</num>
+									<corpo>funzionali di primo livello: la direzione generale;</corpo>
+								</el>
+								<el id="art5-com2-letd">
+									<num>d)</num>
+									<corpo>funzionali di secondo livello: il complesso degli uffici di diretta collaborazione, e ciascuna delle direzioni centrali;</corpo>
+								</el>
+								<el id="art5-com2-lete">
+									<num>e)</num>
+									<corpo>funzionali di terzo livello: gli uffici dell'amministrazione centrale dell'Ente.</corpo>
+								</el>
+							</comma>
+							<comma id="art5-com3">
+								<num>3.</num>
+								<corpo>
+									Ai centri di responsabilità di primo livello si applica l'
+									<rif xlink:href="urn:nir:stato:legge:2003-01-16;3#art20" xlink:type="simple">articolo 20 della legge 16 gennaio 2003, n.3</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art5-com4">
+								<num>4.</num>
+								<corpo>I dipartimenti, il cui assetto è in stretta correlazione con le linee tematiche a carattere strategico che fanno parte delle funzioni obiettivo, coordinano la realizzazione di programmi e progetti di ricerca affidati agli istituti o ad organi esecutori esterni. Gli istituti assolvono nei confronti dei dipartimenti la responsabilità di svolgimento delle commesse di ricerca a loro affidate.</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+					<titolo id="prt1-tit2">
+						<num>Titolo II</num>
+						<rubrica>Documenti previsionali</rubrica>
+						<articolo id="art6">
+							<num>Art. 6</num>
+							<rubrica>(Principi informatori per la gestione e la formazione del bilancio preventivo)</rubrica>
+							<comma id="art6-com1">
+								<num>1.</num>
+								<corpo>L'esercizio finanziario ha la durata di un anno. Esso inizia il 1° gennaio e termina il successivo 31 dicembre.</corpo>
+							</comma>
+							<comma id="art6-com2">
+								<num>2.</num>
+								<corpo>La gestione finanziaria si svolge in base al bilancio preventivo.</corpo>
+							</comma>
+							<comma id="art6-com3">
+								<num>3.</num>
+								<corpo>La gestione è unica, come unico è il relativo bilancio.</corpo>
+							</comma>
+							<comma id="art6-com4">
+								<num>4.</num>
+								<corpo>Il bilancio preventivo, nella sua componente finanziaria, è formulato in termini di competenza e di cassa ed è articolato in UPB.</corpo>
+							</comma>
+							<comma id="art6-com5">
+								<num>5.</num>
+								<corpo>Tutte le entrate e tutte le uscite in conto competenza debbono essere iscritte in bilancio nel loro importo integrale, limitatamente alla quota imputabile all'esercizio, senza alcuna riduzione per effetto di correlative spese o entrate.</corpo>
+							</comma>
+							<comma id="art6-com6">
+								<num>6.</num>
+								<corpo>Tutte le entrate e tutte le uscite di cassa debbono essere iscritte in bilancio senza alcuna riduzione per effetto di correlative spese o entrate.</corpo>
+							</comma>
+							<comma id="art6-com7">
+								<num>7.</num>
+								<corpo>Per ogni UPB il bilancio indica l'ammontare presunto dei residui attivi e passivi alla chiusura dell'esercizio precedente a quello cui si riferisce il bilancio, l'ammontare degli stanziamenti delle entrate e delle uscite dell'esercizio in corso definiti al momento della redazione del documento previsionale, l'ammontare delle entrate che si prevede di accertare e delle uscite che si prevede di impegnare nell'anno cui il bilancio si riferisce, nonché l'ammontare delle entrate che si prevede di incassare e delle uscite che si prevede di pagare nello stesso esercizio, senza distinzione tra operazioni afferenti la gestione di competenza e quella dei residui.</corpo>
+							</comma>
+							<comma id="art6-com8">
+								<num>8.</num>
+								<corpo>Sono considerate incassate le somme versate al cassiere e pagate le somme erogate dal cassiere.</corpo>
+							</comma>
+							<comma id="art6-com9">
+								<num>9.</num>
+								<corpo>Nel preventivo finanziario è iscritta come posta a sé stante, rispettivamente dell'entrata e della uscita, l'avanzo o il disavanzo di amministrazione presunto al 31 dicembre dell'esercizio precedente cui il bilancio si riferisce; è iscritto, altresì, tra le entrate del bilancio di cassa, ugualmente come posta autonoma, l'ammontare presunto del fondo di cassa all'inizio dell'esercizio cui il bilancio si riferisce.</corpo>
+							</comma>
+							<comma id="art6-com10">
+								<num>10.</num>
+								<corpo>Gli stanziamenti di entrata sono iscritti in bilancio previo accertamento della loro attendibilità, mentre quelli relativi alle uscite sono iscritti in relazione a programmi definiti e alle concrete capacità operative dell'Ente nel periodo di riferimento.</corpo>
+							</comma>
+							<comma id="art6-com11">
+								<num>11.</num>
+								<corpo>Nel bilancio preventivo le uscite iscritte devono essere contenute, nel loro complessivo ammontare, entro i limiti delle entrate previste, affinché il bilancio risulti comunque in pareggio.</corpo>
+							</comma>
+							<comma id="art6-com12">
+								<num>12.</num>
+								<corpo>Sono vietate gestioni di fondi al di fuori del bilancio.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art7">
+							<num>Art. 7</num>
+							<rubrica>(Programmazione economica e finanziaria)</rubrica>
+							<comma id="art7-com1">
+								<num>1.</num>
+								<alinea>Il risultato del processo di programmazione è rappresentato nei seguenti documenti:</alinea>
+								<el id="art7-com1-leta">
+									<num>a)</num>
+									<corpo>la relazione programmatica;</corpo>
+								</el>
+								<el id="art7-com1-letb">
+									<num>b)</num>
+									<corpo>il piano di gestione dei centri di responsabilità;</corpo>
+								</el>
+								<el id="art7-com1-letc">
+									<num>c)</num>
+									<corpo>il bilancio programmatico dei dipartimenti ed il bilancio funzionale dell'amministrazione centrale dell'Ente;</corpo>
+								</el>
+								<el id="art7-com1-letd">
+									<num>d)</num>
+									<corpo>il bilancio pluriennale;</corpo>
+								</el>
+								<el id="art7-com1-lete">
+									<num>e)</num>
+									<corpo>il bilancio preventivo.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art8">
+							<num>Art. 8</num>
+							<rubrica>(Relazione programmatica)</rubrica>
+							<comma id="art8-com1">
+								<num>1.</num>
+								<corpo>La Relazione programmatica è redatta ogni anno dal Presidente sulla base del piano triennale dell'Ente e descrive le linee strategiche da intraprendere o sviluppare.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art9">
+							<num>Art. 9</num>
+							<rubrica>(Procedimento di adozione del bilancio preventivo)</rubrica>
+							<comma id="art9-com1">
+								<num>1.</num>
+								<corpo>
+									I centri di responsabilità di attività scientifica, ai sensi dell'
+									<mrif>
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art42-com10" xlink:type="simple">articolo 42, comma 10</rif>
+										e dell'
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art44" xlink:type="simple">articolo 44</rif>
+										del regolamento di organizzazione e funzionamento
+									</mrif>
+									, predispongono la proposta di piano di gestione articolato per commesse, secondo le indicazioni concordate con i centri di responsabilità programmatici, descrivendo le previsioni quali-quantitative, in termini sia finanziari che economici, necessarie per realizzare le commesse ricevute e più in particolare le attività di ricerca in atto.
+								</corpo>
+							</comma>
+							<comma id="art9-com2">
+								<num>2.</num>
+								<corpo>
+									I centri di responsabilità programmatici coordinano, anche in sede di Consiglio dei direttori di dipartimento, il processo al fine di rendere coerenti le attività contenute nel piano con le risorse finanziarie ed economiche disponibili, sia come conseguenza della allocazione delle disponibilità di competenza, sia di quelle provenienti da esercizi precedenti non utilizzate di cui sia prevista la destinazione ai sensi dell'
+									<rif xlink:href="#art28-com4" xlink:type="simple">articolo 28 comma 4</rif>
+									secondo periodo, distinguendo l'esercizio di prevista spendibilità.
+								</corpo>
+							</comma>
+							<comma id="art9-com3">
+								<num>3.</num>
+								<corpo>
+									I piani di gestione descritti nel
+									<rif xlink:href="#art9-com1" xlink:type="simple">comma 1</rif>
+									confluiscono nei bilanci programmatici dei dipartimenti in corrispondenza con i rispettivi obiettivi progettuali.
+								</corpo>
+							</comma>
+							<comma id="art9-com4">
+								<num>4.</num>
+								<corpo>I centri di responsabilità funzionali elaborano, secondo le indicazioni formulate dal direttore generale, le proprie proposte di piano di gestione. Tali piani di gestione confluiscono nel bilancio funzionale dell'amministrazione centrale dell'Ente.</corpo>
+							</comma>
+							<comma id="art9-com5">
+								<num>5.</num>
+								<corpo>
+									A seguito dell'approvazione del piano triennale di attività ai sensi dell'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art42-com11" xlink:type="simple">articolo 42, comma 11 del regolamento di organizzazione e funzionamento</rif>
+									, il direttore generale verifica la coerenza delle diverse componenti del piano di gestione, integrato con le proposte di ricerca spontanea a tema libero di cui all'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art42-com5" xlink:type="simple">articolo 42, comma 5 del regolamento di organizzazione e funzionamento</rif>
+									e predispone il progetto di bilancio preventivo, da sottoporre al Presidente, sulla base delle risultanze dei bilanci programmatici dei dipartimenti e di quello funzionale dell'amministrazione centrale dell'Ente.
+								</corpo>
+							</comma>
+							<comma id="art9-com6">
+								<num>6.</num>
+								<corpo>Il Presidente, entro il 20 novembre, sottopone il progetto di bilancio, con allegata la propria relazione programmatica, al Collegio dei revisori dei conti e al Consiglio di amministrazione.</corpo>
+							</comma>
+							<comma id="art9-com7">
+								<num>7.</num>
+								<corpo>Il Consiglio di amministrazione, entro il 30 novembre, approva il bilancio preventivo del CNR.</corpo>
+							</comma>
+							<comma id="art9-com8">
+								<num>8.</num>
+								<corpo>
+									Il bilancio preventivo è trasmesso ai sensi dell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art22-com1" xlink:type="simple">articolo 22 comma 1 del decreto di riordino</rif>
+									al Ministero dell'istruzione, dell'università e della ricerca e al Ministero dell'economia e delle finanze.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art10">
+							<num>Art. 10</num>
+							<rubrica>(Bilancio pluriennale)</rubrica>
+							<comma id="art10-com1">
+								<num>1.</num>
+								<corpo>
+									Il bilancio pluriennale è redatto solo in termini di competenza per un periodo non inferiore al triennio in relazione al piano triennale di attività di cui al
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+									. Esso descrive, in termini finanziari, le linee strategiche dell'Ente coerentemente evidenziate nella relazione programmatica.
+								</corpo>
+							</comma>
+							<comma id="art10-com2">
+								<num>2.</num>
+								<corpo>Il bilancio pluriennale è redatto distintamente per UPB in termini di sola competenza e presenta un'articolazione delle poste coincidente con quella del preventivo finanziario decisionale.</corpo>
+							</comma>
+							<comma id="art10-com3">
+								<num>3.</num>
+								<corpo>Il bilancio pluriennale è annualmente aggiornato in occasione della presentazione del bilancio preventivo.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art11">
+							<num>Art. 11</num>
+							<rubrica>(Bilancio preventivo)</rubrica>
+							<comma id="art11-com1">
+								<num>1.</num>
+								<alinea>Il bilancio preventivo è composto dai seguenti documenti:</alinea>
+								<el id="art11-com1-leta">
+									<num>a)</num>
+									<corpo>il preventivo finanziario;</corpo>
+								</el>
+								<el id="art11-com1-letb">
+									<num>b)</num>
+									<corpo>il quadro generale riassuntivo della gestione finanziaria;</corpo>
+								</el>
+								<el id="art11-com1-letc">
+									<num>c)</num>
+									<corpo>il preventivo economico.</corpo>
+								</el>
+							</comma>
+							<comma id="art11-com2">
+								<num>2.</num>
+								<alinea>Costituiscono allegati al bilancio preventivo:</alinea>
+								<el id="art11-com2-leta">
+									<num>a)</num>
+									<corpo>il bilancio pluriennale;</corpo>
+								</el>
+								<el id="art11-com2-letb">
+									<num>b)</num>
+									<corpo>la relazione programmatica;</corpo>
+								</el>
+								<el id="art11-com2-letc">
+									<num>c)</num>
+									<corpo>la tabella dimostrativa del presunto risultato di amministrazione;</corpo>
+								</el>
+								<el id="art11-com2-letd">
+									<num>d)</num>
+									<corpo>la relazione del Collegio dei revisori dei conti;</corpo>
+								</el>
+								<el id="art11-com2-lete">
+									<num>e)</num>
+									<corpo>
+										il preventivo finanziario riclassificato per funzioni obiettivo di cui all'
+										<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+										.
+									</corpo>
+								</el>
+							</comma>
+							<comma id="art11-com3">
+								<num>3.</num>
+								<corpo>Il bilancio preventivo annuale ha carattere autorizzativo, costituendo limite agli impegni di spesa.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art12">
+							<num>Art. 12</num>
+							<rubrica>(Preventivo finanziario)</rubrica>
+							<comma id="art12-com1">
+								<num>1.</num>
+								<corpo>Il preventivo finanziario si distingue in «decisionale» e «gestionale». Il preventivo finanziario decisionale è formulato in termini di competenza e di cassa e si articola, per le entrate e per le uscite, in UPB. Il preventivo finanziario decisionale è approvato dal Consiglio di amministrazione.</corpo>
+							</comma>
+							<comma id="art12-com2">
+								<num>2.</num>
+								<corpo>Il preventivo finanziario gestionale è formulato in termini di competenza e di cassa e si articola, per le entrate e per le uscite, in UPB ed in centri di responsabilità di attività scientifica nonché in centri di responsabilità funzionali.</corpo>
+							</comma>
+							<comma id="art12-com3">
+								<num>3.</num>
+								<corpo>
+									Il preventivo finanziario decisionale è corredato della pianta organica del personale nonché degli allegati di cui all'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art60-com1" xlink:type="simple">articolo 60, comma 1, del D.Lgs. 30 marzo 2001, n. 165</rif>
+									, e successive modificazioni.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art13">
+							<num>Art. 13</num>
+							<rubrica>(Classificazione delle entrate e delle uscite)</rubrica>
+							<comma id="art13-com1">
+								<num>1.</num>
+								<alinea>Le somme oggetto delle previsioni di entrata sono iscritte nel bilancio pluriennale e nel bilancio annuale "decisionale" mediante i seguenti livelli di classificazione:</alinea>
+								<el id="art13-com1-leta">
+									<num>a)</num>
+									<corpo>Il I livello classifica le entrate in relazione alle UPB;</corpo>
+								</el>
+								<el id="art13-com1-letb">
+									<num>b)</num>
+									<corpo>Il II livello, rappresentato dai titoli, distingue le entrate in: entrate derivanti da trasferimenti; compensi per prestazioni di servizi tecnico-scientifici; entrate diverse; alienazioni patrimoniali e riscossione di crediti; ricorso al mercato finanziario; partite di giro;</corpo>
+								</el>
+								<el id="art13-com1-letc">
+									<num>c)</num>
+									<corpo>Il III livello, rappresentato dalle categorie, distingue le entrate secondo la specifica natura dei cespiti.</corpo>
+								</el>
+							</comma>
+							<comma id="art13-com2">
+								<num>2.</num>
+								<alinea>Le somme oggetto delle previsioni di uscita sono iscritte nel bilancio pluriennale e nel bilancio annuale "decisionale" mediante i seguenti livelli di classificazione:</alinea>
+								<el id="art13-com2-leta">
+									<num>a)</num>
+									<corpo>Il I livello distingue le uscite in relazione alle UPB;</corpo>
+								</el>
+								<el id="art13-com2-letb">
+									<num>b)</num>
+									<corpo>Il II livello, rappresentato dai titoli, distingue le uscite in: spese correnti; spese di investimento; rimborso prestiti; fondi di riserva e speciali; partite di giro;</corpo>
+								</el>
+								<el id="art13-com2-letc">
+									<num>c)</num>
+									<corpo>Il III livello, rappresentato dalle categorie, classifica le uscite secondo la loro specifica natura economica.</corpo>
+								</el>
+							</comma>
+							<comma id="art13-com3">
+								<num>3.</num>
+								<alinea>Nel bilancio annuale "gestionale" ciascuna UPB è ulteriormente ripartita:</alinea>
+								<el id="art13-com3-leta">
+									<num>a)</num>
+									<corpo>in centri di responsabilità di attività scientifica ed in centri di responsabilità funzionali;</corpo>
+								</el>
+								<el id="art13-com3-letb">
+									<num>b)</num>
+									<corpo>in capitoli, a seconda dell'oggetto della entrata o della uscita.</corpo>
+								</el>
+							</comma>
+							<comma id="art13-com4">
+								<num>4.</num>
+								<corpo>
+									I preventivi finanziari "decisionale" e "gestionale" sono redatti, rispettivamente, secondo gli schemi di cui agli allegati
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all1.pdf" xlink:type="simple">1</h:a>
+									e
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all2.pdf" xlink:type="simple">2</h:a>
+									al presente regolamento.
+								</corpo>
+							</comma>
+							<comma id="art13-com5">
+								<num>5.</num>
+								<corpo>A soli fini comparativi, il preventivo finanziario decisionale riporta, limitatamente alle uscite, le spese riclassificate secondo la tecnica del "full costing", che consente di esporre tutte le spese ad imputazione diretta ed indiretta delle singole UPB.</corpo>
+							</comma>
+							<comma id="art13-com6">
+								<num>6.</num>
+								<corpo>Le partite di giro comprendono le entrate e le uscite che l'Ente effettua in qualità di sostituto d'imposta, di sostituto di dichiarazione ovvero per conto di terzi, che costituiscono al tempo stesso un debito ed un credito per l'Ente, nonché le somme somministrate agli economi.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art14">
+							<num>Art. 14</num>
+							<rubrica>(Quadro generale riassuntivo)</rubrica>
+							<comma id="art14-com1">
+								<num>1.</num>
+								<corpo>
+									Il quadro generale riassuntivo della gestione finanziaria è redatto in conformità dell'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all3.pdf" xlink:type="simple">allegato 3</h:a>
+									al presente regolamento in cui sono riepilogate le previsioni di competenza e di cassa.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art15">
+							<num>Art. 15</num>
+							<rubrica>(Preventivo economico)</rubrica>
+							<comma id="art15-com1">
+								<num>1.</num>
+								<corpo>
+									Il preventivo economico dell'Ente, di cui all'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all4.pdf" xlink:type="simple">allegato 4</h:a>
+									, racchiude le misurazioni economiche dei proventi e dei costi che si prevede di realizzare, durante la gestione.
+								</corpo>
+							</comma>
+							<comma id="art15-com2">
+								<num>2.</num>
+								<corpo>Il preventivo economico pone a raffronto non solo i proventi ed i costi della gestione d'esercizio, ma anche le poste economiche che non avranno nello stesso esercizio la contemporanea manifestazione finanziaria e le altre poste, sempre economiche, provenienti dalle utilità dei beni patrimoniali da impiegare nella gestione a cui il preventivo economico si riferisce.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art16">
+							<num>Art. 16</num>
+							<rubrica>(Tabella dimostrativa del presunto risultato di amministrazione)</rubrica>
+							<comma id="art16-com1">
+								<num>1.</num>
+								<corpo>
+									Al bilancio di previsione è allegata una tabella dimostrativa del risultato di amministrazione presunto al 31 dicembre dell'esercizio precedente quello cui il bilancio si riferisce, conforme all'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all5.pdf" xlink:type="simple">allegato 5</h:a>
+									al presente regolamento.
+								</corpo>
+							</comma>
+							<comma id="art16-com2">
+								<num>2.</num>
+								<corpo>La tabella deve dare adeguata dimostrazione del processo di stima ed indicare gli eventuali vincoli che gravano sul relativo importo.</corpo>
+							</comma>
+							<comma id="art16-com3">
+								<num>3.</num>
+								<corpo>Del presunto avanzo di amministrazione se ne potrà disporre quando sia dimostrata l'effettiva esistenza e nella misura in cui l'avanzo stesso risulti realizzato.</corpo>
+							</comma>
+							<comma id="art16-com4">
+								<num>4.</num>
+								<corpo>Del presunto disavanzo di amministrazione deve tenersi obbligatoriamente conto all'atto della formulazione del bilancio preventivo al fine del relativo assorbimento e il Consiglio di amministrazione deve, nella relativa deliberazione, illustrare i criteri adottati per pervenire a tale assorbimento.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art17">
+							<num>Art. 17</num>
+							<rubrica>(Relazione del Collegio dei revisori dei conti al bilancio di previsione)</rubrica>
+							<comma id="art17-com1">
+								<num>1.</num>
+								<corpo>Il bilancio di previsione, almeno dieci giorni prima della delibera del Consiglio di amministrazione, è sottoposto all'attenzione del Collegio dei revisori dei conti che, a conclusione del proprio esame, redige apposita relazione, proponendone l'approvazione o meno.</corpo>
+							</comma>
+							<comma id="art17-com2">
+								<num>2.</num>
+								<corpo>La relazione deve contenere considerazioni e valutazioni sul programma annuale e sugli obiettivi che l'Ente intende realizzare ed, in particolare, sull'attendibilità delle entrate sulla base della documentazione e degli elementi di conoscenza forniti dall'Ente nella relazione programmatica, nonché sulla congruità delle spese, tenendo presente l'ammontare delle risorse consumate negli esercizi precedenti, le variazioni apportate e gli stanziamenti proposti.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art18">
+							<num>Art. 18</num>
+							<rubrica>(Fondo di riserva per le spese impreviste)</rubrica>
+							<comma id="art18-com1">
+								<num>1.</num>
+								<corpo>Nel bilancio preventivo, sia di competenza e sia di cassa, è iscritto un fondo di riserva per le spese impreviste nonché per le maggiori spese che potranno verificarsi durante l'esercizio, il cui ammontare non può essere superiore al tre percento e inferiore all'un percento del totale delle uscite correnti. Su tale capitolo non possono essere emessi mandati di pagamento.</corpo>
+							</comma>
+							<comma id="art18-com2">
+								<num>2.</num>
+								<corpo>L'utilizzo delle relative disponibilità è effettuato con il procedimento di variazione al bilancio preventivo.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art19">
+							<num>Art. 19</num>
+							<rubrica>(Fondo speciale per i rinnovi contrattuali in corso)</rubrica>
+							<comma id="art19-com1">
+								<num>1.</num>
+								<corpo>Nel bilancio preventivo, sia di competenza e sia di cassa, è istituito un fondo speciale per i presumibili oneri lordi connessi con i rinnovi del contratto di lavoro del personale dipendente. Su tale capitolo non possono essere assunti impegni di spesa né possono essere emessi mandati di pagamento, ma si provvede a trasferire, all'occorrenza, con provvedimento del direttore generale, immediatamente esecutivo, le somme necessarie ai pertinenti capitoli di bilancio.</corpo>
+							</comma>
+							<comma id="art19-com2">
+								<num>2.</num>
+								<corpo>
+									Nell'esercizio di competenza, in relazione agli oneri recati dai rinnovi contrattuali, vengono trasferite ai pertinenti capitoli le somme di cui al
+									<rif xlink:href="#art19-com1" xlink:type="simple">comma 1</rif>
+									ai fini dell'assunzione dei relativi impegni. In caso di mancata sottoscrizione del contratto collettivo di lavoro le somme non impegnate confluiscono nell'avanzo di amministrazione. Di tale operazione viene data dettagliata informativa nella nota integrativa del rendiconto generale.
+								</corpo>
+							</comma>
+							<comma id="art19-com3">
+								<num>3.</num>
+								<corpo>
+									L'ammontare degli oneri di cui al
+									<rif xlink:href="#art19-com1" xlink:type="simple">comma 1</rif>
+									non concorre alla determinazione delle spese del personale iscritte nel bilancio preventivo ai fini dell'applicazione dell'aliquota dell'un percento indicata all'ultimo capoverso dell'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all6.pdf" xlink:type="simple">allegato 6</h:a>
+									, riferito all'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-10-16;509#art59" xlink:type="simple">articolo 59, del D.P.R. 16 ottobre 1979, n. 509</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art20">
+							<num>Art. 20</num>
+							<rubrica>(Fondo rischi ed oneri)</rubrica>
+							<comma id="art20-com1">
+								<num>1.</num>
+								<corpo>Gli accantonamenti al fondo rischi ed oneri, per spese future e per ripristino investimenti, presentano previsioni di sola competenza.</corpo>
+							</comma>
+							<comma id="art20-com2">
+								<num>2.</num>
+								<corpo>Su tali stanziamenti non possono essere emessi mandati e l'utilizzo delle relative disponibilità è effettuato con il procedimento di variazione al bilancio preventivo.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art21">
+							<num>Art. 21</num>
+							<rubrica>(Assestamento, variazioni e storni ai piani di gestione ed al bilancio preventivo)</rubrica>
+							<comma id="art21-com1">
+								<num>1.</num>
+								<corpo>
+									Sulla base dei risultati del rendiconto finanziario, il direttore generale predispone l'assestamento dei piani di gestione e del bilancio preventivo. L'assestamento del bilancio preventivo è deliberato entro il termine del 30 luglio di ciascun anno dal Consiglio di amministrazione, secondo le procedure e le norme previste per l'approvazione del bilancio di cui all'
+									<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art21-com2">
+								<num>2.</num>
+								<corpo>Modifiche alle assegnazioni iscritte nei piani di gestione, con conseguenti assestamenti, variazioni e storni al bilancio preventivo, possono essere apportati anche a seguito di eventi, diversi dall'assestamento, intervenuti nel corso dell'esercizio come specificato nei commi successivi.</corpo>
+							</comma>
+							<comma id="art21-com3">
+								<num>3.</num>
+								<alinea>
+									Possono essere adottate dai titolari dei corrispondenti centri di responsabilità e nel rispetto dell'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
+									:
+								</alinea>
+								<el id="art21-com3-leta">
+									<num>a)</num>
+									<corpo>le modifiche ai piani di gestione, con i conseguenti storni di bilancio, riguardanti le somme stanziate a favore di ciascun dipartimento purché classificate nel medesimo titolo e nell'ambito dello stesso programma o progetto;</corpo>
+								</el>
+								<el id="art21-com3-letb">
+									<num>b)</num>
+									<corpo>le modifiche ai piani di gestione, con i conseguenti storni di bilancio, riguardanti le somme stanziate a favore di ciascun istituto purché classificate nel medesimo titolo e nell'ambito della stessa commessa;</corpo>
+								</el>
+								<el id="art21-com3-letc">
+									<num>c)</num>
+									<corpo>le modifiche ai piani di gestione, con i conseguenti storni di bilancio, riguardanti le somme stanziate a favore dell'amministrazione centrale dell'Ente e dei centri di responsabilità funzionali purché classificate nella medesima categoria;</corpo>
+								</el>
+								<el id="art21-com3-letd">
+									<num>d)</num>
+									<corpo>le modifiche ai piani di gestione, con le conseguenti variazioni di bilancio, per nuove o maggiori entrate derivanti da prestazioni di servizi, rimborsi corrisposti da terzi e proventi vari.</corpo>
+								</el>
+							</comma>
+							<comma id="art21-com4">
+								<num>4.</num>
+								<corpo>
+									Possono essere deliberate dal Consiglio di amministrazione le ulteriori variazioni, comprese quelle per l'utilizzo dei fondi di cui agli
+									<mrif>
+										articoli
+										<rif xlink:href="#art18" xlink:type="simple">18</rif>
+										e
+										<rif xlink:href="#art20" xlink:type="simple">20</rif>
+									</mrif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art21-com5">
+								<num>5.</num>
+								<corpo>Il Consiglio di amministrazione con propria deliberazione può delegare l'approvazione delle variazioni al bilancio preventivo al Presidente, al direttore generale ed ai direttori dei dipartimenti.</corpo>
+							</comma>
+							<comma id="art21-com6">
+								<num>6.</num>
+								<corpo>
+									Le delibere stabiliscono per ciascuno dei soggetti di cui al
+									<rif xlink:href="#art21-com5" xlink:type="simple">comma 5</rif>
+									le tipologie ed i limiti di importo entro i quali viene delegata l'approvazione delle variazioni al bilancio preventivo.
+								</corpo>
+							</comma>
+							<comma id="art21-com7">
+								<num>7.</num>
+								<corpo>Le variazioni per nuove o maggiori spese possono proporsi soltanto se è assicurata la necessaria copertura finanziaria.</corpo>
+							</comma>
+							<comma id="art21-com8">
+								<num>8.</num>
+								<corpo>Sono vietati gli storni dalla gestione dei residui a quella di competenza o viceversa.</corpo>
+							</comma>
+							<comma id="art21-com9">
+								<num>9.</num>
+								<corpo>L'approvazione delle modifiche ai piani di gestione ed al bilancio preventivo deve essere comunicata a tutti i centri di responsabilità interessati.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art22">
+							<num>Art. 22</num>
+							<rubrica>(Gestione provvisoria)</rubrica>
+							<comma id="art22-com1">
+								<num>1.</num>
+								<corpo>Nel caso in cui il bilancio preventivo non sia approvato entro la chiusura dell'esercizio finanziario in corso, il Consiglio di amministrazione può deliberare il ricorso all'istituto della gestione provvisoria per non oltre quattro mesi. In tale regime le spese mensili non possono eccedere un dodicesimo di quelle risultanti dall'ultimo bilancio approvato ovvero nei limiti della maggiore spesa necessaria, ove si tratti di spese obbligatorie e non suscettibili di impegno e pagamento frazionabili in dodicesimi.</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+					<titolo id="prt1-tit3">
+						<num>Titolo III</num>
+						<rubrica>Gestione economico-finanziaria</rubrica>
+						<articolo id="art23">
+							<num>Art. 23</num>
+							<rubrica>(Gestione delle entrate)</rubrica>
+							<comma id="art23-com1">
+								<num>1.</num>
+								<corpo>La gestione delle entrate si attua attraverso le fasi dell'accertamento, della riscossione e del versamento.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art24">
+							<num>Art. 24</num>
+							<rubrica>(Accertamento)</rubrica>
+							<comma id="art24-com1">
+								<num>1.</num>
+								<corpo>L'accertamento costituisce la prima fase di gestione dell'entrata con cui, sulla base di idonea documentazione, si verifica la ragione del credito e la sussistenza di un idoneo titolo giuridico, si individua il debitore, si quantifica la somma da incassare e si fissa la relativa scadenza.</corpo>
+							</comma>
+							<comma id="art24-com2">
+								<num>2.</num>
+								<alinea>L'accertamento presuppone:</alinea>
+								<el id="art24-com2-leta">
+									<num>a)</num>
+									<corpo>la fondatezza del credito, ossia la sussistenza di obbligazioni giuridiche a carico di terzi verso l'Ente;</corpo>
+								</el>
+								<el id="art24-com2-letb">
+									<num>b)</num>
+									<corpo>la certezza del credito, ossia non soggetto ad oneri e/o condizioni;</corpo>
+								</el>
+								<el id="art24-com2-letc">
+									<num>c)</num>
+									<corpo>la competenza finanziaria ed economica a favore dell'esercizio considerato.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art25">
+							<num>Art. 25</num>
+							<rubrica>(Riscossione e versamento)</rubrica>
+							<comma id="art25-com1">
+								<num>1.</num>
+								<corpo>
+									Le entrate sono riscosse allorché il soggetto che vi è tenuto effettua il pagamento della relativa somma all'Ente, tramite l'istituto incaricato del servizio di cassa o altro ufficio o agente a ciò autorizzato ovvero mediante il servizio dei conti correnti postali previa emissione di apposita reversale con cadenza da stabilirsi nella convenzione di cui all'
+									<rif xlink:href="#art34" xlink:type="simple">articolo 34</rif>
+									, e l'Ente ne ha avuto comunicazione.
+								</corpo>
+							</comma>
+							<comma id="art25-com2">
+								<num>2.</num>
+								<corpo>
+									La riscossione è disposta a mezzo di ordinativo di incasso, fatto pervenire al cassiere nelle forme e nei tempi previsti dalla convenzione di cui all'
+									<rif xlink:href="#art34" xlink:type="simple">articolo 34</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art25-com3">
+								<num>3.</num>
+								<alinea>L'ordinativo d'incasso contiene almeno:</alinea>
+								<el id="art25-com3-leta">
+									<num>a)</num>
+									<corpo>l'indicazione del debitore;</corpo>
+								</el>
+								<el id="art25-com3-letb">
+									<num>b)</num>
+									<corpo>l'ammontare della somma da riscuotere;</corpo>
+								</el>
+								<el id="art25-com3-letc">
+									<num>c)</num>
+									<corpo>la causale;</corpo>
+								</el>
+								<el id="art25-com3-letd">
+									<num>d)</num>
+									<corpo>l'indicazione del capitolo di bilancio cui è riferita l'entrata distintamente per residui o competenza;</corpo>
+								</el>
+								<el id="art25-com3-lete">
+									<num>e)</num>
+									<corpo>il numero progressivo;</corpo>
+								</el>
+								<el id="art25-com3-letf">
+									<num>f)</num>
+									<corpo>l'esercizio finanziario e la data di emissione.</corpo>
+								</el>
+							</comma>
+							<comma id="art25-com4">
+								<num>4.</num>
+								<corpo>Gli ordinativi di incasso che si riferiscono ad entrate di competenza dell'esercizio in corso sono tenuti distinti da quelli relativi ai residui.</corpo>
+							</comma>
+							<comma id="art25-com5">
+								<num>5.</num>
+								<corpo>Le entrate accertate e non riscosse costituiscono residui attivi.</corpo>
+							</comma>
+							<comma id="art25-com6">
+								<num>6.</num>
+								<corpo>Il versamento consiste nel trasferimento delle somme riscosse nelle casse dell'Ente e deve aver luogo nei termini di legge ovvero previsti da specifiche convenzioni.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art26">
+							<num>Art. 26</num>
+							<rubrica>(Vigilanza sulla gestione delle entrate)</rubrica>
+							<comma id="art26-com1">
+								<num>1.</num>
+								<corpo>I titolari dei centri di responsabilità dell'Ente che hanno gestione di entrate curano, nei limiti delle rispettive attribuzioni e sotto la loro personale responsabilità, che l'accertamento, la riscossione e il versamento delle entrate siano fatti prontamente e integralmente.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art27">
+							<num>Art. 27</num>
+							<rubrica>(Gestione delle uscite)</rubrica>
+							<comma id="art27-com1">
+								<num>1.</num>
+								<corpo>La gestione delle uscite si attua attraverso le fasi dell'impegno, della liquidazione, dell'ordinazione e del pagamento.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art28">
+							<num>Art. 28</num>
+							<rubrica>(Impegno)</rubrica>
+							<comma id="art28-com1">
+								<num>1.</num>
+								<corpo>L'impegno costituisce autorizzazione ad impiegare le risorse finanziarie assegnate ad ogni centro di responsabilità, con cui, a seguito di obbligazione giuridicamente perfezionata, è determinata la somma da pagare, il soggetto creditore e la ragione.</corpo>
+							</comma>
+							<comma id="art28-com2">
+								<num>2.</num>
+								<corpo>La registrazione dell'impegno è subordinata alla preventiva verifica della regolarità della documentazione e dell'esistenza dei fondi sui pertinenti capitoli di bilancio, anche con riferimento alle dotazioni relative alle diverse commesse.</corpo>
+							</comma>
+							<comma id="art28-com3">
+								<num>3.</num>
+								<corpo>
+									A fronte degli oneri connessi ad obbligazioni negoziali pluriennali correlate a prestazioni a carico di terzi, può essere assunto un impegno globale, provvedendo ad annotarlo, con idonee evidenze anche informatiche, nel partitario degli impegni. A carico del singolo esercizio è assunto un impegno pari alle obbligazioni connesse alle prestazioni effettivamente rese. L'importo complessivo degli impegni globali, compresi quelli di cui all'
+									<rif xlink:href="#art36-com2" xlink:type="simple">articolo 36, comma 2</rif>
+									, che l'Ente può assumere non può comunque superare per ciascun esercizio successivo il venti percento dei finanziamenti trasferiti annualmente dal MIUR a carico del fondo ordinario per le istituzioni e gli enti di ricerca.
+								</corpo>
+							</comma>
+							<comma id="art28-com4">
+								<num>4.</num>
+								<corpo>Le somme stanziate e non impegnate costituiscono economie di spesa. Qualora tali somme siano destinate all'esecuzione di un programma o di un progetto da perfezionare in un determinato arco temporale, le medesime vengono riportate, con specifica evidenziazione nei piani di gestione, negli esercizi successivi, secondo quanto previsto e fino alla conclusione del programma o del progetto.</corpo>
+							</comma>
+							<comma id="art28-com5">
+								<num>5.</num>
+								<corpo>
+									Con deliberazione del Consiglio di amministrazione sono definite le modalità operative di gestione degli impegni con riferimento all'articolazione delle attività per commesse e ai relativi compiti dei responsabili di commessa anche in applicazione dell'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art29-com2" xlink:type="simple">articolo 29 comma 2 del regolamento di organizzazione e funzionamento</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art29">
+							<num>Art. 29</num>
+							<rubrica>(Liquidazione)</rubrica>
+							<comma id="art29-com1">
+								<num>1.</num>
+								<corpo>La liquidazione costituisce la fase del procedimento di spesa con cui, in base ai documenti ed ai titoli atti a comprovare il diritto del creditore, si determina la somma da pagare nei limiti dell'ammontare dell'impegno definitivo assunto.</corpo>
+							</comma>
+							<comma id="art29-com2">
+								<num>2.</num>
+								<corpo>La liquidazione è disposta sulla base della documentazione necessaria a comprovare il diritto del creditore, a seguito del riscontro operato sulla regolarità della fornitura o della prestazione e sulla rispondenza della stessa ai requisiti quantitativi e qualitativi, ai termini ed alle condizioni pattuite.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art30">
+							<num>Art. 30</num>
+							<rubrica>(Titoli di pagamento)</rubrica>
+							<comma id="art30-com1">
+								<num>1.</num>
+								<corpo>Il pagamento delle spese è ordinato mediante l'emissione di mandati di pagamento numerati in ordine progressivo e contrassegnati da evidenze informatiche del capitolo, tratti sull'istituto di credito incaricato del servizio di cassa.</corpo>
+							</comma>
+							<comma id="art30-com2">
+								<num>2.</num>
+								<alinea>I mandati di pagamento contengono almeno i seguenti elementi:</alinea>
+								<el id="art30-com2-leta">
+									<num>a)</num>
+									<corpo>il numero progressivo del mandato per esercizio finanziario;</corpo>
+								</el>
+								<el id="art30-com2-letb">
+									<num>b)</num>
+									<corpo>la data di emissione;</corpo>
+								</el>
+								<el id="art30-com2-letc">
+									<num>c)</num>
+									<corpo>il capitolo su cui la spesa è imputata, distintamente per competenza o residui;</corpo>
+								</el>
+								<el id="art30-com2-letd">
+									<num>d)</num>
+									<corpo>l'indicazione del creditore e, se si tratta di persona diversa, del soggetto tenuto a rilasciare quietanza, nonché ove richiesto, il relativo codice fiscale o la partita IVA;</corpo>
+								</el>
+								<el id="art30-com2-lete">
+									<num>e)</num>
+									<corpo>l'ammontare della somma dovuta e la scadenza, qualora sia prevista dalla legge o sia stata concordata con il creditore;</corpo>
+								</el>
+								<el id="art30-com2-letf">
+									<num>f)</num>
+									<corpo>la causale e gli estremi dell'atto esecutivo che legittima l'erogazione della spesa;</corpo>
+								</el>
+								<el id="art30-com2-letg">
+									<num>g)</num>
+									<corpo>le modalità di pagamento.</corpo>
+								</el>
+							</comma>
+							<comma id="art30-com3">
+								<num>3.</num>
+								<corpo>I mandati che si riferiscono alla competenza sono tenuti distinti da quelli relativi ai residui.</corpo>
+							</comma>
+							<comma id="art30-com4">
+								<num>4.</num>
+								<corpo>I mandati di pagamento non pagati entro il termine dell'esercizio sono restituiti dal cassiere all'Ente per il pagamento in conto residui.</corpo>
+							</comma>
+							<comma id="art30-com5">
+								<num>5.</num>
+								<corpo>Le uscite impegnate e non pagate costituiscono residui passivi.</corpo>
+							</comma>
+							<comma id="art30-com6">
+								<num>6.</num>
+								<corpo>Ogni mandato di pagamento è corredato, a seconda dei casi, di documenti comprovanti la regolare esecuzione dei lavori, forniture e servizi, dai buoni di carico, quando si tratta di magazzino, dalla copia degli atti d'impegno o dall'annotazione degli estremi dell'atto di impegno, dalle note di liquidazione e da ogni altro documento che giustifichi la spesa. La documentazione della spesa è allegata al mandato successivamente alla sua estinzione ed è conservata agli atti per non meno di dieci anni.</corpo>
+							</comma>
+							<comma id="art30-com7">
+								<num>7.</num>
+								<corpo>
+									Il CNR può provvedere ai pagamenti mediante mandati informatici, da effettuarsi nel rispetto delle norme contenute nel
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1994-04-20;367" xlink:type="simple">D.P.R. 20 aprile 1994, n. 367</rif>
+									, e successive modificazioni.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art31">
+							<num>Art. 31</num>
+							<rubrica>(Gestione dei residui)</rubrica>
+							<comma id="art31-com1">
+								<num>1.</num>
+								<corpo>La gestione della competenza è separata da quella dei residui.</corpo>
+							</comma>
+							<comma id="art31-com2">
+								<num>2.</num>
+								<corpo>I residui attivi e passivi devono risultare nelle scritture, distintamente per esercizio di provenienza.</corpo>
+							</comma>
+							<comma id="art31-com3">
+								<num>3.</num>
+								<corpo>I residui attivi e passivi di ciascun esercizio sono trasferiti ai corrispondenti capitoli dell'esercizio successivo, separatamente dagli stanziamenti di competenza dello stesso.</corpo>
+							</comma>
+							<comma id="art31-com4">
+								<num>4.</num>
+								<corpo>Sono mantenute tra i residui dell'esercizio esclusivamente le entrate accertate per le quali esiste un titolo giuridico che costituisca l'Ente quale creditore della correlativa entrata.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art32">
+							<num>Art. 32</num>
+							<rubrica>(Pagamenti in forma diretta)</rubrica>
+							<comma id="art32-com1">
+								<num>1.</num>
+								<alinea>E' possibile disporre pagamenti in forma diretta per le seguenti spese, sempre che l'importo unitario di ciascuna di esse non ecceda i duemilacinquecento euro:</alinea>
+								<el id="art32-com1-leta">
+									<num>a)</num>
+									<corpo>spese d'ufficio;</corpo>
+								</el>
+								<el id="art32-com1-letb">
+									<num>b)</num>
+									<corpo>spese causali;</corpo>
+								</el>
+								<el id="art32-com1-letc">
+									<num>c)</num>
+									<corpo>spese per riparazioni e manutenzioni ordinarie di immobili e mobili;</corpo>
+								</el>
+								<el id="art32-com1-letd">
+									<num>d)</num>
+									<corpo>spese postali;</corpo>
+								</el>
+								<el id="art32-com1-lete">
+									<num>e)</num>
+									<corpo>spese per il funzionamento di automezzi;</corpo>
+								</el>
+								<el id="art32-com1-letf">
+									<num>f)</num>
+									<corpo>spese per l'acquisto di libri, giornali, pubblicazioni periodiche e simili;</corpo>
+								</el>
+								<el id="art32-com1-letg">
+									<num>g)</num>
+									<corpo>spese per missioni e relativi anticipi;</corpo>
+								</el>
+								<el id="art32-com1-leth">
+									<num>h)</num>
+									<corpo>spese di rappresentanza;</corpo>
+								</el>
+								<el id="art32-com1-leti">
+									<num>i)</num>
+									<corpo>spese per materiali di consumo di laboratorio;</corpo>
+								</el>
+								<el id="art32-com1-letl">
+									<num>l)</num>
+									<corpo>spese per seminari e conferenze;</corpo>
+								</el>
+								<el id="art32-com1-letm">
+									<num>m)</num>
+									<corpo>spese per le quali sia difficoltosa ogni altra forma di pagamento.</corpo>
+								</el>
+							</comma>
+							<comma id="art32-com2">
+								<num>2.</num>
+								<corpo>Per i pagamenti che singolarmente non superino duecentocinquanta euro è sufficiente la dichiarazione sull'oggetto e destinazione della spesa, resa, sotto la propria responsabilità, dal soggetto che ha effettuato il pagamento, con la quale si dà conto della oggettiva impossibilità di presentare la documentazione giustificativa.</corpo>
+							</comma>
+							<comma id="art32-com3">
+								<num>3.</num>
+								<corpo>
+									I pagamenti in forma diretta sono effettuati in contanti o per mezzo di carte di credito secondo quanto stabilito al riguardo dall'
+									<rif xlink:href="#art35" xlink:type="simple">articolo 35</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art32-com4">
+								<num>4.</num>
+								<corpo>Il direttore generale, per l'amministrazione centrale dell'Ente, e i titolari degli altri centri di responsabilità conferiscono gli incarichi di economo a personale afferente al centro di responsabilità stesso, per una durata determinata, comunque non superiore a tre anni, rinnovabile. L'atto di conferimento dell'incarico designa il soggetto preposto a sostituire l'economo in caso di assenza o di impedimento temporaneo.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art33">
+							<num>Art. 33</num>
+							<rubrica>(Fondi per spese in contanti)</rubrica>
+							<comma id="art33-com1">
+								<num>1.</num>
+								<corpo>Per consentire l'effettuazione di spese in contanti, ai sensi dell'articolo precedente, sono costituiti appositi fondi economali. A tal fine gli economi sono dotati di apposito fondo, reintegrabile nel corso dell'esercizio previa rendicontazione delle somme già spese, il cui importo non può eccedere l'ammontare annualmente stabilito dal Consiglio di amministrazione in sede di approvazione del bilancio preventivo.</corpo>
+							</comma>
+							<comma id="art33-com2">
+								<num>2.</num>
+								<corpo>Con i fondi di cui al precedente comma gli economi eseguono direttamente i pagamenti in contanti e rimborsano o anticipano ai funzionari competenti le somme per i pagamenti effettuati, o da effettuare, in contanti.</corpo>
+							</comma>
+							<comma id="art33-com3">
+								<num>3.</num>
+								<corpo>Gli economi tengono un registro cronologico generale, sul quale devono essere annotate tutte le operazioni effettuate, e rendono il conto al competente ufficio preposto alle funzioni di ragioneria.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art34">
+							<num>Art. 34</num>
+							<rubrica>(Servizio di cassa)</rubrica>
+							<comma id="art34-com1">
+								<num>1.</num>
+								<corpo>
+									Il servizio riscossione e pagamento é affidato, con apposita convenzione approvata dal Consiglio di amministrazione, previo espletamento di apposita gara ad evidenza pubblica, ad un istituto di credito, con l'osservanza delle disposizioni di cui alla
+									<rif xlink:href="urn:nir:stato:legge:1984-10-29;720" xlink:type="simple">legge 29 ottobre 1984, n. 720</rif>
+									e successive modificazioni e dall'
+									<rif xlink:href="urn:nir:stato:legge:2003-01-16;3#art20" xlink:type="simple">articolo 20 della legge 16 gennaio 2003, n. 3</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art34-com2">
+								<num>2.</num>
+								<corpo>Il pagamento di qualsiasi atto di spesa deve essere eseguito dall'istituto cassiere sulla base di regolari mandati trasmessi anche mediante procedure di tipo telematico. La riscossione delle risorse può avere luogo provvisoriamente, anche senza reversali d'incasso, con regolarizzazione successiva su richiesta dell'istituto cassiere. Analogamente si può provvedere al pagamento di atti di spesa aventi carattere obbligatorio o urgente tramite l'istituto cassiere senza il relativo mandato di pagamento e solo ed esclusivamente nei casi in cui l'urgenza non consenta materialmente la tempestiva emissione dello stesso. Detti pagamenti dovranno comunque essere regolarizzati nei termini di cui alla convenzione stipulata con l'istituto cassiere.</corpo>
+							</comma>
+							<comma id="art34-com3">
+								<num>3.</num>
+								<corpo>
+									La convenzione di cui al
+									<rif xlink:href="#art34-com1" xlink:type="simple">comma 1</rif>
+									deve prevedere le modalità per l'autonomo espletamento del servizio di cassa in favore dei centri di responsabilità e deve consentire di movimentare, su più agenzie, i conti intestati ai centri di responsabilità.
+								</corpo>
+							</comma>
+							<comma id="art34-com4">
+								<num>4.</num>
+								<corpo>I rapporti con l'istituto cassiere sono intrattenuti per via informatica, mediante la rete dell'Ente.</corpo>
+							</comma>
+							<comma id="art34-com5">
+								<num>5.</num>
+								<corpo>I centri di responsabilità sono tenuti a trasmettere semestralmente al direttore generale l'estratto dei conti correnti di cui sono titolari.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art35">
+							<num>Art.35</num>
+							<rubrica>(Pagamenti per mezzo di carte di credito)</rubrica>
+							<comma id="art35-com1">
+								<num>1.</num>
+								<corpo>
+									Al fine di quanto disposto dal
+									<rif xlink:href="#art32-com3" xlink:type="simple">comma 3 dell'articolo 32</rif>
+									, gli economi curano il rilascio di carte di credito a favore di dipendenti dell'Ente individuati dal direttore generale, per l'amministrazione centrale dell'Ente, e dai titolari dei centri di responsabilità. L'utilizzo delle carte di credito quale sistema di pagamento avviene nel rispetto di quanto previsto dal
+									<rif xlink:href="urn:nir:ministero.tesoro:decreto:1996-12-09;701" xlink:type="simple">decreto del Ministero del Tesoro 9 dicembre 1996, n. 701</rif>
+									e successive modificazioni.
+								</corpo>
+							</comma>
+							<comma id="art35-com2">
+								<num>2.</num>
+								<corpo>
+									Le carte di credito possono essere utilizzate esclusivamente per provvedere al pagamento delle spese di cui all'
+									<rif xlink:href="#art32-com1" xlink:type="simple">articolo 32, comma 1</rif>
+									, e per le altre tipologie di spesa determinate dal Consiglio di amministrazione.
+								</corpo>
+							</comma>
+							<comma id="art35-com3">
+								<num>3.</num>
+								<corpo>L'istituto cassiere provvede ad imputare al conto del rispettivo centro di responsabilità le somme addebitate, richiedendo l'emissione dei relativi mandati.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art36">
+							<num>Art.36</num>
+							<rubrica>(Accensione di mutui)</rubrica>
+							<comma id="art36-com1">
+								<num>1.</num>
+								<corpo>L'entità del ricorso al mercato finanziario, iscritta in bilancio, è determinata con apposita delibera adottata dal Consiglio di amministrazione, a maggioranza dei componenti, in occasione dell'approvazione del bilancio preventivo e costituisce autorizzazione alla stipula delle relative operazioni.</corpo>
+							</comma>
+							<comma id="art36-com2">
+								<num>2.</num>
+								<corpo>I mutui possono essere contratti esclusivamente per le spese di investimento. In tal caso all'atto della deliberazione il previsto relativo onere complessivo di ammortamento annuo non può comunque superare il dieci percento dei finanziamenti trasferiti dal MIUR a carico del fondo ordinario per le istituzioni e gli enti di ricerca.</corpo>
+							</comma>
+							<comma id="art36-com3">
+								<num>3.</num>
+								<corpo>
+									L'onere complessivo delle quote di ammortamento del mutuo, entro il limite stabilito dall'
+									<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art7-com5" xlink:type="simple">articolo 7, comma 5, della legge 9 maggio 1989, n. 168</rif>
+									, dovrà comunque garantire il funzionamento ordinario della gestione dell'Ente.
+								</corpo>
+							</comma>
+							<comma id="art36-com4">
+								<num>4.</num>
+								<corpo>
+									Il dirigente preposto stipula le singole operazioni di indebitamento patrimoniale nei limiti fissati dal Consiglio di amministrazione, ai sensi del
+									<rif xlink:href="#art36-com1" xlink:type="simple">precedente comma 1</rif>
+									, ed in relazione all'effettivo fabbisogno di liquidità dell'Ente. A garanzia delle operazioni di indebitamento patrimoniale possono essere concesse dal CNR, in analogia alle disposizioni di cui all'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art206" xlink:type="simple">articolo 206 del decreto legislativo 18 agosto 2000, n. 267</rif>
+									, delegazioni di pagamento sui finanziamenti statali che costituiscono dotazione ordinaria dell'Ente.
+								</corpo>
+							</comma>
+							<comma id="art36-com5">
+								<num>5.</num>
+								<corpo>I centri di responsabilità non possono contrarre mutui o prestiti per provvedere alle loro esigenze finanziarie, nè possono in alcun caso accedere ad anticipazioni di cassa.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art37">
+							<num>Art. 37</num>
+							<rubrica>(Anticipazioni di cassa)</rubrica>
+							<comma id="art37-com1">
+								<num>1.</num>
+								<corpo>Nei limiti stabiliti dal Consiglio di amministrazione, e comunque entro il limite massimo dei tre dodicesimi delle entrate accertate nell'anno precedente in sede di approvazione del bilancio, è possibile accendere anticipazioni alle condizioni stabilite dalla convenzione con l'istituto cassiere. Le anticipazioni sono automaticamente accese allorché, in mancanza di disponibilità di cassa, pervengano al cassiere mandati di pagamento da estinguere; esse possono essere utilizzate soltanto per fronteggiare momentanee deficienze di cassa e vanno estinte alla chiusura dell'esercizio.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art38">
+							<num>Art. 38</num>
+							<rubrica>(Sistema di contabilità analitica)</rubrica>
+							<comma id="art38-com1">
+								<num>1.</num>
+								<corpo>
+									Al fine di consentire la valutazione economica dei servizi e delle attività prodotti, il CNR adotta un sistema di contabilità economica, fondato su rilevazioni analitiche per centro di costo/ricavo e centro di responsabilità, che ha come componenti fondamentali il piano dei conti, i centri di costo/ricavo, i centri di responsabilità, i servizi e le prestazioni erogati, ai sensi dell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1997-08-07;279#art10" xlink:type="simple">articolo 10 del D.Lgs. 7 agosto 1997, n. 279</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art38-com2">
+								<num>2.</num>
+								<corpo>Il piano dei conti classifica i ricavi ed i costi secondo la loro natura ed in relazione alla propria struttura organizzativa e produttiva.</corpo>
+							</comma>
+							<comma id="art38-com3">
+								<num>3.</num>
+								<corpo>I centri di costo/ricavo ed i centri di responsabilità sono individuati in relazione alle esigenze strutturali, operative ed istituzionali dell'Ente, identificabili con la specificazione funzionale e di produzione (centri di costo/ricavo) e di livello organizzativo (centri di responsabilità).</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+					<titolo id="prt1-tit4">
+						<num>Titolo IV</num>
+						<rubrica>Scritture contabili</rubrica>
+						<articolo id="art39">
+							<num>Art. 39</num>
+							<rubrica>(Disposizioni generali)</rubrica>
+							<comma id="art39-com1">
+								<num>1.</num>
+								<corpo>
+									Il CNR provvede alla tenuta delle scritture contabili anche mediante l'impiego di supporti informatici in conformità con il
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445" xlink:type="simple">DPR 28 dicembre 2000, n.445</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art40">
+							<num>Art. 40</num>
+							<rubrica>(Scritture finanziarie)</rubrica>
+							<comma id="art40-com1">
+								<num>1.</num>
+								<corpo>Le scritture finanziarie rilevano per ciascun capitolo, sia in conto competenza che in conto residui, la situazione degli accertamenti e degli impegni a fronte degli stanziamenti, nonché la situazione delle somme incassate e pagate e di quelle rimaste da riscuotere e da pagare.</corpo>
+							</comma>
+							<comma id="art40-com2">
+								<num>2.</num>
+								<alinea>A tal fine l'Ente cura la tenuta delle seguenti scritture:</alinea>
+								<el id="art40-com2-leta">
+									<num>a)</num>
+									<corpo>partitario degli accertamenti, contenente lo stanziamento iniziale e le variazioni successive, le somme accertate, quelle riscosse e quelle rimaste da riscuotere per ciascun capitolo di entrata;</corpo>
+								</el>
+								<el id="art40-com2-letb">
+									<num>b)</num>
+									<corpo>partitario degli impegni, contenente lo stanziamento iniziale e le variazioni successive, le somme impegnate, quelle pagate e quelle rimaste da pagare per ciascun capitolo;</corpo>
+								</el>
+								<el id="art40-com2-letc">
+									<num>c)</num>
+									<corpo>partitario dei residui, contenente, per capitolo ed esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le variazioni positive o negative, le somme rimaste da riscuotere o da pagare;</corpo>
+								</el>
+								<el id="art40-com2-letd">
+									<num>d)</num>
+									<corpo>giornale cronologico degli ordinativi di incasso e dei mandati.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art41">
+							<num>Art. 41</num>
+							<rubrica>(Scritture economiche)</rubrica>
+							<comma id="art41-com1">
+								<num>1.</num>
+								<corpo>Le scritture economiche rilevano i costi ed i ricavi dell'esercizio utilizzando il principio della competenza economica.</corpo>
+							</comma>
+							<comma id="art41-com2">
+								<num>2.</num>
+								<corpo>Le grandezze di costo e ricavo dell'esercizio, relative ai centri di responsabilità, sono determinate attraverso l'inserimento, nel sistema informativo dell'Ente, dei dati della gestione finanziaria integrati con le informazioni fornite dai medesimi centri di responsabilità. Tali grandezze sono imputate all'esercizio, al centro di responsabilità ed ai relativi centri di costo/ricavo al momento della registrazione del documento attivo o passivo.</corpo>
+							</comma>
+							<comma id="art41-com3">
+								<num>3.</num>
+								<corpo>
+									Ai fini del
+									<rif xlink:href="#art41-com2" xlink:type="simple">comma 2</rif>
+									, è considerato documento attivo o passivo qualsiasi documento in grado di comprovare l'attività svolta dalla controparte e comunque il suo diritto ad ottenere il pagamento del suo credito.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art42">
+							<num>Art. 42</num>
+							<rubrica>(Scritture patrimoniali)</rubrica>
+							<comma id="art42-com1">
+								<num>1.</num>
+								<corpo>Le scritture patrimoniali sono strutturate in modo da consentire la dimostrazione a valore del patrimonio all'inizio dell'esercizio, le variazioni intervenute nel corso dell'anno per effetto della gestione del bilancio e per altre cause, nonché la consistenza del patrimonio alla chiusura dell'esercizio.</corpo>
+							</comma>
+							<comma id="art42-com2">
+								<num>2.</num>
+								<corpo>
+									I beni dell'Ente si distinguono in immobili e mobili, secondo quanto previsto dagli
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art812" xlink:type="simple">articoli 812 e seguenti del codice civile</rif>
+									, ed in beni materiali ed immateriali.
+								</corpo>
+							</comma>
+							<comma id="art42-com3">
+								<num>3.</num>
+								<corpo>L'inventario dei beni immobili evidenzia, per ciascun bene, la denominazione, l'ubicazione, il titolo di provenienza, il titolo di appartenenza, le risultanze catastali, la rendita imponibile, le servitù, il loro valore e gli eventuali redditi.</corpo>
+							</comma>
+							<comma id="art42-com4">
+								<num>4.</num>
+								<corpo>L'inventario dei beni mobili riporta, per ogni bene, la denominazione e descrizione secondo la natura e la specie, il luogo in cui si trova, la classificazione in nuovo, usato e fuori uso, il loro valore ed il titolo di appartenenza.</corpo>
+							</comma>
+							<comma id="art42-com5">
+								<num>5.</num>
+								<corpo>Ai fini della tenuta della contabilità economica, gli inventari indicano, per ciascun bene, gli anni, la quota annuale di ammortamento ed i centri di responsabilità che lo utilizzano, con specificazione della quota percentuale di rispettiva fruizione.</corpo>
+							</comma>
+							<comma id="art42-com6">
+								<num>6.</num>
+								<corpo>
+									Le modalità di iscrizione e cancellazione dagli inventari, di classificazione e di gestione dei beni, i criteri di valutazione dei medesimi ed i compiti dei consegnatari dei beni sono precisati dal manuale delle procedure amministrativo contabili in conformità alle disposizioni del
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262" xlink:type="simple">codice civile</rif>
+									in quanto applicabili.
+								</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+					<titolo id="prt1-tit5">
+						<num>Titolo V</num>
+						<rubrica>Risultanze della gestione economico finanziaria</rubrica>
+						<articolo id="art43">
+							<num>Art. 43</num>
+							<rubrica>(Rendiconto generale)</rubrica>
+							<comma id="art43-com1">
+								<num>1.</num>
+								<alinea>Il rendiconto generale dell'Ente illustra i risultati della gestione ed è costituito da:</alinea>
+								<el id="art43-com1-leta">
+									<num>a)</num>
+									<corpo>il conto di bilancio;</corpo>
+								</el>
+								<el id="art43-com1-letb">
+									<num>b)</num>
+									<corpo>il conto economico;</corpo>
+								</el>
+								<el id="art43-com1-letc">
+									<num>c)</num>
+									<corpo>lo stato patrimoniale;</corpo>
+								</el>
+								<el id="art43-com1-letd">
+									<num>d)</num>
+									<corpo>la nota integrativa.</corpo>
+								</el>
+							</comma>
+							<comma id="art43-com2">
+								<num>2.</num>
+								<alinea>Al rendiconto generale sono allegati:</alinea>
+								<el id="art43-com2-leta">
+									<num>a)</num>
+									<corpo>la situazione amministrativa;</corpo>
+								</el>
+								<el id="art43-com2-letb">
+									<num>b)</num>
+									<corpo>la relazione sulla gestione;</corpo>
+								</el>
+								<el id="art43-com2-letc">
+									<num>c)</num>
+									<corpo>la relazione del Collegio dei revisori dei conti.</corpo>
+								</el>
+							</comma>
+							<comma id="art43-com3">
+								<num>3.</num>
+								<corpo>
+									Il direttore generale, almeno dieci giorni prima del termine di cui al
+									<rif xlink:href="#art43-com4" xlink:type="simple">comma 4</rif>
+									, predispone lo schema di rendiconto generale, con allegata la relazione illustrativa del Presidente, da sottoporre all'esame del Collegio dei revisori dei conti, che redige apposita relazione da allegare al predetto schema.
+								</corpo>
+							</comma>
+							<comma id="art43-com4">
+								<num>4.</num>
+								<corpo>
+									Il rendiconto generale è deliberato dal Consiglio di amministrazione entro il mese di giugno successivo alla chiusura dell'esercizio finanziario ed è trasmesso ai sensi dell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art22-com1" xlink:type="simple">articolo 22 comma 1 del decreto di riordino</rif>
+									al Ministero dell'istruzione, dell'università e della ricerca e al Ministero dell'economia e delle finanze.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art44">
+							<num>Art. 44</num>
+							<rubrica>(Conto del bilancio)</rubrica>
+							<comma id="art44-com1">
+								<num>1.</num>
+								<alinea>Il conto del bilancio, in relazione alla classificazione del preventivo finanziario, evidenzia le risultanze della gestione delle entrate e delle uscite e si articola in due parti:</alinea>
+								<el id="art44-com1-leta">
+									<num>a)</num>
+									<corpo>
+										il rendiconto finanziario decisionale redatto in conformità dell'
+										<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all6.pdf" xlink:type="simple">allegato 6</h:a>
+										;
+									</corpo>
+								</el>
+								<el id="art44-com1-letb">
+									<num>b)</num>
+									<corpo>
+										il rendiconto finanziario gestionale redatto in conformità dell'
+										<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all7.pdf" xlink:type="simple">allegato 7</h:a>
+										.
+									</corpo>
+								</el>
+							</comma>
+							<comma id="art44-com2">
+								<num>2.</num>
+								<alinea>
+									I rendiconti finanziari decisionale e gestionale vengono redatti con la medesima articolazione dei preventivi finanziari decisionale e gestionale di cui agli
+									<mrif>
+										articoli
+										<rif xlink:href="#art12" xlink:type="simple">12</rif>
+										e
+										<rif xlink:href="#art13" xlink:type="simple">13</rif>
+									</mrif>
+									, evidenziando:
+								</alinea>
+								<el id="art44-com2-leta">
+									<num>a)</num>
+									<corpo>le entrate di competenza dell'anno, accertate, riscosse o rimaste da riscuotere;</corpo>
+								</el>
+								<el id="art44-com2-letb">
+									<num>b)</num>
+									<corpo>le uscite di competenza dell'anno, impegnate, pagate o rimaste da pagare;</corpo>
+								</el>
+								<el id="art44-com2-letc">
+									<num>c)</num>
+									<corpo>la gestione dei residui attivi e passivi degli esercizi precedenti;</corpo>
+								</el>
+								<el id="art44-com2-letd">
+									<num>d)</num>
+									<corpo>le somme riscosse e quelle pagate in conto competenza ed in conto residui;</corpo>
+								</el>
+								<el id="art44-com2-lete">
+									<num>e)</num>
+									<corpo>il totale dei residui attivi e passivi che si tramandano all'esercizio successivo.</corpo>
+								</el>
+							</comma>
+							<comma id="art44-com3">
+								<num>3.</num>
+								<corpo>
+									Al rendiconto finanziario è allegato il conto di bilancio riclassificato per funzioni obiettivo di cui all'
+									<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art45">
+							<num>Art. 45</num>
+							<rubrica>(Riaccertamento dei residui ed inesigibilità dei crediti)</rubrica>
+							<comma id="art45-com1">
+								<num>1.</num>
+								<corpo>L'Ente compila annualmente alla chiusura dell'esercizio la situazione dei residui attivi e passivi provenienti dagli esercizi anteriori a quello di competenza, distintamente per esercizio di provenienza e per capitolo.</corpo>
+							</comma>
+							<comma id="art45-com2">
+								<num>2.</num>
+								<corpo>Detta situazione indica la consistenza al 1° gennaio, le somme riscosse o pagate nel corso dell'anno di gestione, quelle eliminate perché non più realizzabili o dovute, nonché quelle rimaste da riscuotere o da pagare.</corpo>
+							</comma>
+							<comma id="art45-com3">
+								<num>3.</num>
+								<corpo>I residui attivi possono essere ridotti od eliminati soltanto dopo che siano stati esperiti tutti gli atti per ottenerne la riscossione, a meno che il costo per tale esperimento superi l'importo da recuperare.</corpo>
+							</comma>
+							<comma id="art45-com4">
+								<num>4.</num>
+								<corpo>Le variazioni dei residui attivi e passivi e l'inesigibilità dei crediti devono formare oggetto di apposita e motivata deliberazione dell'organo di vertice, sentito il Collegio dei revisori dei conti che in proposito manifesta il proprio parere. Dette variazioni trovano specifica evidenza e riscontro nel conto economico.</corpo>
+							</comma>
+							<comma id="art45-com5">
+								<num>5.</num>
+								<corpo>
+									La situazione di cui al
+									<rif xlink:href="#art45-com1" xlink:type="simple">comma 1</rif>
+									è allegata al rendiconto generale, unitamente a una nota illustrativa del Collegio dei revisori dei conti sulle ragioni della persistenza dei residui di maggiore anzianità e consistenza, nonché sulla fondatezza degli stessi.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art46">
+							<num>Art. 46</num>
+							<rubrica>(Conto economico)</rubrica>
+							<comma id="art46-com1">
+								<num>1.</num>
+								<corpo>
+									Il conto economico di cui all'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all8.pdf" xlink:type="simple">allegato 8</h:a>
+									è redatto secondo le disposizioni contenute nell'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2425" xlink:type="simple">articolo 2425 del codice civile</rif>
+									, per quanto applicabili.
+								</corpo>
+							</comma>
+							<comma id="art46-com2">
+								<num>2.</num>
+								<corpo>Il conto economico evidenzia i componenti positivi e negativi della gestione secondo criteri di competenza economica.</corpo>
+							</comma>
+							<comma id="art46-com3">
+								<num>3.</num>
+								<corpo>Costituiscono componenti positivi del conto economico: i trasferimenti correnti; i contributi per le attività di ricerca e i proventi derivanti dalla cessione dei servizi offerti a domanda specifica; i proventi derivanti dalla gestione del patrimonio; i proventi finanziari; le insussistenze del passivo, le sopravvenienze attive e le plusvalenze da alienazioni.</corpo>
+							</comma>
+							<comma id="art46-com4">
+								<num>4.</num>
+								<corpo>Costituiscono componenti negativi del conto economico: i costi per acquisto di materie prime e di beni di consumo; i costi per acquisizione di servizi; il valore del godimento dei beni di terzi; le spese per il personale; i trasferimenti a terzi; gli interessi passivi e gli oneri finanziari; le imposte e le tasse; la svalutazione dei crediti e altri fondi; gli ammortamenti; le sopravvenienze passive, le minusvalenze da alienazioni e le insussistenze dell'attivo.</corpo>
+							</comma>
+							<comma id="art46-com5">
+								<num>5.</num>
+								<corpo>Sono vietate compensazioni tra componenti positivi e componenti negativi del conto economico.</corpo>
+							</comma>
+							<comma id="art46-com6">
+								<num>6.</num>
+								<corpo>I contributi correnti e la quota di pertinenza dei contributi in conto capitale provenienti da altre amministrazioni pubbliche e private o da terzi, non destinati ad investimenti o al fondo di dotazione, sono di competenza economica dell'esercizio quali proventi del valore della produzione.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art47">
+							<num>Art. 47</num>
+							<rubrica>(Stato patrimoniale)</rubrica>
+							<comma id="art47-com1">
+								<num>1.</num>
+								<corpo>
+									Lo stato patrimoniale, di cui all'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all9.pdf" xlink:type="simple">allegato 9</h:a>
+									, è redatto secondo lo schema previsto dall'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2424" xlink:type="simple">articolo 2424 del codice civile</rif>
+									, per quanto applicabile, e comprende le attività e le passività finanziarie, i beni mobili e immobili, ogni altra attività e passività, nonché le poste rettificative.
+								</corpo>
+							</comma>
+							<comma id="art47-com2">
+								<num>2.</num>
+								<corpo>Compongono l'attivo dello stato patrimoniale le immobilizzazioni, l'attivo circolante, i ratei e i risconti attivi.</corpo>
+							</comma>
+							<comma id="art47-com3">
+								<num>3.</num>
+								<corpo>Le immobilizzazioni si distinguono in immobilizzazioni immateriali, in immobilizzazioni materiali e immobilizzazioni finanziarie. Nelle immobilizzazioni finanziarie sono comprese le partecipazioni, i mutui, le anticipazioni e i crediti di durata superiore all'anno.</corpo>
+							</comma>
+							<comma id="art47-com4">
+								<num>4.</num>
+								<corpo>L'attivo circolante comprende le rimanenze, le disponibilità liquide, i crediti verso lo Stato ed enti pubblici e gli altri crediti di durata inferiore all'anno.</corpo>
+							</comma>
+							<comma id="art47-com5">
+								<num>5.</num>
+								<corpo>Gli elementi patrimoniali dell'attivo sono esposti al netto dei fondi ammortamento o dei fondi di svalutazione. Le relative variazioni devono trovare riscontro nella nota integrativa.</corpo>
+							</comma>
+							<comma id="art47-com6">
+								<num>6.</num>
+								<corpo>Compongono il passivo dello stato patrimoniale il patrimonio netto, i fondi per rischi e oneri, il trattamento di fine rapporto di lavoro subordinato, i debiti, i ratei e i risconti passivi.</corpo>
+							</comma>
+							<comma id="art47-com7">
+								<num>7.</num>
+								<corpo>In calce allo stato patrimoniale sono evidenziati i conti d'ordine rappresentanti le garanzie reali e personali prestate direttamente o indirettamente, i beni di terzi presso l'Ente e gli impegni assunti a fronte di prestazioni non ancora rese al termine dell'esercizio finanziario.</corpo>
+							</comma>
+							<comma id="art47-com8">
+								<num>8.</num>
+								<corpo>Sono vietate compensazioni fra partite dell'attivo e quelle del passivo.</corpo>
+							</comma>
+							<comma id="art47-com9">
+								<num>9.</num>
+								<corpo>Allo stato patrimoniale è allegato un elenco descrittivo dei beni appartenenti al patrimonio immobiliare dell'Ente alla data di chiusura dell'esercizio cui il conto si riferisce, con l'indicazione delle rispettive destinazioni e dell'eventuale reddito da essi prodotto.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art48">
+							<num>Art. 48</num>
+							<rubrica>(Criteri di iscrizione e di valutazione degli elementi patrimoniali)</rubrica>
+							<comma id="art48-com1">
+								<num>1.</num>
+								<corpo>
+									I criteri di iscrizione e di valutazione degli elementi patrimoniali attivi e passivi sono, in quanto applicabili, analoghi a quelli stabiliti dall'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2426" xlink:type="simple">articolo 2426 del codice civile</rif>
+									e dai principi contabili adottati dagli organismi nazionali ed internazionali a ciò deputati.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art49">
+							<num>Art. 49</num>
+							<rubrica>(Nota integrativa)</rubrica>
+							<comma id="art49-com1">
+								<num>1.</num>
+								<corpo>La nota integrativa è un documento illustrativo di natura tecnico-contabile riguardante l'andamento della gestione dell'Ente nei suoi settori operativi, nonché i fatti di rilievo verificatisi dopo la chiusura dell'esercizio ed ogni eventuale informazione e schema utile ad una migliore comprensione dei dati contabili.</corpo>
+							</comma>
+							<comma id="art49-com2">
+								<num>2.</num>
+								<alinea>La nota integrativa si articola nelle seguenti cinque parti:</alinea>
+								<el id="art49-com2-leta">
+									<num>a)</num>
+									<corpo>criteri di valutazione utilizzati nella redazione del rendiconto generale;</corpo>
+								</el>
+								<el id="art49-com2-letb">
+									<num>b)</num>
+									<corpo>analisi delle voci del conto del bilancio;</corpo>
+								</el>
+								<el id="art49-com2-letc">
+									<num>c)</num>
+									<corpo>analisi delle voci dello stato patrimoniale;</corpo>
+								</el>
+								<el id="art49-com2-letd">
+									<num>d)</num>
+									<corpo>analisi delle voci del conto economico;</corpo>
+								</el>
+								<el id="art49-com2-lete">
+									<num>e)</num>
+									<corpo>altre notizie integrative.</corpo>
+								</el>
+							</comma>
+							<comma id="art49-com3">
+								<num>3.</num>
+								<alinea>Le informazioni dettagliate contenute nella nota integrativa devono in ogni caso riguardare:</alinea>
+								<el id="art49-com3-leta">
+									<num>a)</num>
+									<corpo>
+										gli elementi richiesti dall'
+										<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2427" xlink:type="simple">articolo 2427</rif>
+										e dagli altri articoli del codice civile , nonché da altre norme di legge e dai documenti sui principi contabili applicabili;
+									</corpo>
+								</el>
+								<el id="art49-com3-letb">
+									<num>b)</num>
+									<corpo>l'applicazione di norme inderogabili tale da pregiudicare la rappresentazione veritiera e corretta del rendiconto generale, motivandone le ragioni e quantificando l'incidenza sulla situazione patrimoniale, finanziaria, nonché sul risultato economico;</corpo>
+								</el>
+								<el id="art49-com3-letc">
+									<num>c)</num>
+									<corpo>l'illustrazione delle risultanze finanziarie complessive;</corpo>
+								</el>
+								<el id="art49-com3-letd">
+									<num>d)</num>
+									<corpo>le variazioni alle previsioni finanziarie intervenute in corso d'anno, comprendendo l'utilizzazione del fondo di riserva;</corpo>
+								</el>
+								<el id="art49-com3-lete">
+									<num>e)</num>
+									<corpo>la composizione dei contributi in conto capitale ed in conto esercizio e la loro destinazione finanziaria ed economico-patrimoniale;</corpo>
+								</el>
+								<el id="art49-com3-letf">
+									<num>f)</num>
+									<corpo>l'elencazione dei diritti reali di godimento e la loro illustrazione;</corpo>
+								</el>
+								<el id="art49-com3-letg">
+									<num>g)</num>
+									<corpo>la destinazione dell'avanzo economico o i provvedimenti atti al contenimento e assorbimento del disavanzo economico;</corpo>
+								</el>
+								<el id="art49-com3-leth">
+									<num>h)</num>
+									<corpo>l'analisi puntuale del risultato di amministrazione, mettendone in evidenza la composizione e la destinazione;</corpo>
+								</el>
+								<el id="art49-com3-leti">
+									<num>i)</num>
+									<corpo>la composizione dei residui attivi e passivi per ammontare e per anno di formazione nonché, per quelli attivi, la loro classificazione in base al diverso grado di esigibilità;</corpo>
+								</el>
+								<el id="art49-com3-letl">
+									<num>l)</num>
+									<corpo>la composizione delle disponibilità liquide distinguendole fra quelle in possesso dell'istituto cassiere o tesoriere, del servizio di cassa interno e delle eventuali casse decentrate;</corpo>
+								</el>
+								<el id="art49-com3-letm">
+									<num>m)</num>
+									<corpo>i dati relativi al personale dipendente ed agli accantonamenti per indennità di anzianità ed eventuali trattamenti di quiescenza, nonché i dati relativi al personale comunque applicato all'Ente;</corpo>
+								</el>
+								<el id="art49-com3-letn">
+									<num>n)</num>
+									<corpo>l'elenco dei contenziosi in essere alla data di chiusura dell'esercizio ed i connessi accantonamenti ai fondi per rischi ed oneri.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art50">
+							<num>Art. 50</num>
+							<rubrica>(Situazione amministrativa)</rubrica>
+							<comma id="art50-com1">
+								<num>1.</num>
+								<alinea>
+									La situazione amministrativa di cui all'
+									<h:a xlink:href="http://www.urp.cnr.it/copertine/ente/ente_normativa/reg_contabilita_all10.pdf" xlink:type="simple">allegato 10</h:a>
+									, evidenzia:
+								</alinea>
+								<el id="art50-com1-leta">
+									<num>a)</num>
+									<corpo>la consistenza di cassa iniziale, gli incassi e i pagamenti complessivamente fatti nell'esercizio, in conto competenza e in conto residui, il saldo alla chiusura dell'esercizio;</corpo>
+								</el>
+								<el id="art50-com1-letb">
+									<num>b)</num>
+									<corpo>il totale complessivo delle somme rimaste da riscuotere e di quelle rimaste da pagare;</corpo>
+								</el>
+								<el id="art50-com1-letc">
+									<num>c)</num>
+									<corpo>il risultato finale di amministrazione.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art51">
+							<num>Art. 51</num>
+							<rubrica>(Relazione sulla gestione)</rubrica>
+							<comma id="art51-com1">
+								<num>1.</num>
+								<corpo>Il rendiconto generale è accompagnato da una relazione sull'andamento della gestione nel suo complesso, redatta dal direttore generale, ponendo in evidenza i costi sostenuti ed i risultati conseguiti per ciascun programma e progetto in relazione agli obiettivi del piano triennale, nonché notizie sui principali avvenimenti accaduti dopo la chiusura dell'esercizio.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art52">
+							<num>Art. 52</num>
+							<rubrica>(Consuntivo dei centri di responsabilità)</rubrica>
+							<comma id="art52-com1">
+								<num>1.</num>
+								<corpo>
+									Il consuntivo di ciascun centro di responsabilità, redatto semestralmente, mette a raffronto i risultati ottenuti dalla gestione con quelli originariamente previsti dai piani di gestione di cui all'
+									<rif xlink:href="#art9-com3" xlink:type="simple">articolo 9, comma 3</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art53">
+							<num>Art. 53</num>
+							<rubrica>(Relazione del Collegio dei revisori dei conti al rendiconto generale)</rubrica>
+							<comma id="art53-com1">
+								<num>1.</num>
+								<corpo>
+									Il Collegio dei revisori dei conti, nei termini previsti dall'
+									<rif xlink:href="#art43-com4" xlink:type="simple">articolo 43, comma 4</rif>
+									, redige la propria relazione formulando valutazioni e giudizi sulla regolarità amministrativo-contabile della gestione ed, in uno con le altre strutture facenti parte del controllo interno, anche valutazioni in ordine alla realizzazione dei programmi e degli obiettivi fissati all'inizio dell'esercizio, ponendo in evidenza le cause che ne hanno determinato eventuali scostamenti.
+								</corpo>
+							</comma>
+							<comma id="art53-com2">
+								<num>2.</num>
+								<alinea>Il Collegio dei revisori dei conti, in particolare, deve:</alinea>
+								<el id="art53-com2-leta">
+									<num>a)</num>
+									<alinea>attestare:</alinea>
+									<en id="art53-com2-leta-num1">
+										<num>1)</num>
+										<corpo>la corrispondenza dei dati riportati nel rendiconto generale con quelli analitici desunti dalla contabilità generale tenuta nel corso della gestione;</corpo>
+									</en>
+									<en id="art53-com2-leta-num2">
+										<num>2)</num>
+										<corpo>l'esistenza delle attività e passività e la loro corretta esposizione in bilancio nonché l'attendibilità delle valutazioni di bilancio;</corpo>
+									</en>
+									<en id="art53-com2-leta-num3">
+										<num>3)</num>
+										<corpo>la correttezza dei risultati finanziari, economici e patrimoniali della gestione;</corpo>
+									</en>
+									<en id="art53-com2-leta-num4">
+										<num>4)</num>
+										<corpo>l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati.</corpo>
+									</en>
+								</el>
+								<el id="art53-com2-letb">
+									<num>b)</num>
+									<corpo>effettuare analisi e fornire informazioni in ordine alla stabilità dell'equilibrio di bilancio e, in caso di disavanzo, fornire informazioni circa la struttura dello stesso e le prospettive di riassorbimento perché, comunque, venga, nel tempo, salvaguardato l'equilibrio;</corpo>
+								</el>
+								<el id="art53-com2-letc">
+									<num>c)</num>
+									<corpo>esprimere valutazioni sull'adeguatezza della struttura organizzativa dell'Ente e sul rispetto dei principi di corretta amministrazione;</corpo>
+								</el>
+								<el id="art53-com2-letd">
+									<num>d)</num>
+									<corpo>concorrere con altri organi a ciò deputati alla valutazione dell'adeguatezza del sistema di controllo interno;</corpo>
+								</el>
+								<el id="art53-com2-lete">
+									<num>e)</num>
+									<corpo>verificare l'osservanza delle norme che presiedono la formazione e l'impostazione del rendiconto generale;</corpo>
+								</el>
+								<el id="art53-com2-letf">
+									<num>f)</num>
+									<corpo>proporre l'approvazione o meno del rendiconto generale da parte degli organi preposti.</corpo>
+								</el>
+							</comma>
+							<comma id="art53-com3">
+								<num>3.</num>
+								<corpo>La proposta o meno di approvazione da parte del Collegio dei revisori si conclude con un giudizio senza rilievi, se il rendiconto generale è conforme alle norme che ne disciplinano i criteri di redazione e di valutazione, con un giudizio con rilievi o con un giudizio negativo.</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+					<titolo id="prt1-tit6">
+						<num>Titolo VI</num>
+						<rubrica>Sistemi di controllo</rubrica>
+						<articolo id="art54">
+							<num>Art. 54</num>
+							<rubrica>(Controllo di gestione)</rubrica>
+							<comma id="art54-com1">
+								<num>1.</num>
+								<corpo>
+									Il CNR attiva il controllo di gestione al fine di verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi nonché la corretta ed economica gestione delle proprie risorse, ai sensi del
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286" xlink:type="simple">D.Lgs. 30 luglio 1999, n. 286</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art54-com2">
+								<num>2.</num>
+								<corpo>Il controllo di gestione permette di rilevare ai vari livelli decisionali, in corso di esercizio, il grado di attuazione dei programmi e progetti nonché l'efficacia, efficienza ed economicità della gestione, mediante l'analisi dei dati forniti dalle rilevazioni di contabilità analitica.</corpo>
+							</comma>
+							<comma id="art54-com3">
+								<num>3.</num>
+								<alinea>Il controllo di gestione è finalizzato anche a supportare la funzione dirigenziale con la finalità di:</alinea>
+								<el id="art54-com3-leta">
+									<num>a)</num>
+									<corpo>coadiuvare i centri di responsabilità nella predisposizione dei piani di gestione;</corpo>
+								</el>
+								<el id="art54-com3-letb">
+									<num>b)</num>
+									<corpo>fornire indicazioni ai centri di responsabilità in ordine alle soluzioni organizzative più idonee a realizzare il loro piano di gestione;</corpo>
+								</el>
+								<el id="art54-com3-letc">
+									<num>c)</num>
+									<corpo>proporre ai centri di responsabilità le modifiche da apportare ai piani di gestione.</corpo>
+								</el>
+							</comma>
+						</articolo>
+						<articolo id="art55">
+							<num>Art. 55</num>
+							<rubrica>(Collegio dei revisori dei conti)</rubrica>
+							<comma id="art55-com1">
+								<num>1.</num>
+								<corpo>Il Collegio dei revisori dei conti, in coerenza con quanto previsto dal regolamento di organizzazione e funzionamento, effettua almeno ogni trimestre controlli e riscontri sulla consistenza della cassa e sulla esistenza dei valori, dei titoli di proprietà, e sui depositi e i titoli a custodia.</corpo>
+							</comma>
+							<comma id="art55-com2">
+								<num>2.</num>
+								<corpo>Il controllo sulla intera gestione deve essere svolto con criteri di efficienza e di tutela dell'interesse pubblico perseguito dall'Ente, per singoli settori e per rami di attività, con criteri di completezza logico-sistematica oltre che con controlli ispettivi non limitati ad atti isolati.</corpo>
+							</comma>
+							<comma id="art55-com3">
+								<num>3.</num>
+								<corpo>Di ogni verifica, ispezione e controllo, anche individuale, nonché delle risultanze dell'esame collegiale dei bilanci preventivi e relative variazioni e dei rendiconti generali è redatto apposito verbale.</corpo>
+							</comma>
+							<comma id="art55-com4">
+								<num>4.</num>
+								<corpo>È obbligatorio acquisire il parere dei revisori dei conti, reso collegialmente, sugli schemi degli atti deliberativi riguardanti bilanci preventivi, variazioni agli stessi, rendiconti generali, contrazioni di mutui e partecipazioni societarie, nonché ricognizione ed accertamenti dei residui attivi e passivi ed eliminazione per inesigibilità dei crediti iscritti nella situazione patrimoniale. Il direttore generale fa pervenire al Collegio i documenti necessari almeno dieci giorni prima del giorno fissato per l'adozione dei provvedimenti.</corpo>
+							</comma>
+							<comma id="art55-com5">
+								<num>5.</num>
+								<corpo>
+									Il Collegio, nelle sue periodiche verifiche, vigila affinché siano tempestivamente rese al Ministero dell'economia e delle finanze le informazioni previste negli
+									<mrif>
+										articoli
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art59" xlink:type="simple">59</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art60" xlink:type="simple">60</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art61" xlink:type="simple">61</rif>
+										del D.Lgs. 30 marzo 2001, n. 165
+									</mrif>
+									, ai fini del controllo della spesa del personale. Nei verbali del Collegio deve darsi atto dell'osservanza di tale obbligo.
+								</corpo>
+							</comma>
+							<comma id="art55-com6">
+								<num>6.</num>
+								<corpo>Il Collegio dei revisori dei conti, nelle sue periodiche verifiche, vigila, altresì, affinché siano sistematicamente esperite le procedure di controllo interno. Nei verbali del collegio deve darsi atto dell'osservanza di tale obbligo.</corpo>
+							</comma>
+							<comma id="art55-com7">
+								<num>7.</num>
+								<corpo>Il Collegio vigila sull'adozione di controlli sulle strutture periferiche.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art56">
+							<num>Art. 56</num>
+							<rubrica>(Verbali)</rubrica>
+							<comma id="art56-com1">
+								<num>1.</num>
+								<corpo>Copia del verbale del collegio dei revisori dei conti è inviata, entro cinque giorni dalla sua sottoscrizione, al rappresentante legale dell'Ente, all'amministrazione vigilante e al dipartimento della Ragioneria generale dello Stato - Ispettorato generale di finanza.</corpo>
+							</comma>
+							<comma id="art56-com2">
+								<num>2.</num>
+								<corpo>
+									Il libro dei verbali del Collegio dei revisori dei conti è custodito presso la sede dell'Ente. In merito alla sua tenuta si applicano le disposizioni di cui all'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2421" xlink:type="simple">articolo 2421 del codice civile</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art57">
+							<num>Art. 57</num>
+							<rubrica>(Incompatibilità e responsabilità)</rubrica>
+							<comma id="art57-com1">
+								<num>1.</num>
+								<alinea>
+									Ai sensi dell'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2399" xlink:type="simple">articolo 2399 del codice civile</rif>
+									non possono far parte del collegio dei revisori dei conti e se nominati decadono:
+								</alinea>
+								<el id="art57-com1-leta">
+									<num>a)</num>
+									<corpo>i parenti e gli affini dei componenti dell'organo esecutivo dell'Ente entro il quarto grado e coloro che siano legati all'Ente o alle società da questo controllate da rapporto di lavoro continuativo;</corpo>
+								</el>
+								<el id="art57-com1-letb">
+									<num>b)</num>
+									<corpo>
+										coloro che si trovano nelle condizioni previste dall'
+										<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2382" xlink:type="simple">articolo 2382 del codice civile</rif>
+										.
+									</corpo>
+								</el>
+							</comma>
+							<comma id="art57-com2">
+								<num>2.</num>
+								<corpo>I revisori dei conti sono responsabili delle attestazioni fatte e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio, salvo il dovere di informazione previsto nei confronti degli organi vigilanti e di controllo dalle disposizioni di legge.</corpo>
+							</comma>
+							<comma id="art57-com3">
+								<num>3.</num>
+								<corpo>
+									Si estende ai revisori dei conti l'obbligo di denuncia alla competente Procura regionale presso la sezione giurisdizionale regionale della Corte dei conti nei casi previsti dall'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2003-02-27;97#art90" xlink:type="simple">articolo 90 del D.P.R. 27 febbraio 2003, n.97</rif>
+									, ove non provveda chi vi è tenuto. I revisori dei conti sono tenuti, altresì, alla denuncia all'autorità giudiziaria nei casi previsti dall'
+									<rif xlink:href="urn:nir:stato:codice.procedura.penale:1988-09-22;447#art331" xlink:type="simple">articolo 331 del codice di procedura penale</rif>
+									.
+								</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+				</parte>
+				<parte id="prt2">
+					<num>PARTE II</num>
+					<rubrica>DISCIPLINA DELL'ATTIVITÀ CONTRATTUALE</rubrica>
+					<titolo id="prt2-tit1">
+						<num>Titolo I</num>
+						<rubrica>Disposizioni generali</rubrica>
+						<capo id="prt2-tit1-cap1">
+							<num>Capo I</num>
+							<rubrica>Ambito di applicazione</rubrica>
+							<articolo id="art58">
+								<num>Art. 58</num>
+								<rubrica>(Normativa applicabile)</rubrica>
+								<comma id="art58-com1">
+									<num>1.</num>
+									<corpo>L'attività negoziale è disciplinata dalle norme della presente parte ferma restando l'osservanza della normativa vigente nonché delle disposizioni dell'Unione europea direttamente applicabili o aventi effetti diretti nell'ordinamento interno.</corpo>
+								</comma>
+								<comma id="art58-com2">
+									<num>2.</num>
+									<corpo>
+										Al fine di fornire ai soggetti competenti il necessario ausilio tecnico ed il quadro delle disposizioni che, tra quelle di cui al
+										<rif xlink:href="#art58-com1" xlink:type="simple">comma 1</rif>
+										, sono da ritenere vigenti, apposito ufficio dell'amministrazione centrale cura la predisposizione e l'aggiornamento di un manuale operativo, le cui indicazioni, non vincolanti, servono a fornire una consulenza di tipo preventivo.
+									</corpo>
+								</comma>
+							</articolo>
+						</capo>
+						<capo id="prt2-tit1-cap2">
+							<num>Capo II</num>
+							<rubrica>Svolgimento dell'attività contrattuale</rubrica>
+							<articolo id="art59">
+								<num>Art. 59</num>
+								<rubrica>(Decisione di contrattare)</rubrica>
+								<comma id="art59-com1">
+									<num>1.</num>
+									<corpo>La volontà dell'Ente di provvedere mediante contratto deve essere espressa con apposito atto, di seguito denominato "decisione di contrattare".</corpo>
+								</comma>
+								<comma id="art59-com2">
+									<num>2.</num>
+									<alinea>La decisione di contrattare deve contenere:</alinea>
+									<el id="art59-com2-leta">
+										<num>a)</num>
+										<corpo>il fine che si intende perseguire con il contratto ed i vantaggi che si intendono ottenere per il soddisfacimento dell'interesse pubblico;</corpo>
+									</el>
+									<el id="art59-com2-letb">
+										<num>b)</num>
+										<corpo>l'oggetto del contratto;</corpo>
+									</el>
+									<el id="art59-com2-letc">
+										<num>c)</num>
+										<corpo>le clausole ritenute essenziali e l'eventuale capitolato speciale, ivi compresa l'eventuale clausola di rinnovo espresso;</corpo>
+									</el>
+									<el id="art59-com2-letd">
+										<num>d)</num>
+										<corpo>la procedura ed i criteri di scelta del contraente;</corpo>
+									</el>
+									<el id="art59-com2-lete">
+										<num>e)</num>
+										<corpo>il responsabile del procedimento;</corpo>
+									</el>
+									<el id="art59-com2-letf">
+										<num>f)</num>
+										<corpo>l'eventuale cauzione provvisoria da prestare per poter partecipare alla procedura;</corpo>
+									</el>
+									<el id="art59-com2-letg">
+										<num>g)</num>
+										<corpo>l'importo e le modalità di costituzione della cauzione definitiva, ovvero l'espressa e motivata volontà di prescinderne.</corpo>
+									</el>
+								</comma>
+								<comma id="art59-com3">
+									<num>3.</num>
+									<corpo>
+										La decisione di contrattare deve essere congruamente motivata con particolare riguardo a quanto previsto dalla
+										<rif xlink:href="#art59-com2-letd" xlink:type="simple">lettera d) del comma 2</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art59-com4">
+									<num>4.</num>
+									<corpo>
+										Per i contratti sia passivi che attivi, i soggetti di cui all'
+										<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+										adottano le decisioni di contrattare secondo le competenze loro assegnate e in conformità a quanto previsto dal piano di gestione. Se le prestazioni da acquisire mediante il contratto sono destinate ad essere utilizzate da altro centro di responsabilità, la decisione è assunta su richiesta del centro di responsabilità destinatario delle prestazioni da acquisire, al cui responsabile è comunque riservato definirne le caratteristiche.
+									</corpo>
+								</comma>
+								<comma id="art59-com5">
+									<num>5.</num>
+									<corpo>Per i contratti, attivi o passivi, di importo inferiore a quanto annualmente stabilito dal Consiglio di amministrazione in sede di approvazione del bilancio preventivo dell'Ente, non è necessaria la previa adozione della decisione di contrattare; in tali casi si applicano le disposizioni in materia di economato o quelle inerenti le spese per l'acquisizione di beni e servizi e la realizzazione di lavori in economia.</corpo>
+								</comma>
+								<comma id="art59-com6">
+									<num>6.</num>
+									<corpo>
+										L'acquisizione di beni e servizi e l'esecuzione di lavori in economia, il sostenimento delle spese di rappresentanza, nonché la gestione del fondo economale, sono disciplinati da appositi regolamenti, adottati con delibera del Consiglio di Amministrazione anche sulla base dei principi e dei criteri fissati dal
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1999-12-21;554" xlink:type="simple">decreto del Presidente della Repubblica 21 dicembre 1999, n. 554</rif>
+										e dal
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-08-20;384" xlink:type="simple">decreto del Presidente della Repubblica 20 agosto 2001, n. 384</rif>
+										e successive modificazioni.
+									</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art60">
+								<num>Art. 60</num>
+								<rubrica>(Conclusione dei contratti)</rubrica>
+								<comma id="art60-com1">
+									<num>1.</num>
+									<corpo>
+										I contratti sono conclusi nel rispetto delle procedure disciplinate dal successivo
+										<rif xlink:href="#prt2-tit1-cap4" xlink:type="simple">Capo IV</rif>
+										e con il contenuto risultante dal verbale delle relative operazioni. L'esito della procedura è comunicato al contraente prescelto ed al concorrente che segue nella graduatoria entro 10 giorni dalla conclusione delle operazioni; l'amministrazione nei successivi 20 giorni decide se accettare l'offerta ed a tal fine essa può prendere in considerazione solo offerte ferme ai sensi dell'
+										<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1329" xlink:type="simple">art. 1329 del codice civile</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art60-com2">
+									<num>2.</num>
+									<alinea>Con atto del soggetto che ha adottato la decisione di contrattare si provvede all'accettazione, previa verifica:</alinea>
+									<el id="art60-com2-leta">
+										<num>a)</num>
+										<corpo>che persista l'interesse dell'Ente alla prestazione oggetto del contratto;</corpo>
+									</el>
+									<el id="art60-com2-letb">
+										<num>b)</num>
+										<corpo>che non ricorrano elementi comprovanti l'incongruità delle condizioni del contratto;</corpo>
+									</el>
+									<el id="art60-com2-letc">
+										<num>c)</num>
+										<corpo>che non si siano verificate irregolarità nello svolgimento della procedura suscettibili di comprometterne la validità.</corpo>
+									</el>
+								</comma>
+								<comma id="art60-com3">
+									<num>3.</num>
+									<corpo>L'accettazione dell'Ente è validamente manifestata soltanto nella forma scritta e rispetto ad offerte scritte.</corpo>
+								</comma>
+								<comma id="art60-com4">
+									<num>4.</num>
+									<corpo>Avvenuta la definitiva aggiudicazione, si procede nel più breve termine alla stipulazione del contratto, tranne i casi in cui il verbale di aggiudicazione tenga luogo del contratto.</corpo>
+								</comma>
+								<comma id="art60-com5">
+									<num>5.</num>
+									<corpo>Qualora sia opportuna una ricognizione dei patti contrattuali risultanti dalle procedure esperite, oppure sia indispensabile una loro specificazione, l'amministrazione può subordinare la propria accettazione, mediante condizione risolutiva, alla stipulazione di un atto ricognitivo o specificativo del contratto nella forma dell'atto pubblico o della scrittura privata; alla stipulazione di tale atto si provvede comunque nel caso in cui ciò sia richiesto dal bando. A tal fine l'amministrazione, entro 10 giorni dalla conclusione del contratto, invita il contraente a stipulare l'atto entro un termine non inferiore a 20 giorni. Qualora il contraente non si presenti nel termine assegnato, l'Ente può dichiarare unilateralmente risolto il contratto. L'amministrazione può provvedere, se possibile, alla scelta di un diverso contraente in base alle risultanze delle procedure già esperite.</corpo>
+								</comma>
+								<comma id="art60-com6">
+									<num>6.</num>
+									<corpo>Il contratto è concluso nel momento in cui il contraente prescelto abbia ricevuto comunicazione dell'accettazione da parte dell'Ente.</corpo>
+								</comma>
+								<comma id="art60-com7">
+									<num>7.</num>
+									<corpo>
+										Il presente articolo non si applica ai contratti disciplinati dal
+										<rif xlink:href="#art59-com5" xlink:type="simple">comma 5 dell'articolo 59</rif>
+										.
+									</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art61">
+								<num>Art. 61</num>
+								<rubrica>(Controlli sulla esecuzione del contratto)</rubrica>
+								<comma id="art61-com1">
+									<num>1.</num>
+									<corpo>L'esattezza degli adempimenti contrattuali e la qualità delle prestazioni sono oggetto di appositi controlli, se del caso in corso d'opera, mediante collaudi e verifiche.</corpo>
+								</comma>
+								<comma id="art61-com2">
+									<num>2.</num>
+									<corpo>Qualora l'importo del contratto non superi euro 155.000,00, i controlli sono svolti dal funzionario responsabile del procedimento contrattuale. Per i contratti di importo superiore, e comunque nel caso in cui il funzionario responsabile del procedimento non disponga delle competenze necessarie, i controlli sono eseguiti da persone, anche esterne all'Ente, munite delle necessarie competenze, appositamente nominate dal soggetto che ha adottato la decisione di contrattare.</corpo>
+								</comma>
+								<comma id="art61-com3">
+									<num>3.</num>
+									<corpo>I soggetti preposti ai controlli, qualora diversi dal responsabile del procedimento, segnalano a questo le eventuali inadeguatezze del contenuto del contratto nonché ogni elemento idoneo a valutare la correttezza ed esattezza dei comportamenti tenuti dal contraente.</corpo>
+								</comma>
+								<comma id="art61-com4">
+									<num>4.</num>
+									<corpo>Il collaudo o la verifica si concludono con l'attestazione di regolare esecuzione da effettuarsi, a seconda dei casi, sulla relativa documentazione giustificativa della spesa, ovvero, in presenza di una specifica commissione, attraverso apposito verbale che verrà allegato all'ordinativo di pagamento.</corpo>
+								</comma>
+								<comma id="art61-com5">
+									<num>5.</num>
+									<corpo>Ciascun contratto stabilisce le conseguenze e gli effetti giuridici derivanti dall'attività di controllo sullo svolgimento del rapporto contrattuale ed in particolare sulle obbligazioni assunte dall'Ente.</corpo>
+								</comma>
+								<comma id="art61-com6">
+									<num>6.</num>
+									<corpo>Con delibera del Consiglio di amministrazione sono individuate le modalità e i soggetti preposti al collaudo e all'accertamento della regolare fornitura.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art62">
+								<num>Art. 62</num>
+								<rubrica>(Funzionario responsabile del procedimento contrattuale)</rubrica>
+								<comma id="art62-com1">
+									<num>1.</num>
+									<corpo>Con la decisione di contrattare è nominato per ciascun contratto un responsabile del relativo procedimento, scelto nell'ambito della struttura organizzativa interessata al contratto.</corpo>
+								</comma>
+								<comma id="art62-com2">
+									<num>2.</num>
+									<corpo>Il funzionario responsabile è preposto a seguire l'intero iter del procedimento contrattuale, anche nelle fasi che eventualmente debbano svolgersi in uffici interni o esterni all'Ente, e provvede affinché la formazione ed esecuzione del contratto avvengano regolarmente e nel modo più rapido, nel rispetto delle norme sulla pubblicità e delle altre regole procedurali. A tal fine, il funzionario responsabile cura i rapporti con i soggetti interessati, in modo da garantire la loro partecipazione ed informazione, e tiene i necessari rapporti con tutti i soggetti che intervengono nella formazione ed esecuzione del contratto.</corpo>
+								</comma>
+								<comma id="art62-com3">
+									<num>3.</num>
+									<corpo>Il funzionario responsabile riferisce immediatamente al soggetto che lo ha nominato sulle circostanze che determinino, o facciano temere, il verificarsi di irregolarità o rallentamenti, facendo proposte per il loro superamento ovvero segnalando le iniziative assunte a tal fine.</corpo>
+								</comma>
+								<comma id="art62-com4">
+									<num>4.</num>
+									<corpo>Il nome e la sede del responsabile del procedimento sono resi noti al pubblico nelle forme adeguate e, per i contratti di esecuzione di lavori, sono indicati nel cartello di cantiere.</corpo>
+								</comma>
+								<comma id="art62-com5">
+									<num>5.</num>
+									<corpo>Al termine del suo incarico il responsabile del procedimento presenta una relazione con la quale sono segnalati tutti gli elementi rilevanti al fine di poter valutare il grado di funzionalità nello svolgimento della specifica vicenda contrattuale e la esattezza, correttezza e puntualità con cui sono stati adempiuti gli obblighi contrattuali. La relazione è trasmessa al soggetto che ha adottato la decisione di contrattare.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art63">
+								<num>Art. 63</num>
+								<rubrica>(Supporto all'attività contrattuale)</rubrica>
+								<comma id="art63-com1">
+									<num>1.</num>
+									<corpo>
+										Per fornire alle strutture operative il necessario supporto tecnico-giuridico, sono predisposti schemi degli atti maggiormente utilizzati nello svolgimento delle attività contrattuali. Le strutture operative, qualora ritengano tali schemi inadeguati al caso di specie o intendano comunque discostarsene, possono farsi assistere, nella predisposizione degli atti da adottare, dall'ufficio di cui all'
+										<rif xlink:href="#art58-com2" xlink:type="simple">articolo 58, comma 2</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art63-com2">
+									<num>2.</num>
+									<corpo>L'Ente si dota di un sistema di rilevazione ed elaborazione dei dati sui prezzi che interessano l'attività dell'Ente. Le strutture amministrative competenti a svolgere l'attività contrattuale sono tenute a fornire i dati necessari a tali rilevazioni ed accedono alle relative elaborazioni mediante la rete informatica dell'Ente.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art64">
+								<num>Art. 64</num>
+								<rubrica>(Repertorio dei contratti)</rubrica>
+								<comma id="art64-com1">
+									<num>1.</num>
+									<corpo>Ciascuna struttura amministrativa tiene una raccolta dei contratti da essa conclusi, nella quale i medesimi sono conservati fino alla scadenza dei termini di prescrizione delle relative obbligazioni.</corpo>
+								</comma>
+								<comma id="art64-com2">
+									<num>2.</num>
+									<corpo>
+										Presso l'ufficio di cui all'
+										<rif xlink:href="#art58-com2" xlink:type="simple">articolo 58 comma 2</rif>
+										è istituito un Repertorio centralizzato dei contratti contenente le annotazioni di tutti i contratti di cui l'Ente è parte.
+									</corpo>
+								</comma>
+								<comma id="art64-com3">
+									<num>3.</num>
+									<corpo>La tipologia e le soglie dei contratti da registrare sono stabilite con apposite direttive del direttore generale.</corpo>
+								</comma>
+							</articolo>
+						</capo>
+						<capo id="prt2-tit1-cap3">
+							<num>Capo III</num>
+							<rubrica>Clausole contrattuali</rubrica>
+							<articolo id="art65">
+								<num>Art. 65</num>
+								<rubrica>(Termini e durata dei contratti)</rubrica>
+								<comma id="art65-com1">
+									<num>1.</num>
+									<corpo>Nei contratti stipulati dall'Ente devono essere stabiliti i termini di esecuzione delle rispettive prestazioni e deve essere determinata la durata del rapporto contrattuale.</corpo>
+								</comma>
+								<comma id="art65-com2">
+									<num>2.</num>
+									<corpo>La conclusione di contratti contenenti clausole di rinnovo tacito è consentita esclusivamente nei casi espressamente previsti dalla legge.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art66">
+								<num>Art. 66</num>
+								<rubrica>(Prezzi)</rubrica>
+								<comma id="art66-com1">
+									<num>1.</num>
+									<corpo>I contratti devono prevedere prezzi invariabili, salvo che per i beni o le prestazioni il cui prezzo sia determinato per legge o per atto amministrativo e fermo restando quanto previsto dal presente articolo.</corpo>
+								</comma>
+								<comma id="art66-com2">
+									<num>2.</num>
+									<corpo>E' consentita la conclusione di contratti nei quali il corrispettivo sia determinato con indicazione del ribasso, fisso ed invariabile, rispetto a prezzi di listini ufficiali.</corpo>
+								</comma>
+								<comma id="art66-com3">
+									<num>3.</num>
+									<corpo>Anticipazioni sul prezzo nella misura massima del venti percento dell'importo contrattuale possono essere previste soltanto per i contratti per la fornitura di strumentazione scientifica e tecnologica di particolare complessità. A tal fine si intendono di particolare complessità quelle strumentazioni per le quali non siano reperibili sul mercato produzioni standardizzate.</corpo>
+								</comma>
+								<comma id="art66-com4">
+									<num>4.</num>
+									<corpo>L'accertamento sulla congruità dei prezzi praticati dalle ditte fornitrici è effettuato dai titolari dei centri di responsabilità attraverso elementi obiettivi di riscontro dei prezzi correnti di mercato risultanti anche da apposite indagini. Nei casi di prestazioni di servizi e forniture particolarmente complesse può essere nominata un'apposita commissione, formata da personale anche esterno all'Ente, nell'ipotesi di carenza di personale interno dotato di specifica professionalità, che accerti la congruità dei prezzi praticati.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art67">
+								<num>Art. 67</num>
+								<rubrica>(Rinnovo e proroga dei contratti)</rubrica>
+								<comma id="art67-com1">
+									<num>1.</num>
+									<corpo>
+										I contratti possono prevedere una clausola di rinnovo espresso ai sensi dell'
+										<rif xlink:href="#art59-com2" xlink:type="simple">articolo 59, comma 2</rif>
+										. A tal fine, il soggetto competente alla conclusione del contratto accerta la sussistenza di ragioni di convenienza al rinnovo e, previa decisione motivata, comunica alla controparte la volontà di rinnovare il contratto.
+									</corpo>
+								</comma>
+								<comma id="art67-com2">
+									<num>2.</num>
+									<corpo>I contratti per la fornitura di beni e servizi, che abbiano durata non inferiore all'anno, possono prevedere l'obbligo del fornitore a proseguire la medesima prestazione a richiesta dell'Ente ed alle medesime condizioni, fino ad un massimo di altri 4 mesi. La decisione di imporre al fornitore la prosecuzione della prestazione è adottata dal soggetto competente alla conclusione del contratto.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art68">
+								<num>Art. 68</num>
+								<rubrica>(Variazione dei contratti in corso di esecuzione)</rubrica>
+								<comma id="art68-com1">
+									<num>1.</num>
+									<corpo>I contratti possono prevedere che, qualora nel corso della loro esecuzione si renda necessario un aumento o una diminuzione della prestazione, il contraente è tenuto ad assoggettarvisi agli stessi patti e condizioni del contratto, sempre che le relative variazioni siano complessivamente contenute entro il quinto dell'importo contrattuale e non siano tali da alterare la natura della prestazione originaria.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art69">
+								<num>Art. 69</num>
+								<rubrica>(Contratti aperti)</rubrica>
+								<comma id="art69-com1">
+									<num>1.</num>
+									<corpo>E' consentita la conclusione di contratti in cui sia lasciata all'amministrazione la successiva determinazione quantitativa delle prestazioni entro un intervallo predeterminato.</corpo>
+								</comma>
+								<comma id="art69-com2">
+									<num>2.</num>
+									<corpo>Tali contratti devono comunque stabilire il prezzo unitario che il contraente, su richiesta dell'amministrazione, è tenuto a praticare.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art70">
+								<num>Art. 70</num>
+								<rubrica>(Clausola penale)</rubrica>
+								<comma id="art70-com1">
+									<num>1.</num>
+									<corpo>I contratti devono prevedere le penalità, con clausola di risarcibilità a favore dell'Ente dell'ulteriore danno, per il mancato o l'inesatto adempimento, nonché per la ritardata esecuzione delle prestazioni.</corpo>
+								</comma>
+								<comma id="art70-com2">
+									<num>2.</num>
+									<corpo>L'applicazione della penale è di competenza del soggetto che ha la responsabilità di gestione del contratto in rappresentanza dell'Ente.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art71">
+								<num>Art. 71</num>
+								<rubrica>(Cauzione definitiva)</rubrica>
+								<comma id="art71-com1">
+									<num>1.</num>
+									<corpo>I contraenti sono tenuti a presentare all'Ente idonea cauzione a garanzia della corretta esecuzione dei contratti. L'importo e le modalità di costituzione della cauzione sono stabilite dalla decisione a contrattare. Si può prescindere dalla cauzione qualora il contraente sia di notoria affidabilità o, comunque, qualora ciò sia previsto dalla decisione di contrattare in considerazione dell'importo o della natura delle prestazioni.</corpo>
+								</comma>
+								<comma id="art71-com2">
+									<num>2.</num>
+									<corpo>
+										Lo svincolo della cauzione è disposto dal soggetto competente alla conclusione del contratto, a seguito della relazione illustrativa di cui all'
+										<rif xlink:href="#art62-com5" xlink:type="simple">articolo 62, comma 5</rif>
+										.
+									</corpo>
+								</comma>
+							</articolo>
+						</capo>
+						<capo id="prt2-tit1-cap4">
+							<num>Capo IV</num>
+							<rubrica>Procedure di scelta del contraente</rubrica>
+							<articolo id="art72">
+								<num>Art. 72</num>
+								<rubrica>(Procedure di scelta del contraente)</rubrica>
+								<comma id="art72-com1">
+									<num>1.</num>
+									<corpo>L'Ente provvede alla scelta del contraente tramite concorsi di progettazione, procedure negoziate, procedure ristrette, procedure aperte, ai sensi delle disposizioni del presente capo.</corpo>
+								</comma>
+								<comma id="art72-com2">
+									<num>2.</num>
+									<corpo>Le procedure ristrette possono essere con o senza bando; le procedure negoziate possono svolgersi in forma concorrenziale con bando, concorrenziale senza bando e non concorrenziale.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art73">
+								<num>Art. 73</num>
+								<rubrica>(Utilizzazione dei concorsi di progettazione)</rubrica>
+								<comma id="art73-com1">
+									<num>1.</num>
+									<corpo>Si provvede mediante concorso di progettazione qualora sia opportuno avvalersi dell'apporto di particolari competenze tecniche e di esperienze specifiche da parte dell'offerente, per la elaborazione progettuale delle prestazioni da eseguire di cui siano indicate le principali caratteristiche.</corpo>
+								</comma>
+								<comma id="art73-com2">
+									<num>2.</num>
+									<corpo>I concorsi di progettazione si svolgono previa pubblicazione del bando di gara e successiva scelta dei soggetti da invitare alla procedura.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art74">
+								<num>Art. 74</num>
+								<rubrica>(Utilizzazione delle procedure negoziate concorrenziali con bando)</rubrica>
+								<comma id="art74-com1">
+									<num>1.</num>
+									<alinea>Si provvede con le procedure negoziate, previa pubblicazione di un bando, nei seguenti casi:</alinea>
+									<el id="art74-com1-leta">
+										<num>a)</num>
+										<corpo>allorché la difficoltà di predeterminare con sufficiente precisione le specifiche del contratto, mediante capitolato speciale, non consenta di prescindere da un rapporto di negoziazione con i partecipanti alla procedura;</corpo>
+									</el>
+									<el id="art74-com1-letb">
+										<num>b)</num>
+										<corpo>allorché l'esito infruttuoso di altra procedura con bando evidenzi l'impossibilità di definire il contenuto della prestazione o del contratto prescindendo da un rapporto di negoziazione con i partecipanti alla procedura.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="art75">
+								<num>Art. 75</num>
+								<rubrica>(Utilizzazione delle procedure negoziate non concorrenziali)</rubrica>
+								<comma id="art75-com1">
+									<num>1.</num>
+									<corpo>Si provvede mediante procedure negoziate non concorrenziali allorché la prestazione idonea a soddisfare le esigenze dell'Ente può essere resa soltanto da una impresa determinata.</corpo>
+								</comma>
+								<comma id="art75-com2">
+									<num>2.</num>
+									<corpo>In particolare, l'impossibilità di ottenere altrimenti un'idonea prestazione deve risultare in considerazione del suo oggetto, o delle modalità, anche di tempo e di luogo, di esecuzione, ovvero del coerente inserimento della prestazione da acquisire nella precedente attività contrattuale dell'Ente o in rapporti contrattuali in corso.</corpo>
+								</comma>
+								<comma id="art75-com3">
+									<num>3.</num>
+									<corpo>
+										Per i contratti attivi si provvede mediante procedure negoziate non concorrenziali secondo i criteri di cui ai precedenti
+										<mrif>
+											commi
+											<rif xlink:href="#art75-com1" xlink:type="simple">1</rif>
+											e
+											<rif xlink:href="#art75-com2" xlink:type="simple">2</rif>
+										</mrif>
+										, ovvero qualora l'interesse dell'Ente a cedere la prestazione oggetto del contratto dipenda dalle specifiche caratteristiche soggettive riscontrabili esclusivamente nell'acquirente.
+									</corpo>
+								</comma>
+								<comma id="art75-com4">
+									<num>4.</num>
+									<corpo>Si provvede, altresì, mediante procedure negoziate non concorrenziali, per l'acquisto di beni immobili, qualora l'esigenza dell'amministrazione non possa essere soddisfatta che dallo specifico bene oggetto della procedura.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art76">
+								<num>Art. 76</num>
+								<rubrica>(Utilizzazione delle procedure ristrette con bando)</rubrica>
+								<comma id="art76-com1">
+									<num>1.</num>
+									<corpo>Si provvede mediante procedure ristrette con bando allorché sia possibile stabilire con precisione le specifiche del contratto, mediante capitolato speciale, senza bisogno di alcuna negoziazione con i partecipanti alla procedura.</corpo>
+								</comma>
+								<comma id="art76-com2">
+									<num>2.</num>
+									<corpo>Le procedure ristrette con bando si svolgono previa scelta dei soggetti da invitare alla procedura.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art77">
+								<num>Art. 77</num>
+								<rubrica>(Utilizzazione delle procedure aperte)</rubrica>
+								<comma id="art77-com1">
+									<num>1.</num>
+									<alinea>
+										Nei casi previsti dall'
+										<rif xlink:href="#art76" xlink:type="simple">articolo 76</rif>
+										, si provvede mediante procedure aperte allorché, in considerazione del tipo di contratto, l'eventuale elevato numero di partecipanti non sia suscettibile di compromettere l'interesse dell'Ente e sempre che ricorrano i seguenti presupposti:
+									</alinea>
+									<el id="art77-com1-leta">
+										<num>a)</num>
+										<corpo>l'amministrazione non ritenga necessario selezionare coloro che intendono partecipare alla procedura, considerando assolutamente indifferente che tali soggetti posseggano requisiti ulteriori rispetto a quelli richiesti per poter partecipare alla procedura o dispongano in misura diversa di tali requisiti;</corpo>
+									</el>
+									<el id="art77-com1-letb">
+										<num>b)</num>
+										<corpo>le attività necessarie alla formazione dell'offerta ed i requisiti soggettivi richiesti siano tali da far presumere che la mancanza di un preventivo invito dell'amministrazione non abbia l'effetto di dissuadere i soggetti eventualmente interessati dal partecipare alla procedura.</corpo>
+									</el>
+								</comma>
+								<comma id="art77-com2">
+									<num>2.</num>
+									<corpo>Le procedure aperte si svolgono previa pubblicazione del bando di gara.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art78">
+								<num>Art. 78</num>
+								<rubrica>(Utilizzazione delle procedure concorrenziali, ristrette o negoziate, senza bando)</rubrica>
+								<comma id="art78-com1">
+									<num>1.</num>
+									<alinea>
+										Le procedure previste rispettivamente dagli
+										<mrif>
+											articoli
+											<rif xlink:href="#art74" xlink:type="simple">74</rif>
+											e
+											<rif xlink:href="#art76" xlink:type="simple">76</rif>
+										</mrif>
+										si svolgono senza previa pubblicazione di un bando ovvero mediante pubblicazione sintetica e rinvio al sito internet dell'Ente, nei seguenti casi:
+									</alinea>
+									<el id="art78-com1-leta">
+										<num>a)</num>
+										<corpo>allorché l'amministrazione si trovi nella necessità di acquisire o cedere con urgenza la prestazione oggetto del contratto; in tali casi l'urgenza va valutata in relazione ai presumibili tempi che sarebbero altrimenti necessari per l'espletamento delle procedure precedute da bando;</corpo>
+									</el>
+									<el id="art78-com1-letb">
+										<num>b)</num>
+										<corpo>
+											allorché il valore del contratto sia talmente basso da non giustificare le spese di pubblicazione dell'avviso di bando di cui all'
+											<rif xlink:href="#art81-com4" xlink:type="simple">articolo 81, comma 4</rif>
+											;
+										</corpo>
+									</el>
+									<el id="art78-com1-letc">
+										<num>c)</num>
+										<corpo>in ogni altro caso in cui ricorrono speciali ed eccezionali circostanze, debitamente descritte e motivate, per le quali non possano essere utilmente seguite le procedure aperte, ristrette o negoziate con bando.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="art79">
+								<num>Art. 79</num>
+								<rubrica>(Competenze per l'ammissione alla procedura e per la scelta del contraente)</rubrica>
+								<comma id="art79-com1">
+									<num>1.</num>
+									<corpo>Nella procedura mediante concorso di progettazione, agli inviti, all'esame dei progetti e delle offerte ed alla scelta del contraente provvede un'apposita commissione nominata dal soggetto che ha adottato la decisione di contrattare. La commissione può essere composta da esperti esterni all'Ente ed è comunque presieduta da un dirigente del CNR.</corpo>
+								</comma>
+								<comma id="art79-com2">
+									<num>2.</num>
+									<corpo>Nelle altre procedure l'organo che ha adottato la decisione di contrattare individua, in applicazione di delibera del Consiglio di amministrazione dove sono fissati criteri legati a categorie e importi per la spesa prevista, il funzionario o la commissione preposti alla determinazione dei soggetti partecipanti ed alla scelta dell'offerta più favorevole.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art80">
+								<num>Art. 80</num>
+								<rubrica>(Criteri di scelta del contraente. Offerte anomale)</rubrica>
+								<comma id="art80-com1">
+									<num>1.</num>
+									<alinea>Alla scelta del contraente si procede mediante uno dei seguenti criteri, a seconda del contenuto del contratto e del tipo di procedura seguita:</alinea>
+									<el id="art80-com1-leta">
+										<num>a)</num>
+										<corpo>il prezzo più favorevole, secondo i sistemi indicati dalla decisione di contrattare, qualora le prestazioni debbano essere conformi al contenuto puntualmente predeterminato da dettagliato capitolato speciale;</corpo>
+									</el>
+									<el id="art80-com1-letb">
+										<num>b)</num>
+										<corpo>l'offerta economicamente più vantaggiosa da valutare in base a parametri numerici predeterminati con la decisione di contrattare e variabili a seconda della natura della prestazione, quali il prezzo, il termine di esecuzione o di consegna, il costo di utilizzazione e di manutenzione, il rendimento, la qualità, il carattere estetico e funzionale, il valore tecnico, i servizi successivi alla prestazione e l'assistenza tecnica;</corpo>
+									</el>
+									<el id="art80-com1-letc">
+										<num>c)</num>
+										<corpo>l'offerta economicamente più vantaggiosa da valutare in base a parametri variabili a seconda della natura della prestazione, ai sensi della precedente lettera, e progressivamente definiti nel corso di svolgimento della procedura seguita.</corpo>
+									</el>
+								</comma>
+								<comma id="art80-com2">
+									<num>2.</num>
+									<corpo>Qualora talune offerte presentino carattere anomalo per il loro contenuto particolarmente favorevole all'Ente, il soggetto offerente, su richiesta scritta dell'amministrazione e nei termini assegnati, è tenuto a fornire spiegazioni in merito agli elementi costitutivi dell'offerta. L'amministrazione, valutate le spiegazioni rese nei termini, decide, motivatamente, di ammettere o meno l'offerta.</corpo>
+								</comma>
+								<comma id="art80-com3">
+									<num>3.</num>
+									<corpo>
+										Nel caso di utilizzazione dei criteri di cui alle lettere a) e b) del
+										<rif xlink:href="#art80-com1" xlink:type="simple">precedente comma 1</rif>
+										, sono considerate offerte anomale quelle che risultino più favorevoli all'amministrazione in misura superiore per oltre il cinquanta percento alla media delle offerte pervenute. A tal fine la media delle offerte viene calcolata escludendo l'offerta più vantaggiosa e quella più svantaggiosa ovvero, nel caso siano pervenute più di sei offerte, escludendo dal calcolo le due più favorevoli e le due meno favorevoli.
+									</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art81">
+								<num>Art. 81</num>
+								<rubrica>(Norme comuni alle procedure con bando)</rubrica>
+								<comma id="art81-com1">
+									<num>1.</num>
+									<corpo>L'Ente rende noto l'avvio della procedura di scelta del contraente mediante adeguata e tempestiva pubblicità di apposito bando.</corpo>
+								</comma>
+								<comma id="art81-com2">
+									<num>2.</num>
+									<corpo>Il bando è l'atto fondamentale che, in conformità ed in attuazione della decisione di contrattare, pone le regole di svolgimento della procedura. Il bando specifica gli elementi utili ad individuare il contenuto del contratto, stabilisce requisiti, modalità e tempi per la partecipazione alla procedura ed indica il funzionario responsabile del procedimento contrattuale.</corpo>
+								</comma>
+								<comma id="art81-com3">
+									<num>3.</num>
+									<corpo>Il soggetto che ha adottato la decisione di contrattare provvede alla adozione del bando ed ai successivi adempimenti.</corpo>
+								</comma>
+								<comma id="art81-com4">
+									<num>4.</num>
+									<alinea>Alla pubblicità dei bandi si provvede mediante inserimento nel "sito internet" dell'Ente e contestuale pubblicazione del relativo avviso. In particolare, l'avviso deve essere pubblicato:</alinea>
+									<el id="art81-com4-leta">
+										<num>a)</num>
+										<corpo>per i contratti di importo superiore a euro 260.000,00, su almeno un quotidiano a diffusione nazionale e su un quotidiano diffuso nella regione in cui il contratto va eseguito;</corpo>
+									</el>
+									<el id="art81-com4-letb">
+										<num>b)</num>
+										<corpo>per i contratti di importo compreso fra euro 130.000,00 e 260.000,00, su almeno un quotidiano a diffusione nazionale;</corpo>
+									</el>
+									<el id="art81-com4-letc">
+										<num>c)</num>
+										<corpo>per i contratti di importo inferiore a euro 130.000,00, su almeno un quotidiano a diffusione locale o su un periodico locale specializzato in inserzioni ovvero a mezzo pubblicazione sul sito internet dell'Ente.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="art82">
+								<num>Art. 82</num>
+								<rubrica>(Ammissione alle procedure e individuazione dei soggetti da invitare o da interpellare)</rubrica>
+								<comma id="art82-com1">
+									<num>1.</num>
+									<corpo>Sono esclusi per un periodo di 10 anni da tutte le procedure contrattuali coloro che nell'esecuzione di contratti stipulati con l'Ente o con altre pubbliche amministrazioni risultino essersi comportati con malafede o negligenza. Sono altresì esclusi quei soggetti che si trovino in una delle situazioni per le quali, in base alla normativa statale, è prevista l'esclusione dalla partecipazione a procedure contrattuali con pubbliche amministrazioni. L'Ente provvede a rendere noto, con cadenza annuale, l'elenco dei soggetti esclusi.</corpo>
+								</comma>
+								<comma id="art82-com2">
+									<num>2.</num>
+									<corpo>I requisiti che i soggetti interessati devono possedere per partecipare alla procedura sono stabiliti dalla decisione di contrattare e sono indicati dall'eventuale bando.</corpo>
+								</comma>
+								<comma id="art82-com3">
+									<num>3.</num>
+									<corpo>Nei concorsi di progettazione i soggetti da invitare sono individuati, tra quelli che ne hanno fatto richiesta, tenendo conto della loro capacità tecnica, risultante dall'elenco dei principali contratti stipulati negli ultimi tre anni, e della loro capacità economico-finanziaria. Tali requisiti devono essere dimostrati mediante idonea documentazione, indicata nel bando, da presentare al momento della richiesta di invito.</corpo>
+								</comma>
+								<comma id="art82-com4">
+									<num>4.</num>
+									<corpo>
+										Nelle procedure, ristrette e negoziate, con bando, i soggetti da invitare o da interpellare sono individuati, tra quelli che ne hanno fatto richiesta, verificando che essi abbiano i requisiti per partecipare alla procedura e, qualora ciò sia previsto dal bando, tenendo conto della loro capacità tecnica ed economico-finanziaria ai sensi del
+										<rif xlink:href="#art82-com3" xlink:type="simple">comma 3</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art82-com5">
+									<num>5.</num>
+									<corpo>
+										Con la decisione di contrattare può essere stabilito un numero massimo, da indicare nel bando, di partecipanti alle procedure di cui ai
+										<mrif>
+											commi
+											<rif xlink:href="#art82-com3" xlink:type="simple">3</rif>
+											<rif xlink:href="#art82-com4" xlink:type="simple">4</rif>
+											e
+										</mrif>
+										. In tal caso, sono invitati a partecipare i soggetti che forniscano la maggior affidabilità da valutare in relazione agli elementi di cui al
+										<rif xlink:href="#art82-com3" xlink:type="simple">comma 3</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art82-com6">
+									<num>6.</num>
+									<corpo>Nelle procedure concorrenziali, ristrette o negoziate, senza bando, il soggetto competente allo specifico contratto individua i soggetti da invitare o da interpellare in numero non inferiore a cinque, qualora esistenti. La scelta di tali soggetti è effettuata, ove possibile, a rotazione e in modo che siano comunque invitati o interpellati soggetti appartenenti a ciascuna delle seguenti categorie: soggetti con cui il soggetto competente allo specifico contratto abbia già avuto positivi rapporti contrattuali; soggetti già invitati o interpellati in precedenti occasioni; soggetti mai invitati o interpellati.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art83">
+								<num>Art. 83</num>
+								<rubrica>(Svolgimento dei concorsi di progettazione)</rubrica>
+								<comma id="art83-com1">
+									<num>1.</num>
+									<corpo>Quando l'Ente procede mediante concorso di progettazione, i concorrenti invitati a partecipare alla procedura presentano le loro offerte in relazione al progetto ed al capitolato di massima approvato con la decisione di contrattare, ovvero in relazione alle caratteristiche essenziali della prestazione indicate dalla medesima decisione.</corpo>
+								</comma>
+								<comma id="art83-com2">
+									<num>2.</num>
+									<corpo>
+										Alla scelta del contraente si provvede mediante il criterio di cui alla
+										<rif xlink:href="#art80-com1-letb" xlink:type="simple">lettera b) del comma 1 dell'articolo 80</rif>
+										. Nel caso che nessuno dei progetti presentati corrisponda alle esigenze per le quali la procedura è stata bandita, l'Ente può avviare una nuova, identica o diversa, procedura.
+									</corpo>
+								</comma>
+								<comma id="art83-com3">
+									<num>3.</num>
+									<corpo>La decisione di contrattare, in relazione all'interesse dell'Ente ed ai presumibili costi di progettazione, può prevedere la concessione di compensi o rimborsi spese per i progetti che siano riconosciuti di particolare interesse, anche se non prescelti.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art84">
+								<num>Art. 84</num>
+								<rubrica>(Svolgimento delle procedure negoziate)</rubrica>
+								<comma id="art84-com1">
+									<num>1.</num>
+									<corpo>Nelle procedure concorrenziali l'Ente svolge, anche in maniera separata e reiterata, una negoziazione con i soggetti partecipanti, per la determinazione del contenuto del contratto. Qualora durante la procedura alcuni dei partecipanti offrano prestazioni ritenute più rispondenti alle necessità dell'Ente ed aventi caratteristiche parzialmente diverse dalle altre offerte, anche gli altri partecipanti devono essere invitati a fare una nuova offerta sull'oggetto del contratto come ridefinito. Lo svolgimento di ciascuna fase della negoziazione è dettagliatamente illustrato in apposita relazione, che viene predisposta nel corso di svolgimento della procedura e che deve descrivere lo stato delle negoziazioni con ciascun soggetto interpellato.</corpo>
+								</comma>
+								<comma id="art84-com2">
+									<num>2.</num>
+									<corpo>
+										Nelle procedure concorrenziali, alla scelta del contraente si procede mediante il criterio di cui alla
+										<rif xlink:href="#art80-com1-letc" xlink:type="simple">lettera c) dell'articolo 80</rif>
+										.
+									</corpo>
+								</comma>
+								<comma id="art84-com3">
+									<num>3.</num>
+									<corpo>Nelle procedure non concorrenziali, l'Ente svolge apposita trattativa con il soggetto interpellato ai fini della determinazione del contenuto del contratto.</corpo>
+								</comma>
+								<comma id="art84-com4">
+									<num>4.</num>
+									<corpo>
+										Le negoziazioni e trattative di cui ai
+										<mrif>
+											commi
+											<rif xlink:href="#art84-com1" xlink:type="simple">1</rif>
+											,
+											<rif xlink:href="#art84-com2" xlink:type="simple">2</rif>
+											e
+											<rif xlink:href="#art84-com3" xlink:type="simple">3</rif>
+										</mrif>
+										possono anche svolgersi senza alcuna formalità, ma le offerte definitive devono risultare da atto scritto.
+									</corpo>
+								</comma>
+							</articolo>
+							<articolo id="art85">
+								<num>Art. 85</num>
+								<rubrica>(Svolgimento delle procedure aperte e delle procedure ristrette)</rubrica>
+								<comma id="art85-com1">
+									<num>1.</num>
+									<corpo>
+										Quando l'Ente provvede mediante procedure aperte e procedure ristrette, i concorrenti devono presentare le loro offerte in relazione al capitolato speciale dettagliatamente definito dalla decisione di contrattare. La scelta del contraente avviene in base ai criteri di cui alle lettere a) o b) del
+										<rif xlink:href="#art80-com1" xlink:type="simple">comma 1 dell'articolo 80</rif>
+										, secondo quanto stabilito dalla decisione di contrattare.
+									</corpo>
+								</comma>
+								<comma id="art85-com2">
+									<num>2.</num>
+									<corpo>Nelle procedure aperte ed in quelle ristrette con bando, la gara si svolge nel giorno e nell'ora stabiliti dal bando o dalla lettera di invito ed è dichiarata deserta nel caso in cui non siano state presentate almeno due offerte. Le procedure ristrette senza bando possono essere svolte senza alcuna formalità, acquisendo le offerte secondo gli usi del commercio, ma, comunque, sempre per iscritto.</corpo>
+								</comma>
+								<comma id="art85-com3">
+									<num>3.</num>
+									<corpo>
+										Nel caso delle procedure aperte, l'Ente, prima di esaminare le offerte presentate dai concorrenti, deve verificare che essi abbiano i requisiti richiesti per partecipare alla procedura. Nel caso di procedure ristrette, le offerte sono presentate dai soggetti invitati a partecipare ai sensi dell'
+										<rif xlink:href="#art82" xlink:type="simple">articolo 82</rif>
+										.
+									</corpo>
+								</comma>
+							</articolo>
+						</capo>
+					</titolo>
+					<titolo id="prt2-tit2">
+						<num>Titolo II</num>
+						<rubrica>Disposizioni speciali</rubrica>
+						<articolo id="art86">
+							<num>Art. 86</num>
+							<rubrica>(Contratti di permuta)</rubrica>
+							<comma id="art86-com1">
+								<num>1.</num>
+								<corpo>Alla conclusione dei contratti di permuta si provvede mediante il procedimento altrimenti necessario per l'acquisto dei beni che si intende ottenere in permuta. Il valore dell'oggetto del contratto è determinato con esclusivo riferimento al bene da acquisire.</corpo>
+							</comma>
+							<comma id="art86-com2">
+								<num>2.</num>
+								<corpo>E' comunque possibile ricorrere alle procedure negoziate non concorrenziali qualora la permuta del bene sia attuativa di precedente contratto che preveda a carico del contraente l'onere di provvedere all'ammodernamento dei beni da esso forniti.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art87">
+							<num>Art. 87</num>
+							<rubrica>(Contratti di commercializzazione al pubblico)</rubrica>
+							<comma id="art87-com1">
+								<num>1.</num>
+								<corpo>
+									I beni mobili prodotti dall'Ente possono essere commercializzati al pubblico in conformità all'
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1336" xlink:type="simple">articolo 1336 del codice civile</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art87-com2">
+								<num>2.</num>
+								<corpo>In tal caso, la decisione di contrattare si limita a prevedere, e motivare, questa forma di vendita ed a precisare il tipo di beni per i quali vi si ricorre. Il contraente viene scelto seguendo l'ordine temporale delle richieste.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art88">
+							<num>Art. 88</num>
+							<rubrica>(Contratti di leasing finanziario)</rubrica>
+							<comma id="art88-com1">
+								<num>1.</num>
+								<corpo>Per acquisire la disponibilità di beni mobili od immobili, l'Ente può concludere contratti di leasing con intermediari finanziari. Le ragioni di opportunità e convenienza, che giustificano l'utilizzazione di questo tipo di contratto, devono essere motivate con la decisione di contrattare.</corpo>
+							</comma>
+							<comma id="art88-com2">
+								<num>2.</num>
+								<corpo>
+									La scelta del costruttore o fornitore dei beni può essere effettuata direttamente dall'Ente, in conformità alle disposizioni della
+									<rif xlink:href="#prt2-tit1-cap4" xlink:type="simple">Parte Seconda, Titolo I, Capo IV</rif>
+									, oppure può essere lasciata all'intermediario, nel qual caso deve essere indicata dalla sua offerta e costituisce oggetto di valutazione in sede di confronto concorrenziale delle offerte.
+								</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art89">
+							<num>Art. 89</num>
+							<rubrica>(Prestazioni di lavoro autonomo)</rubrica>
+							<comma id="art89-com1">
+								<num>1.</num>
+								<corpo>
+									In conformità al
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#lib5-tit3" xlink:type="simple">titolo III del libro V del codice civile</rif>
+									, il CNR può concludere contratti d'opera o affidare incarichi professionali per lo svolgimento di compiti temporanei, e determinati nell'oggetto.
+								</corpo>
+							</comma>
+							<comma id="art89-com2">
+								<num>2.</num>
+								<corpo>
+									Tali contratti possono essere utilizzati per lo svolgimento di attività di ricerca, per acquisire prestazioni di consulenza, di progettazione o di supporto alla ricerca ed ai servizi amministrativi o tecnici dell'Ente, nonché per la formazione delle commissioni di cui all'
+									<rif xlink:href="#art79" xlink:type="simple">articolo 79</rif>
+									o per lo svolgimento dei controlli previsti dall'
+									<rif xlink:href="#art61-com2" xlink:type="simple">articolo 61, comma 2</rif>
+									.
+								</corpo>
+							</comma>
+							<comma id="art89-com3">
+								<num>3.</num>
+								<corpo>Alla scelta del contraente si provvede mediante procedure, ristrette o negoziate, senza bando. Qualora si tratti di prestazioni ad alto contenuto di professionalità, che richiedano un rapporto "intuitu personae" e che non abbiano ad oggetto lo svolgimento di attività di ricerca scientifica, la scelta del contraente può avvenire mediante procedura negoziata non concorrenziale.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art90">
+							<num>Art. 90</num>
+							<rubrica>(Donazioni, eredità, legati)</rubrica>
+							<comma id="art90-com1">
+								<num>1.</num>
+								<corpo>L'accettazione di donazioni, eredità e legati, è effettuata dal direttore generale previa delibera del Consiglio di amministrazione. I centri di responsabilità provvedono a raccogliere elementi ai fini delle valutazioni di merito. Nel caso la liberalità abbia ad oggetto attrezzature, la convenienza va valutata anche in considerazione dell'esistenza di un mercato concorrenziale per l'acquisto dei materiali di consumo necessari al loro funzionamento, nonché in considerazione dei costi di dislocazione e gestione delle attrezzature.</corpo>
+							</comma>
+						</articolo>
+						<articolo id="art91">
+							<num>Art. 91</num>
+							<rubrica>(Ufficiale rogante)</rubrica>
+							<comma id="art91-com1">
+								<num>1.</num>
+								<corpo>
+									Il direttore generale ai fini e per gli effetti dell'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2003-02-27;97#art61" xlink:type="simple">articolo 61 del DPR 27 febbraio 2003, n.97</rif>
+									, designa un funzionario quale ufficiale rogante del CNR.
+								</corpo>
+							</comma>
+						</articolo>
+					</titolo>
+				</parte>
+				<parte id="prt3">
+					<num>PARTE III</num>
+					<rubrica>DISPOSIZIONI FINALI E TRANSITORIE</rubrica>
+					<articolo id="art92">
+						<num>Art. 92</num>
+						<rubrica>(Limiti di valore)</rubrica>
+						<comma id="art92-com1">
+							<num>1.</num>
+							<corpo>Tutti gli importi indicati nel presente regolamento si intendono al netto delle eventuali imposte.</corpo>
+						</comma>
+						<comma id="art92-com2">
+							<num>2.</num>
+							<corpo>Tali importi possono essere adeguati con deliberazione del Consiglio di amministrazione e, con provvedimento del Presidente, possono essere aggiornati sulla base dell'indice ISTAT dei prezzi al consumo.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art93">
+						<num>Art. 93</num>
+						<rubrica>(Regime transitorio delle competenze)</rubrica>
+						<comma id="art93-com1">
+							<num>1.</num>
+							<corpo>Apposite deliberazioni del Consiglio di amministrazione disciplinano la progressiva attuazione delle disposizioni del presente regolamento in relazione al riassetto organizzativo dell'amministrazione centrale e della rete scientifica ed alla predisposizione delle necessarie iniziative di formazione e di adeguamento della rete informatica.</corpo>
+						</comma>
+						<comma id="art93-com2">
+							<num>2.</num>
+							<corpo>
+								Fino alla adozione dei regolamenti di cui al
+								<rif xlink:href="#art59-com6" xlink:type="simple">comma 6 dell'articolo 59</rif>
+								si applicano le disposizioni di cui al
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:1997-02-07" xlink:type="simple">Decreto del Presidente del CNR 7 febbraio 1997</rif>
+								che disciplina i lavori, le forniture ed i servizi che possono essere eseguiti in economia e
+								<rif xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1987-06-04" xlink:type="simple">D.P.C.M. del 4 giugno 1987</rif>
+								per le spese di rappresentanza.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art94">
+						<num>Art. 94</num>
+						<rubrica>(Abrogazioni)</rubrica>
+						<comma id="art94-com1">
+							<num>1.</num>
+							<corpo>
+								<mod id="mod1">
+									Fatto salvo quanto previsto dalla presente parte sono abrogate le disposizioni incompatibili con il presente regolamento ed in particolare il
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple">Decreto del Presidente del CNR n.15448 del 14 gennaio 2000</rif>
+									recante "
+									<virgolette id="mod1-vir1" tipo="parola">Approvazione del regolamento per l'amministrazione e la contabilità del Consiglio nazionale delle ricerche</virgolette>
+									" e successive modificazioni.
+								</mod>
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art95">
+						<num>Art. 95</num>
+						<rubrica>(Rapporti contrattuali in essere)</rubrica>
+						<comma id="art95-com1">
+							<num>1.</num>
+							<corpo>I rapporti contrattuali già costituiti restano regolati dalle norme vigenti all'atto della stipula dei contratti.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art96">
+						<num>Art. 96</num>
+						<rubrica>(Norme finali e transitorie)</rubrica>
+						<comma id="art96-com1">
+							<num>1.</num>
+							<corpo>Il Consiglio di amministrazione stabilisce le regole transitorie per l'anno 2005, introducendo modalità che consentano la graduale applicazione delle disposizioni del presente Regolamento.</corpo>
+						</comma>
+						<comma id="art96-com2">
+							<num>2.</num>
+							<corpo>Il presente regolamento entra in vigore il primo giorno del mese successivo a quello della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.</corpo>
+						</comma>
+					</articolo>
+				</parte>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</DocumentoNIR>
+	</NIR>

@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DecretoLegislativo>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20030606" num="129" tipo="GU" />
+					<entratainvigore norm="20030607" />
+					<redazione id="red1" nome="" norm="" />
+					<urn finevigore="t2" iniziovigore="t1" valore="urn:nir:stato:decreto.legislativo:2003-06-04;127" />
+					<urn iniziovigore="t2" valore="urn:nir:stato:decreto.legislativo:2003-06-04;127@2009-12-31" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20030607" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20100216" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<redazionale xlink:type="simple">
+					<nota id="n1">
+						<h:p>
+							Il Comitato di valutazione è stato soppresso ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legge:2006;262#art2-com141" xlink:type="simple">art. 2, comma 141, del D.L. 262/2006</rif>
+							come modificato dalla relativa legge di conversione. Si veda altresì l'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2008-02-21;64#art14-com1" xlink:type="simple">art. 14, comma 1, del DPR 21 febbraio 2008, n. 64</rif>
+							.
+						</h:p>
+					</nota>
+				</redazionale>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art20-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213#art18-com1-letb" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 18, comma 1, lettera b) del decreto legislativo 31 dicembre 2009, n. 213" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art20-com2-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>Decreto legislativo</tipoDoc>
+				<dataDoc norm="20030604">4 giugno 2003</dataDoc>
+				n.
+				<numDoc>127</numDoc>
+				<titoloDoc>Riordino del Consiglio nazionale delle ricerche (C.N.R.)</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<preambolo>
+					<h:p>
+						Visti gli
+						<mrif>
+							articoli
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art76" xlink:type="simple">76</rif>
+							e
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art87" xlink:type="simple">87</rif>
+							della Costituzione
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;300" xlink:type="simple">decreto legislativo 30 luglio 1999, n. 300</rif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge.costituzionale:2001-10-18;3" xlink:type="simple">legge costituzionale 18 ottobre 2001, n. 3</rif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59" xlink:type="simple">legge 15 marzo 1997, n. 59</rif>
+						, e successive modificazioni;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:2002-07-06;137" xlink:type="simple">legge 6 luglio 2002, n. 137</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">decreto legislativo 30 marzo 2001, n. 165</rif>
+						;
+					</h:p>
+					<h:p>Viste le linee guida per la politica scientifica e tecnologica del Governo, emanate il 13 marzo 2002;</h:p>
+					<h:p>Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 gennaio 2003;</h:p>
+					<h:p>
+						Acquisito il parere della Commissione parlamentare di cui all'
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art5" xlink:type="simple">articolo 5 della legge 15 marzo 1997, n. 59</rif>
+						;
+					</h:p>
+					<h:p>Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 maggio 2003;</h:p>
+					<h:p>Sulla proposta del Ministro dell'istruzione, dell'università e della ricerca, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze;</h:p>
+				</preambolo>
+				<h:p>Emana</h:p>
+				<h:p>il seguente decreto legislativo:</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Oggetto.</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>Il presente decreto legislativo detta la disciplina organica di riordino del Consiglio nazionale delle ricerche (C.N.R.). e ne definisce le finalità, le attività, gli organi, i principi ed i criteri di organizzazione e funzionamento, al fine di promuovere e di collegare realtà operative di eccellenza, di evitare duplicazioni per i medesimi obiettivi, di assicurare il massimo livello di flessibilità, di autonomia e di efficienza, nonché una più agevole stipula di intese, accordi di programma e consorzi, determinando le condizioni organizzative per:</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>ottimizzare l'allocazione delle risorse e determinare economie di risultato e di scopo;</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>semplificare i meccanismi di programmazione e di gestione delle attività di ricerca ed amministrative;</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>promuovere le attività e le collaborazioni di ricerca internazionali;</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>promuovere la valorizzazione dell'attività di ricerca;</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>potenziare l'integrazione con le reti della ricerca universitaria ed imprenditoriale;</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>delineare un equilibrato rapporto tra funzioni di indirizzo programmatico e di valutazione e funzioni di pianificazione e di conduzione operativa delle attività di ricerca;</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>valutare i risultati della ricerca.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Finalità dell'ente</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Il C.N.R. é ente pubblico nazionale con il compito di svolgere, promuovere, diffondere, trasferire e valorizzare attività di ricerca nei principali settori di sviluppo delle conoscenze e delle loro applicazioni per lo sviluppo scientifico, tecnologico, economico e sociale del Paese, perseguendo l'integrazione di discipline e tecnologie diffusive ed innovative anche attraverso accordi di collaborazione e programmi integrati.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							Il C.N.R. ha personalità giuridica di diritto pubblico, gode di autonomia scientifica, finanziaria, organizzativa, patrimoniale e contabile e si dota di un ordinamento autonomo in conformità al presente decreto, alla
+							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168" xlink:type="simple">legge 9 maggio 1989, n. 168</rif>
+							, e successive modificazioni, al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+							, nonché, per quanto non previsto dalle predette disposizioni, al
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262" xlink:type="simple">codice civile</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>
+							Il Ministero dell'istruzione, dell'università e della ricerca esercita nei confronti del C.N.R. le competenze attribuitegli dalle disposizioni di cui al
+							<rif xlink:href="#art2-com2" xlink:type="simple">comma 2</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Attività del C.N.R.</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>Il C.N.R.:</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>svolge, promuove e coordina attività di ricerca con obiettivi di eccellenza in ambito nazionale e internazionale, finalizzate all'ampliamento delle conoscenze nei principali settori di sviluppo, individuati nel quadro della cooperazione ed integrazione europea e della collaborazione con le università e con altri soggetti sia pubblici sia privati;</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>
+								nell'ambito del piano triennale delle attività di cui all'
+								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
+								, definisce e realizza programmi autonomi e partecipa a programmi internazionali di ricerca, sostenendo altresì attività scientifiche e di ricerca di rilevante interesse per il sistema nazionale;
+							</corpo>
+						</el>
+						<el id="art3-com1-letc">
+							<num>c)</num>
+							<corpo>svolge attività di comunicazione e promozione della ricerca, curando la diffusione dei relativi risultati economici e sociali all'interno del Paese;</corpo>
+						</el>
+						<el id="art3-com1-letd">
+							<num>d)</num>
+							<corpo>svolge attività di certificazione, prova ed accreditamento per le pubbliche amministrazioni;</corpo>
+						</el>
+						<el id="art3-com1-lete">
+							<num>e)</num>
+							<corpo>svolge attività di sostegno ad idee progettuali per iniziative di ricerca in fase nascente;</corpo>
+						</el>
+						<el id="art3-com1-letf">
+							<num>f)</num>
+							<corpo>promuove e realizza iniziative che integrino la ricerca pubblica con quella privata, anche al fine di acquisire risorse ulteriori per il finanziamento di progetti congiunti;</corpo>
+						</el>
+						<el id="art3-com1-letg">
+							<num>g)</num>
+							<corpo>assicura la realizzazione e la gestione di grandi attrezzature scientifiche e tecnologiche;</corpo>
+						</el>
+						<el id="art3-com1-leth">
+							<num>h)</num>
+							<corpo>collabora con le regioni e le amministrazioni locali, al fine di promuovere attraverso iniziative di ricerca congiunte lo sviluppo delle specifiche realtà produttive del territorio;</corpo>
+						</el>
+						<el id="art3-com1-leti">
+							<num>i)</num>
+							<corpo>promuove la valorizzazione a fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca svolta o coordinata dalla propria rete scientifica;</corpo>
+						</el>
+						<el id="art3-com1-letl">
+							<num>l)</num>
+							<corpo>promuove l'internazionalizzazione del sistema italiano della ricerca scientifica e tecnologica al fine di accrescerne la competitività e la visibilità, partecipando ai grandi programmi di ricerca e agli organismi internazionali, fornendo su richiesta di autorità governative competenze scientifiche, garantendo la collaborazione con enti ed istituzioni di altri paesi nel campo scientifico-tecnologico e nella definizione della normativa tecnica;</corpo>
+						</el>
+						<el id="art3-com1-letm">
+							<num>m)</num>
+							<corpo>effettua la valutazione dei risultati dei programmi di ricerca, del funzionamento delle proprie strutture e dell'attività del personale, sulla base di criteri di valutazione definiti dal Ministero dell'istruzione, dell'università e della ricerca;</corpo>
+						</el>
+						<el id="art3-com1-letn">
+							<num>n)</num>
+							<corpo>promuove la formazione e la crescita tecnico-professionale dei ricercatori italiani, attraverso l'assegnazione di borse di studio e assegni di ricerca, nonché promuovendo e realizzando sulla base di apposite convenzioni con le università, corsi di dottorato di ricerca anche con il coinvolgimento del mondo imprenditoriale;</corpo>
+						</el>
+						<el id="art3-com1-leto">
+							<num>o)</num>
+							<corpo>svolge, su richiesta, attività di consulenza tecnico-scientifica sulle materie di propria competenza, a favore del Ministero dell'istruzione, dell'università e della ricerca, delle altre pubbliche amministrazioni, delle imprese o di altri soggetti privati;</corpo>
+						</el>
+						<el id="art3-com1-letp">
+							<num>p)</num>
+							<corpo>nell'ambito del perseguimento delle proprie attività istituzionali può fornire servizi a terzi in regime di diritto privato.</corpo>
+						</el>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<alinea>Le attività del C.N.R. si articolano in macro aree di ricerca scientifica e tecnologica a carattere interdisciplinare, individuate in numero comunque non superiore a dodici dal consiglio di amministrazione previo parere favorevole del Ministro dell'istruzione, dell'università e della ricerca, in relazione allo sviluppo degli scenari e delle opportunità della scienza e della tecnologia in ambito europeo e internazionale. In prima applicazione del presente decreto legislativo e fatta salva la possibilità di integrazione e modifica secondo le modalità sopra indicate, le macro aree sono così individuate:</alinea>
+						<el id="art3-com2-leta">
+							<num>a)</num>
+							<corpo>biotecnologie;</corpo>
+						</el>
+						<el id="art3-com2-letb">
+							<num>b)</num>
+							<corpo>scienze e tecnologie mediche;</corpo>
+						</el>
+						<el id="art3-com2-letc">
+							<num>c)</num>
+							<corpo>scienza e tecnologia dei materiali;</corpo>
+						</el>
+						<el id="art3-com2-letd">
+							<num>d)</num>
+							<corpo>scienze e tecnologie ambientali e della terra;</corpo>
+						</el>
+						<el id="art3-com2-lete">
+							<num>e)</num>
+							<corpo>scienze e tecnologie dell'informazione e delle comunicazioni;</corpo>
+						</el>
+						<el id="art3-com2-letf">
+							<num>f)</num>
+							<corpo>scienze e tecnologie per i sistemi avanzati di produzione;</corpo>
+						</el>
+						<el id="art3-com2-letg">
+							<num>g)</num>
+							<corpo>scienze giuridiche e socio-economiche;</corpo>
+						</el>
+						<el id="art3-com2-leth">
+							<num>h)</num>
+							<corpo>scienze umanistiche e dei beni culturali.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Organi</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>Sono organi del C.N.R.:</alinea>
+						<el id="art4-com1-leta">
+							<num>a)</num>
+							<corpo>il presidente;</corpo>
+						</el>
+						<el id="art4-com1-letb">
+							<num>b)</num>
+							<corpo>il consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art4-com1-letc">
+							<num>c)</num>
+							<corpo>il consiglio scientifico generale;</corpo>
+						</el>
+						<el id="art4-com1-letd">
+							<num>d)</num>
+							<corpo>il collegio dei revisori dei conti.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Principi di organizzazione</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Il C.N.R. definisce la propria organizzazione nel regolamento di organizzazione e funzionamento, sulla base del principio di separazione tra compiti e responsabilità di programmazione, compiti e responsabilità di gestione e compiti e responsabilità di valutazione, prevedendo il direttore generale e la rete scientifica costituita dai dipartimenti e dagli istituti, decentrando le attività gestionali agli istituti e conservando a livello centrale esclusivamente i servizi generali incardinati in strutture di livello dirigenziale generale entro il limite massimo di due.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Presidente</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<alinea>Il presidente ha la rappresentanza legale dell'ente ed é responsabile delle relazioni istituzionali. Il presidente:</alinea>
+						<el id="art6-com1-leta">
+							<num>a)</num>
+							<corpo>convoca e presiede il consiglio di amministrazione ed il consiglio scientifico generale, stabilendone l'ordine del giorno;</corpo>
+						</el>
+						<el id="art6-com1-letb">
+							<num>b)</num>
+							<corpo>convoca e presiede il consiglio dei direttori di dipartimento stabilendone l'ordine del giorno;</corpo>
+						</el>
+						<el id="art6-com1-letc">
+							<num>c)</num>
+							<corpo>vigila, sovrintende e controlla il corretto svolgimento delle attività dell'ente;</corpo>
+						</el>
+						<el id="art6-com1-letd">
+							<num>d)</num>
+							<corpo>
+								attribuisce gli incarichi di direzione al direttore generale, ai responsabili dei servizi generali, ai direttori dei dipartimenti ed ai direttori di istituto previamente deliberati dal consiglio di amministrazione, come previsto all'
+								<rif xlink:href="#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
+								, lettere g) ed h);
+							</corpo>
+						</el>
+						<el id="art6-com1-lete">
+							<num>e)</num>
+							<corpo>in caso di urgenza, adotta provvedimenti di competenza del consiglio di amministrazione, da sottoporre a ratifica nella prima riunione successiva del consiglio stesso.</corpo>
+						</el>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>
+							Il presidente é scelto tra persone di alta qualificazione scientifica e manageriale, con una profonda conoscenza del sistema della ricerca in Italia e all'estero e con pluriennale esperienza nella gestione di enti o organismi pubblici o privati, operanti nel settore della ricerca. É nominato con le procedure di cui all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							, dura in carica quattro anni e può essere confermato una sola volta.
+						</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>In caso di assenza o impedimento il presidente é sostituito dal vice presidente nominato dal consiglio di amministrazione tra i suoi componenti. Il vice presidente può operare anche in virtù di specifiche deleghe secondo quanto previsto dal regolamento di organizzazione e funzionamento dell'ente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Consiglio di amministrazione</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<alinea>Il consiglio di amministrazione ha compiti di indirizzo e programmazione generale dell'attività dell'ente. Il consiglio di amministrazione, su proposta del presidente:</alinea>
+						<el id="art7-com1-leta">
+							<num>a)</num>
+							<corpo>delibera il piano triennale dell'ente e i relativi aggiornamenti, sentito il consiglio scientifico;</corpo>
+						</el>
+						<el id="art7-com1-letb">
+							<num>b)</num>
+							<corpo>delibera la programmazione triennale e annuale del fabbisogno di personale;</corpo>
+						</el>
+						<el id="art7-com1-letc">
+							<num>c)</num>
+							<corpo>approva il bilancio preventivo e il bilancio consuntivo e le relative relazioni;</corpo>
+						</el>
+						<el id="art7-com1-letd">
+							<num>d)</num>
+							<corpo>delibera le linee guida per la elaborazione del piano triennale;</corpo>
+						</el>
+						<el id="art7-com1-lete">
+							<num>e)</num>
+							<corpo>delibera i regolamenti dell'ente;</corpo>
+						</el>
+						<el id="art7-com1-letf">
+							<num>f)</num>
+							<corpo>nomina il vice presidente tra i propri componenti;</corpo>
+						</el>
+						<el id="art7-com1-letg">
+							<num>g)</num>
+							<corpo>nomina il consiglio scientifico generale, i direttori di dipartimento, il comitato di valutazione, il direttore generale ed i responsabili dei servizi generali;</corpo>
+						</el>
+						<el id="art7-com1-leth">
+							<num>h)</num>
+							<corpo>delibera l'affidamento degli incarichi al direttore generale, ai responsabili dei servizi generali, ai dirigenti, ai direttori di dipartimento e d'istituto;</corpo>
+						</el>
+						<el id="art7-com1-leti">
+							<num>i)</num>
+							<corpo>verifica i risultati dell'attività dell'ente, avvalendosi anche delle relazioni del comitato di valutazione;</corpo>
+						</el>
+						<el id="art7-com1-letl">
+							<num>l)</num>
+							<corpo>
+								affida ai dipartimenti i compiti di cui all'
+								<rif xlink:href="#art12-com2-letd" xlink:type="simple">articolo 12, comma 2, lettera d)</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art7-com1-letm">
+							<num>m)</num>
+							<corpo>delibera in ordine alla costituzione degli istituti secondo le modalità definite dal regolamento di organizzazione e funzionamento;</corpo>
+						</el>
+						<el id="art7-com1-letn">
+							<num>n)</num>
+							<corpo>
+								ripartisce le risorse finanziarie, strumentali e di personale tra i dipartimenti, tenendo conto delle proposte da essi formulate, assicurando prioritariamente il cofinanziamento dei progetti finanziati dall'Unione europea, da università e da imprese, nonché riservando una quota non inferiore al 2 per cento ai dottorati di ricerca di cui all'
+								<rif xlink:href="#art3-com1-letn" xlink:type="simple">articolo 3, comma 1, lettera n)</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art7-com1-leto">
+							<num>o)</num>
+							<corpo>delibera sui grandi investimenti in infrastrutture e su commesse rilevanti secondo criteri individuati dal regolamento di organizzazione e funzionamento;</corpo>
+						</el>
+						<el id="art7-com1-letp">
+							<num>p)</num>
+							<corpo>delibera in ordine ad ogni altra materia attribuitagli dal presente decreto e dai regolamenti dell'ente.</corpo>
+						</el>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>Il consiglio di amministrazione é composto dal presidente e da sette componenti, scelti tra personalità di alta qualificazione tecnico-scientifica nel campo della ricerca, di comprovata esperienza gestionale di enti ed istituzioni pubbliche o private, di cui tre designati dal Ministro dell'istruzione, dell'università e della ricerca, uno dal presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, uno dall'Unione italiana delle camere di commercio, industria, agricoltura e artigianato, uno dalla Confindustria ed uno dalla Conferenza dei rettori delle università italiane.</corpo>
+					</comma>
+					<comma id="art7-com3">
+						<num>3.</num>
+						<corpo>I componenti del consiglio di amministrazione sono nominati con decreto del Ministro dell'istruzione, dell'università e della ricerca, durano in carica quattro anni, e possono essere confermati una sola volta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Consiglio scientifico generale</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<alinea>Il consiglio scientifico generale ha compiti consultivi relativi all'attività complessiva di ricerca dell'ente. Il consiglio scientifico generale:</alinea>
+						<el id="art8-com1-leta">
+							<num>a)</num>
+							<corpo>esprime al consiglio di amministrazione il parere tecnico-scientifico sulle proposte di piano triennale e sui relativi aggiornamenti;</corpo>
+						</el>
+						<el id="art8-com1-letb">
+							<num>b)</num>
+							<corpo>realizza, su richiesta del presidente, analisi, studi e confronti sullo stato della ricerca a livello nazionale e internazionale;</corpo>
+						</el>
+						<el id="art8-com1-letc">
+							<num>c)</num>
+							<corpo>individua, su richiesta del presidente, le possibili linee evolutive della ricerca.</corpo>
+						</el>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Il consiglio scientifico generale é composto, oltre che dal presidente del C.N.R., che lo presiede, da venti componenti, scienziati italiani e stranieri di fama internazionale, con particolare e qualificata professionalità ed esperienza nelle macro aree di ricerca, di cui sei designati dal presidente, cinque eletti dai ricercatori e tecnologi dell'ente secondo modalità definite dal regolamento di organizzazione e funzionamento, cinque nominati dal consiglio di amministrazione sulla base di terne proposte dai direttori di istituto, uno designato dalla Conferenza dei rettori delle università italiane, uno dal Consiglio universitario nazionale, uno da Unioncamere e uno da Confindustria. I componenti del consiglio scientifico generale sono nominati dal consiglio di amministrazione, durano in carica quattro anni e possono essere confermati una sola volta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Collegio dei revisori dei conti</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							Il collegio dei revisori dei conti é l'organo di controllo della regolarità amministrativa e contabile dell'ente e svolge i compiti previsti dall'
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2403" xlink:type="simple">articolo 2403 del codice civile</rif>
+							, per quanto applicabile.
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>
+							Il collegio dei revisori dei conti é composto da tre membri effettivi e tre membri supplenti, iscritti al registro dei revisori contabili di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-01-27;88" xlink:type="simple">decreto legislativo 27 gennaio 1992, n. 88</rif>
+							, nominati dal Ministro dell'istruzione, dell'università e della ricerca, con proprio decreto. Due membri effettivi e due membri supplenti sono designati dal Ministro dell'istruzione, dell'università e della ricerca, un membro effettivo e un membro supplente sono designati dal Ministro dell'economia e delle finanze. Il membro effettivo designato dal Ministro dell'economia e delle finanze svolge funzioni di presidente del collegio dei revisori dei conti dell'ente. I membri del collegio dei revisori dei conti durano in carica quattro anni e possono essere confermati una sola volta.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>
+						Art. 10
+						<ndr num="#n1" valore="1" xlink:type="simple">(a)</ndr>
+					</num>
+					<rubrica>Comitato di valutazione</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>
+							Il comitato di valutazione valuta periodicamente i risultati dell'attività di ricerca dell'ente, anche in relazione agli obiettivi definiti nel piano triennale, sulla base dei criteri di valutazione e dei parametri di qualità definiti, in deroga a quanto previsto dall'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5-com1-letb" xlink:type="simple">articolo 5, comma 1, lettera b), del decreto legislativo 5 giugno 1998, n. 204</rif>
+							, dal Ministro dell'istruzione, dell'università e della ricerca, previo parere del Comitato di indirizzo per la valutazione della ricerca (CIVR).
+						</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>Il comitato di valutazione é composto da otto membri esterni all'ente, scelti tra esperti anche stranieri, nominati dal consiglio di amministrazione, di cui tre, tra i quali il presidente, designati dal Ministro dell'istruzione, dell'università e della ricerca, due dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, uno dall'Unione italiana delle camere di commercio, due dalla Conferenza dei rettori delle università italiane. Il presidente e i componenti del comitato durano in carica quattro anni e possono essere confermati una sola volta.</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>Il comitato di valutazione svolge i propri compiti in piena autonomia. Il comitato presenta al presidente ed al consiglio di amministrazione una relazione di valutazione annuale dei risultati dell'attività di ricerca dell'ente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Direttore generale</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<alinea>Il direttore generale ha la responsabilità della gestione dell'ente, cura l'attuazione delle delibere del consiglio di amministrazione e l'attuazione dei provvedimenti del presidente; dirige, coordina e controlla la struttura centrale ed i servizi generali dell'ente; partecipa alle riunioni del consiglio di amministrazione senza diritto di voto. Il direttore generale:</alinea>
+						<el id="art11-com1-leta">
+							<num>a)</num>
+							<corpo>predispone il bilancio preventivo e il bilancio consuntivo dell'ente;</corpo>
+						</el>
+						<el id="art11-com1-letb">
+							<num>b)</num>
+							<corpo>elabora, sulla base delle indicazioni dei dipartimenti, la relazione annuale di verifica dei risultati gestionali ed economici dell'ente da sottoporre al presidente che la presenta al consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art11-com1-letc">
+							<num>c)</num>
+							<corpo>predispone gli schemi dei regolamenti da sottoporre al presidente che li presenta al consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art11-com1-letd">
+							<num>d)</num>
+							<corpo>propone, d'intesa con il presidente, al consiglio di amministrazione la nomina dei responsabili dei servizi generali;</corpo>
+						</el>
+						<el id="art11-com1-lete">
+							<num>e)</num>
+							<corpo>conferisce gli incarichi ai dirigenti previa deliberazione del consiglio di amministrazione.</corpo>
+						</el>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>Il direttore generale, il cui rapporto di lavoro é regolato con contratto di diritto privato, con durata coincidente con la scadenza del mandato del presidente, é scelto tra persone di alta qualificazione tecnico-professionale e di comprovata esperienza gestionale, con profonda conoscenza delle normative e degli assetti organizzativi degli enti pubblici. Il relativo incarico é attribuito dal presidente, previa delibera del consiglio di amministrazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Dipartimenti</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							I dipartimenti sono le unità organizzative, istituite in ragione di uno per ciascuna delle macro aree di ricerca scientifica e tecnologica di cui all'
+							<rif xlink:href="#art3-com2" xlink:type="simple">articolo 3, comma 2</rif>
+							, con compiti di programmazione, coordinamento e controllo. Ai dipartimenti afferiscono gli istituti, raggruppati secondo affinità disciplinari e tematiche, al fine di massimizzare le sinergie inter e intradipartimentali. I dipartimenti promuovono lo sviluppo di grandi progetti e programmi sulle materie di competenza, anche a livello europeo e internazionale, e l'integrazione con il territorio, con le università e le imprese.
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<alinea>I dipartimenti:</alinea>
+						<el id="art12-com2-leta">
+							<num>a)</num>
+							<corpo>propongono al consiglio di amministrazione il piano triennale e i relativi aggiornamenti di attività complessiva del dipartimento e degli istituti ad esso afferenti, elaborato sulla base di quelli degli stessi istituti, indicando le risorse necessarie per la sua attuazione, ivi inclusa l'acquisizione delle risorse umane;</corpo>
+						</el>
+						<el id="art12-com2-letb">
+							<num>b)</num>
+							<corpo>affidano agli istituti ad essi afferenti la realizzazione di programmi e progetti di ricerca assegnando loro le relative risorse, tenendo conto delle proposte formulate dagli stessi istituti;</corpo>
+						</el>
+						<el id="art12-com2-letc">
+							<num>c)</num>
+							<corpo>coordinano le attività degli istituti ad essi afferenti;</corpo>
+						</el>
+						<el id="art12-com2-letd">
+							<num>d)</num>
+							<corpo>coordinano, su specifico incarico del consiglio di amministrazione, programmi di ricerca comuni ad altri dipartimenti;</corpo>
+						</el>
+						<el id="art12-com2-lete">
+							<num>e)</num>
+							<corpo>istituiscono, previa autorizzazione del consiglio di amministrazione, unità di ricerca per singoli progetti a tempo definito presso le università o le imprese, sulla base di specifiche convenzioni;</corpo>
+						</el>
+						<el id="art12-com2-letf">
+							<num>f)</num>
+							<corpo>propongono al consiglio di amministrazione iniziative di sviluppo e di formazione dei ricercatori e tecnologi;</corpo>
+						</el>
+						<el id="art12-com2-letg">
+							<num>g)</num>
+							<corpo>coordinano le relazioni esterne, nazionali ed internazionali, relative alle proprie macro aree;</corpo>
+						</el>
+						<el id="art12-com2-leth">
+							<num>h)</num>
+							<corpo>svolgono, su indicazione del consiglio di amministrazione, attività di valorizzazione dei risultati della ricerca, e supportano i ricercatori e tecnologi nelle attività di tutela brevettuale e nel collocamento sul mercato dei brevetti;</corpo>
+						</el>
+						<el id="art12-com2-leti">
+							<num>i)</num>
+							<corpo>presentano al consiglio di amministrazione una relazione annuale sull'attività scientifica svolta.</corpo>
+						</el>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>Il direttore di dipartimento si avvale di una struttura amministrativa, nell'ambito della dotazione organica, definita dal regolamento di organizzazione e funzionamento dell'ente.</corpo>
+					</comma>
+					<comma id="art12-com4">
+						<num>4.</num>
+						<corpo>L'incarico di direzione di dipartimento é attribuito dal presidente, previa delibera del consiglio di amministrazione, a professori universitari di ruolo, ricercatori o tecnologi dell'ente o di altri enti di ricerca nazionali, stranieri e internazionali, o dirigenti pubblici o privati dotati di alta qualificazione ed esperienza scientifica, professionale e manageriale sulla base di apposite procedure selettive definite dal regolamento di organizzazione e funzionamento. Il direttore di dipartimento, il cui incarico é a tempo pieno, dura in carica 5 anni e può essere confermato una sola volta.</corpo>
+					</comma>
+					<comma id="art12-com5">
+						<num>5.</num>
+						<corpo>Presso ciascun dipartimento é costituito un consiglio scientifico di dipartimento, presieduto dal direttore del dipartimento, con compiti consultivi, di monitoraggio e verifica dell'attività di ricerca svolta in attuazione dei programmi, composto da nove membri, di cui almeno due esterni, scelti tra scienziati, italiani e stranieri, di fama internazionale e comprovata esperienza e professionalità nei settori di ricerca di riferimento, secondo modalità definite dal regolamento di organizzazione e funzionamento.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Consiglio dei direttori di dipartimento</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<alinea>Il consiglio dei direttori di dipartimento, costituito dal presidente dell'ente, dal direttore generale e dai direttori dei dipartimenti, ha il compito di facilitare la gestione e l'indirizzo unitario delle attività dell'ente, supportando il consiglio di amministrazione e il comitato di valutazione. Il consiglio dei direttori di dipartimento:</alinea>
+						<el id="art13-com1-leta">
+							<num>a)</num>
+							<corpo>esprime un parere obbligatorio al consiglio di amministrazione sulla proposta complessiva del piano triennale dell'ente e dei relativi aggiornamenti;</corpo>
+						</el>
+						<el id="art13-com1-letb">
+							<num>b)</num>
+							<corpo>supporta il comitato di valutazione nella verifica dell'attività dei dipartimenti e degli istituti, con particolare riferimento al raggiungimento degli obiettivi definiti nel piano triennale e nei relativi aggiornamenti;</corpo>
+						</el>
+						<el id="art13-com1-letc">
+							<num>c)</num>
+							<corpo>assicura le necessarie sinergie interdipartimentali.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Istituti</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>Gli istituti sono le unità organizzative presso le quali si svolgono le attività di ricerca dell'ente, afferenti ai dipartimenti. Le modalità di costituzione degli istituti e la loro afferenza ai dipartimenti, la loro dislocazione sul territorio e la loro articolazione organizzativa sono definiti dal regolamento di organizzazione e funzionamento dell'ente.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<corpo>
+							Gli istituti realizzano i programmi ed i progetti di ricerca loro affidati come previsto dall'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							, interagendo con il sistema produttivo, con le università e le altre istituzioni di ricerca e con gli enti locali. Essi hanno autonomia scientifica, nonché autonomia finanziaria e gestionale nei limiti definiti dal regolamento di amministrazione, contabilità e finanza dell'ente.
+						</corpo>
+					</comma>
+					<comma id="art14-com3">
+						<num>3.</num>
+						<alinea>Gli istituti:</alinea>
+						<el id="art14-com3-leta">
+							<num>a)</num>
+							<corpo>propongono al dipartimento cui afferiscono il piano triennale e i relativi aggiornamenti annuali nelle materie di competenza, indicando le risorse, comprese quelle acquisibili autonomamente, necessarie per realizzarli;</corpo>
+						</el>
+						<el id="art14-com3-letb">
+							<num>b)</num>
+							<corpo>
+								gestiscono i programmi e progetti di ricerca loro affidati come previsto dall'
+								<rif xlink:href="#art12-com2-letb" xlink:type="simple">articolo 12, comma 2, lettera b)</rif>
+								, nei limiti delle risorse loro assegnate ovvero acquisite autonomamente, intrattenendo le relative relazioni anche a livello internazionale;
+							</corpo>
+						</el>
+						<el id="art14-com3-letc">
+							<num>c)</num>
+							<corpo>elaborano una relazione annuale sui risultati dell'attività svolta da trasmettere al dipartimento cui afferiscono.</corpo>
+						</el>
+					</comma>
+					<comma id="art14-com4">
+						<num>4.</num>
+						<corpo>Gli istituti possono altresì partecipare a progetti di ricerca coordinati da dipartimenti diversi da quello di afferenza.</corpo>
+					</comma>
+					<comma id="art14-com5">
+						<num>5.</num>
+						<corpo>Il direttore dell'istituto é responsabile dell'attività dell'istituto stesso. É nominato dal consiglio di amministrazione dell'ente tra persone di alta qualificazione ed esperienza scientifica e manageriale sulla base di procedure selettive definite dal regolamento di organizzazione e funzionamento. I direttori degli istituti, il cui incarico é a tempo pieno, durano in carica cinque anni e possono essere confermati una sola volta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Disposizioni specifiche</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>Le incompatibilità con le cariche di presidente, componente del consiglio di amministrazione, e del consiglio scientifico generale, di presidente e componente del collegio dei revisori dei conti, di direttore generale e di direttore di dipartimento e di istituto, sono disciplinate dal regolamento di organizzazione e funzionamento dell'ente. Il presidente, il direttore generale, i componenti del consiglio di amministrazione e del consiglio scientifico generale non possono essere amministratori o dipendenti di società che partecipano a programmi di ricerca cui é interessato il C.N.R.</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num>2.</num>
+						<corpo>
+							Il presidente, se professore o ricercatore universitario, può essere collocato in aspettativa ai sensi dell'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art13" xlink:type="simple">articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							; se dipendente di pubbliche amministrazioni é collocato in aspettativa senza assegni.
+						</corpo>
+					</comma>
+					<comma id="art15-com3">
+						<num>3.</num>
+						<corpo>
+							Il direttore generale, i direttori di dipartimento e i direttori di istituto, se professori o ricercatori universitari, sono collocati in aspettativa ai sensi dell'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							; se ricercatori o tecnologi o dipendenti di pubbliche amministrazioni sono collocati in aspettativa senza assegni ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">articolo 19, comma 6, del decreto legislativo 30 marzo 2001, n. 165</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art15-com4">
+						<num>4.</num>
+						<corpo>Le indennità di carica del presidente dell'ente, dei componenti del consiglio di amministrazione, del presidente e dei componenti del collegio dei revisori dei conti e il gettone di presenza dei componenti del Consiglio scientifico generale, ad eccezione del presidente, sono determinati con decreto del Ministro dell'istruzione, dell'università e della ricerca, di concerto con il Ministro dell'economia e delle finanze.</corpo>
+					</comma>
+					<comma id="art15-com5">
+						<num>5.</num>
+						<corpo>
+							I compensi dei direttori di dipartimento, dei direttori di istituto, del direttore generale sono determinati dal consiglio di amministrazione, su proposta del presidente dell'ente, con riferimento al decreto di cui al
+							<rif xlink:href="#art15-com4" xlink:type="simple">comma 4</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art15-com6">
+						<num>6.</num>
+						<corpo>In caso di gravi irregolarità, di difficoltà finanziarie perduranti, di esigenze di adeguamento della missione dell'ente alle politiche della ricerca scientifica e tecnologica definite dal Governo, ovvero in caso di contemporanea cessazione del presidente e di un numero di componenti del Consiglio di amministrazione non inferiore ad un terzo prima della scadenza del mandato, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'istruzione, dell'università e della ricerca, é disposta la decadenza degli organi in carica, ad eccezione del collegio dei revisori ed é nominato un commissario straordinario per la durata massima di 12 mesi e, comunque, per il periodo necessario ad assicurare la funzionalità dell'ente fino all'insediamento del nuovo presidente e del nuovo consiglio di amministrazione. Il commissario può nominare uno o più sub-commissari cui delegare le funzioni per specifici settori di attività.</corpo>
+					</comma>
+					<comma id="art15-com7">
+						<num>7.</num>
+						<corpo>Il C.N.R. si avvale del patrocinio dell'Avvocatura generale dello Stato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Piani di attività</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>
+							Il C.N.R. opera sulla base di un piano triennale di attività, aggiornato annualmente. Il piano triennale definisce gli obiettivi, i programmi di ricerca, i risultati socio-economici attesi, nonché le correlate risorse, in coerenza con il programma nazionale per la ricerca di cui all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							. Il piano comprende la programmazione triennale del fabbisogno del personale, sia a tempo indeterminato sia a tempo determinato.
+						</corpo>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>
+							Le proposte di piano triennale dell'ente e i relativi aggiornamenti, deliberate dal consiglio di amministrazione, sono approvate dal Ministro dell'istruzione, dell'università e della ricerca, ai sensi del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+							. Decorsi 60 giorni dalla ricezione del piano triennale senza osservazioni da parte del Ministro dell'istruzione, dell'università e della ricerca, il piano si intende approvato. Sul piano triennale e sui relativi aggiornamenti annuali, per gli ambiti di rispettiva competenza, sono richiesti i pareri dei Ministri dell'economia e delle finanze e per la funzione pubblica, che devono esprimersi entro 30 giorni, decorsi i quali si prescinde dal parere.
+						</corpo>
+					</comma>
+					<comma id="art16-com3">
+						<num>3.</num>
+						<corpo>
+							Il C.N.R., previo confronto con le organizzazioni sindacali maggiormente rappresentative, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art9" xlink:type="simple">articolo 9 del decreto legislativo 30 marzo 2001, n. 165</rif>
+							, determina in autonomia gli organici del personale e le assunzioni nelle diverse tipologie contrattuali, nei limiti stabiliti dai piani di cui al presente articolo, dandone comunicazione al Ministero dell'economia e delle finanze ai fini del monitoraggio della spesa pubblica.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>Entrate del C.N.R.</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<alinea>Le entrate del C.N.R. sono costituite:</alinea>
+						<el id="art17-com1-leta">
+							<num>a)</num>
+							<corpo>
+								dal contributo a carico del fondo ordinario per il finanziamento degli enti pubblici di ricerca, di cui all'
+								<rif xlink:href="#art7" xlink:type="simple">articolo 7 commi 1 e 2 del decreto legislativo 5 giugno 1998, n. 204,</rif>
+								determinato sulla base delle attività previste dal piano triennale e dai relativi aggiornamenti annuali dell'ente, ove approvati;
+							</corpo>
+						</el>
+						<el id="art17-com1-letb">
+							<num>b)</num>
+							<corpo>
+								dai contributi per singoli progetti o interventi a carico dei fondi previsti dal programma nazionale della ricerca, ai sensi del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art17-com1-letc">
+							<num>c)</num>
+							<corpo>dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di particolari progetti o accordi di programma;</corpo>
+						</el>
+						<el id="art17-com1-letd">
+							<num>d)</num>
+							<corpo>dai contributi dell'unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti;</corpo>
+						</el>
+						<el id="art17-com1-lete">
+							<num>e)</num>
+							<corpo>dai contratti stipulati con terzi pubblici e privati per la fornitura di servizi;</corpo>
+						</el>
+						<el id="art17-com1-letf">
+							<num>f)</num>
+							<corpo>dalle royalties provenienti dalla cessione di brevetti o cessione di know-how;</corpo>
+						</el>
+						<el id="art17-com1-letg">
+							<num>g)</num>
+							<corpo>da ogni altra eventuale entrata.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art18">
+					<num>Art. 18</num>
+					<rubrica>Strumenti</rubrica>
+					<comma id="art18-com1">
+						<num>1.</num>
+						<alinea>
+							Il C.N.R. per lo svolgimento delle attività di cui all'
+							<rif xlink:href="#art3" xlink:type="simple">articolo 3</rif>
+							e di ogni altra attività connessa, ivi compreso l'utilizzo economico dei risultati della ricerca propria e di quella commissionata, secondo criteri e modalità determinati con il regolamento di organizzazione e funzionamento, può:
+						</alinea>
+						<el id="art18-com1-leta">
+							<num>a)</num>
+							<corpo>stipulare accordi e convenzioni;</corpo>
+						</el>
+						<el id="art18-com1-letb">
+							<num>b)</num>
+							<corpo>partecipare o costituire consorzi, fondazioni o società con soggetti pubblici e privati, italiani e stranieri, previa autorizzazione del Ministro dell'istruzione, dell'università e della ricerca. Decorsi sessanta giorni dalla richiesta di autorizzazione, in assenza di osservazioni da parte del Ministro dell'istruzione, dell'università e della ricerca, l'autorizzazione si intende concessa. Per la costituzione o la partecipazione in società con apporto al capitale sociale superiore a 500.000,00 euro o con quota pari o superiore al 50 per cento del predetto capitale sociale é inoltre richiesto il parere del Ministro dell'economia e delle finanze che deve esprimersi entro 30 giorni, decorsi i quali si prescinde dal parere;</corpo>
+						</el>
+						<el id="art18-com1-letc">
+							<num>c)</num>
+							<corpo>promuovere la costituzione di nuove imprese conferendo personale proprio, anche in costanza di rapporto, nel rispetto della normativa vigente;</corpo>
+						</el>
+						<el id="art18-com1-letd">
+							<num>d)</num>
+							<corpo>partecipare alla costituzione ed alla conduzione anche scientifica di centri di ricerca internazionali, in collaborazione con analoghe istituzioni scientifiche di altri Paesi;</corpo>
+						</el>
+						<el id="art18-com1-lete">
+							<num>e)</num>
+							<corpo>commissionare attività di ricerca e studio a soggetti pubblici e privati, nazionali e internazionali, secondo le disposizioni del suo regolamento amministrativo.</corpo>
+						</el>
+					</comma>
+					<comma id="art18-com2">
+						<num>2.</num>
+						<corpo>
+							Il C.N.R. riferisce sui programmi, sugli obiettivi, sulle attività e sui risultati dei soggetti di cui al
+							<rif xlink:href="#art18-com1" xlink:type="simple">comma 1</rif>
+							in apposita sezione del piano triennale dell'ente e dei relativi aggiornamenti.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art19">
+					<num>Art. 19</num>
+					<rubrica>Regolamenti</rubrica>
+					<comma id="art19-com1">
+						<num>1.</num>
+						<corpo>
+							Il C.N.R. si dota del regolamento di organizzazione e funzionamento, del regolamento di amministrazione contabilità e finanza e del regolamento del personale, nonché di altri regolamenti interni disciplinanti specifiche materie, in coerenza con le procedure e modalità di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">articolo 8 della legge 9 maggio 1989, n. 168</rif>
+							. Il regolamento sul personale é inoltre sottoposto al parere del Ministro per la funzione pubblica che si esprime nel termine di 30 giorni, decorsi i quali si prescinde dal parere. Sui regolamenti, prima dell'adozione, sono sentite le organizzazioni sindacali maggiormente rappresentative.
+						</corpo>
+					</comma>
+					<comma id="art19-com2">
+						<num>2.</num>
+						<alinea>Il regolamento di organizzazione e funzionamento:</alinea>
+						<el id="art19-com2-leta">
+							<num>a)</num>
+							<corpo>
+								definisce i dipartimenti, in ragione di uno per ciascuno delle macro aree di ricerca scientifica e tecnologica di cui all'
+								<rif xlink:href="#art3-com2" xlink:type="simple">articolo 3 comma 2</rif>
+								, raggruppando gli istituti ad essi afferenti secondo affinità disciplinari e tematiche, al fine di massimizzare le sinergie inter e intradipartimentali;
+							</corpo>
+						</el>
+						<el id="art19-com2-letb">
+							<num>b)</num>
+							<corpo>definisce le procedure per la nomina dei direttori di dipartimento;</corpo>
+						</el>
+						<el id="art19-com2-letc">
+							<num>c)</num>
+							<corpo>definisce le modalità per la costituzione degli istituti, la loro afferenza ai dipartimenti, la loro dislocazione sul territorio e la loro articolazione organizzativa, sulla base dei criteri di focalizzazione delle missioni e accorpamento per area tecnico-scientifica di ricerca omogenea, di concentrazione delle risorse su dimensioni adeguate al raggiungimento di obiettivi relativi a progetti strategici di ricerca, di contrazione del numero, per garantire una adeguata massa critica;</corpo>
+						</el>
+						<el id="art19-com2-letd">
+							<num>d)</num>
+							<corpo>definisce le modalità di funzionamento degli istituti, assicurando il ruolo centrale dei ricercatori ad essi addetti nella progettazione e realizzazione dell'attività di ricerca;</corpo>
+						</el>
+						<el id="art19-com2-lete">
+							<num>e)</num>
+							<corpo>definisce le direzioni centrali dell'ente e le strutture amministrative dei dipartimenti;</corpo>
+						</el>
+						<el id="art19-com2-letf">
+							<num>f)</num>
+							<corpo>prevede i criteri e le modalità per l'individuazione dei componenti del consiglio scientifico di dipartimento;</corpo>
+						</el>
+						<el id="art19-com2-letg">
+							<num>g)</num>
+							<corpo>stabilisce le procedure di selezione per la nomina dei direttori di istituto;</corpo>
+						</el>
+						<el id="art19-com2-leth">
+							<num>h)</num>
+							<corpo>definisce le regole per la partecipazione dell'ente in altri soggetti pubblici e privati.</corpo>
+						</el>
+					</comma>
+					<comma id="art19-com3">
+						<num>3.</num>
+						<alinea>Il regolamento di amministrazione, contabilità e finanza:</alinea>
+						<el id="art19-com3-leta">
+							<num>a)</num>
+							<corpo>definisce uno schema tipo per la redazione da parte dei dipartimenti del bilancio preventivo e del bilancio consuntivo;</corpo>
+						</el>
+						<el id="art19-com3-letb">
+							<num>b)</num>
+							<corpo>definisce modalità che assicurino la trasparenza nell'assegnazione e nell'utilizzo delle risorse finanziarie per i diversi obiettivi di ricerca e per la realizzazione delle funzioni istituzionali;</corpo>
+						</el>
+						<el id="art19-com3-letc">
+							<num>c)</num>
+							<corpo>definisce modalità per l'acquisto di beni, servizi e forniture, anche in conformità alla normativa comunitaria;</corpo>
+						</el>
+						<el id="art19-com3-letd">
+							<num>d)</num>
+							<corpo>individua le modalità per l'acquisizione da parte degli istituti di risorse esterne all'ente;</corpo>
+						</el>
+						<el id="art19-com3-lete">
+							<num>e)</num>
+							<corpo>definisce modalità per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga alle disposizioni sulla contabilità generale dello Stato;</corpo>
+						</el>
+						<el id="art19-com3-letf">
+							<num>f)</num>
+							<corpo>prevede la facoltà di erogare anticipazioni nel limite del 20 per cento contrattuale, per le forniture di strumentazione scientifica e tecnologica di particolare complessità, in deroga alle disposizioni normative vigenti in materia.</corpo>
+						</el>
+					</comma>
+					<comma id="art19-com4">
+						<num>4.</num>
+						<alinea>Il regolamento del personale:</alinea>
+						<el id="art19-com4-leta">
+							<num>a)</num>
+							<corpo>definisce modalità per la gestione e l'amministrazione del personale;</corpo>
+						</el>
+						<el id="art19-com4-letb">
+							<num>b)</num>
+							<corpo>stabilisce le procedure per il reclutamento del personale a tempo determinato e a tempo indeterminato.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art20">
+					<num>Art. 20</num>
+					<rubrica>Personale</rubrica>
+					<comma id="art20-com1">
+						<num>1.</num>
+						<corpo>
+							Il rapporto di lavoro dei dipendenti del C.N.R. é regolato ai sensi delle disposizioni di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">decreto legislativo 30 marzo 2001, n. 165</rif>
+							, agli articoli
+							<mrif>
+								<rif xlink:href="urn:nir:stato:legge:1997-06-24;196#art14" xlink:type="simple">14 e 15</rif>
+								della legge 24giugno 1997, n.196
+							</mrif>
+							, al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297" xlink:type="simple">decreto legislativo 27 luglio 1999, n. 297</rif>
+							, e all'
+							<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449.</rif>
+							Alle selezioni pubbliche per le assunzioni possono partecipare, se in possesso dei requisiti richiesti, anche cittadini stranieri.
+						</corpo>
+					</comma>
+					<comma finevigore="t2" id="art20-com2-t2" iniziovigore="t1" status="abrogato">
+						<num>2.</num>
+						<corpo>Il C.N.R., sentito il consiglio scientifico, nell'ambito del 3 per cento dell'organico dei ricercatori, nei limiti delle disponibilità di bilancio, può assumere per chiamata diretta, con contratto a tempo indeterminato, al massimo livello contrattuale del personale di ricerca, soggetti italiani o stranieri dotati di altissima qualificazione scientifica, ovvero che siano stati insigniti di alti riconoscimenti scientifici in ambito internazionale.</corpo>
+					</comma>
+					<comma id="art20-com3">
+						<num>3.</num>
+						<corpo>Ferme restando le disposizioni vigenti e contrattuali per le assunzioni a tempo determinato negli enti di ricerca, il C.N.R., sentito il consiglio scientifico, nell'ambito del 10 per cento dell'organico dei ricercatori e tecnologi, nei limiti delle disponibilità di bilancio, può inoltre assumere con chiamata diretta, con contratto a tempo determinato per specifici progetti di ricerca, per la durata del progetto e, comunque, non superiore a cinque anni, ricercatori o tecnologi italiani o stranieri, con documentata produzione scientifica di eccellenza, o documentata attività di ricerca in enti di ricerca o imprese private o in atenei stranieri o in istituzioni di ricerca internazionali; nelle predette ipotesi di chiamata diretta il trattamento economico é rapportato a quello previsto dal contratto collettivo nazionale di comparto per le medesime qualifiche, con una eventuale integrazione in considerazione della natura temporanea del rapporto.</corpo>
+					</comma>
+					<comma id="art20-com4">
+						<num>4.</num>
+						<alinea>Il C.N.R, con proprio regolamento sul personale ai sensi del presente articolo, disciplina le procedure di assunzione ai diversi livelli e profili del personale ricercatore e tecnologo, valorizzando prioritariamente le esperienze di ricerca effettuate all'estero ovvero presso università o imprese nel rispetto dei seguenti principi:</alinea>
+						<el id="art20-com4-leta">
+							<num>a)</num>
+							<corpo>
+								il rapporto di lavoro a tempo indeterminato come ricercatore o tecnologo dell'ente si instaura, per i livelli di ricercatore, primo ricercatore, dirigente di ricerca, tecnologo, primo tecnologo e dirigente tecnologo, previo l'espletamento di concorsi pubblici per aree scientifiche o settori tecnologici, idonei a valutare competenze e attitudini finalizzate all'attività richiesta, mediante il ricorso a specifiche commissioni giudicatrici costituite in maggioranza da componenti esterni all'ente e presiedute da dirigenti di ricerca o tecnologi dell'ente o dipendenti da un ente del comparto ricerca ovvero ancora da professori universitari ordinari, con comprovata esperienza internazionale. Per accedere alla selezione per il livello iniziale occorre essere in possesso del titolo di dottore di ricerca attinente all'attività richiesta dal bando ovvero aver svolto per un triennio attività di ricerca presso università o qualificati enti, organismi o centri di ricerca pubblici o privati ovvero nell'ambito dei contratti di cui al
+								<rif xlink:href="#art20-com3" xlink:type="simple">comma 3</rif>
+								, ovvero di assegni di ricerca banditi dall'ente ai sensi dell'
+								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
+								, con valutazione finale delle attività;
+							</corpo>
+						</el>
+						<el id="art20-com4-letb">
+							<num>b)</num>
+							<corpo>la periodicità dei concorsi é determinata secondo le cadenze indicate nel piano triennale.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art21">
+					<num>Art. 21</num>
+					<rubrica>Mobilità con le università e con gli istituti di ricovero e cura a carattere scientifico</rubrica>
+					<comma id="art21-com1">
+						<num>1.</num>
+						<corpo>Il personale di ricerca in servizio presso il C.N.R. é autorizzato ad assumere incarichi di insegnamento a contratto presso le università, in materie pertinenti all'attività di ricerca svolta, relativi a corsi ufficiali o integrativi, fatto salvo l'espletamento dei compiti istituzionali e l'assolvimento dell'orario di lavoro presso il C.N.R. Spetta agli statuti delle università determinare le modalità attraverso le quali il predetto personale partecipa, per la durata del contratto, alle deliberazioni relative alla programmazione delle attività didattiche e scientifiche.</corpo>
+					</comma>
+					<comma id="art21-com2">
+						<num>2.</num>
+						<corpo>I ricercatori ed i professori universitari di ruolo possono svolgere, per periodi determinati, attività di ricerca presso gli istituti del C.N.R.</corpo>
+					</comma>
+					<comma id="art21-com3">
+						<num>3.</num>
+						<corpo>Il personale di ricerca del C.N.R. é autorizzato ad assumere incarichi di direzione di dipartimenti o di centri di ricerca, nonché a svolgere attività di ricerca, presso le università, per periodi determinati. Spetta agli statuti delle università determinare le modalità attraverso le quali il predetto personale, per la durata dell'incarico o dell'attività, partecipa alle deliberazioni degli organi accademici competenti in materia di programmazione delle attività scientifiche.</corpo>
+					</comma>
+					<comma id="art21-com4">
+						<num>4.</num>
+						<corpo>
+							I contratti di cui al
+							<rif xlink:href="#art21-com1" xlink:type="simple">comma 1</rif>
+							e le attività di cui ai
+							<rif xlink:href="#art21-com4" xlink:type="simple">commi 2 e 3</rif>
+							sono compatibili con il mantenimento dei rapporti di lavoro con le amministrazioni di appartenenza. Per i professori ed i ricercatori universitari l'attività di ricerca di cui al
+							<rif xlink:href="#art21-com2" xlink:type="simple">comma 2</rif>
+							non rientra nell'attività prevista dall'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art17-com1" xlink:type="simple">articolo 17, comma 1, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							. Lo svolgimento di attività di ricerca presso il C.N.R. può comportare per i ricercatori ed i professori universitari l'esonero, totale o parziale, dai carichi didattici.
+						</corpo>
+					</comma>
+					<comma id="art21-com5">
+						<num>5.</num>
+						<corpo>Il personale dell'area della ricerca degli istituti di ricovero e cura a carattere scientifico (I.R.C.C.S.) di diritto pubblico può svolgere, a richiesta e per periodi determinati, attività di ricerca presso gli Istituti del C.N.R. Il personale di ricerca in servizio presso il C.N.R. é autorizzato ad assumere incarichi di direzione ed a svolgere attività di ricerca presso gli I.R.C.C.S. per periodi determinati.</corpo>
+					</comma>
+					<comma id="art21-com6">
+						<num>6.</num>
+						<corpo>I regolamenti dell'ente, gli statuti e i regolamenti degli atenei e i regolamenti degli I.R.C.C.S. disciplinano l'applicazione delle disposizioni di cui al presente articolo.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art22">
+					<num>Art. 22</num>
+					<rubrica>Bilanci, relazioni e controlli</rubrica>
+					<comma id="art22-com1">
+						<num>1.</num>
+						<corpo>I bilanci preventivi e consuntivi e le relative relazioni di accompagnamento, le relazioni del collegio dei revisori dei conti, la relazione annuale di verifica dei risultati gestionali ed economici dell'ente, la relazione del comitato di valutazione sono inviati al Ministero dell'istruzione, dell'università e della ricerca e al Ministero dell'economia e delle finanze.</corpo>
+					</comma>
+					<comma id="art22-com2">
+						<num>2.</num>
+						<corpo>
+							Il C.N.R. é soggetto al controllo previsto dall'
+							<rif xlink:href="urn:nir:stato:legge:1994-01-14;20#art3-com7" xlink:type="simple">articolo 3, comma 7, della legge 14 gennaio 1994, n. 20</rif>
+							da parte della Corte dei conti.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art23">
+					<num>Art. 23</num>
+					<rubrica>Aggregazione di enti di ricerca del C.N.R. e norme transitorie e finali</rubrica>
+					<comma id="art23-com1">
+						<num>1.</num>
+						<alinea>
+							I seguenti enti di ricerca confluiscono nel C.N.R. secondo le modalità di cui ai
+							<rif xlink:href="#art23-com1" xlink:type="simple">commi 2 e 3</rif>
+							:
+						</alinea>
+						<el id="art23-com1-leta">
+							<num>a)</num>
+							<corpo>Istituto di diritto agrario internazionale e comparato (IDAIC);</corpo>
+						</el>
+						<el id="art23-com1-letb">
+							<num>b)</num>
+							<corpo>Istituto nazionale di ottica applicata (INOA);</corpo>
+						</el>
+						<el id="art23-com1-letc">
+							<num>c)</num>
+							<corpo>Istituto nazionale di fisica della materia (INFM);</corpo>
+						</el>
+						<el id="art23-com1-letd">
+							<num>d)</num>
+							<corpo>Istituto papirologico "Girolamo Vitelli".</corpo>
+						</el>
+					</comma>
+					<comma id="art23-com2">
+						<num>2.</num>
+						<corpo>
+							A decorrere dalla data di entrata in vigore del presente decreto legislativo il presidente e il consiglio direttivo del C.N.R. ed i presidenti ed i consigli di amministrazione degli enti di ricerca di cui al
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+							decadono, ed é nominato con la procedura di cui all'
+							<rif xlink:href="#art15-com6" xlink:type="simple">articolo 15, comma 6</rif>
+							, un commissario straordinario con il compito di assicurare la funzionalità del C.N.R. e degli enti predetti nella fase transitoria fino alla data di insediamento del presidente e del consiglio di amministrazione nominati con le modalità di cui agli
+							<rif xlink:href="#art23-com2" xlink:type="simple">articoli 6 e 7</rif>
+							. I collegi dei revisori, nominati secondo il previgente ordinamento, esercitano le loro funzioni fino all'insediamento del nuovo collegio dei revisori del C.N.R., nominato con le modalità di cui all'
+							<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+							. Il commissario nomina tre sub-commissari cui può delegare le funzioni per specifici settori di attività e provvede altresì, entro quattro mesi, alla stesura dei regolamenti di cui all'
+							<rif xlink:href="#art19" xlink:type="simple">articolo 19</rif>
+							, da sottoporre al Ministro dell'istruzione, dell'università e della ricerca per il controllo ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">articolo 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
+							. I regolamenti stabiliscono anche le modalità per l'accorpamento nel C.N.R. degli enti di cui al
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+							, lettere a), b) e c), assicurando ad essi il mantenimento della denominazione e della sede quali strutture scientifiche del C.N.R. In particolare, per l'I.N.F.M., vanno salvaguardate le forme innovative di collaborazione con le università e le imprese, la specificità dei rapporti di lavoro e le forme di autonomia gestionale delle strutture interne.
+						</corpo>
+					</comma>
+					<comma id="art23-com3">
+						<num>3.</num>
+						<corpo>
+							Spetta al commissario straordinario l'espletamento, entro 90 giorni dalla sua nomina, dell'istruttoria finalizzata alla trasformazione dell'Istituto papirologico "Girolamo Vitelli", in struttura scientifica dell'Università di Firenze, salvaguardandone la denominazione e la sede, secondo le procedure previste dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419" xlink:type="simple">decreto legislativo 29 ottobre 1999, n. 419</rif>
+							. Decorso tale termine, ove risulti non realizzabile tale soluzione, l'Istituto "Vitelli" sarà accorpato al C.N.R., mantenendo denominazione e sede quale struttura scientifica dello stesso ente, secondo le stesse modalità previste dai citati regolamenti per gli enti di cui al
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art23-com4">
+						<num>4.</num>
+						<alinea>
+							Dalla data di entrata in vigore dei regolamenti di cui al
+							<rif xlink:href="#art23-com2" xlink:type="simple">comma 2</rif>
+							:
+						</alinea>
+						<el id="art23-com4-leta">
+							<num>a)</num>
+							<corpo>
+								sono soppressi gli enti di ricerca di cui al
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+								, e sono abrogati i rispettivi regolamenti;
+							</corpo>
+						</el>
+						<el id="art23-com4-letb">
+							<num>b)</num>
+							<corpo>
+								il patrimonio, i beni mobili, i beni immobili e le attrezzature degli enti indicati al
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+								confluiscono nel patrimonio del C.N.R.;
+							</corpo>
+						</el>
+						<el id="art23-com4-letc">
+							<num>c)</num>
+							<corpo>il personale dei predetti enti é trasferito al C.N.R. mantenendo il proprio stato giuridico ed economico, compresa la posizione previdenziale ed assicurativa e il trattamento di fine rapporto;</corpo>
+						</el>
+						<el id="art23-com4-letd">
+							<num>d)</num>
+							<corpo>
+								il C.N.R. subentra in tutti i rapporti attivi e passivi degli enti di cui al
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
+								, ivi compresi tutti i rapporti di lavoro a tempo determinato ed indeterminato.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art23-com5">
+						<num>5.</num>
+						<corpo>Gli istituti di radioastronomia, astrofisica spaziale e di fisica dello spazio interplanetario sono destinati a confluire nell'Istituto nazionale di astrofisica (I.N.A.F.), secondo modalità disciplinate dal decreto legislativo di riordino dello stesso I.N.A.F.</corpo>
+					</comma>
+					<comma id="art23-com6">
+						<num>6.</num>
+						<corpo>
+							In sede di prima attuazione del presente decreto legislativo il mandato del presidente decaduto e quello del commissario straordinario nominato ai sensi del
+							<rif xlink:href="#art23-com2" xlink:type="simple">comma 2</rif>
+							, non rilevano ai fini dell'applicazione dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							, in ordine al limite massimo dei due mandati per i presidenti di enti di ricerca. Le indennità spettanti al commissario straordinario ed ai sub-commissari sono stabilite con le modalità di cui all'
+							<rif xlink:href="#art15-com4" xlink:type="simple">articolo 15, comma 4</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art23-com7">
+						<num>7.</num>
+						<corpo>
+							Le dotazioni organiche del C.N.R. sono ridefinite ai sensi dell'
+							<mrif>
+								articolo 34,
+								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289#art34-com1" xlink:type="simple">comma 1</rif>
+								,
+								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289#art34-com2" xlink:type="simple">2</rif>
+								della legge 27 dicembre 2002, n. 289
+							</mrif>
+							, come indicato nelle tabelle 1, 2, 3, 4 e 5.
+						</corpo>
+					</comma>
+					<comma id="art23-com8">
+						<num>8.</num>
+						<corpo>
+							Le disposizioni previste dall'
+							<mrif>
+								articolo 3, comma 1, lettere
+								<rif xlink:href="#art3-com1-leti" xlink:type="simple">i)</rif>
+								,
+								<rif xlink:href="#art3-com1-letn" xlink:type="simple">n)</rif>
+								,
+								<rif xlink:href="#art3-com1-leto" xlink:type="simple">o)</rif>
+								,
+								<rif xlink:href="#art3-com1-letp" xlink:type="simple">p)</rif>
+							</mrif>
+							, e degli
+							<mrif>
+								articoli
+								<rif xlink:href="#art16" xlink:type="simple">16</rif>
+								,
+								<rif xlink:href="#art18" xlink:type="simple">18</rif>
+								e
+								<rif xlink:href="#art19-com3-letf" xlink:type="simple">19, comma 3, lettera f)</rif>
+								,
+								<rif xlink:href="#art20" xlink:type="simple">20</rif>
+								,
+								<rif xlink:href="#art21" xlink:type="simple">21</rif>
+								e
+								<rif xlink:href="#art22-com1" xlink:type="simple">22, comma 1</rif>
+							</mrif>
+							, si applicano a tutti gli enti ricompresi nel comparto delle istituzioni e degli enti di ricerca e sperimentazione, vigilati dal Ministero dell'istruzione, dell'università e della ricerca di cui alla tabella 6. Le disposizioni previste dall'
+							<mrif>
+								articolo 20, commi
+								<rif xlink:href="#art20-com3" xlink:type="simple">3</rif>
+								e
+								<rif xlink:href="#art20-com4" xlink:type="simple">4</rif>
+							</mrif>
+							, si applicano anche agli istituti di ricovero e cura a carattere scientifico.
+						</corpo>
+					</comma>
+					<comma id="art23-com9">
+						<num>9.</num>
+						<corpo>
+							<mod id="mod1">
+								É abrogato il
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+								, ad eccezione dei
+								<mrif>
+									commi
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art13-com3-leta" xlink:type="simple">3, lettera a)</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art13-com6" xlink:type="simple">6</rif>
+									dell'articolo 13
+								</mrif>
+								, nonché l'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art4" xlink:type="simple">articolo 4 del decreto legislativo 5 giugno 1998, n. 204</rif>
+								.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art24">
+					<num>Art. 24</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art24-com1">
+						<num>1.</num>
+						<corpo>Il presente decreto legislativo entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale. Il presente decreto, munito del sigillo dello Stato, sarà inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. É fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione>
+				<dataeluogo codice="00100" norm="20030604">Data a Roma, addi' 4 giugno 2003</dataeluogo>
+				<firma tipo="sottoscrizione">CIAMPI</firma>
+				<firma tipo="sottoscrizione">Berlusconi, Presidente del Consiglio dei Ministri</firma>
+				<firma tipo="sottoscrizione">Moratti, Ministro dell'istruzione, dell'università e della ricerca</firma>
+				<firma tipo="sottoscrizione">Mazzella, Ministro per la funzione pubblica</firma>
+				<firma tipo="sottoscrizione">Tremonti, Ministro dell'economia e delle finanze</firma>
+				<soggetto codice="">Visto, il Guardasigilli: Castelli</soggetto>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Tabella 1</denAnnesso>
+						<titAnnesso>RIORDINO DEL CONSIGLIO NAZIONALE DELLE RICERCHE (C.N.R.)</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="20030606" num="129" tipo="GU" />
+								<entratainvigore norm="20030607" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.1" />
+							</descrittori>
+						</meta>
+						<contenitore id="con1" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:thead>
+									<h:tr>
+										<h:td>
+											<h:b>PROFILO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>LIVELLO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>DOTAZIONE ORGANICA **</h:b>
+										</h:td>
+									</h:tr>
+								</h:thead>
+								<h:tfoot>
+									<h:tr>
+										<h:td>
+											<h:b>TOTALE</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>8325</h:b>
+										</h:td>
+									</h:tr>
+								</h:tfoot>
+								<h:tbody>
+									<h:tr>
+										<h:td>Dirigente generale</h:td>
+										<h:td />
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente</h:td>
+										<h:td />
+										<h:td>32</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Dirigenti</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>34</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente di ricerca</h:td>
+										<h:td>I</h:td>
+										<h:td>693</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Ricercatore</h:td>
+										<h:td>II</h:td>
+										<h:td>1446</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Ricercatore</h:td>
+										<h:td>III</h:td>
+										<h:td>1365</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Ricercatori</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>3504</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente Tecnologo</h:td>
+										<h:td>I</h:td>
+										<h:td>56</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Tecnologo</h:td>
+										<h:td>II</h:td>
+										<h:td>109</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tecnologo</h:td>
+										<h:td>III</h:td>
+										<h:td>109</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Tecnologi</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>274</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Funzionario di Amministrazione</h:td>
+										<h:td>IV</h:td>
+										<h:td>234</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>221</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Funzionari di Amministrazione</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>455</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>C.T.E.R.</h:td>
+										<h:td>IV</h:td>
+										<h:td>517</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>705</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>833</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale C.T.E.R.</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>2055</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Collaboratore di Amministrazione</h:td>
+										<h:td>V</h:td>
+										<h:td>73</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>108</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>183</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Collaboratori di Amministrazione</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>364</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Operatore Tecnico</h:td>
+										<h:td>VI</h:td>
+										<h:td>219</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>345</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VIII</h:td>
+										<h:td>566</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Operatori Tecnici</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>1030</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Operatore di Amministrazione</h:td>
+										<h:td>VII</h:td>
+										<h:td>75</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VIII</h:td>
+										<h:td>110</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>IX</h:td>
+										<h:td>186</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Operatori di Amministrazione</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>371</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Ausiliario Tecnico</h:td>
+										<h:td>VIII</h:td>
+										<h:td>33</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>IX</h:td>
+										<h:td>48</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>X</h:td>
+										<h:td>83</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Ausiliari Tecnici</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>164</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Ausiliario di Amministrazione</h:td>
+										<h:td>IX</h:td>
+										<h:td>37</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>X</h:td>
+										<h:td>37</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale Ausiliari di Amministrazione</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>74</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+								</h:tbody>
+							</h:table>
+							<h:p>** Dalla dotazione organica è stato scorporato il personale in servizio presso gli Istituti di astrofisica spaziale, di radioastronomia e di fisica dello spazio interplanetario, che vengono trasferiti all’INAF per effetto di altro decreto legislativo di riordino dell’INAF contestualmente adottato. A tale dotazione va aggiunto il personale indicato nelle tabelle n. 2, 3, 4 e 5 degli enti che sono accorpati al CNR ai sensi dell'articolo n. 24.</h:p>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>Tabella 2</denAnnesso>
+						<titAnnesso>A) ISTITUTO DI DIRITTO AGRARIO INTERNAZIONALE E COMPARATO - PIANTA ORGANICA</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="20030606" num="129" tipo="GU" />
+								<entratainvigore norm="20030607" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.2" />
+							</descrittori>
+						</meta>
+						<contenitore id="con2" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:thead>
+									<h:tr>
+										<h:td>
+											<h:b>AREA</h:b>
+										</h:td>
+										<h:td>
+											<h:b>POSIZIONE ECONOMICA</h:b>
+										</h:td>
+										<h:td>
+											<h:b>DOTAZIONE ORGANICA</h:b>
+										</h:td>
+									</h:tr>
+								</h:thead>
+								<h:tfoot>
+									<h:tr>
+										<h:td>
+											<h:b>TOTALE</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>1 3 (part-time)</h:b>
+										</h:td>
+									</h:tr>
+								</h:tfoot>
+								<h:tbody>
+									<h:tr>
+										<h:td>C</h:td>
+										<h:td>C1</h:td>
+										<h:td>2 (part-time)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>B</h:td>
+										<h:td>B1</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>A</h:td>
+										<h:td>A2</h:td>
+										<h:td>1 (part-time)</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann3">
+					<testata>
+						<denAnnesso>Tabella 3</denAnnesso>
+						<titAnnesso>B) ISTITUTO NAZIONALE DI OTTICA APPLICATA DI FIRENZE PIANTA ORGANICA</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red4" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.3" />
+							</descrittori>
+						</meta>
+						<contenitore id="con3" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>PROFILO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>LIVELLO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>DOTAZIONE ORGANICA</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente</h:td>
+										<h:td>III</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Dirigenti</h:td>
+										<h:td />
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente di ricerca</h:td>
+										<h:td>I</h:td>
+										<h:td>8</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Ricercatore</h:td>
+										<h:td>II</h:td>
+										<h:td>15</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Ricercatore</h:td>
+										<h:td>III</h:td>
+										<h:td>17</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Ricercatori</h:td>
+										<h:td />
+										<h:td>40</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente Tecnologo</h:td>
+										<h:td>I</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Tecnologo</h:td>
+										<h:td>II</h:td>
+										<h:td>0</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tecnologo</h:td>
+										<h:td>III</h:td>
+										<h:td>5</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Tecnologi</h:td>
+										<h:td />
+										<h:td>6</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Funzionario di Amministrazione</h:td>
+										<h:td>IV</h:td>
+										<h:td>0</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>0</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Funzionari di Amministrazione</h:td>
+										<h:td />
+										<h:td>0</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>C.T.E.R.</h:td>
+										<h:td>IV</h:td>
+										<h:td>3</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale C.T.E.R.</h:td>
+										<h:td />
+										<h:td>7</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Collaboratore di Amministrazione</h:td>
+										<h:td>V</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Collaboratori di Amministrazione</h:td>
+										<h:td />
+										<h:td>5</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Operatore Tecnico</h:td>
+										<h:td>VI</h:td>
+										<h:td>4</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VIII</h:td>
+										<h:td>3</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Operatori Tecnici</h:td>
+										<h:td />
+										<h:td>8</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Ausiliario Tecnico</h:td>
+										<h:td>VIII</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Ausiliari Tecnici</h:td>
+										<h:td />
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>TOTALE</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>68</h:b>
+										</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann4">
+					<testata>
+						<denAnnesso>Tabella 4</denAnnesso>
+						<titAnnesso>C) ISTITUTO PAPIROLOGICO "GIROLAMO VITELLI" PIANTA ORGANICA</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red5" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.4" />
+							</descrittori>
+						</meta>
+						<contenitore id="con4" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>PROFILO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>LIVELLO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>DOTAZIONE ORGANICA</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Ricercatore</h:td>
+										<h:td>II</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Ricercatore</h:td>
+										<h:td>III</h:td>
+										<h:td>4</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Ricercatori</h:td>
+										<h:td />
+										<h:td>6</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Funzionario di Amministrazione</h:td>
+										<h:td>V</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Funzionari di Amministrazione</h:td>
+										<h:td />
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>C.T.E.R.</h:td>
+										<h:td>IV</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale C.T.E.R.</h:td>
+										<h:td />
+										<h:td>4</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Operatore di Amministrazione</h:td>
+										<h:td>VIII</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Operatori di Amministrazione</h:td>
+										<h:td />
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>TOTALE</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>13</h:b>
+										</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann5">
+					<testata>
+						<denAnnesso>Tabella 5</denAnnesso>
+						<titAnnesso>ISTITUTO NAZIONALE PER LA FISICA DELLA MATERIA (INFM) PIANTA ORGANICA</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red6" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.5" />
+							</descrittori>
+						</meta>
+						<contenitore id="con5" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>PROFILO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>LIVELLO</h:b>
+										</h:td>
+										<h:td>
+											<h:b>DOTAZIONE ORGANICA</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente di Ricerca</h:td>
+										<h:td>I</h:td>
+										<h:td>3</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Ricercatore</h:td>
+										<h:td>II</h:td>
+										<h:td>20</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Ricercatore</h:td>
+										<h:td>III</h:td>
+										<h:td>28</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Ricercatori</h:td>
+										<h:td />
+										<h:td>51</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Dirigente Tecnologo</h:td>
+										<h:td>I</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>I Tecnologo</h:td>
+										<h:td>II</h:td>
+										<h:td>4</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tecnologo</h:td>
+										<h:td>III</h:td>
+										<h:td>15</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Tecnologi</h:td>
+										<h:td />
+										<h:td>21</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Funzionario di Amministrazione</h:td>
+										<h:td>IV</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>13</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Funzionari di Amministrazione</h:td>
+										<h:td />
+										<h:td>15</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>C.T.E.R.</h:td>
+										<h:td>IV</h:td>
+										<h:td>6</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>V</h:td>
+										<h:td>9</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>12</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale C.T.E.R.</h:td>
+										<h:td />
+										<h:td>27</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Collaboratore di Amministrazione</h:td>
+										<h:td>V</h:td>
+										<h:td>10</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VI</h:td>
+										<h:td>12</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>14</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Collaboratori di Amministrazione</h:td>
+										<h:td />
+										<h:td>36</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Operatore Tecnico</h:td>
+										<h:td>VI</h:td>
+										<h:td>0</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VII</h:td>
+										<h:td>2</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>VIII</h:td>
+										<h:td>4</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Operatori Tecnici</h:td>
+										<h:td />
+										<h:td>6</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Ausiliario di Amministrazione</h:td>
+										<h:td>IX</h:td>
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale Ausiliari di Amministrazione</h:td>
+										<h:td />
+										<h:td>1</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>Totale</h:b>
+										</h:td>
+										<h:td />
+										<h:td>
+											<h:b>157</h:b>
+										</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann6">
+					<testata>
+						<denAnnesso>Tabella 6</denAnnesso>
+						<titAnnesso>PREVISTA DALL'ARTICOLO 22, COMMA 8</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red7" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.6" />
+							</descrittori>
+						</meta>
+						<contenitore id="con6" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:tbody>
+									<h:tr>
+										<h:td>Consorzio per l'area di ricerca scientifica e tecnologica di Trieste</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di fisica nucleare INFN</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale per la ricerca scientifica e tecnologica sulla montagna - INMR</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di alta matematica "F. Severi"</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di oceanografia e di geofisica sperimentale - OGS</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Museo storico della fisica e centro studi e ricerche "E Fermi"</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Stazione zoologica "A. Dohrn" di Napoli</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DecretoLegislativo>
+	</NIR>

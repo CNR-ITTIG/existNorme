@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Regolamento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20070505" num="103" tipo="GU" />
+					<entratainvigore norm="20070520" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;2676" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070520" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20070520" fonte="all1" id="t2" tipo="allegato" />
+						<evento data="20070520" fonte="all2" id="t3" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;18" xlink:type="simple" />
+						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;2676" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Regolamento</tipoDoc>
+				<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+				, n.
+				<numDoc>18</numDoc>
+				(Protocollo n.
+				<numDoc nome="protocollo">2676</numDoc>
+				)
+				<titoloDoc>Regolamento per il trattamento dei dati sensibili e giudiziari del CNR</titoloDoc>
+			</intestazione>
+			<articolato>
+				<articolo id="art1">
+					<num>Articolo 1</num>
+					<rubrica>(Oggetto del Regolamento)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							II presente Regolamento in attuazione del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">decreto legislativo 30 giugno 2003, n. 196</rif>
+							, identifica le tipologie di dati sensibili e giudiziari e le operazioni eseguibili da parte del Consiglio Nazionale delle Ricerche (CNR) nello svolgimento delle proprie funzioni istituzionali.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Articolo 2</num>
+					<rubrica>(Individuazione dei tipi di dati e di operazioni eseguibili)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							In attuazione delle disposizioni di cui agli
+							<mrif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art20-com2" xlink:type="simple">articolo 20, comma 2</rif>
+								e
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
+								del decreto legislativo 30 giugno 2003, n. 196
+							</mrif>
+							, l'indice dei trattamenti di cui all'
+							<rif xlink:href="#ann1" xlink:type="simple">allegato A</rif>
+							e gli allegati contraddistinti dai numeri da 1 a 9, che formano parte integrante del presente Regolamento, identificano i tipi di dati sensibili e giudiziari per cui è consentito il relativo trattamento, nonché le operazioni eseguibili in riferimento alle specifiche finalità di rilevante interesse pubblico previste dalla legge e individuate nei predetti allegati.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>I dati sensibili e giudiziari individuati dal presente regolamento sono trattati previa verifica della loro pertinenza, completezza e indispensabilità rispetto alle finalità perseguite nei singoli casi, specie nel caso in cui la raccolta non avvenga presso l'interessato.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>
+							Le operazioni di interconnessione, raffronto, comunicazione individuate nel presente regolamento sono ammesse soltanto se indispensabili allo svolgimento degli obblighi o compiti di volta in volta indicati, per il perseguimento delle rilevanti finalità di interesse pubblico specificate e nel rispetto delle disposizioni in materia di protezione dei dati personali, nonché degli altri limiti stabiliti dalla legge e dai regolamenti. I raffronti e le interconnessioni con altre informazioni sensibili e giudiziarie detenute dall'Ente sono consentite soltanto previa verifica della loro stretta indispensabilità nei singoli casi ed indicazione scritta dei motivi che ne giustificano l'effettuazione. Le predette operazioni, se effettuate utilizzando banche di dati di diversi titolari del trattamento, sono ammesse esclusivamente previa verifica della loro stretta indispensabilità nei singoli casi e nel rispetto dei limiti e con le modalità stabiliti dalle disposizioni legislative che le prevedono (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art22" xlink:type="simple">art.22 del d.lgs. n.196/2003</rif>
+							). Sono inutilizzabili i dati trattati in violazione della disciplina rilevante in materia di trattamento dei dati personali (
+							<mrif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art11" xlink:type="simple">articolo 11</rif>
+								e
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art22-com5" xlink:type="simple">articolo 22, comma 5</rif>
+								del d.lgs. n. 196/2003
+							</mrif>
+							).
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Articolo 3</num>
+					<rubrica>(Riferimenti normativi)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>Al fine di rendere maggiormente semplificata la lettura del presente regolamento, le disposizioni di legge, citate nella parte descrittiva delle "fonti normative" delle schede, si intendono come recanti le successive modifiche e integrazioni.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Articolo 4</num>
+					<rubrica>(Disposizioni Finali e Transitorie)</rubrica>
+					<comma id="art4-com1">
+						<num>1</num>
+						<corpo>
+							Per quanto non previsto nel presente Regolamento, si applicano le disposizoni di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">decreto legislativo 30 giugno 2003, n. 196</rif>
+							e dei disciplinari e circolari in materia di trattamento dei dati personali nell'ambito del Consiglio Nazionale delle Ricerche.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato A</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Indice dei trattamenti</titoloDoc>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>n. allegati</h:b>
+										</h:td>
+										<h:td>
+											<h:b>denominazione del trattamento</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>1</h:td>
+										<h:td>Attività di gestione del rapporto di lavoro del personale impiegato a vario titolo presso il CNR ivi comprese le attività connesse con l'elettorato attivo e passivo per la nomina delle Rappreentanze Sindacali (RSU)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>2</h:td>
+										<h:td>Attività relativa al riconoscimento di benefici connessi all'inva1idità civile per il personale e all'invalidità derivante da cause di servizio, nonché da riconoscimento di inabilità a svolgere attività lavorativa</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>3</h:td>
+										<h:td>Attività relativa all'infortunistica stradale</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>4</h:td>
+										<h:td>Attività relative alla consulenza giuridica, gestione del contenzioso giudiziale e stragiudiziale, nonché alla consulenza e copertura assicurativa in caso di responsabilità civile verso terzi dell'amministrazione.</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>5</h:td>
+										<h:td>Attività di documentazione dell'attività istituzionale degli organi di vertice dell'Ente (Presidente, Collegio dei Revisori dei Conti, Consiglio di Amministrazione e Consiglio Scientifico Generale)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>6</h:td>
+										<h:td>Attività di gestione delle Biblioteche, di Centri di documentazione aperti al pubblico e di musei</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>7</h:td>
+										<h:td>Attività di ricerca medica, biomedica ed idemiologica</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>8</h:td>
+										<h:td>Attività di ricerca scientifica nelle scienze tecnico/umanistiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>9</h:td>
+										<h:td>Attività di servizio di diagnosi e cura nell'ambito del Servizio sanitario nazionale</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività di gestione del rapporto di lavoro del personale impiegato a vario titolo presso il CNR ivi comprese le attività connesse con l'elettorato attivo e passivo per la nomina delle Rappresentanze Sindacali (RSU)</titoloDoc>
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<contenitore id="con3" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262" xlink:type="simple">Codice civile</rif>
+									(artt. 2094-2134);
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1965-06-30;1124" xlink:type="simple">D.P.R. 30.06.1965, n. 1124</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1970-05-20;300" xlink:type="simple">L. 20.05.1970, n. 300</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1990-02-07;19" xlink:type="simple">L. 7.02.1990, n. 19</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1994-09-19;626" xlink:type="simple">D.lg. 19.09.1994, n. 626</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1999-03-12;68" xlink:type="simple">L. 12.03.1999, n. 68</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:2000-03-08;53" xlink:type="simple">L. 8.03.2000, n. 53</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.lg. 30.03.2001 n. 165</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-26;151" xlink:type="simple">D.lg. 26.03.2001, n. 151</rif>
+									;
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445" xlink:type="simple">D.P.R. 28.12.2000, n. 445</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1991-08-15;277" xlink:type="simple">D.lg. 15.08.1991, n. 277</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1982-04-14;164" xlink:type="simple">L. 14.04.1982, n. 164</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lg 04.06.2003, n. 127</rif>
+									; CCNL; Contratti collettivi decentrati;
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005).
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con4" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Instaurazione e gestione dei rapporti di lavoro dipendente di qualunque tipo, anche a tempo parziale o temporaneo, e di altre forme di impiego che non comportano la costituzione di un rapporto di lavoro subordinato (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112" xlink:type="simple">art. 112, D.lgs. n. 196/2003</rif>
+									), attività di formazione (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art95" xlink:type="simple">art.95 D.lgs. n. 196/2003</rif>
+									).
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con5" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Convinzioni:</h:b>
+									religiose / filosofiche / politiche / sindacali / d'altro genere;
+									<h:b>Stato di salute:</h:b>
+									patologie attuali / patologie pregresse, terapie in corso / relativi ai familiari del dipendente;
+									<h:b>Vita sessuale</h:b>
+									(soltanto in caso di rettificazione di attribuzione di sesso);
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) d.lgs. n.196/2003</rif>
+									).
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con6" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Particolari forme di elaborazione:</h:p>
+								<h:ul>
+									<h:li>
+										Raffronti di dati con: amministrazioni certificanti ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445" xlink:type="simple">d.P.R. n. 445/2000</rif>
+									</h:li>
+								</h:ul>
+								<h:p>c) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+								<h:ul>
+									<h:li>alle organizzazioni sindacali ai fini della gestione dei permessi e delle trattenute sindacali relativamente ai dipendenti che hanno rilasciato delega;</h:li>
+									<h:li>agli enti assistenziali, previdenziali e assicurativi e autorità locali di pubblica sicurezza ai fini assistenziali e previdenziali, nonché per rilevazione di eventuali patologie o infortuni sul lavoro;</h:li>
+									<h:li>uffici competenti per il collocamento mirato, relativamente ai dati anagrafici degli assunti appartenenti alle "categorie protette";</h:li>
+									<h:li>
+										strutture sanitarie competenti per le visite fiscali (
+										<rif xlink:href="urn:nir:stato:legge:1970;300#art5" xlink:type="simple">art. 5, l. n. 300/1970</rif>
+										e CCNL);
+									</h:li>
+									<h:li>enti di appartenenza dei lavoratori comandati in entrata (per definire il trattamento retributivo del dipendente);</h:li>
+									<h:li>
+										all'lSPESL (ax
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1994;626#art70" xlink:type="simple">art. 70 dlgs. n. 626/1994</rif>
+										) o altri Enti o organismi preposti alla vigilanza in materia di igiene e sicurezza nei luoghi di lavoro.
+									</h:li>
+									<h:li>
+										Presidenza del Consiglio dei Ministri - Dipartimento della Funzione Pubblica, in relazione alla gestione ed alla rilevazione annuale dei permessi per cariche sindacali (
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art53" xlink:type="simple">art. 53 del D.lgs n. 165/2001</rif>
+										, CCNQ in data 7 agosto 1998);
+									</h:li>
+									<h:li>ARAN, per la verifica della rappresentatività sindacale con indicazione numerica del personale amministrativo iscritto alle organizzazioni sindacali, per ogni sede istituzionale;</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con7" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>
+									ll trattamento concerne i dati indispensabili all'instaurazione ed alla gestione del rapporto di lavoro, avviato a qualunque titolo (compreso quelli a tempo determinato, part-time, dl consulenza, co.co.co, ecc.) a partire dai procedimenti concorsuali o da altre procedure di selezione. I dati sono oggetto di trattamento presso le competenti strutture del CNR per quanto riguarda la gestione dell'orario di servizio, le certificazioni di malattie ed altri giustificativi delle assenze; vengono inoltre effettuali trattamenti a fini statistici e di controllo di gestione e l'accertamento dei requisiti per la fruizione di borse di studio o altre agevolazioni. I dati sulle convinzioni religiose possono rendersi necessari per lo concessione di permessi per quelle festività la cui fruizione è connessa all'appartenza a determinate confessioni religiose o in relazione a particolari preferenze alimentari la dove sia previsto un servizio di mensa; quelli sulle opinioni filosofiche o di altro genere possono venire in evidenza dalla documentazione connessa allo svolgimento del servizio di leva come obiettore di coscienza, le informazioni sulla vita sessuale possono desumersi unicamente in caso di rettificazione di attribuzione di sesso. Possono essere raccolti anche dati sulla salute relativi ai familiari del dipendente ai fini della concessione di benefici nei soli casi previsti dalla legge. I dati pervengono su iniziativa dei dipendenti e/o previa richiesta da parte dell'Ente. I dati vengono trattati ai fini dell'applicazione dei vari istituti contrattuali discriminati dalla legge e dal CCNL (gestione giuridica, economica, previdenziale, pensionistica, attività di aggiornamento e formazione). Vengono effettuati raffronti con amministrazioni e gestori di pubblici servizi: tale operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
+									. L'Amministrazione nell'ambito delle attività connesse all'esercizio dei diritti sindacali provvede a comunicare all'ARAN I'elettorato attivo e a raccogliere gli elenchi dell'elettorato passivo degli iscritti delle varie OO.SS. maggiomnente rappresentative (
+									<mrif>
+										Art.
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art42" xlink:type="simple">42</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art43" xlink:type="simple">43</rif>
+										del d lgs. 30.3.2001, n. 165
+									</mrif>
+									)
+								</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann3">
+					<testata>
+						<denAnnesso>Allegato 2</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red4" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.2" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività relativa al riconoscimento di benefici connessi all'invalidità civile per il personale e all'invalidità derivante da cause di servizio, nonché da riconoscimento di inabilità a svolgere attività lavorativa.</titoloDoc>
+						</intestazione>
+						<contenitore id="con8" nome="corpo">
+							<contenitore id="con9" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1965-06-30;1124" xlink:type="simple">D.P.R. 30.06.1965, n. 1124</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1970-05-24;336" xlink:type="simple">l. 24.05.1970, n. 336</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">l. 5.02.1992, n. 104</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1999-03-12;68" xlink:type="simple">l. 12.03.1999, n. 68</rif>
+									;
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">D.P.R. 29.10.2001, n. 461</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:1995-08-08;335" xlink:type="simple">l. 8.08.1995, n. 335</rif>
+									;
+									<rif xlink:href="urn:nir:stato:legge:2000-12-23;388" xlink:type="simple">l. 23.12.2000, n. 388</rif>
+									;
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005).
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con10" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Concessione, liquidazione, modifica e revoca di benefici economici, agevolazioni, elargizioni, emolumenti (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art68" xlink:type="simple">art. 68 d.lgs. n 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con11" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Convinzioni:</h:b>
+									etnica;
+									<h:b>Stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso;
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con12" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Particolari forme di elaborazione:</h:p>
+								<h:ul>
+									<h:li>
+										Raffronti di dati con: amministrazioni certificanti ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445" xlink:type="simple">d.P.R. n. 445/2000</rif>
+									</h:li>
+								</h:ul>
+								<h:p>c) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+								<h:ul>
+									<h:li>
+										INAIL (per verificate la liquidazione in caso di equo indennizzo ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1965;1124" xlink:type="simple">d.P.R. n. 1124/1965</rif>
+										);
+									</h:li>
+									<h:li>
+										comitato di verifica per le cause di servizio e commissione medica territorialmente competente (per conseguire il parere definitivo di riconoscimento della causa di servizio ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001;461" xlink:type="simple">d.P.R. n. 461/2001</rif>
+										);
+									</h:li>
+									<h:li>
+										INPDAP (in caso di inabilità assoluta e permanente a qualsiasi attività lavorativa ai fini dell'erogazione del relativo trattamento di pensione e del riconoscimento del diritto alla pensione privilegiata ai sensi della
+										<rif xlink:href="urn:nir:stato:legge:1995;335" xlink:type="simple">l. n. 335/1995</rif>
+										e del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">D.P.R. 29.10.2001, n.461</rif>
+										)
+									</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con13" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>
+									I dati vengono acquisiti dall'interessato e da terzi previa richiesta dell'interessato, (in particolare dalla Commissione medico ospedaliera territorialmente competente per l'accertamento delle condizioni di idoneità al servizio e dal Comitato di verifica per le cause di servizio in caso di richiesta di riconoscimento di invalidità dipendente da causa di servizio e/o equo indennizzo). In caso di richiesta di pensione privilegiata, i dati vengono trasmessi all'INPDAP per l'erogazione del trattamento pensionistico. Uguale trasmissione si ha nell'ipotesi di richiesta di riconoscimento alla contribuzione figurativa di cui all'
+									<rif xlink:href="urn:nir:stato:legge:2000;388#art80" xlink:type="simple">art. 80, l. n. 388/2000</rif>
+									. Esperita l'istruttoria, la determinazione dirigenziale relativa al riconoscimento dell'invalidità viene comunicata all'INAIL per gli accertamenti connessi alla liquidazione ai sensi dell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art130" xlink:type="simple">art. 130 d.lgs. n. 112/1998</rif>
+									). Vengono effettuati raffronti con amministrazioni e gestori di pubblci servizi: tale tipo di operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
+									. I dati sull'origine etnica sono trattati soltanto ove indispensabili per l'acquisizione di benefici in favore di profughi e internati in campi di sterminio.
+								</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann4">
+					<testata>
+						<denAnnesso>Allegato 3</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red5" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.3" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività relativa all'infortunistica stradale.</titoloDoc>
+						</intestazione>
+						<contenitore id="con14" nome="corpo">
+							<contenitore id="con15" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1992-12-16;495" xlink:type="simple">D.P.R. 16.12.1992, n. 495</rif>
+									;
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1988-08-23;395#art6" xlink:type="simple">D.P.R. 23/08/1988, n. 395 art.6</rif>
+									;
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art9" xlink:type="simple">D.P.R. 12/2/1991, n. 171 art. 9</rif>
+									; CCNL Comparto Istituzionied Enti di ricerca.
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con16" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Attività relativa all'infortunistica stradale (
+									<mrif>
+										articolo
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art71" xlink:type="simple">71</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112-com2-letc" xlink:type="simple">112, comma 2, lettera c)</rif>
+										D.lg. n. 196/2003
+									</mrif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con17" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Stato di salute:</h:b>
+									patologie attuali / terapie in corso;
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con18" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+								<h:ul>
+									<h:li>alla società di noleggio delle autovetture in base a quanto previsto dal contratto e alle imprese di assicurazione nei casi consentiti dalla legge ai fini del risarcimento dei danni;</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con19" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>I dati vengono acquisiti in occasione della rilevazione di incidenti e/o infortuni; gli stessi sono trattati nei limiti strettamente indispensabili per l'accertamento dei fatti al fine del risarcimento danni.</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann5">
+					<testata>
+						<denAnnesso>Allegato 4</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red6" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.4" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività relative alla consulenza giuridica, gestione del contenzioso giudiziale e stragiudiziale, nonché alla consulenza e copertura assicurativa in caso di responsabilità civile verso terzi dell'amministrazione.</titoloDoc>
+						</intestazione>
+						<contenitore id="con20" nome="corpo">
+							<contenitore id="con21" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">decreto legislativo 127/2003</rif>
+									,
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">D.P.CNR prot. n. 25034 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005); Leggi sulla giustizia amministrativa;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.lg, 30.03.2001, n. 165</rif>
+									;
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">DPR. 29.10.2001, n. 461</rif>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con22" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Finalità volte a fare valere il diritto di difesa in sede amministrativa o giudiziaria (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art71" xlink:type="simple">art. 71 del d.lgs. n. 196/2003</rif>
+									) e correlate alla gestione del rapporto di lavoro (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112" xlink:type="simple">art. 112 del d.lgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con23" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Origine:</h:b>
+									razziale / etnica;
+									<h:b>convinzioni:</h:b>
+									religiose / filosoliche / politiche / sindacali / d'altro genere;
+									<h:b>stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso / relativi anche ai familiari dell'interessato;
+									<h:b>vita sessuale</h:b>
+									;
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con24" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Particolari forme di elaborazione</h:p>
+								<h:ul>
+									<h:li>
+										Raffronti di dati con: amministrazioni certificanti ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445" xlink:type="simple">d.P.R. n. 445/2000</rif>
+									</h:li>
+								</h:ul>
+								<h:p>c) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+								<h:ul>
+									<h:li>Autorità giudiziaria, avvocati e consulenti tecnici incaricati dall'Autorità giudiziaria, Avvocatura Generale dello Stato, Uffici provinciali del lavoro, Enti previdenziali (INAIL, INPS, INPDAP), enti di patronato, sindacati, incaricati di indagini difensive proprie e altrui, consulenti della controparte (per le finalità di corrispondenza sia in fase pregiudiziale, sia in corso di causa, per la gestione dei sinistri causati direttamente o indirettamente a terzi);</h:li>
+									<h:li>società assicuratrici (per la valutazione e la copertura economica degli indennizzi per la responsabilità civile verso terzi);</h:li>
+									<h:li>
+										struttura sanitaria e Comitato di verifica per le cause di servizio (per la relativa trattazione amministrativa ai sensi del
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001;461" xlink:type="simple">D.P.R. n. 461/2001</rif>
+										);
+									</h:li>
+									<h:li>
+										alle amministrazioni coinvolte nel caso in cui venga presentato il ricorso straordinario al Capo dello Stato (per la relativa trattazione, ai sensi della
+										<rif xlink:href="urn:nir:stato:legge:1971;1199" xlink:type="simple">legge n. 1199/1971</rif>
+										)
+									</h:li>
+									<h:li>Ministero del Lavoro (Uff. Prov. Lav.) per tentativo obbligatorio di conciliazione</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con25" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>
+									Il trattamento dei dati giudiziari e sensibili è effettuato per quanto strettamente indispensabile in relazione ad ogni fattispecie che possa dar luogo ad un contenzioso, in particolare nell'ambito di pareri resi all'Amministrazione di scritti difensivi prodotti in giudizio, così come nell'ambito delle richieste di indennizzo e/o danni inerenti la responsabilità civile verso terzi dell'Amministrazione. Vengono effettuati eventuali raffronti con amministrazioni e gestori di pubblici servizi: tale tipo di operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R n. 445/2000</rif>
+									. Gli stessi possono essere comunicati agli uffici competenti per la relativa trattazione amministrativa, all'Autorità giudiziaria (che può anche comunicarli all'ente), al professionista per un'eventuale attribuzione di incarico; all'avvocatura generale dello Stato per acquisire pareri e/o fornire elementi per la difesa in giudizio, all'Ufficio provinciale del lavoro per il tentativo di conciliazione, agli Enti previdenziali (INAIL, INPS INPDAP), agli enti di patronato ed ai sindacati (incaricati di indagini difensive proprie e altrui); nonché al consulente della controparte e al consulente nominato dall'autorità giudiziaria (per le finalità di corrispondenza sia in fase pregiudiziale, sia in corso di causa, nonché per la gestione dei sinistri causati direttamente o indirettamente a terzi). I dati riguardano ogni fattispecie che possa dare luogo ad un contenzioso.
+								</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann6">
+					<testata>
+						<denAnnesso>Allegato 5</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red7" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.5" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività di documentazione dell'attività istituzionale degli organi dell'Ente (Presidente, Consiglio di amministrazione, Consiglio scientifico generale, Collegio dei revisori dei conti)</titoloDoc>
+						</intestazione>
+						<contenitore id="con26" nome="corpo">
+							<contenitore id="con27" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
+									,
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">D.P.CNR prot. n. 25034 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005);
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">D.lg 30.06.2003, n. 196</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286" xlink:type="simple">decreto legislativo 30-7-1999 n. 286</rif>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con28" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Attività di controllo, di indirizzo politico e documentazione dell'attività istituzionale degli organi dell'Ente (
+									<mrif>
+										artt.
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art65" xlink:type="simple">65</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art67" xlink:type="simple">67</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art69" xlink:type="simple">69</rif>
+										del decreto legislativo n. 196/2003
+									</mrif>
+									).
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con29" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Origine:</h:b>
+									razziale / etnica;
+									<h:b>convinzioni:</h:b>
+									religiose / filosoliche / politiche / sindacali / di altro genere;
+									<h:b>stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso;
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con30" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Comunicazione ai seguenti soggetti per le seguenti finalità:</h:p>
+								<h:ul>
+									<h:li>Ministero vigilante nell'ambito delle richieste formulate per l'espletamento delle funzioni di vigilanza e per fornire elementi di risposta agli atti di sindacato ispettivo del Parlamento;</h:li>
+									<h:li>Autorità giudiziaria e Corte dei Conti qualora indispensabile per i giudizi davanti alla Conti o altra giurisdizione</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con31" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>I trattamenti di dati sensibili o giudiziari sono attuati nei limiti strettamente connessi all'esercizio delle funzioni istituzionali dei singoli organi. In particolare riguardano la predisposizione degli atti e della documentazione prodotta nell'esercizio delle funzioni istituzionali degli organi. I trattamenti possono riguardare comunicazioni alla Corte dei Conti o ad altra giurisdizione qualora siano rilevanti e indispensabili per giudizi nonché comunicazioni al Ministero vigilante in base a disposizioni di leggi o regolamenti ed in particolare per fornire elementi di risposta ad atti di sindacato ispettivo rivolti da parlamentari al Ministro o ad altri esponenti del Governo.</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann7">
+					<testata>
+						<denAnnesso>Allegato 6</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red8" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.6" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Attività di gestione delle biblioteche, di centri di documentazione aperti al pubblico e di Musei</titoloDoc>
+						</intestazione>
+						<contenitore id="con32" nome="corpo">
+							<contenitore id="con33" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
+									,
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
+									(G.U. n. 124 del 30 maggio 2005);
+									<rif xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1987-10-07;475" xlink:type="simple">DPCM 7.10.1987 n. 475</rif>
+									;
+									<rif xlink:href="urn:nir:ministero.beni.attivita.culturali:decreto:2001-05-10;nir-1" xlink:type="simple">D.M. 10/5/2001</rif>
+									;
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42" xlink:type="simple">D.lg. 22.01.2004, n. 42</rif>
+									,
+									<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">L 5/2/1992, n. 104</rif>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con34" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Attività di promozione della cultura scientifica (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art73-com2-letc" xlink:type="simple">art. 73, comma 2, lett. c</rif>
+									) e attività di assistenza, integrazione sociale e tutela dei diritti delle persone handicappate (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art86-com1-letc" xlink:type="simple">86 comma 1 lettera c</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con35" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>stato di salute:</h:b>
+									patologie attuali.
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con36" nome="">
+								<h:p />
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con37" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>
+									Alcuni dati sulle condizioni di salute possono essere acquisiti al solo fine di consentire l'utilizzo di specifici ausili atti a garantire ai diversamente abili - ai sensi della
+									<rif xlink:href="urn:nir:stato:legge:1992;104" xlink:type="simple">legge 104/92</rif>
+									- il pieno ed autonomo godimento dei servizi e delle risorse informatiche della biblioteca, dei centri di documentazione e dei Musei.
+								</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann8">
+					<testata>
+						<denAnnesso>Allegato 7</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red9" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.7" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Denominazione del trattamento: Attività di ricerca medica, biomedica ed epidemiologica</titoloDoc>
+						</intestazione>
+						<contenitore id="con38" nome="corpo">
+							<contenitore id="con39" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n.127</rif>
+									(Riordino del CNR);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
+									);
+									<mrif>
+										decreto legislativo n. 196/2003 artt.
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art107" xlink:type="simple">107</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art110" xlink:type="simple">110</rif>
+									</mrif>
+									; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004.
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con40" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Sono le finalità contenute nell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-letc" xlink:type="simple">art. 98 comma 1 lettera c) del decreto legislativo n. 196/2003</rif>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con41" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Origine:</h:b>
+									razziale / etnica;
+									<h:b>stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso anche relativi ai familiari;
+									<h:b>vita sessuale</h:b>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con42" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>
+									b) Particolari forme di elaborazione
+									<h:br />
+									Interconnessione e raffronti di dati: Con altri trattamenti o banche dati delle Strutture di Ricerca del CNR
+								</h:p>
+								<h:p>c) Comunicazione ai seguenti soggetti:</h:p>
+								<h:ul>
+									<h:li>Altri enti, istituzioni e organismi pubblici e privati aventi finalità di ricerca, esclusivamente nell'ambito di progetti congiunti;</h:li>
+									<h:li>Altri enti, istituzioni e organismi pubblici e privati, aventi finalità di ricerca e non partecipanti a progetti congiunti, limitatamente a informazioni prive di dati identificativi e per scopi storici o scientifici chiaramente determinati per iscritto nella richiesta dei dati in tali casi si applicano gli articoli 8 e 9 del codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004;</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con43" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>Il trattamento dei dati riguarda abitanti dei paesi oggetto di studio, campioni di popolazione, individui affetti da patologie in studio, previa informativa sugli scopi della ricerca e sulla volontarietà dell'adesione per la realizzazione di progetti di ricerca che indicano: il tipo di dati; le operazioni eseguite; le finalità e le modalità di trattamento; e previo espletamento delle procedure previste dalla legge e dai regolamenti per l'autorizzazione (parere comitato etico). ll trattamento è effetuato con modalità tali da rendere anonimi successivamente alla raccolta i dati sensibili. In particolare laddove gli scopi scientifici non possono essere raggiunti mediante l'utilizzo di dati anonimi, il trattamento successivo alla raccolta non deve permettere di identificare gli interessati a meno che l'abbinamento al materiale di ricerca dei dati identificativi di questi ultimi non sia temporaneo ed essenziale per il risultato della ricerca, e sia altresì motivato per iscritto nel progetto di ricerca. I risultati della ricerca non sono diffusi se non in forma anonima. Con riferimento a particolari modalità di raccolta si precisa che i dati possono essere desunti anche dal trattamento delle immagini e/o dalle dichiarazioni raccolte nel corso di eventuali video conferenze, teleconsulti, videoregistrazioni o interviste previa informativa all'interessato.</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann9">
+					<testata>
+						<denAnnesso>Allegato 8</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red10" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.8" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>
+								Denominazione del trattamento:
+								<h:br />
+								Attività di ricerca scientifica nella scienze tecnico/umanistiche
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con44" nome="corpo">
+							<contenitore id="con45" nome="">
+								<h:p>
+									<h:b>Fonti normative:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n. 127</rif>
+									(Riordino del CNR);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
+									);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanziaria del CNR</rif>
+									);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del personale del CNR</rif>
+									); Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi storici del 14.3.2001; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientilici del 16.6.2004.
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con46" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Sono le finalità contenute nell'
+									<mrif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art95" xlink:type="simple">art. 95</rif>
+										e nell'art. 98 comma 1 lettere
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-leta" xlink:type="simple">a)</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-letc" xlink:type="simple">c)</rif>
+										del decreto legislativo n. 196/2003
+									</mrif>
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con47" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Origine:</h:b>
+									razziale / etnica;
+									<h:b>convinzioni:</h:b>
+									religiose / filosofiche / politiche / sindacali /d'altro genere;
+									<h:b>stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso;
+									<h:b>vita sessuale;</h:b>
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con48" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>
+									b) Particolari forme di elaborazione
+									<h:br />
+									Interconnessione e raffronti di dati: Con altri trattamenti o banche dati delle Strutture di Ricerca del CNR
+								</h:p>
+								<h:p>c) Comunicazione ai seguenti soggetti:</h:p>
+								<h:ul>
+									<h:li>Altri enti, istituzioni e organismi pubblici e privati aventi finalità di ricerca, esclusivamente nell'ambito di progetti congiunti;</h:li>
+									<h:li>Altri enti, istituzioni e organismi pubblici e privati, aventi finalità di ricerca e non partecipanti a progetti congiunti, limitatamente a informazioni prive di dati identificativi e per scopi storici o scientifici chiaramente determinati per iscritto nella richiesta dei dati in tali casi si applicano gli articoli 8 e 9 del codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004;</h:li>
+								</h:ul>
+								<h:p />
+							</contenitore>
+							<contenitore id="con49" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<h:p>I dati sensibili e giudiziari sono trattati nell'ambito delle attività di ricerca inerenti le scienze tecniche (agraria, architettura, chimica, fisica, biologia, ingegneria) e umanistiche (economiche, sociali giuridiche, politiche, sociologiche e letterarie) in conformità a quanto previsto dai Codici di deontologia e buona condotta per i trattamenti dei dati personali per scopi storici del 14.3.2001 e per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004 a seconda dei casi. In particolare il tipo di dati trattati e le operazioni in concreto eseguite sono indicati nel progetto di ricerca e laddove gli scopi scientifici non possono essere raggiunti mediante l'utilizzo di dati anonimi, il trattamento successivo alla raccolta non deve permettere di identificare gli interessati a meno che l'abbinamento al materiale di ricerca dei dati identificati di questi ultimi non sia temporaneo ed essenziale per il risultato della ricerca, e sia altresì motivato nel progetto di ricerca. I risultati della ricerca non sono diffusi se non in forma anonima. Con riferimento a particolari modalità di raccolta i dati possono essere desunti anche dal trattamento delle immagini e/o dalle dichiarazione raccolte nel corso di eventuali video conferenze, teleconsulti, videoregistrazioni o interviste previa informativa all'interessato. Il trattamento di dati sensibili può essere effettuato nei limiti strettamente indispensabili per la gestione delle attività di formazione laddove si tratti di attività rivolte a particolari categorie di soggetti (disabili) o si tratti di aderire a specifiche richieste dell'interessato.</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann10">
+					<testata>
+						<denAnnesso>Allegato 9</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red11" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18:allegato.9" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato al Regolamento</tipoDoc>
+							<dataDoc norm="20070412">12 aprile 2007</dataDoc>
+							, n.
+							<numDoc>18</numDoc>
+							<titoloDoc>Denominazione del trattamento: Attività di servizio di diagnosi e cura anche nell'ambito del Servizio Sanitario Nazionale</titoloDoc>
+						</intestazione>
+						<contenitore id="con50" nome="corpo">
+							<contenitore id="con51" nome="">
+								<h:p>
+									<h:b>Fonte legislativa:</h:b>
+								</h:p>
+								<h:p>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n.127</rif>
+									(Riordino del CNR);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
+									);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanziaria del CNR</rif>
+									);
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">DPCNR 4.05.2005</rif>
+									(
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del personale del CNR</rif>
+									);
+									<rif xlink:href="urn:nir:stato:legge:1978;833" xlink:type="simple">L. 833/1978</rif>
+									"Istituzione del servizio sanitario nazionale",
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502" xlink:type="simple">decreto legislativo 30 dicembre 1992, n. 502</rif>
+									(Riordino della disciplina in materia sanitaria, a norma dell'
+									<rif xlink:href="urn:nir:stato:legge:1992-10-23;421#art1" xlink:type="simple">articolo 1 della legge 23 ottobre 1992, n. 421</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con52" nome="">
+								<h:p>
+									<h:b>Finalità di rilevante interesse pubblico perseguite dal trattamento:</h:b>
+								</h:p>
+								<h:p>
+									Attività amministrative correlate alla prevenzione, diagnosi, cura e riabilitazione nell'ambito del Servizio sanitario nazionale (
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art85" xlink:type="simple">art. 85 D.lgs n.196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con53" nome="">
+								<h:p>
+									<h:b>Tipi di dati trattati</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Origine:</h:b>
+									razziale / etnica;
+									<h:b>convinzioni:</h:b>
+									religiose;
+									<h:b>stato di salute:</h:b>
+									patologie attuali / patologie pregresse / terapie in corso anche relativi ai familiari;
+									<h:b>vita sessuale;</h:b>
+									<h:b>dati a carattere giudiziario</h:b>
+									(
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									)
+								</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con54" nome="">
+								<h:p>
+									<h:b>Operazioni eseguite</h:b>
+								</h:p>
+								<h:p>a) Trattamento "ordinario" dei dati (raccolta, registrazione, organizzazione, conservazione, consultazione elaborazione, modificazione, selezione, estrazione, raffronto, utilizzo, blocco, cancellazione e distruzione di dati):</h:p>
+								<h:ul>
+									<h:li>Raccolta: presso gli interessati - presso terzi</h:li>
+									<h:li>Elaborazione: in forma cartacea - con modalita informatizzate</h:li>
+								</h:ul>
+								<h:p>b) Comunicazione</h:p>
+								<h:ol>
+									<h:li>Alla Regione, all'Azienda sanitaria di residenza dell'interersato</h:li>
+									<h:li>ospedali pubblici o privati per la ricerca posti letto per trasferimenti del malato;</h:li>
+									<h:li>Autorità giudiziaria e Forze di polizia;</h:li>
+									<h:li>Ministero della salute ed ASL, per la denuncia di casi di malattie infettive e diffusive;</h:li>
+									<h:li>medico di medicina generale al fine di verificare i percorsi terapeutici susseguenti al ricovero;</h:li>
+									<h:li>Centri di coordinamento regionale immuno-trasfusionali;</h:li>
+									<h:li>Riscontro ad esami commissionati da presidi ospedalieri e da unità operative di medicina generale;</h:li>
+									<h:li>comunicazione ad associazione di volontariato che in regime di convenzione concorrono alla raccolta di sangue umano, dei suoi derivati e del controllo di sangue e dei donatori.</h:li>
+									<h:li>Comune ove è avvenuto il decesso;</h:li>
+									<h:li>Autorità giudiziaria (ove la comunicazione del decesso sia prevista da obblighi di legge)</h:li>
+								</h:ol>
+								<h:p />
+							</contenitore>
+							<contenitore id="con55" nome="">
+								<h:p>
+									<h:b>Sintetica descrizione del trattamento e del flusso informativo</h:b>
+								</h:p>
+								<contenitore id="con56" nome="">
+									<h:p>
+										<h:b>Assistenza specialistica ambulatoriale e di riabilitazione:</h:b>
+										Il trattamento dei dati riguarda le attività amministrative correlate all'erogazione in regime ambulatoriale di prestazioni specialistiche, di diagnostica strumentale e di laboratorio, di riabilitazione.
+									</h:p>
+									<h:p>Il referto delle prestazioni di diagnostica strumentale e di laboratorio è conservato in forma cartacea cd informatica. Con riguardo alla riabilitazione i dati sensibili concernono lo stato di salute e di autonomia del soggetto con le indicazioni del quadro riabilitativo ed assistenziale ritenuto necessario.</h:p>
+									<h:p>I dati relativi alle prestazioni effettuate in convenzione sono comunicate all'Azienda sanitaria di riferimento e/o alla Regione sotto forma di flusso e di cartaceo per la verifica sanitaria e amministrativa nonché per il pagamento delle prestazioni rese.</h:p>
+									<h:p />
+								</contenitore>
+								<contenitore id="con57" nome="">
+									<h:p>
+										<h:b>Attività immuno-trasfusionale:</h:b>
+										I dati riguardano donatori, sacche e riceventi, per garantire la tracciabilità di ogni unità di emo componenti. I dati relativi al donatore contenuto nella scheda di cui al
+										<rif xlink:href="urn:nir:ministero.salute:decreto:2005-03-03;nir-1" xlink:type="simple">DM 3 marzo 2005</rif>
+										, sono trattati nell'ambito del processo di selezione del donatore a cura della struttura trasfusionale che ne cura la conservazione tipizzazione tissutale per trapianti di organi.
+									</h:p>
+									<h:p>
+										Le unità di sangue e di emo componenti vengono raccolti in sacche etichettate conformemente al
+										<rif xlink:href="urn:nir:ministero.salute:decreto:2005-01-25;nir-1" xlink:type="simple">DM 25 gennaio 2001</rif>
+										che in particolare recano il numero identificativo della donazione attraverso il quale è possibile risalire al donatore ove ciò risulti necessario. I dati relativi al ricevente sono trattati e conservati sia dalla struttura immuno ematologia e trasfusionale, sia dalla struttura di degenza presso la quale il paziente è sottoposto al trattamento trasfusionale.
+									</h:p>
+									<h:p />
+								</contenitore>
+								<contenitore id="con58" nome="">
+									<h:p>
+										<h:b>Ricovero ospedaliero:</h:b>
+										Il trattamento dei dati riguarda le attività correlate alle attività di ricovero ospedaliero che può avvenire sia in modo programmato, sia in urgenza. Nell'ambito dell'attività di ricovero ospedaliero di particolare interesse è il trattamento dei dati correlato alle seguenti finalità: cartelle cliniche di ricovero; diari clinici relativi ai ricoverati; registri nosologici; registri delle prenotazioni; schede di dimissione; relazione clinica di dimissione diretta al medico di famiglia; archivi di attività diagnostiche e terapeutiche; registri di sala operatoria; registri delle trasfusioni; registri dei decessi, delle autopsie e delle certificazioni di morte; registri e documenti relativi alle sperimentazioni cliniche; raccolte dei dati con finalità amministrativo - contabili. I dati relativi alle convinzioni religiose sono trattati in seguito alla richiesta di assistenza spirituale avanzata dall'interessato ovvero quando egli rifiuti trattamenti sanitari in contrasto con la propria confessione religiosa. I dati riguardanti l'origine razziale ed etnica sono trattati in sede di assistenza sanitaria erogata a cittadini stranieri. Il ricovero può dar luogo al trattamento dei dati giudiziari quando questo riguardi cittadini detenuti. In caso di decesso presso lo struttura ospedaliera si eseguono attività certificatorie finalizzate alla autorizzazione alla sepoltura o alla cremazione. L'attività autoptica viene svolta solamente per l'accertamenti diagnostico in caso di decesso in cui sussistono dubbi sulla causa della morte. L'ospedale detiene il registro delle cause di morte. Vengono redatte le schede di morte (ISTAT) con finalità di statistica sanitaria. La raccolta dei dati sensibili avviene presso l'interessato e presso le struttture sanitarie pubbliche e private dai quali viene trasferito il malato.
+									</h:p>
+								</contenitore>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

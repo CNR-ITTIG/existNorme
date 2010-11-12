@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DecretoLegislativo>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19991029" num="255" tipo="GU" />
+					<entratainvigore norm="19991113" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:stato:decreto.legislativo:1999-09-29;381" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19991113" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19991113" fonte="ra1" id="t2" tipo="modifica" />
+						<evento data="19991113" fonte="ra2" id="t3" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:decreto.legislativo:1999-09-29;381" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102" xlink:type="simple" />
+						<attiva id="ra2" xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod15" xlink:type="simple" />
+							<dsp:termine da="#t3" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art3-com1" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:posizione>
+								<dsp:pos dove="dopo" xlink:href="#mod15-vir1" xlink:type="simple" />
+							</dsp:posizione>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod15-vir2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="parole" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+					</modificheattive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>DECRETO LEGISLATIVO</tipoDoc>
+				<dataDoc norm="19990929">29 settembre 1999</dataDoc>
+				, n.
+				<numDoc>381</numDoc>
+				<titoloDoc>
+					Istituzione dell'Istituto nazionale di geofisica e vulcanologia, nonché disposizioni concernenti gli enti di ricerca vigilati dal Ministero dell'università e della ricerca scientifica e tecnologica, a norma dell'
+					<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art11" xlink:type="simple">articolo 11 della L. 15 marzo 1997, n. 59</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<preambolo>
+					<h:p>
+						Visti gli
+						<mrif>
+							articoli
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art76" xlink:type="simple">76</rif>
+							e
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art87" xlink:type="simple">87</rif>
+							della Costituzione
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168" xlink:type="simple">legge 9 maggio 1989, n. 168</rif>
+						, e successive modifiche e integrazioni;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59" xlink:type="simple">legge 15 marzo 1997, n. 59</rif>
+						, ed in particolare l'
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art11-com1" xlink:type="simple">articolo 11, comma 1</rif>
+						, lettere b) e d), l'
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art14-com1" xlink:type="simple">articolo 14, comma 1</rif>
+						, lettere a), d) ed f), e l'
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art18-com1" xlink:type="simple">articolo 18, comma 1</rif>
+						, lettere b), d), f) e g);
+					</h:p>
+					<h:p>
+						Visto l'
+						<rif xlink:href="urn:nir:stato:legge:1998-06-16;191#art1-com12" xlink:type="simple">articolo 1, comma 12, della legge 16 giugno 1998, n. 191</rif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:1999-07-29;241" xlink:type="simple">legge 29 luglio 1999, n. 241</rif>
+						;
+					</h:p>
+					<h:p>
+						Vista il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29" xlink:type="simple">decreto legislativo 3 febbraio 1993, n. 29</rif>
+						, e successive modifiche e integrazioni;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+						, sul riordino del Consiglio nazionale delle ricerche;
+					</h:p>
+					<h:p>Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 maggio 1999;</h:p>
+					<h:p>
+						Visto il parere espresso dalla Commissione parlamentare di cui all'
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art5" xlink:type="simple">articolo 5 della citata legge 15 marzo 1997, n. 59</rif>
+						;
+					</h:p>
+					<h:p>Viste le deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 3 e 10 settembre 1999;</h:p>
+					<h:p>Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'università e della ricerca scientifica e tecnologica, di concerto con il Ministro per la funzione pubblica;</h:p>
+				</preambolo>
+				<h:p>Emana il seguente decreto legislativo:</h:p>
+			</formulainiziale>
+			<articolato>
+				<titolo id="tit1">
+					<num>Titolo I</num>
+					<rubrica>Istituto nazionale di geofisica e vulcanologia (INGV)</rubrica>
+					<articolo id="art1" status="omissis">
+						<num>Art. 1</num>
+						<rubrica>Istituzione dell'ente</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo />
+						</comma>
+					</articolo>
+					<articolo id="art2" status="omissis">
+						<num>Art. 2</num>
+						<rubrica>Attività dell'INGV</rubrica>
+						<comma id="art2-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+					<articolo id="art3" status="omissis">
+						<num>Art. 3</num>
+						<rubrica>Organi dell'ente</rubrica>
+						<comma id="art3-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+					<articolo id="art4" status="omissis">
+						<num>Art. 4</num>
+						<rubrica>Piano di attività</rubrica>
+						<comma id="art4-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+					<articolo id="art5" status="omissis">
+						<num>Art. 5</num>
+						<rubrica>Norme applicabili all'INGV</rubrica>
+						<comma id="art5-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+					<articolo id="art6" status="omissis">
+						<num>Art. 6</num>
+						<rubrica>Norme transitorie</rubrica>
+						<comma id="art6-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit2">
+					<num>Titolo II</num>
+					<rubrica>Disposizioni per altri enti di competenza del Ministero dell'università e della ricerca scientifica e tecnologica (MURST)</rubrica>
+					<articolo id="art7" status="omissis">
+						<num>Art. 7</num>
+						<rubrica>Norme sull'Osservatorio geofisico sperimentale e sull'Istituto di ottica</rubrica>
+						<comma id="art7-com1">
+							<num />
+							<corpo />
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit3">
+					<num>Titolo III</num>
+					<rubrica>Norme sulla incentivazione, la costituzione e il funzionamento di consorzi tra enti di ricerca</rubrica>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Consorzi</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>
+								Il Ministro dell'università e della ricerca scientifica e tecnologica, in sede di ripartizione del Fondo ordinario di cui all'
+								<mrif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com1" xlink:type="simple">articolo 7, commi 1</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com2" xlink:type="simple">2</rif>
+									del decreto legislativo 5 giugno 1998, n. 204
+								</mrif>
+								, con indicazione nel decreto di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com2" xlink:type="simple">comma 2 del predetto articolo</rif>
+								, può riservare una apposita quota per il finanziamento di enti di ricerca per la programmata costituzione e partecipazione alle attività di consorzi con soggetti pubblici e privati, per il coordinamento e l'integrazione di programmi di ricerca, per la realizzazione e il miglior utilizzo di infrastrutture, laboratori e strutture di ricerca di interesse comune, per l'erogazione di servizi, per l'attivazione di borse e di assegni di ricerca a sostegno di programmi coordinati. Qualora i consorzi riguardino anche enti di ricerca di competenza di altri Ministeri, il Ministro dell'università e della ricerca scientifica e tecnologica adotta opportune intese con tali amministrazioni ovvero propone apposita direttiva del Comitato interministeriale per la programmazione economica (CIPE) ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art2-com1-letc" xlink:type="simple">articolo 2, comma 1, lettera c), del decreto legislativo 5 giugno 1998, n. 204</rif>
+								, al fine di assumere iniziative coordinate di incentivazione.
+							</corpo>
+						</comma>
+						<comma id="art8-com2">
+							<num>2.</num>
+							<corpo>
+								Per esigenze imprescindibili di razionalizzazione della ricerca scientifica e tecnologica in specifici settori il Ministro dell'università e della ricerca scientifica e tecnologica può condizionare l'approvazione del piano triennale di attività di enti di ricerca vigilati o finanziati dal MURST ovvero l'erogazione ai medesimi di quote del Fondo di cui all'
+								<mrif>
+									articolo 7, commi
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com1" xlink:type="simple">1</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7-com2" xlink:type="simple">2</rif>
+									del decreto legislativo 5 giugno 1998, n. 204
+								</mrif>
+								, alla previa costituzione di consorzi ai sensi del
+								<rif xlink:href="#art8-com1" xlink:type="simple">comma 1</rif>
+								del presente articolo. Qualora le esigenze di cui al presente comma riguardino anche enti di ricerca sottoposti alla vigilanza di altri Ministeri, il Ministro dell'università e della ricerca scientifica e tecnologica adotta opportune intese con gli altri Ministri, ovvero propone apposite direttive del CIPE ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art2-com1-letc" xlink:type="simple">articolo 2, comma 1, lettera c), del decreto legislativo 5 giugno 1998, n. 204</rif>
+								, al fine di assumere iniziative coordinate.
+							</corpo>
+						</comma>
+						<comma id="art8-com3">
+							<num>3.</num>
+							<corpo>
+								Ai consorzi di cui al presente articolo si applica l'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art3-com2" xlink:type="simple">articolo 3, comma 2, del decreto legislativo 30 gennaio 1999, n. 19</rif>
+								. La partecipazione del personale degli enti di ricerca all'attività dei consorzi eventualmente costituiti avviene con il mantenimento dello status riconosciuto nell'ente di provenienza.
+							</corpo>
+						</comma>
+						<comma id="art8-com4">
+							<num>4.</num>
+							<corpo>
+								Amministrazioni dello Stato, diverse dal MURST, possono applicare le disposizioni di cui ai
+								<mrif>
+									commi
+									<rif xlink:href="#art8-com1" xlink:type="simple">1</rif>
+									,
+									<rif xlink:href="#art8-com2" xlink:type="simple">2</rif>
+									e
+									<rif xlink:href="#art8-com3" xlink:type="simple">3</rif>
+								</mrif>
+								con riferimento agli enti di ricerca da esse vigilati e a valere sui finanziamenti da erogare ai medesimi.
+							</corpo>
+						</comma>
+						<comma id="art8-com5">
+							<num>5.</num>
+							<corpo>
+								Le amministrazioni dello Stato che erogano contributi per il funzionamento di enti privati che svolgono attività di ricerca possono riservare apposite quote, ovvero possono condizionare la prosecuzione del sostegno finanziario alla previa costituzione di consorzi con altri soggetti privati, ovvero con enti di ricerca, università o altri soggetti pubblici, per le finalità e le attività di cui al
+								<rif xlink:href="#art8-com1" xlink:type="simple">comma 1</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>Consorzio obbligatorio per la gestione dell'area per la ricerca scientifica e tecnologica nella provincia di Trieste</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>
+								Al consorzio obbligatorio per la gestione dell'area per la ricerca scientifica e tecnologica nella provincia di Trieste, che assume la denominazione di consorzio per l'area di ricerca scientifica e tecnologica di Trieste, si applicano le disposizioni di cui agli
+								<mrif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art14" xlink:type="simple">articoli 14</rif>
+									e
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art15" xlink:type="simple">15</rif>
+									del decreto del Presidente della Repubblica 6 marzo 1978, n. 102
+								</mrif>
+								, e all'
+								<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art8" xlink:type="simple">articolo 8 della legge 29 gennaio 1986, n. 26</rif>
+								, con facoltà di intervento sul territorio della regione Friuli-Venezia Giulia.
+							</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>
+								Il consorzio opera sulla base di unostatuto che disciplina i compiti, le facoltà, gli organi e le rispettive competenze, i princìpi generali di organizzazione e funzionamento, nonché di appositi regolamenti, emanati anche in deroga alle norme di contabilità generale dello Stato ma comunque nel rispetto dei relativi princìpi. Per l'esame dellostatuto e dei regolamenti si applicano le disposizioni di cui all'
+								<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">articolo 8 della legge 9 maggio 1989, n. 168</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<alinea>
+								Al consorzio si applicano l'
+								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
+								, nonché le seguenti disposizioni di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+								:
+							</alinea>
+							<el id="art9-com3-leta">
+								<num>a)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
+									, lettere c), e), g) ed h);
+								</corpo>
+							</el>
+							<el id="art9-com3-letb">
+								<num>b)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art3" xlink:type="simple">articolo 3</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art9-com3-letc">
+								<num>c)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art5" xlink:type="simple">articolo 5</rif>
+									, con riferimento anche all'attività dei soggetti che operano nelle aree;
+								</corpo>
+							</el>
+							<el id="art9-com3-letd">
+								<num>d)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art6" xlink:type="simple">articolo 6</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art9-com3-lete">
+								<num>e)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
+									, lettera a), numero 5, e lettera b);
+								</corpo>
+							</el>
+							<el id="art9-com3-letf">
+								<num>f)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com1" xlink:type="simple">articolo 9, comma 1</rif>
+									, salve le parole: «di cui agli articoli 7 e 8», e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com2" xlink:type="simple">comma 2</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art9-com3-letg">
+								<num>g)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art10-com1" xlink:type="simple">articolo 10, comma 1</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art9-com3-leth">
+								<num>h)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art11" xlink:type="simple">articolo 11</rif>
+									, applicandosi, per quanto riguarda le aree scientifiche e i settori tecnologici, l'
+									<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+									del presente decreto;
+								</corpo>
+							</el>
+							<el id="art9-com3-leti">
+								<num>i)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art12" xlink:type="simple">articolo 12</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art9-com4">
+							<num>4.</num>
+							<corpo>
+								<mmod id="mmo1">
+									In sede di prima applicazione del presente decreto il consiglio di amministrazione è integrato con un componente nominato dal Ministro dell'università e della ricerca scientifica e tecnologica, nonché da un rappresentante per ciascuno dei soci di diritto di cui all'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art1-com1" xlink:type="simple">articolo 1, comma 1, del decreto del Presidente della Repubblica 6 marzo 1978, n. 102</rif>
+									.Entro novanta giorni dalla predetta nomina il consiglio di amministrazione trasmette al MURST le modifiche e integrazioni allo statuto e ai regolamenti per l'adeguamento al presente decreto. Alla data di pubblicazione dello statuto così modificato e integrato sono abrogati gli articoli 12, commi
+									<mod id="mod1">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art12-com1" xlink:type="simple">primo</rif>
+									</mod>
+									,
+									<mod id="mod2">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art12-com2" xlink:type="simple">secondo</rif>
+									</mod>
+									e
+									<mod id="mod3">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art12-com3" xlink:type="simple">terzo</rif>
+									</mod>
+									,
+									<mod id="mod4">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art13" xlink:type="simple">13</rif>
+									</mod>
+									,
+									<mod id="mod5">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art16" xlink:type="simple">16</rif>
+									</mod>
+									,
+									<mod id="mod6">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art17" xlink:type="simple">17</rif>
+									</mod>
+									e
+									<mod id="mod7">
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art18" xlink:type="simple">18</rif>
+									</mod>
+									del
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102" xlink:type="simple">decreto del Presidente della Repubblica 6 marzo 1978, n. 102</rif>
+									, e i commi
+									<mod id="mod8">
+										<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art7-com4" xlink:type="simple">4</rif>
+									</mod>
+									,
+									<mod id="mod9">
+										<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art7-com5" xlink:type="simple">5</rif>
+									</mod>
+									,
+									<mod id="mod10">
+										<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art7-com6" xlink:type="simple">6</rif>
+									</mod>
+									e
+									<mod id="mod11">
+										<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art7-com7" xlink:type="simple">7</rif>
+									</mod>
+									dell'
+									<rif xlink:href="urn:nir:stato:legge:1986-01-29;26#art7" xlink:type="simple">articolo 7 della legge 29 gennaio 1986, n. 26</rif>
+									.
+								</mmod>
+							</corpo>
+						</comma>
+						<comma id="art9-com5">
+							<num>5.</num>
+							<corpo>In considerazione della rilevanza del polo scientifico e tecnologico del Friuli-Venezia Giulia e delle sue relazioni con l'estero, il consorzio ogni anno convoca, per conto del Ministero dell'università e della ricerca scientifica e tecnologica, una conferenza degli enti di ricerca nazionali ed internazionali che ricevono contributi dallo Stato, aventi sede nella regione Friuli-Venezia Giulia, al fine di valutare i programmi ed i risultati ottenuti anche sotto il profilo delle collaborazioni e delle interazioni avviate fra gli stessi. Alla conferenza prendono parte i rappresentanti della regione, delle province e dei capoluoghi di provincia del Friuli-Venezia Giulia e possono partecipare i rappresentanti delle due Università di Trieste e di Udine, delle imprese e delle organizzazioni sindacali.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit4">
+					<num>Titolo IV</num>
+					<rubrica>Norme generali per gli enti di ricerca</rubrica>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>Estensione di disposizioni in vigore per enti di ricerca</rubrica>
+						<comma id="art10-com1">
+							<num>1.</num>
+							<alinea>
+								Agli enti di ricerca di cui all'allegato n. 1, di competenza del MURST, sono estese le seguenti disposizioni di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+								:
+							</alinea>
+							<el id="art10-com1-leta">
+								<num>a)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
+									, lettere c), e), g) e h), in materia di funzioni;
+								</corpo>
+							</el>
+							<el id="art10-com1-letb">
+								<num>b)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art3" xlink:type="simple">articolo 3</rif>
+									, in materia di strumenti;
+								</corpo>
+							</el>
+							<el id="art10-com1-letc">
+								<num>c)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art5" xlink:type="simple">articolo 5</rif>
+									, in materia di comitato di valutazione;
+								</corpo>
+							</el>
+							<el id="art10-com1-letd">
+								<num>d)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art6" xlink:type="simple">articolo 6</rif>
+									, in materia di piano triennale, di organici e di assunzioni di personale;
+								</corpo>
+							</el>
+							<el id="art10-com1-lete">
+								<num>e)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
+									, lettera a), numero 5, elettera b) , in materia di princìpi applicativi ai regolamenti di organizzazione e funzionamento, di amministrazione, finanza e contabilità;
+								</corpo>
+							</el>
+							<el id="art10-com1-letf">
+								<num>f)</num>
+								<corpo>
+									<mrif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com1" xlink:type="simple">articolo 9, commi 1</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com2" xlink:type="simple">2</rif>
+									</mrif>
+									, in materia di controlli e di competenze ministeriali;
+								</corpo>
+							</el>
+							<el id="art10-com1-letg">
+								<num>g)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art10-com1" xlink:type="simple">articolo 10, comma 1</rif>
+									, in materia di risorse finanziarie;
+								</corpo>
+							</el>
+							<el id="art10-com1-leth">
+								<num>h)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art11" xlink:type="simple">articolo 11</rif>
+									, in materia di procedure di assunzione del personale, fatte salve, per gli enti interessati, le disposizioni di cui all'
+									<rif xlink:href="urn:nir:stato:legge:1988-04-29;143#art1" xlink:type="simple">articolo 1 della legge 29 aprile 1988, n. 143</rif>
+									, e di cui all'
+									<rif xlink:href="urn:nir:stato:legge:1997-08-07;266#art5-com2" xlink:type="simple">articolo 5, comma 2, della legge 7 agosto 1997, n. 266</rif>
+									. Per l'indicazione di aree scientifiche e settori tecnologici ai fini delle assunzioni, si applica l'
+									<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+									del presente decreto;
+								</corpo>
+							</el>
+							<el id="art10-com1-leti">
+								<num>i)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art12" xlink:type="simple">articolo 12</rif>
+									, in materia di mobilità temporanea del personale.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art10-com2">
+							<num>2.</num>
+							<alinea>
+								L'Istituto nazionale per studi ed esperienze di architettura navale (INSEAN) e l'Istituto per la ricerca scientifica e tecnologica applicata al mare (ICRAM), fermi restando i poteri di indirizzo e di direttiva del rispettivo Ministro vigilante e previa determinazione, con decreto del Ministro vigilante, degli atti dell'ente da sottoporre ad approvazione o a comunicazione, possono dotarsi di ordinamenti autonomi, mediante appositi regolamenti di organizzazione e funzionamento, nonché di amministrazione, contabilità e finanza anche sulla base dei principi di cui all'
+								<mrif>
+									articolo 7, comma 1,
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-leta-num5" xlink:type="simple">lettera a), numero 5)</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-letb" xlink:type="simple">b)</rif>
+									del decreto legislativo 30 gennaio 1999, n. 19
+								</mrif>
+								. In ordine ai medesimi regolamenti il Ministro vigilante esercita i controlli di cui all'
+								<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">articolo 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
+								. Agli enti di cui al presente comma si applicano le disposizioni di cui all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art6" xlink:type="simple">articolo 6 del decreto legislativo 30 gennaio 1999, n. 19</rif>
+								, con approvazione del piano da parte del Ministro vigilante; ai predetti enti, nonché agli enti di ricerca vigilati dal Ministero per le politiche agricole, si applicano altresì le seguenti disposizioni di cui al predetto
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto n. 19</rif>
+								:
+							</alinea>
+							<el id="art10-com2-leta">
+								<num>a)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
+									, lettere c), e), g) ed h), in materia di funzioni;
+								</corpo>
+							</el>
+							<el id="art10-com2-letb">
+								<num>b)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art3" xlink:type="simple">articolo 3</rif>
+									in materia di strumenti, attribuendo al Ministro vigilante le competenze ivi assegnate al Ministro dell'università e della ricerca scientifica e tecnologica;
+								</corpo>
+							</el>
+							<el id="art10-com2-letc">
+								<num>c)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art5" xlink:type="simple">articolo 5</rif>
+									, in materia di comitato di valutazione, relativamente all'attività di ricerca dell'ente;
+								</corpo>
+							</el>
+							<el id="art10-com2-letd">
+								<num>d)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art11" xlink:type="simple">articolo 11</rif>
+									, in materia di reclutamento del personale, determinando autonomamente le aree scientifiche e i settori tecnologici di inquadramento;
+								</corpo>
+							</el>
+							<el id="art10-com2-lete">
+								<num>e)</num>
+								<corpo>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art12" xlink:type="simple">articolo 12</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art10-com3">
+							<num>3.</num>
+							<corpo>
+								Le disposizioni di cui all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art12" xlink:type="simple">articolo 12 del decreto legislativo 30 gennaio 1999, n. 19</rif>
+								, sono estese anche all'Istituto di studi e di analisi economiche (ISAE).
+							</corpo>
+						</comma>
+						<comma id="art10-com4">
+							<num>4.</num>
+							<corpo>
+								L'estensione, anche parziale, agli altri enti del comparto ricerca delle disposizioni di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n. 19</rif>
+								, e richiamate al
+								<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+								, per quanto applicabili in relazione all'attività svolta, può essere disciplinata con regolamenti emanati ai sensi dell'
+								<rif xlink:href="urn:nir:stato:legge:1988-08-23;400#art17-com2" xlink:type="simple">articolo 17, comma 2, della legge 23 agosto 1988, n. 400</rif>
+								, su proposta dei Ministri vigilanti, salvo quanto previsto da decreti legislativi emanati in attuazione delle disposizioni di cui all'
+								<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art11-com1" xlink:type="simple">articolo 11, comma 1, della legge 15 marzo 1997, n. 59</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art10-com5">
+							<num>5.</num>
+							<corpo>
+								Al personale di ricerca dell'ENEA e dell'ASI, con rapporto di lavoro a tempo indeterminato, si applicano i criteri e i princìpi contenuti nelle disposizioni di cui al
+								<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+								, lettere h) ed i).
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit5">
+					<num>Titolo V</num>
+					<rubrica>
+						Modifiche al
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+					</rubrica>
+					<articolo id="art11">
+						<num>Art. 11</num>
+						<rubrica>Modifica dei compiti del Comitato di indirizzo per la valutazione della ricerca (CIVR) e della composizione del Comitato di esperti per la politica della ricerca (CEPR)</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<corpo>
+								<mmod id="mmo2">
+									All'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5" xlink:type="simple">articolo 5 del decreto legislativo 5 giugno 1998, n. 204</rif>
+									, il secondo periodo del
+									<mod id="mod12">
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5-com1" xlink:type="simple">comma 1</rif>
+									</mod>
+									e i commi
+									<mod id="mod13">
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5-com3" xlink:type="simple">3</rif>
+									</mod>
+									e
+									<mod id="mod14">
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5-com5" xlink:type="simple">5</rif>
+									</mod>
+									sono sostituiti dal seguente periodo: "
+									<virgolette id="mmo2-vir1" tipo="struttura">
+										<comma id="mmo2-vir1-com1">
+											<num />
+											<alinea>Il comitato, sulla base di un programma annuale da esso approvato:</alinea>
+											<el id="mmo2-vir1-com1-leta">
+												<num>a)</num>
+												<corpo>svolge attività per il sostegno alla qualità e alla migliore utilizzazione della ricerca scientifica e tecnologica nazionale. A tal fine promuove la sperimentazione, l'applicazione e la diffusione di metodologie, tecniche e pratiche di valutazione della ricerca;</corpo>
+											</el>
+											<el id="mmo2-vir1-com1-letb">
+												<num>b)</num>
+												<corpo>determina i criteri generali per le attività di valutazione svolte dagli enti di ricerca, dalle istituzioni scientifiche e di ricerca e dell'ASI, verificandone l'applicazione;</corpo>
+											</el>
+											<el id="mmo2-vir1-com1-letc">
+												<num>c)</num>
+												<corpo>d'intesa con le pubbliche amministrazioni, progetta ed effettua attività di valutazione esterna di enti di ricerca da esse vigilati o finanziati, nonché di progetti e programmi di ricerca da esse coordinati o finanziati;</corpo>
+											</el>
+											<el id="mmo2-vir1-com1-letd">
+												<num>d)</num>
+												<corpo>predispone rapporti periodici sulle attività svolte e una relazione annuale in materia di valutazione della ricerca, che trasmette al Ministero dell'universià e della ricerca scientifica e tecnologica, ai Ministri interessati e al CIPE;</corpo>
+											</el>
+											<el id="mmo2-vir1-com1-lete">
+												<num>e)</num>
+												<corpo>determina criteri e modalità per la costituzione, da parte di enti di ricerca e dell'ASI, ove ciò sia previsto dalla normativa vigente, di un apposito comitato incaricato della valutazione dei risultati scientifici e tecnologici dell'attività complessiva dell'ente e, ove ricorrano, degli istituti in cui si articola.</corpo>
+											</el>
+										</comma>
+									</virgolette>
+								</mmod>
+							</corpo>
+						</comma>
+						<comma id="art11-com2">
+							<num>2.</num>
+							<corpo>
+								<mod id="mod15">
+									All'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art3-com1" xlink:type="simple">articolo 3, comma 1, del decreto legislativo 5 giugno 1998, n. 204</rif>
+									, dopo le parole: "
+									<virgolette id="mod15-vir1" tipo="parola">Il Governo si avvale di un comitato di esperti per la politica della ricerca (CEPR), istituito presso il MURST, composto</virgolette>
+									" inserire le seguenti: "
+									<virgolette id="mod15-vir2" tipo="parola">dal Ministro dell'università e della ricerca scientifica e tecnologica, che lo presiede, nonché</virgolette>
+									".
+								</mod>
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit6">
+					<num>Titolo VI</num>
+					<rubrica>Disposizioni per l'attività di ricerca</rubrica>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>Aree scientifiche e settori tecnologici</rubrica>
+						<comma id="art12-com1">
+							<num>1.</num>
+							<corpo>
+								Gli enti di cui agli articoli
+								<rif xlink:href="#art9" xlink:type="simple">9</rif>
+								,
+								<rif xlink:href="#art10-com1" xlink:type="simple">10, comma 1</rif>
+								, e all'allegato 1 del presente decreto, nonché l'INGV e il CNR, in sede di applicazione dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art11" xlink:type="simple">articolo 11 del decreto legislativo 30 gennaio 1999, n. 19</rif>
+								, ove operanti in più aree scientifiche e settori tecnologici, indicano le predette aree e settori per le assunzioni dei ricercatori e dei tecnologi, sulla base di criteri generali determinati con decreto del Ministro dell'università e della ricerca scientifica e tecnologica, con la finalità di assicurare la compatibilità con le competenze scientifiche in essere, procedure di revisione periodica e di variazione delle afferenze, nonché di agevolare i passaggi diretti tra enti di ricerca ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art33" xlink:type="simple">articolo 33 del decreto legislativo 3 febbraio 1993, n. 29</rif>
+								, e successive modificazioni ed integrazioni, e la mobilità con le università. Nelle more dell'emanazione del decreto, al fine di poter effettuare le assunzioni, gli enti possono determinare aree e settori provvisori, che saranno adeguati successivamente all'emanazione del medesimo decreto, assicurando le finalità di cui al presente comma.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<rubrica>Principi per l'attività di ricerca</rubrica>
+						<comma id="art13-com1">
+							<num>1.</num>
+							<alinea>
+								L'attività degli enti di cui all'
+								<rif xlink:href="#art12-com1" xlink:type="simple">articolo 12, comma 1</rif>
+								, si ispira ai seguenti principi:
+							</alinea>
+							<el id="art13-com1-leta">
+								<num>a)</num>
+								<corpo>ai ricercatori e tecnologi, secondo quanto previsto alle lettere b) e c), sono garantite la libertà di ricerca e l'autonomia professionale;</corpo>
+							</el>
+							<el id="art13-com1-letb">
+								<num>b)</num>
+								<corpo>relativamente alle ricerche programmate dall'ente di appartenenza, i ricercatori e i tecnologi, secondo le direttive dell'ente, sono tenuti a svolgere le attività necessarie al conseguimento degli obiettivi previsti dai programmi dell'ente, secondo le rispettive competenze;</corpo>
+							</el>
+							<el id="art13-com1-letc">
+								<num>c)</num>
+								<corpo>fatto salvo l'assolvimento dei compiti di ricerca programmata definiti dagli enti, il personale di ricerca ha facoltà di svolgere ricerca libera, in coerenza con quanto espresso dai programmi e senza oneri aggiuntivi per l'ente. Gli enti favoriscono inoltre la partecipazione dei ricercatori e dei tecnologi ad attività finalizzate allo sviluppo delle competenze scientifiche e all'arricchimento culturale, di aggiornamento, di studio e collaborazione scientifica, senza necessariamente sopportarne il costo;</corpo>
+							</el>
+							<el id="art13-com1-letd">
+								<num>d)</num>
+								<corpo>gli enti favoriscono, per le attività di ricerca, compatibilmente con i propri programmi di attività, l'accesso ai programmi e alle fonti di finanziamento sia nazionali che internazionali;</corpo>
+							</el>
+							<el id="art13-com1-lete">
+								<num>e)</num>
+								<corpo>i ricercatori hanno diritto a sottoporre a valutazione la propria attività scientifica.</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>Norme finali</rubrica>
+						<comma id="art14-com1">
+							<num>1.</num>
+							<corpo>
+								Gli enti di cui all'
+								<rif xlink:href="#art12-com1" xlink:type="simple">articolo 12, comma 1</rif>
+								, adottano regolamenti nelle materie di cui al presente titolo entro centottanta giorni dalla data di entrata in vigore del presente decreto.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+			</articolato>
+			<formulafinale>
+				<h:p>Il presente decreto, munito del sigillo dello Stato sarà inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farla osservare.</h:p>
+			</formulafinale>
+			<conclusione>
+				<dataeluogo codice="" norm="">Data a Roma, addi' 29 settembre 1999</dataeluogo>
+				<firma tipo="sottoscrizione">CIAMPI</firma>
+				<firma tipo="sottoscrizione">D'Alema, Presidente del Consiglio dei Ministri</firma>
+				<firma tipo="sottoscrizione">Zecchino, Ministro dell'università e della ricerca scientifica e tecnologica</firma>
+				<firma tipo="visto">Piazza, Ministro per la funzione pubblica</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:stato:decreto.legislativo:1999-09-29;381:allegato.1" />
+							</descrittori>
+						</meta>
+						<contenitore id="con1" nome="corpo">
+							<h:table>
+								<h:caption />
+								<h:tbody>
+									<h:tr>
+										<h:td>Istituto nazionale di fisica nucleare</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di oceanografia e di geofisica sperimentale</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto elettrotecnico nazionale "Galileo Ferraris"</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di ottica applicata</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Stazione zoologica "A. Dohrn"</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto papirologico "G.Vitelli"</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di fisica della materia</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale di Alta Matematica</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Istituto nazionale per la ricerca scientifica e tecnologica sulla montagna</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DecretoLegislativo>
+	</NIR>

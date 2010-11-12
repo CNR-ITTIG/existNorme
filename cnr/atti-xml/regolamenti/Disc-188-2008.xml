@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20080730" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.spin.off:2008-07-30;188" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188:disciplinare" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080730" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080730" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.spin.off:2008-07-30;188" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20080730">30 luglio 2008</dataDoc>
+				, n.
+				<numDoc>188</numDoc>
+				<titoloDoc>DISCIPLINARE PER LA PARTECIPAZIONE DEL PERSONALE CNR AD IMPRESE SPIN-OFF</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>
+					Approvato dal Consiglio di Amministrazione con
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:2008-07-30;188-2008" xlink:type="simple">delibera n. 188/2008 del 30.7.2008</rif>
+				</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Principi generali</rubrica>
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							Il Consiglio Nazionale delle Ricerche (di seguito CNR) ha tra i propri fini istituzionali la valorizzazione a fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca svolta o coordinata dalla propria rete scientifica, anche a mezzo della partecipazione di proprio personale a società, ivi comprese quelle previste dalI'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297#art2-com1-lete" xlink:type="simple">art. 2, comma 1, lett. e, del decreto legislativo 27 luglio 1999, n. 297</rif>
+							e dalI'
+							<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593#art11" xlink:type="simple">art. 11 del decreto del Ministero 8 agosto 2000, n. 593</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Campo di applicazione</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<alinea>
+							Il presente Disciplinare stabilisce le modalità di partecipazione del personale CNR a imprese spin-off e l'iter per il rilascio delle necessarie autorizzazioni, in recepimento della Raccomandazione della Commissione Europea C (2008) 1329 del 10.4.08, Annex 1 - item 12, Art. 2.
+							<h:br />
+							Per personale CNR si intende, ai soli fini del presente Disciplinare:
+						</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>personale dipendente del CNR;</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>titolari di borse di studio o di assegni di ricerca del CNR;</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Impresa spin off partecipata e sostenuta: definizione e loro tipologie</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>Il CNR favorisce e sostiene la costituzione e lo sviluppo di imprese spin off, sotto forma di società di diritto privato, aventi come fine primario l'utilizzazione imprenditoriale delle competenze e dei risultati originati da attività di ricerca svolte nelle proprie strutture.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>Si definiscono "Spin off partecipati" le società alle quali l'Ente partecipa in qualità di socio.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>Si definiscono "Spin off sostenuti" le società derivanti da risultati della ricerca dell'Ente, alle quali il CNR non partecipa in qualità di socio, ma cui apporta competenze, risultati o altre forme di sostegno nella fase di start-up.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Partecipazione di persone fisiche e giuridiche agli spin-off</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>
+							Oltre alle persone fisiche di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
+							, possono partecipare al capitale sociale della società spin-off:
+						</alinea>
+						<el id="art4-com1-leta">
+							<num>a)</num>
+							<corpo>ogni persona fisica o giuridica, società o ente, italiano o straniero, pubblico o privato;</corpo>
+						</el>
+						<el id="art4-com1-letb">
+							<num>b)</num>
+							<corpo>
+								le società di assicurazione, le banche, gli intermediari finanziari, i fondi mobiliari chiusi, le società finanziarie per l'innovazione e lo sviluppo, ai sensi dell'art. 2 comma 1, lett. e, 3) del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;297" xlink:type="simple">d.lgs. n. 297/1999</rif>
+								;
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>Qualora gli scopi della società spin-off coincidano in maniera rilevante con gli obiettivi e le attività istituzionali del CNR, il proponente è sempre tenuto ad invitare l'Ente a partecipare alla compagine sociale, con modalità che verranno individuate caso per caso.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>
+							ll personale CNR di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
+							deve richiedere al Consiglio di Amministrazione apposita autorizzazione allo svolgimento di attività a favore di società spin-off secondo le modalità definite al
+							<rif xlink:href="#art5" xlink:type="simple">successivo art. 5</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Procedura di autorizzazione e regolamentazione delle ipotesi di conflitto di interesse</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							Il Consiglio di Amministrazione del CNR delibera l'autorizzazione allo svolgimento di attività a favore di società spin-off da parte del personale dipendente o di titolari di borse di studio o assegni di ricerca del CNR secondo le diverse modalità elencate nel
+							<rif xlink:href="#art6" xlink:type="simple">successivo art. 6</rif>
+							e proposte dal personale stesso, acquisito il parere del Direttore della Struttura Scientifica o della Direzione Centrale presso cui opera, del Tutor di borsa di studio o assegno di ricerca e del Direttore del Dipartimento di competenza.
+						</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<alinea>L'autorizzazione è subordinata alla presentazione - indirizzata all'Ufficio Supporto alle Partecipazioni Societarie (di seguito denominato USPS) - delle seguenti informazioni, utili all'espletamento dell'istruttoria:</alinea>
+						<el id="art5-com2-leta">
+							<num>a)</num>
+							<corpo>descrizione dettagliata dell'oggetto sociale (anche al fine di verificare eventuali sovrapposizioni tra l'attività di ricerca e quella della costituenda società spin-off), della struttura organizzativa e societaria, della localizzazione, della qualificazione dei proponenti, secondo lo schema fornito dall'USPS;</corpo>
+						</el>
+						<el id="art5-com2-letb">
+							<num>b)</num>
+							<corpo>ruolo del soggetto proponente e di eventuali partner all'interno della societa spin-off;</corpo>
+						</el>
+						<el id="art5-com2-letc">
+							<num>c)</num>
+							<corpo>previsione della ripartizione delle quote;</corpo>
+						</el>
+						<el id="art5-com2-letd">
+							<num>d)</num>
+							<corpo>business plan della società comprensivo di piano finanziario ed economico pluriennale;</corpo>
+						</el>
+						<el id="art5-com2-letd">
+							<num>d)</num>
+							<corpo>finanziamenti pubblici/privati disponibili o da ottenere;</corpo>
+						</el>
+						<el id="art5-com2-lete">
+							<num>e)</num>
+							<corpo>ruolo che l'Ente è chiamato a svolgere in termini di sostegno nella fase di avvio della società spin-off (tutoraggio scientifico-economico, messa a disposizione di locali ed attrezzature, cessione di risultati proprietari, ecc). ll CNR potrà decidere, sulla base di specifiche pattuizioni che disciplinino le tipologie dei possibili apporti, di partecipare alla compagine sociale, anche solo tramite conferimento in natura.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>
+							La documentazione di cui al
+							<rif xlink:href="#art5-com2" xlink:type="simple">precedente comma 2</rif>
+							deve essere, inoltre, accompagnata dalla sottoscrizione da parte del personale CNR coinvolto di apposita dichiarazione volta ad escludere ogni ipotesi di conflitto di interessi della costituenda società spin-off verso il CNR. In qualunque momento, il personale si impegna comunque ad informare tempestivamente il CNR di ogni nuova circostanza che possa risultare lesiva degli interessi dell'Ente. Le norme di cui al presente paragrafo si applicano anche dopo i periodi di cui all'
+							<rif xlink:href="#art6-com2" xlink:type="simple">art. 6, comma 2</rif>
+							, in caso di persistenza di rapporti, anche di sola partecipazione, con la società.
+							<h:br />
+							La verifica del rispetto delle suddette norme e dell'andamento della società spin-off è affidata ai Direttori delle Strutture scientifiche o delle Direzioni Centrali di appartenenza.
+						</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>
+							Una volta costituita, la nuova società è iscritta all'Albo delle società spin-off tenuto dall'Ente. Gli spin off così costituiti, sia partecipati che sostenuti, possono aggiungere alla denominazione societaria il termine "Spin off del Consiglio Nazionale delle Ricerche" sino a quando permangono all'interno della compagine sociale il CNR e/o personale di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
+							o l'Ente ne ravvisi comunque l'opportunità per ragioni strategiche.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Partecipazione del personale all'impresa spin off</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<alinea>Il personale potrà svolgere - previa autorizzazione - la propria attività a favore della società spin-off, neo-costituite o da costituire:</alinea>
+						<ep id="art6-com1-pun1">
+							<num>-</num>
+							<corpo>richiedendo un'aspettativa senza assegni, ai sensi della normativa vigente in materia;</corpo>
+						</ep>
+						<ep id="art6-com1-pun2">
+							<num>-</num>
+							<corpo>optando per una modifica del rapporto di lavoro a tempo parziale;</corpo>
+						</ep>
+						<ep id="art6-com1-pun3">
+							<num>-</num>
+							<corpo>per una percentuale del proprio tempo, mantenendo il proprio stato di servizio o di studio.</corpo>
+						</ep>
+						<coda>Il CNR si riserva di valutare, caso per caso, l'opportunità di mantenere lo stato di servizio del dipendente, consentendogli di assumere cariche sociali nella società.</coda>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>L'autorizzazione verrà concessa di norma per un periodo fino a due anni, con possibilità di due rinnovi per un massimo complessivo di sei anni. Al termine di tale periodo, il dipendente potrà mantenere la partecipazione alla società a titolo di investimento e senza collegamento con il ruolo svolto nel CNR.</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Il personale potrà essere autorizzato a ricoprire cariche amministrative (presidente, vice presidente, consigliere o amministratore delegato o unico) purché le attività svolte presso la societa spin-off non interteriscano con lo svolgimento delle attività oggetto del contratto con il CNR.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>
+							Il personale dipendente del CNR che percepisca compensi dalla società spin-off è soggetto agli adempimenti connessi con la
+							<rif xlink:href="urn:nir:ministro.funzione.pubblica:circolare:1998;5" xlink:type="simple">circolare della Funzione Pubblica N. 5/98</rif>
+							concernente l'anagrafe delle prestazioni dei dipendenti pubblici e con l'applicazione del vigente C.C.N.L. di comparto.
+						</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<corpo>
+							Il personale che intenda partecipare alla compagine sociale svolgendo attività a favore di uno spin-off successivamente alla sua costituzione, deve chiedere l'autorizzazione ai sensi del
+							<rif xlink:href="#art5" xlink:type="simple">precedente articolo 5</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art6-com6">
+						<num>6.</num>
+						<corpo>
+							I titolari di assegni di ricerca o di borse di studio del CNR, previa autorizzazione ai sensi del
+							<rif xlink:href="#art5" xlink:type="simple">precedente articolo 5</rif>
+							e sotto la supervisione di un Tutor indicato dal CNR, potranno prendere parte alla compagine sociale di società spin-off; anche ricoprendo cariche amministrative, purché tali attività non interferiscano con lo svolgimento delle attività oggetto dell'assegno di ricerca o della borsa di studio.
+						</corpo>
+					</comma>
+					<comma id="art6-com7">
+						<num>7.</num>
+						<corpo>Tutto il personale autorizzato ad operare in società spin-off sarà comunque tenuto a mantenere correttezza e riservatezza nei confronti del CNR.</corpo>
+					</comma>
+					<comma id="art6-com8">
+						<num>8.</num>
+						<corpo>Annualmente il proponente invierà all'USPS una relazione in merito all'attività svolta dalla società corredata da un parere sull'andamento dell'iniziativa a cura del Direttore della Struttura scientifica o della Direzione Centrale di appartenenza.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Rinnovo dell'autorizzazione</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>Il rinnovo dell'autorizzazione a partecipare alla società spin-off deve essere richiesto all'USPS entro i 2 mesi e non prima dei 12 mesi antecedenti la data di scadenza del primo periodo, completo del parere del Direttore della Struttura scientifica o della Direzione Centrale di appartenenza e del Direttore del Dipartimento di competenza.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>La decisione in merito al rinnovo dell'autorizzazione è sottoposta al Consiglio di Amministrazione entro due mesi dalla sottomissione della richiesta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Reintegro o Revoca dell'autorizzazione e dello status di Spin-off del CNR</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							Il personale del CNR autorizzato ai sensi dell'
+							<rif xlink:href="#art6" xlink:type="simple">art. 6</rif>
+							del presente Regolamento può in ogni momento chiedere ed ottenere di essere reinserito nella condizione originaria.
+						</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>
+							In tal caso, o in caso di mancato rinnovo dell'autorizzazione di cui all'
+							<rif xlink:href="#art7" xlink:type="simple">art. 7</rif>
+							, il CNR non è responsabile di eventuali obblighi contratti dal personale verso terzi.
+						</corpo>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>
+							L'autorizzazione all'uso della denominazione "Spin-off del Consiglio Nazionale delle Ricerche" si intende revocata, a meno di specifici accordi con il CNR, qualora il CNR e/o il personale di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">art. 2</rif>
+							non permangano all'interno della compagine sociale, ovvero le circostanze rendano non più attuale la definizione di società "Spin-off sostenuta" di cui all'
+							<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Regolamentazione dei rapporti tra le parti e tutela del nome e dell'immagine del CNR</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>Il CNR e la nuova società spin-off regoleranno i propri rapporti attraverso apposite convenzioni.</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>L'utilizzo da parte dello spin-off di risorse logistiche e strumentali ovvero l'ospitalità presso strutture del CNR sarà regolato da autonoma convenzione tra la società e le strutture stesse.</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>Le convenzioni devono conformarsi a principi generali a tutela dell'interesse scientifico ed economico del CNR ed al rispetto della trasparenza.</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>Le convenzioni di cui sopra dovranno contenere apposite clausole per l'utilizzazione del nome e dell'immagine del CNR e delle strutture di ricerca coinvolte, al fine di garantire il corretto utilizzo ed il giusto riconoscimento del supporto ottenuto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Proprietà intellettuale</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>La proprietà intellettuale dei risultati della ricerca conseguiti dallo spin-off successivamente alla sua costituzione appartiene allo spin-off medesimo. L'utilizzo di risultati e know-how originati da attività di ricerca svolte dal CNR anteriormente sarà oggetto di appositi accordi tra CNR e spin-off in cui dovranno essere tutelati i risultati che il personale CNR coinvolto nello spin-off conseguirà nella normale attività di ricerca all'interno dell'Ente.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>Il trasferimento di brevetti di invenzione, marchi o diritti d'autore di proprietà del CNR avviene a mezzo di contratti di licenza, a titolo esclusivo o non esclusivo, tra CNR e società spin-off di norma dietro corrispettivo o conferimento di quote di partecipazione societaria.</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>
+							Per i brevetti di proprietà del personale del CNR, depositati ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:2001;383#art7" xlink:type="simple">art. 7 della legge 383/2001</rif>
+							e utilizzati dalla società spin-off; una percentuale dei proventi generati dal brevetto sara destinata al CNR, sulla base degli accordi tra CNR e spin-off.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Servizi prestati dal CNR e obblighi d'informazione</rubrica>
+					<comma id="art11-com1">
+						<num />
+						<alinea>L'Ufficio Supporto alle Partecipazioni Societarie:</alinea>
+						<en id="art11-com1-num1">
+							<num>1.</num>
+							<corpo>supporta il personale e le strutture scientifiche del CNR nelle varie fasi di avvio delle imprese spin-off, fornendo consulenza, formazione ed assistenza anche per l'accesso ai finanziamenti di start-up;</corpo>
+						</en>
+						<en id="art11-com1-num2">
+							<num>2.</num>
+							<corpo>svolge l'attività istruttoria per gli Organi di governo del CNR delle proposte di costituzione delle nuove imprese;</corpo>
+						</en>
+						<en id="art11-com1-num3">
+							<num>3.</num>
+							<corpo>fomisce gli strumenti per il monitoraggio delle società spin-off del CNR partecipate e sostenute da parte degli organismi preposti;</corpo>
+						</en>
+						<en id="art11-com1-num4">
+							<num>4.</num>
+							<corpo>predispone annualmente una relazione contenente gli elementi utili a consentire una valutazione dello sviluppo e dell'impatto socio-economico delle iniziative di spin-off promosse dal CNR, anche ai fini dell'aggiornamento dei Piani triennali</corpo>
+						</en>
+						<en id="art11-com1-num5">
+							<num>5.</num>
+							<corpo>predispone quanto utile ad assicurare l'adempimento da parte del CNR degli obblighi di informazione al MIUR ed al Dipartimento della Funzione Pubblica.</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Disposizioni finali</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>Per quanto non espressamente previsto nel presente Disciplinare si rinvia a quanto stabilito dalla normativa vigente in materia e dalle disposizioni emanate dall'Ente.</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>Il presente Disciplinare, approvato dal Consiglio di Amministrazione ed emanato con decreto del Presidente, viene inviato per opportuna conoscenza ai competenti Uffici del MIUR.</corpo>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>Le imprese spin-off costituite ai sensi del Regolamento precedente, possono far richiesta di adeguamento alla nuova disciplina.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.spin.off:2008-07-30;188:allegato" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20080730">30 luglio 2008</dataDoc>
+				, n.
+				<numDoc>188</numDoc>
+							<titoloDoc>SPIN-OFF CNR</titoloDoc>
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>Numero</h:b>
+										</h:td>
+										<h:td>
+											<h:b>Denominazione</h:b>
+										</h:td>
+										<h:td>
+											<h:b>Settore di attività</h:b>
+										</h:td>
+										<h:td>
+											<h:b>Sede</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>1</h:td>
+										<h:td>Academica Life Science Srl</h:td>
+										<h:td>Prodotti farmaceutici, in particolare di dispositivi biomedici coadiuvanti di regimi dietetici ipocalorici</h:td>
+										<h:td>NAPOLI</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>2</h:td>
+										<h:td>Advanced Polymer Materials Srl</h:td>
+										<h:td>Materiali polimerici di tipo termoplastico, foto e termo-indurenti e dei compositi a matrice polimerica</h:td>
+										<h:td>FERRARA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>3</h:td>
+										<h:td>Agorasophia Srl</h:td>
+										<h:td>Exhibit e soluzioni museali per la divulgazione scientifica</h:td>
+										<h:td>MESSINA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>4</h:td>
+										<h:td>Aethia Srl</h:td>
+										<h:td>Power Computing Solutions</h:td>
+										<h:td>CANAVESE (TO)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>5</h:td>
+										<h:td>APE Research Srl</h:td>
+										<h:td>Microscopia Scanning Probe e Nanotecnologie</h:td>
+										<h:td>TRIESTE</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>6</h:td>
+										<h:td>Byo Research Srl</h:td>
+										<h:td>Sviluppo di procedure e servizi di supporto diagnostico, prognostico e terapeutico</h:td>
+										<h:td>TRIESTE</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>7</h:td>
+										<h:td>CaLCTec Srl</h:td>
+										<h:td>Dispositivi elettro-ottici a cristalli liquidi, strumenti di precisione per la ricerca sui materiali liquido-cristallini e sui film sottili</h:td>
+										<h:td>RENDE (CS)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>8</h:td>
+										<h:td>Cantil Srl</h:td>
+										<h:td>Strumentazione per la misura di moduli elastici, di fattori di qualità e di caratteristiche meccaniche su un'ampia gamma di materiali, da quelli funzionali ai componenti per la microelettronica</h:td>
+										<h:td>BOLOGNA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>9</h:td>
+										<h:td>Cleis-Security Srl</h:td>
+										<h:td>Procedure tecnologie e prodotti software innovativi per la worm/intrusion detection</h:td>
+										<h:td>MILANO</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>10</h:td>
+										<h:td>Columbus Superconductors SpA</h:td>
+										<h:td>Cavi superconduttori al diboruro di magnesio</h:td>
+										<h:td>GENOVA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>11</h:td>
+										<h:td>Daimar Srl</h:td>
+										<h:td>Strumentazione acustica, ottica ed elettronica per applicazioni marine, terrestri e spaziali</h:td>
+										<h:td>MAZARA DEL VALLO (TP)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>12</h:td>
+										<h:td>DeltaE Srl</h:td>
+										<h:td>Progettazione, sviluppo e produzione di strumentazione scientifica e apparati meccanici di precisione</h:td>
+										<h:td>SAN FILI (CS)</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>13</h:td>
+										<h:td>Elab Scientific Srl</h:td>
+										<h:td>Sviluppo e messa a punto di prodotti, misurazioni e servizi innovativi sugli effetti dell'elettromagnetismo nei processi industriali, sull'ambiente e sull'uomo</h:td>
+										<h:td>FIRENZE</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>14</h:td>
+										<h:td>E-Magine-IT Srl</h:td>
+										<h:td>Applicazioni industriali di Visione Artificiale e illuminatori lineari LED-based ad alte prestazioni</h:td>
+										<h:td>GENOVA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>15</h:td>
+										<h:td>ExtraSolution Srl</h:td>
+										<h:td>Packaging alimentare e farmaceutico</h:td>
+										<h:td>PISA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>16</h:td>
+										<h:td>Glures Srl</h:td>
+										<h:td>R&amp;S molecole naturali e/o semisintetiche aventi proprietà biologiche sfruttabili come farmaci, dermocosmetici, nutraceutici</h:td>
+										<h:td>VENEZIA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>17</h:td>
+										<h:td>INFMedia Srl</h:td>
+										<h:td>Multimediali per la didattica e la divulgazione della scienza</h:td>
+										<h:td>PISA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>18</h:td>
+										<h:td>IPECC Srl (Italian Piezoelectrics &amp; Ceramic Company)</h:td>
+										<h:td>Consulenza, progettazione di componenti e dispositivi a tecnologia piezoelettrica</h:td>
+										<h:td>FAENZA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>19</h:td>
+										<h:td>Lipinutragen Srl</h:td>
+										<h:td>Prodotti diagnostici e biotecnologici per applicazioni mediche e biochimiche</h:td>
+										<h:td>BOLOGNA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>20</h:td>
+										<h:td>Li-tech Spa</h:td>
+										<h:td>Apparecchiature elettromedicali: dispositivi integrati di diagnostica per immagini</h:td>
+										<h:td>UDINE - ROMA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>21</h:td>
+										<h:td>MARWAN Technology Srl</h:td>
+										<h:td>Produzione di sistemi laser Nd:YAG impulsati</h:td>
+										<h:td>PISA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>22</h:td>
+										<h:td>MASSA Spin-off Srl</h:td>
+										<h:td>Risoluzione di problematiche derivanti da attività ad alto impatto ambientale</h:td>
+										<h:td>FIRENZE</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>23</h:td>
+										<h:td>Mediteknology Srl</h:td>
+										<h:td>Ricerca e sviluppo in campo biotecnologico per la realizzazione di reagenti e strumentazioni per uso diagnostico e terapeutico</h:td>
+										<h:td>LECCE - BOLOGNA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>24</h:td>
+										<h:td>Optosmart Srl</h:td>
+										<h:td>Sistemi optoelettronici, elettrici, elettronici a tecnologia avanzata</h:td>
+										<h:td>NAPOLI</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>25</h:td>
+										<h:td>Organic Spintronics Srl</h:td>
+										<h:td>Optoelettronica ed elettronica plastica e spintronica</h:td>
+										<h:td>BOLOGNA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>26</h:td>
+										<h:td>Petroceramics Srl</h:td>
+										<h:td>Apparecchiature e tecnologie nel settore dei ceramici tecnici ed avanzati, dei lapidei</h:td>
+										<h:td>MILANO</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>27</h:td>
+										<h:td>Phoenix srl</h:td>
+										<h:td>Ricerche e Tecnologie Ottiche per il controllo della qualità, sistemi di laser e metrologia; applicazioni spaziali; biofotonica</h:td>
+										<h:td>PADOVA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>28</h:td>
+										<h:td>PROMETE Srl</h:td>
+										<h:td>Innovazione e trasferimento tecnologico</h:td>
+										<h:td>NAPOLI</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>29</h:td>
+										<h:td>QualiMedlab Srl</h:td>
+										<h:td>Prodotti e servizi atti a migliorare la qualità analitica delle analisi di Medicina di laboratorio</h:td>
+										<h:td>PISA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>30</h:td>
+										<h:td>Q-Tech</h:td>
+										<h:td>Progettazione e sviluppo sistemi laser e optoelettronici</h:td>
+										<h:td>BRESCIA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>31</h:td>
+										<h:td>R.E.D. Srl</h:td>
+										<h:td>Sensori per il controllo microclimatico in ambienti estremi</h:td>
+										<h:td>PADOVA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>32</h:td>
+										<h:td>RE.D.D. Research for Drug Development Srl</h:td>
+										<h:td>R&amp;D nel settore del "drug discovery"; sviluppo preclinico e clinico di nuove molecole, di farmaci e di nuovi sistemi diagnostici</h:td>
+										<h:td>ROMA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>33</h:td>
+										<h:td>Scriba Nanotecnologie</h:td>
+										<h:td>Dispositivi per lo stoccaggio di informazione ad alta densità basati su processi nanotecnologici</h:td>
+										<h:td>BOLOGNA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>34</h:td>
+										<h:td>SemTec Srl</h:td>
+										<h:td>Optoelettronica (acquisita da Gruppo Tattile)</h:td>
+										<h:td>BRESCIA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>35</h:td>
+										<h:td>Siris Italia Srl</h:td>
+										<h:td>Sistemi informativi per la gestione dei contenuti e erogazione di servizi di consulenza ITC</h:td>
+										<h:td>NAPOLI</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>36</h:td>
+										<h:td>STAR Srl</h:td>
+										<h:td>Servizi, sviluppo, progettazione e industrializzazione di soluzioni tecnologiche nel settore delle superfici</h:td>
+										<h:td>MODENA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>37</h:td>
+										<h:td>Tecnodiritto Srl</h:td>
+										<h:td>Prodotti, servizi per l'applicazione delle tecnologie di ICT con particolare riferimento all'ambito delle scienze umane e sociali</h:td>
+										<h:td>FIRENZE</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>38</h:td>
+										<h:td>Tethis Srl</h:td>
+										<h:td>Produzione di film sottili nanostrutturali e di nano polveri, applicabili alla sensoristica, all'elettronica e alal biotecnologia</h:td>
+										<h:td>MILANO</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>39</h:td>
+										<h:td>Tomogea Srl</h:td>
+										<h:td>Prodotti di Tomografia Elettromagnetica Integrata (TEI) per indagini geofisiche per il monitoraggio di problemi di interesse geologico ed ambientale</h:td>
+										<h:td>POTENZA</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>40</h:td>
+										<h:td>Wisytech Srl</h:td>
+										<h:td>Strumenti software e hardware finalizzati a collaudo, caratterizzazione. simulazione di apparati di comunicazione wireless</h:td>
+										<h:td>MILANO</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

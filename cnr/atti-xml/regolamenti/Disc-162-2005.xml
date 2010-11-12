@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20051109" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;assunzioni.personale.contratto.lavoro.tempo.determinato:2005-11-09;162" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20051109" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20051109" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;assunzioni.personale.contratto.lavoro.tempo.determinato:2005-11-09;162" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;162" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20051109">9 novembre 2005</dataDoc>
+				, n.
+				<numDoc>162</numDoc>
+				<titoloDoc>Disciplina delle assunzioni di personale con contratto a tempo determinato del Consiglio Nazionale delle Ricerche</titoloDoc>
+			</intestazione>
+			<articolato>
+				<parte id="prt1">
+					<num>Parte I</num>
+					<rubrica>Principi generali</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>(Ambito di applicazione)</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								Le norme contenute nel presente disciplinare si riferiscono alle assunzioni di personale con contratto di lavoro a tempo determinato, di seguito denominate a termine, di cui ai Titoli II e III Capi II del "
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035" xlink:type="simple">Regolamento del Personale</rif>
+								" approvato con
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">Decreto del Presidente del CNR prot. n. 25035 del 4 maggio 2005</rif>
+								, pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>(Finalità, durata e modalità di copertura degli oneri)</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<corpo>Le assunzioni a termine di ogni livello e profilo sono consentite per lo svolgimento di specifici programmi o di progetti di ricerca o per la gestione di infrastrutture tecniche complesse.</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<corpo>La durata dei contratti è pari a quella necessaria per il soddisfacimento delle esigenze previste dallo specifico programma/progetto di ricerca e non potrà essere comunque superiore ai cinque anni. Nel caso di assegnazione allo stesso soggetto di un nuovo contratto a termine, per un diverso programma/progetto, tra gli stessi dovrà intercorrere un intervallo di almeno 20 giorni, o un termine diverso secondo la normativa vigente in materia.</corpo>
+						</comma>
+						<comma id="art2-com3">
+							<num>3.</num>
+							<corpo>Gli oneri derivanti da tali assunzioni potranno gravare, in presenza dei necessari elementi, sui fondi ordinari di bilancio dell'Ente, in coerenza con la programmazione triennale di attività e relativi aggiornamenti annuali, deliberata dal Consiglio di Amministrazione e comunque nei limiti delle disponibilità finanziarie indicate nel bilancio di previsione.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>(Tipologie contrattuali)</rubrica>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<alinea>
+								Le assunzioni a termine sono effettuate in conformità ai principi generali del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.Lgs 30 marzo 2001 n. 165</rif>
+								e successive modificazioni, nel rispetto dei limiti numerici e di spesa posti dalla normativa vigente e in coerenza con le norme contrattuali, presentano le seguenti tipologie:
+							</alinea>
+							<el id="art3-com1-leta">
+								<num>a)</num>
+								<corpo>
+									Assunzioni di cui all'
+									<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art36" xlink:type="simple">art. 36 della Legge 20 marzo 1975 n. 70</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art3-com1-letb">
+								<num>b)</num>
+								<corpo>
+									Assunzioni di cui all'
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art23" xlink:type="simple">art. 23 del D.P.R. 12 febbraio 1991 n. 171</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art3-com1-letc">
+								<num>c)</num>
+								<corpo>
+									Assunzioni di cui all'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art9-com3-letc" xlink:type="simple">art. 9 comma 3, lettera c) del Regolamento del Personale</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art3-com1-letd">
+								<num>d)</num>
+								<corpo>Assunzioni di cui all'art. 15 del C.C.N.L. 94/97 del 7 ottobre 1996;</corpo>
+							</el>
+							<el id="art3-com1-lete">
+								<num>e)</num>
+								<corpo>
+									Assunzioni di cui all'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">art. 20 comma 3° del D.Lgs. 4 giugno 2003 n. 127</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art3-com1-letf">
+								<num>f)</num>
+								<corpo>
+									Assunzioni di cui all'
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art4-com2" xlink:type="simple">art. 4 comma 2 del Regolamento del Personale</rif>
+									;
+								</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>(Modalità di selezione)</rubrica>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<alinea>Possono essere bandite selezioni per:</alinea>
+							<el id="art4-com1-leta">
+								<num>a)</num>
+								<corpo>soli titoli;</corpo>
+							</el>
+							<el id="art4-com1-letb">
+								<num>b)</num>
+								<corpo>titoli e colloquio.</corpo>
+							</el>
+							<el id="art4-com1-letc">
+								<num>c)</num>
+								<corpo>secondo le procedure per le assunzioni a tempo indeterminato.</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>(Limiti nell'individuazione dei componenti le commissioni)</rubrica>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<corpo>Il Direttore/Dirigente della struttura interessata alla selezione non può far parte delle Commissioni esaminatrici.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>(Trattamento giuridico ed economico)</rubrica>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>
+								Al personale assunto con contratto a termine, sia per chiamata nominativa che per selezione, di cui alle
+								<mrif>
+									Parte
+									<rif xlink:href="#prt2" xlink:type="simple">II</rif>
+									e
+									<rif xlink:href="#prt3" xlink:type="simple">III</rif>
+								</mrif>
+								del presente disciplinare, si applica la normativa giuridico ed economico prevista dal vigente C.C.N.L. per il personale assunto con contratto di lavoro a tempo indeterminato.
+							</corpo>
+						</comma>
+					</articolo>
+				</parte>
+				<parte id="prt2">
+					<num>Parte II</num>
+					<rubrica>Assunzioni di ricercatori e tecnologi</rubrica>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>
+							(
+							<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art36" xlink:type="simple">Art. 36 della Legge 20 marzo 1975 n. 70</rif>
+							)
+						</rubrica>
+						<comma id="art7-com1">
+							<num>1.</num>
+							<corpo>Sono consentite, a valere sui fondi ordinari di bilancio dell'Ente, assunzioni a termine di personale di ricerca e di personale tecnico laureato attamente specializzato, anche di cittadinanza straniera, previa selezione pubblica.</corpo>
+						</comma>
+						<comma id="art7-com2">
+							<num>2.</num>
+							<alinea>Le proposte di assunzione, debitamente motivate e corredate di tutti gli specifici elementi/requisiti concorsuali, compresa l'indicazione dell'area scientifica o settore tecnologico, dovranno essere presentate:</alinea>
+							<el id="art7-com2-leta">
+								<num>a)</num>
+								<corpo>dai Direttori degli Istituti ai Direttori dei Dipartimenti di afferenza;</corpo>
+							</el>
+							<el id="art7-com2-letb">
+								<num>b)</num>
+								<corpo>dai Dirigenti degli Uffici istituiti presso la Direzione Generale al Direttore Generale;</corpo>
+							</el>
+							<el id="art7-com2-letc">
+								<num>c)</num>
+								<corpo>dai Dirigenti degli Uffici delle Direzioni Centrali ai Direttori delle Direzioni Centrali di afferenza.</corpo>
+							</el>
+						</comma>
+						<comma id="art7-com3">
+							<num>3.</num>
+							<corpo>Le proposte, successivamente alla valutazione positiva dei Responsabili di cui al comma precedente , vengono trasmesse, entro il 30 ottobre di ciascun anno, al competente Ufficio della Direzione Centrale Supporto alla Gestione delle Risorse che provvede alla relativa istruttoria per le decisioni del Presidente, cui compete l'adozione del provvedimento di emanazione dei relativi bandi.</corpo>
+						</comma>
+						<comma id="art7-com4">
+							<num>4.</num>
+							<corpo>
+								Il Presidente, ai sensi dell'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art26-com1-leth" xlink:type="simple">articolo 26 comma 1 lett.h) del Regolamento organizzazione e funzionamento</rif>
+								, può delegare il Direttore/Dirigente della struttura interessata all'emanazione del bando e all'espletamento delle connesse procedure.
+							</corpo>
+						</comma>
+						<comma id="art7-com5">
+							<num>5.</num>
+							<corpo>
+								Le commissioni sono composte da tre esperti nella materia, scelti dal Presidente o suo delegato, nell'albo istituito ai sensi dell'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art5-com1-letb" xlink:type="simple">art.5 comma 1 lett.b)</rif>
+								e tenuto dal competente Ufficio della Direzione Centrale Supporto alla Gestione delle Risorse, dei quali almeno uno esterno all'Ente con livello pari a quello di professore universitario di ruolo, o con livello almeno pari a quello per il quale la selezione è stata bandita.
+							</corpo>
+						</comma>
+						<comma id="art7-com6">
+							<num>6.</num>
+							<corpo>È altresì consentita l'assunzione per chiamata diretta. Fermo restando la procedura di cui ai commi precedenti, la proposta avanzata dal Direttore/Dirigente della struttura deve contenere l'attestazione del possesso dei requisiti necessari per la chiamata diretta nonché la congruenza con il profilo richiesto.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>
+							(
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art23" xlink:type="simple">Art. 23 del D.P.R. 12 febbraio 1991, n. 171</rif>
+							)
+						</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>Sono consentite assunzioni a termine, di personale di ricerca e di personale tecnico laureato altamente specializzato, anche di cittadinanza straniera. Le assunzioni avvengono previa selezione pubblica. E' consentita la chiamata diretta in casi motivati qualora siano necessari specifici requisiti.</corpo>
+						</comma>
+						<comma id="art8-com2">
+							<num>2.</num>
+							<corpo>Agli oneri derivanti da dette assunzioni si dovrà far fronte con le entrate provenienti da contratti o convenzioni sottoscritti con soggetti esterni pubblici o privati per la realizzazione di programmi di ricerca o attività di servizio.</corpo>
+						</comma>
+						<comma id="art8-com3">
+							<num>3.</num>
+							<alinea>Le proposte di assunzione, debitamente motivate e corredate di tutti gli specifici elementi/requisiti concorsuali, compresa l'indicazione dell'area scientifica o settore tecnologico, dovranno essere presentate:</alinea>
+							<el id="art8-com3-leta">
+								<num>a)</num>
+								<corpo>dai Direttori degli Istituti ai Direttori dei Dipartimenti di afferenza;</corpo>
+							</el>
+							<el id="art8-com3-letb">
+								<num>b)</num>
+								<corpo>dai Dirigenti degli Uffici istituiti presso la Direzione Generale al Direttore Generale;</corpo>
+							</el>
+							<el id="art8-com3-letc">
+								<num>c)</num>
+								<corpo>dai Dirigenti degli Uffici delle Direzioni Centrali ai Direttori delle Direzioni Centrali di afferenza.</corpo>
+							</el>
+						</comma>
+						<comma id="art8-com4">
+							<num>4.</num>
+							<corpo>
+								Nel caso di selezione pubblica i Direttori/Dirigenti delle strutture acquisito il parere favorevole, pongono in essere gli atti necessari all'emanazione del bando di selezione, sulla base dei modelli all'uopo predisposti e costantemente aggiornati dal competente Ufficio della Direzione Centrale Supporto alla Gestione delle Risorse. Il Direttore/Dirigente provvede all'espletamento delle procedure concorsuali ivi compresa la nomina della commissione esaminatrice con le stesse modalità di cui all'
+								<rif xlink:href="#art7" xlink:type="simple">art. 7</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art8-com5">
+							<num>5.</num>
+							<corpo>
+								Nel caso di chiamata diretta, fermo restando la procedura di cui al
+								<rif xlink:href="#art8-com3" xlink:type="simple">comma 3</rif>
+								, la proposta avanzata dal Direttore/Dirigente della struttura deve contenere la motivazione del ricorso alla chiamata diretta e l'attestazione del possesso dei requisiti necessari per la chiamata diretta nonché la congruenza con il profilo richiesto.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>
+							(
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art9-com3-letc" xlink:type="simple">Art. 9 comma 3 lettera c) del Regolamento del Personale</rif>
+							)
+						</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>Per far fronte ad assunzioni di personale per esigenze temporanee connesse ad iniziative in collaborazione con soggetti esterni, i Direttori/Dirigente delle strutture possono procedere all'assunzione del personale necessario, anche di cittadinanza straniera, esclusivamente per il livello III del profilo di ricercatore o tecnologo.</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>Gli oneri derivanti dalle predette assunzioni gravano interamente sulle disponibilità finanziarie generate dalle collaborazioni con soggetti esterni pubblici e privati.</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<corpo>
+								Per le procedure selettive delle assunzioni in parola, si rinvia a quanto previsto nel
+								<rif xlink:href="#art8" xlink:type="simple">precedente articolo 8</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art9-com4">
+							<num>4.</num>
+							<corpo>I contratti di assunzione avranno durata annuale, prorogabile di anno in anno fino ad un massimo di tre anni, coerentemente con le esigenze che hanno generato la collaborazione e limitatamente alla disponibilità finanziaria generata dalle stesse.</corpo>
+						</comma>
+						<comma id="art9-com5">
+							<num>5.</num>
+							<corpo>Ai sensi della normativa in esame, non sono consentite assunzioni per chiamata diretta.</corpo>
+						</comma>
+					</articolo>
+				</parte>
+				<parte id="prt3">
+					<num>Parte III</num>
+					<rubrica>Assunzioni di personale dal IX al IV livello</rubrica>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>(Art. 15 CCNL del 7 ottobre 1996)</rubrica>
+						<comma id="art10-com1">
+							<num>1.</num>
+							<corpo>E' consentita l'assunzione con contratto a termine di personale, anche di cittadinanza straniera, per i livelli dal IX al IV per far fronte alle esigenze tecnico-amministrative di supporto alle attività necessarie per lo svolgimento di specifici programmi o di progetti di ricerca o per la gestione di infrastrutture tecniche complesse.</corpo>
+						</comma>
+						<comma id="art10-com2">
+							<num>2.</num>
+							<corpo>
+								Detto personale è assunto esclusivamente attraverso procedura selettiva secondo il dispositivo di cui all'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art13" xlink:type="simple">art. 13 del Regolamento del Personale</rif>
+								, allo stesso è attribuito il trattamento economico previsto per il corrispondente livello dal IX al IV del profilo interessato per il quale è bandita la selezione.
+							</corpo>
+						</comma>
+						<comma id="art10-com3">
+							<num>3.</num>
+							<alinea>Gli oneri derivanti dalle predette assunzioni possono gravare:</alinea>
+							<el id="art10-com3-leta">
+								<num>a)</num>
+								<corpo>sul Fondo ordinario di bilancio dell'Ente,</corpo>
+							</el>
+							<el id="art10-com3-letb">
+								<num>b)</num>
+								<corpo>sulle disponibilità finanziarie generate dalle collaborazioni con soggetti esterni pubblici e privati.</corpo>
+							</el>
+						</comma>
+						<comma id="art10-com4">
+							<num>4.</num>
+							<corpo>
+								Nell'ipotesi di cui al
+								<rif xlink:href="#art10-com3-leta" xlink:type="simple">punto a)</rif>
+								dovranno applicarsi le procedure previste all'
+								<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+								; nell'ipotesi di cui al
+								<rif xlink:href="#art10-com3-letb" xlink:type="simple">punto b)</rif>
+								dovranno applicarsi le procedure previste dall'
+								<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art10-com5">
+							<num>5.</num>
+							<corpo>
+								Le commissioni sono composte da tre esperti nella materia scelti e nominati dal Presidente o suo delegato nell'
+								<rif xlink:href="#art10-com3-leta" xlink:type="simple">ipotesi a)</rif>
+								e dal Direttore/Dirigente della struttura nell'
+								<rif xlink:href="#art10-com3-letb" xlink:type="simple">ipotesi b)</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+				</parte>
+				<parte id="prt4">
+					<num>Parte IV</num>
+					<rubrica>Assunzioni in base a disposizioni speciali</rubrica>
+					<articolo id="art11">
+						<num>Art. 11</num>
+						<rubrica>
+							(
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">Art. 20 comma 3° del D.Lgs 4 giugno 2003 n. 127</rif>
+							)
+						</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<corpo>Sono consentite assunzioni a termine per chiamata diretta, nei limiti della disponibilità di bilancio, per specifici progetti di ricerca, di personale di ricerca e tecnologo» anche di cittadinanza straniera, con documentata produzione scientifica di eccellenza o documentata attività di ricerca in enti di ricerca o imprese private o in atenei stranieri o in istituzioni di ricerca internazionali.</corpo>
+						</comma>
+						<comma id="art11-com2">
+							<num>2.</num>
+							<corpo>Le predette assunzioni, proposte dal Presidente o dai Direttori dei Dipartimenti, sono deliberate dal Consiglio di Amministrazione sentito il parere del Consiglio Scientifico Generale, nell'ambito del 10% della pianta organica dei tre profili di ricercatore e tecnologo a tempo indeterminato.</corpo>
+						</comma>
+						<comma id="art11-com3">
+							<num>3.</num>
+							<corpo>Premesso che il trattamento economico del personale di cui trattasi è corrispondente al I livello nel profilo di Dirigente di Ricerca o Dirigente Tecnologo, il Consiglio di Amministrazione determina la fascia stipendiale da attribuire, nonché l'ammontare dell'eventuale compenso integrativo previsto dalla norma.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>
+							(
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art4-com2" xlink:type="simple">Art. 4 comma 2 del Regolamento del Personale</rif>
+							)
+						</rubrica>
+						<comma id="art12-com1">
+							<num>1.</num>
+							<corpo>Il Consiglio di Amministrazione, su proposta del Presidente, determina nell'ambito della Programmazione annuale del fabbisogno di personale ed in coerenza con il Piano Triennale, quali selezioni per l'assunzione di personale a tempo determinato, a valere sul Fondo ordinario di bilancio dell'Ente, debbano essere espletate nel rispetto dei vincoli e delle modalità per le assunzioni a tempo indeterminato, di cui alla delibera del Consiglio di Amministrazione n. 61 dell' 11 maggio 2005 e del provvedimento del Presidente n. 45 del 22 giugno 2005.</corpo>
+						</comma>
+					</articolo>
+				</parte>
+				<parte id="prt5">
+					<num>Parte V</num>
+					<rubrica>Disposizioni transitorie e finali</rubrica>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<rubrica>(Responsabile del procedimento)</rubrica>
+						<comma id="art13-com1">
+							<num>1.</num>
+							<corpo>L'accertamento dei requisiti di ammissione e la verifica della regolarità formale del procedimento selettivo è affidata ad un Responsabile del procedimento.</corpo>
+						</comma>
+						<comma id="art13-com2">
+							<num>2.</num>
+							<alinea>Il Responsabile del procedimento è nominato:</alinea>
+							<el id="art13-com2-leta">
+								<num>a)</num>
+								<corpo>
+									per le selezioni di cui all'
+									<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+									ed all'
+									<rif xlink:href="#art10-com3-leta" xlink:type="simple">articolo 10 lett.a)</rif>
+									, dal Presidente ovvero dal Direttore/Dirigente della struttura interessata, qualora delegato all'emanazione del bando ed all'espletamento delle connesse procedure;
+								</corpo>
+							</el>
+							<el id="art13-com2-letb">
+								<num>b)</num>
+								<corpo>
+									per le selezioni di cui all'
+									<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+									dal Direttore/Dirigente della struttura interessata.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art13-com3">
+							<num>3.</num>
+							<corpo>Il Responsabile verifica la regolarità del procedimento con apposito provvedimento , inoltra lo stesso e la relativa graduatoria di merito al Presidente, o al Direttore/Dirigente della struttura ove previsto, per l'approvazione e la nomina del vincitore.</corpo>
+						</comma>
+						<comma id="art13-com4">
+							<num>4.</num>
+							<corpo>Nel caso in cui riscontri vizi di forma, il Responsabile rinvia, con provvedimento motivato, gli atti alla Commissione per la regolarizzazione, stabilendone un termine.</corpo>
+						</comma>
+						<comma id="art13-com5">
+							<num>5.</num>
+							<corpo>La selezione è dichiarata conclusa con esito negativo, qualora nessuno dei candidati ottenga il punteggio minimo previsto dal bando o la selezione risulti deserta.</corpo>
+						</comma>
+						<comma id="art13-com6">
+							<num>6.</num>
+							<corpo>In caso di rinuncia del vincitore può essere assunto il candidato in posizione immediatamente utile in graduatoria.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>(Stipula del contratto a termine)</rubrica>
+						<comma id="art14-com1">
+							<num>1.</num>
+							<corpo>Il provvedimento di nomina del vincitore è trasmesso al competente Ufficio della Direzione Centrale per la Gestione delle Risorse che provvede alla predisposizione degli atti per l'assunzione con contratto a firma del Presidente o suo delegato.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art15">
+						<num>Art. 15</num>
+						<rubrica>(Decorrenza)</rubrica>
+						<comma id="art15-com1">
+							<num>1.</num>
+							<corpo>Le disposizioni del presente disciplinare si applicano a tutte le assunzioni per contratti di lavoro a tempo determinato dal giorno successivo alla delibera di approvazione dello stesso e sostituiscono ogni precedente disposizione emanata con atto amministrativo in materia.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art16">
+						<num>Art. 16</num>
+						<rubrica>(Norma Transitoria)</rubrica>
+						<comma id="art16-com1">
+							<num>1.</num>
+							<corpo>Sono fatte salve le assunzioni di personale con contratto a tempo determinato, già autorizzate o in corso di autorizzazione, disposte dal Presidente in regime transitorio.</corpo>
+						</comma>
+					</articolo>
+				</parte>
+			</articolato>
+		</DocumentoNIR>
+	</NIR>

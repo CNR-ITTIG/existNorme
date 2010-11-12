@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<entratainvigore norm="20050622" />
+								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.a" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20050622" fonte="ro2" id="t2" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.a" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+						</meta>
+						<intestazione>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+							<tipoDoc>Allegato A al DPCNR</tipoDoc>
+							<dataDoc norm="20050622">22 giugno 2005</dataDoc>
+							, n.
+							<numDoc>45</numDoc>
+							(prot. n.
+							<numDoc nome="protocollo">33238</numDoc>
+							)
+							<titoloDoc>
+								ATTUAZIONE DELL'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche consiglio.nazionale.ricerche:provvedimento:2005-05-04;25035#art5" xlink:type="simple">ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE</rif>
+								.
+								<h:br />
+								Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato
+							</titoloDoc>
+						</intestazione>
+						<articolato>
+							<articolo id="ann1-art1">
+								<num>Articolo 1</num>
+								<rubrica>Dirigenti di ricerca</rubrica>
+								<comma id="ann1-art1-com1">
+									<num>1.</num>
+									<alinea>Le commissioni per l'assunzione dei dirigenti di ricerca sono composte da tre a cinque membri, a seconda dell'area scientifica interessata, selezionati dall'Albo degli esperti:</alinea>
+									<el id="ann1-art1-com1-leta">
+										<num>a)</num>
+										<corpo>la maggioranza dei componenti è scelta dalla parte II "Esterni" dell'Albo di esperti tra i professori universitari ordinari e i dirigenti di ricerca di altri enti del comparto ricerca;</corpo>
+									</el>
+									<el id="ann1-art1-com1-letb">
+										<num>b)</num>
+										<corpo>gli altri componenti sono scelti dalla parte I "Interni" sezione 1, tra i dirigenti di ricerca del CNR;</corpo>
+									</el>
+									<el id="ann1-art1-com1-letc">
+										<num>c)</num>
+										<corpo>
+											il Presidente, scelto tra i componenti di cui alle
+											<mrif>
+												lettere
+												<rif xlink:href="#ann1-art1-com1-leta" xlink:type="simple">a</rif>
+												e
+												<rif xlink:href="#ann1-art1-com1-letb" xlink:type="simple">b</rif>
+											</mrif>
+											, è individuato tra dirigenti di ricerca dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
+										</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art2">
+								<num>Articolo 2</num>
+								<rubrica>Primi ricercatori</rubrica>
+								<comma id="ann1-art2-com1">
+									<num>1.</num>
+									<alinea>Le commissioni per l'assunzione dei primi ricercatori sono composte da tre a cinque membri a seconda dell'area scientifica interessata, selezionati dall'Albo degli esperti:</alinea>
+									<el id="ann1-art2-com1-leta">
+										<num>a)</num>
+										<corpo>la maggioranza dei componenti è scelta dalla parte II "Esterni" tra i professori universitari ordinari, i professori universitari associati, dirigenti di ricerca e primi ricercatori di altri enti del comparto ricerca;</corpo>
+									</el>
+									<el id="ann1-art2-com1-letb">
+										<num>b)</num>
+										<corpo>gli altri componenti sono scelti dalla parte I "Interni" tra i dirigenti di ricerca e i primi ricercatori del CNR;</corpo>
+									</el>
+									<el id="ann1-art2-com1-letc">
+										<num>c)</num>
+										<corpo>
+											il Presidente, scelto tra i componenti di cui alle
+											<mrif>
+												lettere
+												<rif xlink:href="#ann1-art2-com1-leta" xlink:type="simple">a</rif>
+												e
+												<rif xlink:href="#ann1-art2-com1-letb" xlink:type="simple">b</rif>
+											</mrif>
+											, è individuato tra i dirigenti di ricerca dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
+										</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art3">
+								<num>Articolo 3</num>
+								<rubrica>Ricercatori</rubrica>
+								<comma id="ann1-art3-com1">
+									<num>1.</num>
+									<alinea>Le commissioni per l'assunzione dei ricercatori sono composte da tré a cinque mèmbri, a seconda dell'area scientifica interessata, selezionati dall'Albo degli esperti:</alinea>
+									<el id="ann1-art3-com1-leta">
+										<num>a)</num>
+										<corpo>la maggioranza dei componenti è scelta dalla parte II "Estemi" tra i professori universitari ordinari, i professori universitari associati, i dirigenti di ricerca e primi ricercatori e i ricercatori di altri enti del comparto ricerca;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letb">
+										<num>b)</num>
+										<corpo>gli altri componenti sono scelti dalla parte I "Interni" tra i dirigenti di ricerca, i primi ricercatori e i ricercatori del CNR;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letc">
+										<num>c)</num>
+										<corpo>
+											il Presidente, scelto tra i componenti di cui alle
+											<mrif>
+												lettere
+												<rif xlink:href="#ann1-art3-com1-leta" xlink:type="simple">a</rif>
+												e
+												<rif xlink:href="#ann1-art3-com1-letb" xlink:type="simple">b</rif>
+											</mrif>
+											, è individuato tra dirigenti di ricerca o tecnologi dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
+										</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art4">
+								<num>Articolo 4</num>
+								<rubrica>Tecnologi</rubrica>
+								<comma id="ann1-art4-com1">
+									<num>1.</num>
+									<alinea>Le commissioni per l'assunzione ai diversi livelli del profilo di tecnologo sono composte da tre a cinque membri, a seconda del settore tecnologico interessato, selezionati dall'Albo degli esperti, e sono cosi composte:</alinea>
+									<el id="ann1-art4-com1-leta">
+										<num>a)</num>
+										<corpo>la maggioranza dei componenti è scelta dalla parte II "Esterni" dirigenti di ricerca e dirigenti tecnologi; primi ricercatori e primi tecnologi di altri enti del comparto ricerca di livello almeno pari a quello del posto da ricoprire nonché tra i professori universitari ordinari o associati;</corpo>
+									</el>
+									<el id="ann1-art4-com1-letb">
+										<num>b)</num>
+										<corpo>gli altri componenti sono scelti dalla parte I "Interni" tra i dirigenti di ricerca, dirigenti tecnologi, primi ricercatori, primi tecnologi, ricercatori e tecnologi del CNR di livello almeno pari a quello del posto da ricoprire;</corpo>
+									</el>
+									<el id="ann1-art4-com1-letc">
+										<num>c)</num>
+										<corpo>
+											il Presidente, scelto tra i componenti di cui alle
+											<mrif>
+												lettere
+												<rif xlink:href="#ann1-art4-com1-leta" xlink:type="simple">a</rif>
+												e
+												<rif xlink:href="#ann1-art4-com1-letb" xlink:type="simple">b</rif>
+											</mrif>
+											, è individuato tra dirigenti di ricerca o tecnologi dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
+										</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art5">
+								<num>Articolo 5</num>
+								<rubrica>Requisiti di ammissione e prove</rubrica>
+								<comma id="ann1-art5-com1">
+									<num>1.</num>
+									<corpo>Per i concorsi per l'assunzione di dirigenti di ricerca la commissione predispone la graduatoria sulla base dei curricula e dei titoli scientifici.</corpo>
+								</comma>
+								<comma id="ann1-art5-com2">
+									<num>2.</num>
+									<corpo>Per i concorsi per l'assunzione dei primi ricercatori occorre essere in possesso del diploma di laurea. La selezione avviene sulla base della valutazione comparativa dei curricula e dei titoli scientifici, integrata da un colloquio.</corpo>
+								</comma>
+								<comma id="ann1-art5-com3">
+									<num>3.</num>
+									<corpo>
+										Per i concorsi per l'assunzione al livello iniziale del profilo di ricercatore occorre essere in possesso del titolo di dottore di ricerca o equivalente attinente all'attività richiesta dal bando, ovvero essere in possesso del diploma di laurea conseguito secondo la normativa in vigore anteriormente alla riforma di cui al
+										<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1999-11-03;509" xlink:type="simple">DM n. 509/1999</rif>
+										oppure della laurea specialistica o magistrale, e aver svolto per un triennio attività di ricerca presso università o qualificati enti, organismi o centro di ricerca pubblici o privati ovvero nell'ambito dei contratti a tempo determinato di cui al
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">comma 3 dell'articolo 20 del decreto di riordino</rif>
+										o di assegni di ricerca banditi dall'ente ai sensi dell'
+										<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
+										, con valutazione finale delle attività.
+									</corpo>
+								</comma>
+								<comma id="ann1-art5-com4">
+									<num>4.</num>
+									<corpo>
+										Per i concorsi di cui al
+										<rif xlink:href="#ann1-art5-com3" xlink:type="simple">comma 3</rif>
+										il bando prevede e disciplina i criteri di valutazione dei titoli scientifici e lo svolgimento di tre prove: due prove scritte, a carattere teorico e a carattere applicativo, e una prova orale.
+									</corpo>
+								</comma>
+								<comma id="ann1-art5-com5">
+									<num>5.</num>
+									<corpo>
+										Per i concorsi per l'accesso ai diversi livelli del profilo di tecnologo occorre il possesso del diploma di laurea conseguito secondo la normativa in vigore anteriormente alla riforma di cui al
+										<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1999-11-03;509" xlink:type="simple">DM n. 509/1999</rif>
+										oppure della laurea specialistica o magistrale, ed inoltre per i dirigenti tecnologi e i primi tecnologi occorrono rispettivamente almeno dodici e otto anni di specifica esperienza professionale.
+									</corpo>
+								</comma>
+								<comma id="ann1-art5-com6">
+									<num>6.</num>
+									<alinea>Il concorso per l'accesso ai diversi profili di tecnologo avviene secondo le seguenti modalità:</alinea>
+									<el id="ann1-art5-com6-leta">
+										<num>a)</num>
+										<corpo>dirigenti tecnologi e primi tecnologi: valutazione dei titoli tecnico-scientifici e professionali integrata da colloquio;</corpo>
+									</el>
+									<el id="ann1-art5-com6-letb">
+										<num>b)</num>
+										<corpo>tecnologi di livello iniziale: valutazione dei titoli tecnico-scientifici e professionali, integrata da una prova scritta a prevalente carattere applicativo e una prova orale.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art6">
+								<num>Articolo 6</num>
+								<rubrica>Grado di decentramento alle varie strutture</rubrica>
+								<comma id="ann1-art6-com1">
+									<num>1.</num>
+									<corpo>Le domande sono inoltrate di regola all'Ufficio concorsi e borse di studio salva diversa disposizione specificata nel bando. L'Ufficio provvede a verificare i requisiti di ammissione e alle eventuali esclusioni disposte dal Dirigente dell'Ufficio.</corpo>
+								</comma>
+								<comma id="ann1-art6-com2">
+									<num>2.</num>
+									<corpo>I lavori delle commissioni e le prove di esame di regola sono svolte a livello regionale in una sede individuata nell'ambito delle Aree di ricerca del CNR, ove presenti, o presso strutture scientifiche del CNR.</corpo>
+								</comma>
+								<comma id="ann1-art6-com3">
+									<num>3.</num>
+									<corpo>
+										Il numero delle commissioni è stabilito in base al numero delle aree scientifiche o dei settori tecnologici individuati nel bando. La sede di cui al
+										<rif xlink:href="#ann1-art6-com2" xlink:type="simple">comma 2</rif>
+										è di norma stabilita nella regione con il maggior numero di domande pervenute.
+									</corpo>
+								</comma>
+							</articolo>
+						</articolato>
+					</DocumentoNIR>
+	</NIR>

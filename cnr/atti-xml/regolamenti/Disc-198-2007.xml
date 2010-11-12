@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20071231" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20071231" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:tipoDestinatario valore="Presidenza" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+				, n.
+				<numDoc>198</numDoc>
+				<titoloDoc>
+					<rif xlink:href="pdf/All_DelCdA_198-2007.pdf" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif>
+				</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<h:p />
+			</contenitore>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+						<titAnnesso />
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato al Disciplinare</tipoDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="pdf/All1_Disc_198-2007.pdf" xlink:type="simple">Schema di partecipazione</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>Allegato 2</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.2" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato al Disciplinare</tipoDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="pdf/All2_Disc_198-2007.pdf" xlink:type="simple">Schema di partecipazione</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con3" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann3">
+					<testata>
+						<denAnnesso>Allegato 3</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red4" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.3" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato al Disciplinare</tipoDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="pdf/All3_Disc_198-2007.pdf" xlink:type="simple">Programma di ricerca</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con4" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann4">
+					<testata>
+						<denAnnesso>Allegato 4</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red5" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.4" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato al Disciplinare</tipoDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="pdf/All4_Disc_198-2007.pdf" xlink:type="simple">Tabella rimborsi titoli di viaggio</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con5" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann5">
+					<testata>
+						<denAnnesso>Allegato 5</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red6" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.5" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato al Disciplinare</tipoDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="pdf/All5_Disc_198-2007.pdf" xlink:type="simple">Liberatoria</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con6" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

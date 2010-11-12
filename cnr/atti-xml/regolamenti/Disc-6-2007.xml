@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Disciplinare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="BUCNR" />
+					<entratainvigore norm="20070202" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;628" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070202" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20070202" fonte="all1" id="t2" tipo="allegato" />
+						<evento data="20070202" fonte="all2" id="t3" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6" xlink:type="simple" />
+						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;628" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza"/>
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20070202">2 febbraio 2007</dataDoc>
+				, n.
+				<numDoc>6</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">628</numDoc>
+				)
+				<titoloDoc>
+					Disciplinare sui criteri generali per l'associazione ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">articolo 17 del Regolamento del personale</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>(Conferimento)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Il conferimento dell'associatura è disposto dai Direttori di Istituto su domanda dell'interessato corredata di curriculum attestante la propria attività di ricerca nell'ambito delle aree scientifiche e dei settori tecnologici di interesse dell'Istituto, e di indicazione delle tematiche di ricerca per le quali richiede l'associatura; il provvedimento è adottato sentito il Consiglio di istituto.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>La domanda è valutata con riferimento all'apporto potenziale del futuro associato al più efficace svolgimento delle attività di ricerca svolte dall'Istituto.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>Il Direttore di Istituto, sentito il Consiglio di Istituto, dispone motivatamente la revoca dell'associatura.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>Dei relativi provvedimenti il direttore di istituto dà comunicazione corredata di curriculum al direttore di dipartimento di afferenza che lo inoltra al Presidente.</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num>5.</num>
+						<corpo>E' responsabilità dell'associato acquisire e trasmettere al direttore di istituto le autorizzazioni della struttura di appartenenza che dovessero essere prescritte.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>(Soggetti)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>Possono essere associati:</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>i professori e ricercatori universitari di ruolo;</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>i professori a contratto presso strutture universitarie statali e non statali legalmente riconosciute;</corpo>
+						</el>
+						<el id="art2-com1-letc">
+							<num>c)</num>
+							<corpo>i tecnici laureati che svolgono attività di ricerca nei Dipartimenti universitari;</corpo>
+						</el>
+						<el id="art2-com1-letd">
+							<num>d)</num>
+							<corpo>i titolari di borse post-doc o di assegno di ricerca presso Enti ed Istituti di ricerca o presso strutture universitarie statali e non statali legalmente riconosciute;</corpo>
+						</el>
+						<el id="art2-com1-lete">
+							<num>e)</num>
+							<corpo>i dottorandi e titolari di borse per Scuole di Specializzazione che operino presso strutture universitarie statali e non statali legalmente riconosciute;</corpo>
+						</el>
+						<el id="art2-com1-letf">
+							<num>f)</num>
+							<corpo>i ricercatori o tecnologi che operino in altre strutture scientifiche pubbliche e private anche internazionali, ivi inclusi gli IRCCS;</corpo>
+						</el>
+						<el id="art2-com1-letg">
+							<num>g)</num>
+							<corpo>ricercatori e tecnologi ex dipendenti di Enti pubblici di ricerca in quiescenza, nonché professori e ricercatori universitari in quiescenza. Con provvedimento motivato a carattere straordinario il Direttore di Istituto può accogliere le domande di associatura di ex dipendenti di Enti pubblici di ricerca con competenze tecniche altamente qualificate qualora il curriculum documenti lo svolgimento di attività di ricerca.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Con riferimento ai soggetti di cui ai punti da "a" ad "f" l'associatura è disposta previa adozione di apposita convenzione con le Università e gli Enti pubblici e privati di ricerca anche internazionali, ove non prevista in precedente convenzione quadro già stipulata con il CNR.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>Con provvedimento motivato a carattere straordinario il Direttore di Istituto può accogliere le domande di associatura di ex dipendenti di Enti pubblici di ricerca con competenze tecniche altamente qualificate qualora il curriculum documenti lo svolgimento di attività di ricerca.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>(Partecipazione alle attività scientìfiche)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>L'associato partecipa a programmi specifici stabiliti nell'ambito delle procedure di programmazione, con riferimento a una o più commesse o moduli di attività, ovvero ad attività approvate, di ricerca spontanea a tema libero.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>L'impegno di tempo dell'associato sarà da questo concordato con il direttore di Istituto in relazione alla attività da svolgere.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>Dell'apporto degli associati si tiene conto nella valutazione delle commesse di ricerca svolte dagli istituti e nella corrispondente quantificazione e attribuzione delle risorse.</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>L'associato redige annualmente una breve relazione sull'attività svolta diretta al direttore di istituto che ne tiene conto ai fini delle relazioni di consuntivo dell'Istituto.</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<corpo>
+							Qualora l'associato contribuisca ad una commessa con risorse determinanti, può esserne proposta la nomina a responsabile di commessa, con le procedure di cui all'
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art29" xlink:type="simple">art. 29 del Regolamento di organizzazione</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>(Trattamento)</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Al personale associato non spetta in quanto tale alcun compenso; qualora in missione per finalità concernenti lo svolgimento delle attività cui partecipa, gli verranno rimborsate le spese di missione documentate a carico della commessa/e nella quale/i è impegnato.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>Spetta all'Associato l'uso dei servizi logistici quali la mensa con le modalità definite dal direttore di istituto in riferimento a quanto previsto per i dipendenti</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>(Durata)</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>La durata dell'associatura è correlata ai progetti specifici del Dipartimento di afferenza stabiliti nell'ambito delle procedure di programmazione, con riferimento a commesse o moduli, nonché alle linee di attività di ricerca ed alla missione scientifica dell'Istituto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>(Sede)</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>L'associato presta la sua attività presso la sede dell'Istituto CNR per il quale è stata disposta l'associatura, ivi incluse le articolazioni previste dal regolamento di organizzazione e funzionamento.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>(Accesso a servizi e strumenti)</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>L'associato accede con modalità definite dal Direttore di Istituto ai servizi tecnico-scientifici, agli strumenti e alle apparecchiature dell'Istituto nell'ambito e per le finalità delle commesse e delle attività di ricerca spontanea a tema libero approvate alle quali l'associato collabora, in condizioni di parità con il personale dipendente rispetto alla definizione e all'esecuzione delle ricerche.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>(Copertura assicurativa)</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>La copertura assicurativa è data dalla vigente assicurazione di tipo generale per responsabilità civile verso terzi, estesa ai prestatori di lavoro e cioè a tutti quelli che hanno con l'Ente un rapporto di attività.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>I Direttori di Istituto avranno cura di verificare la presenza di altre assicurazioni - di tipo concorrente - di cui beneficiano gli associati da parte delle rispettive strutture di appartenenza.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>(Norma transitoria)</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>I direttori di istituto possono confermare per una sola volta i rapporti di associativa in atto per la durata massima di sei mesi e comunque sino all'espletamento delle procedure previste dal presente disciplinare.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+		</DocumentoNIR>
+	</NIR>

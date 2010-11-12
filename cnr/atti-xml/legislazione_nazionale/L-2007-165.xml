@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<Legge>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20071010" num="236" tipo="GU" />
+					<entratainvigore norm="20071025" />
+					<redazione id="red1" nome="" norm="" />
+					<urn finevigore="t3" iniziovigore="t1" valore="urn:nir:stato:legge:2007-09-27;165" />
+					<urn finevigore="t2" iniziovigore="t3" valore="urn:nir:stato:legge:2007-09-27;165@2008-06-25" />
+					<urn iniziovigore="t2" valore="urn:nir:stato:legge:2007-09-27;165@2009-06-18" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20071025" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20090704" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="20080625" fonte="rp2" id="t3" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-leta" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo27, comma1, letteraa, legge 18 giugno 2009, n. 69" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h2" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h1" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com1-letb" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-letb" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo27, comma1, letterab, legge 18 giugno 2009, n. 69" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h3" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com1-letb" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-letb" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo27, comma1, letterab, legge 18 giugno 2009, n. 69" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h5" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com1-letc-t2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-letc" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo27, comma1, letterac, legge 18 giugno 2009, n. 69" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art1-com1-letc" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#art1-com1-letc-t2" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com1-letg" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-letd" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo27, comma1, letterad, legge 18 giugno 2009, n. 69" id="itt5" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h6" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art1-com4" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art26-com5" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo26, comma5, decreto-legge 25 giugno 2008, n. 112" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h8" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h7" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>LEGGE</tipoDoc>
+				<dataDoc norm="20070927">27 settembre 2007</dataDoc>
+				, n.
+				<numDoc>165</numDoc>
+				<titoloDoc>Delega al Governo in materia di riordino degli enti di ricerca.</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>La Camera dei deputati ed il Senato della Repubblica hanno approvato;</h:p>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<h:p>PROMULGA</h:p>
+				<h:p>la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Riordino degli enti di ricerca</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							Allo scopo di promuovere, sostenere, rilanciare e razionalizzare le attività nel settore della ricerca e di garantire autonomia, trasparenza ed efficienza nella gestione degli enti pubblici nazionali di ricerca, il Governo è autorizzato ad adottare uno o più decreti legislativi, entro
+							<h:span finevigore="t2" id="h1" iniziovigore="t1" status="abrogato">il termine di diciotto mesi dalla data di entrata in vigore della presente legge</h:span>
+							<h:span id="h2" iniziovigore="t2">il 31 dicembre 2009</h:span>
+							, al fine di provvedere al riordino della disciplina relativa agli statuti e agli organi di governo degli enti pubblici nazionali di ricerca, vigilati dal Ministero dell'università e della ricerca, nel rispetto dei principi e criteri direttivi indicati nell'
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art18" xlink:type="simple">articolo 18 della legge 15 marzo 1997, n. 59</rif>
+							, e dei seguenti:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								riconoscimento agli enti della autonomia statutaria, nel rispetto dell'
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art33-com6" xlink:type="simple">articolo 33, sesto comma, della Costituzione</rif>
+								e in coerenza con i principi della Carta europea dei ricercatori, allegata alla raccomandazione n. 2005/251/CE della Commissione, dell'11 marzo 2005, al fine di salvaguardarne l'indipendenza e la libera attività di ricerca, volta all'avanzamento della conoscenza, ferma restando la responsabilità del Governo nell'indicazione della missione e di specifici obiettivi di ricerca per ciascun ente, nell'ambito del Programma nazionale della ricerca (PNR) e degli obiettivi strategici fissati dall'Unione europea;
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								formulazione e deliberazione degli statuti
+								<h:span id="h3" iniziovigore="t2">e dei regolamenti di amministrazione, finanza e contabilità, e del personale</h:span>
+								da parte degli organi statutari competenti dei singoli enti interessati e loro successiva emanazione da parte dei medesimi organi, previo controllo di legittimità e di merito del Ministro dell'università e della ricerca, nelle forme previste dall'
+								<mrif>
+									articolo 6, commi
+									<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art6-com9" xlink:type="simple">9</rif>
+									e
+									<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art6-com10" xlink:type="simple">10</rif>
+									della legge 9 maggio 1989, n. 168
+								</mrif>
+								.
+								<h:span finevigore="t2" id="h4" iniziovigore="t1" status="abrogato">Il Ministro dell'università e della ricerca esercita il controllo di cui alla presente lettera sentite le Commissioni parlamentari competenti, le quali si esprimono entro trenta giorni dalla data della richiesta del relativo parere</h:span>
+								<h:span id="h5" iniziovigore="t2">Il Ministro dell'istruzione, dell'università e della ricerca esercita il controllo sui regolamenti di amministrazione, finanza e contabilità, sentito il Ministro dell'economia e delle finanze, nonché sui regolamenti del personale, sentiti il Ministro dell'economia e delle finanze e il Ministro per la pubblica amministrazione e l'innovazione</h:span>
+								;
+							</corpo>
+						</el>
+						<el finevigore="t2" id="art1-com1-letc-t2" iniziovigore="t1" status="abrogato">
+							<num>c)</num>
+							<corpo>formulazione e deliberazione degli statuti, in sede di prima attuazione, da parte dei consigli scientifici di ciascun ente, integrati da cinque esperti di alto profilo scientifico, nominati, senza nuovi o maggiori oneri per la finanza pubblica, dal Ministro dell'università e della ricerca. Agli esperti non è riconosciuto alcun compenso o indennità;</corpo>
+						</el>
+						<el id="art1-com1-letc" iniziovigore="t2">
+							<num>c)</num>
+							<corpo>formulazione e deliberazione degli statuti, in sede di prima attuazione, da parte dei consigli di amministrazione integrati da cinque esperti di alto profilo scientifico, nominati, senza nuovi o maggiori oneri per la finanza pubblica, dal Ministro dell'istruzione, dell'università e della ricerca. Agli esperti non è riconosciuto alcun compenso o indennità. I predetti statuti sono deliberati previo parere dei consigli scientifici;</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>affidamento all'Agenzia nazionale di valutazione dell'università e della ricerca (ANVUR) del compito di valutare la qualità dei risultati della ricerca svolta dagli enti, nonchè l'efficacia e l'efficienza delle loro attività istituzionali, riferendo periodicamente al Governo con appositi rapporti;</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>
+								attribuzione agli enti delle risorse finanziarie statali sulla base di criteri che tengano conto della valutazione di cui alla
+								<rif xlink:href="#art1-com1-letd" xlink:type="simple">lettera d)</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>riordino degli organi statutari, con riduzione del numero dei loro componenti, garantendone altresì l'alto profilo scientifico e le competenze tecnico-organizzative e prevedendo nuove procedure di individuazione dei presidenti e dei componenti di nomina governativa dei consigli di amministrazione, che sono l'organo di governo degli enti, tramite scelte effettuate in rose di candidati proposte da appositi comitati di selezione nominati di volta in volta dal Governo, assicurando negli stessi comitati un'adeguata rappresentanza di esponenti della comunità scientifica nazionale e internazionale e, in particolare, di quanti sono stati eletti dai ricercatori in organismi degli enti, ove esistenti, e comunque escludendone il personale del Ministero dell'università e della ricerca;</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>
+								composizione del consiglio di amministrazione del Consiglio nazionale delle ricerche in modo da assicurare che la metà dei componenti sia di nomina governativa, nonché del consiglio di amministrazione dell'Agenzia spaziale italiana (ASI), prevedendo che con decreto del Ministro dell'istruzione, dell'università e della ricerca siano nominati il presidente e gli altri quattro componenti, dei quali uno designato dal Ministro degli affari esteri, uno dal Ministro della difesa e uno dal Ministro dell'economia e delle finanze
+								<h:span id="h6" iniziovigore="t2">, nonché del consiglio di amministrazione dell'Agenzia spaziale italiana (ASI), prevedendo che con decreto del Ministro dell'istruzione, dell'università e della ricerca siano nominati il presidente e gli altri quattro componenti, dei quali uno designato dal Ministro degli affari esteri, uno dal Ministro della difesa e uno dal Ministro dell'economia e delle finanze</h:span>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com1-leth">
+							<num>h)</num>
+							<corpo>adozione di procedure di valutazione comparativa, sulla base del merito scientifico, per l'individuazione dei direttori degli organi di ricerca;</corpo>
+						</el>
+						<el id="art1-com1-leti">
+							<num>i)</num>
+							<corpo>adozione di misure organizzative volte a potenziare la professionalità e l'autonomia dei ricercatori, semplificando le procedure amministrative relative all'attività di ricerca, e valorizzando il ruolo dei consigli scientifici;</corpo>
+						</el>
+						<el id="art1-com1-letl">
+							<num>l)</num>
+							<corpo>adozione di misure volte a favorire la dimensione europea e internazionale della ricerca, incentivando la cooperazione scientifica e tecnica con istituzioni ed enti di altri Paesi;</corpo>
+						</el>
+						<el id="art1-com1-letm">
+							<num>m)</num>
+							<corpo>introduzione di misure volte a favorire la collaborazione con le attività delle regioni in materia di ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi;</corpo>
+						</el>
+						<el id="art1-com1-letn">
+							<num>n)</num>
+							<corpo>adozione di misure che prevedano norme anti-discriminatorie tra donne e uomini nella composizione di organi statutari.</corpo>
+						</el>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<alinea>
+							Il Governo è altresì autorizzato, mediante i decreti legislativi di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							:
+						</alinea>
+						<el id="art1-com2-leta">
+							<num>a)</num>
+							<corpo>a procedere ad accorpamenti o scorpori, anche parziali, con conseguente attribuzione di personalità giuridica, di enti o di loro strutture attive nei settori della fisica della materia, dell'ottica e dell'ingegneria navale;</corpo>
+						</el>
+						<el id="art1-com2-letb">
+							<num>b)</num>
+							<corpo>a riordinare l'Istituto italiano di tecnologia.</corpo>
+						</el>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							Gli schemi dei decreti legislativi adottati ai sensi del
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							, ciascuno dei quali deve essere corredato di relazione tecnica sugli effetti finanziari delle disposizioni in esso contenute, sono trasmessi alle Camere ai fini dell'espressione dei pareri da parte delle Commissioni parlamentari competenti per materia e per le conseguenze di carattere finanziario, che sono resi entro quarantacinque giorni dalla data di trasmissione dei medesimi schemi di decreto. Decorso tale termine, i decreti possono essere comunque emanati.
+						</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							I decreti di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							sono emanati su proposta del Presidente del Consiglio dei ministri e del Ministro dell'università e della ricerca, di concerto con il Ministro per le riforme e le innovazioni nella pubblica amministrazione
+							<h:span finevigore="t3" id="h7" iniziovigore="t1" status="abrogato">e con il Ministro dell'economia e delle finanze</h:span>
+							<h:span id="h8" iniziovigore="t3">, il Ministro dell'economia e delle finanze e il Ministro per la semplificazione normativa</h:span>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num>5.</num>
+						<corpo>Ferme restando le procedure di commissariamento previste dalle norme vigenti, nel caso di modifiche statutarie inerenti alla missione dell'ente e alla sua struttura di governo, ovvero nel caso di comprovata difficoltà di funzionamento o di mancato raggiungimento degli obiettivi indicati dal Governo, il Governo può procedere al commissariamento degli enti attraverso decreti sottoposti al parere delle Commissioni parlamentari competenti. Le Commissioni si esprimono entro trenta giorni dalla data di trasmissione. Decorso tale termine, il Governo può comunque procedere al commissariamento. Dalle disposizioni del presente comma non devono derivare oneri aggiuntivi per il bilancio dello Stato.</corpo>
+					</comma>
+					<comma id="art1-com6">
+						<num>6.</num>
+						<corpo>
+							Il Governo è delegato ad adottare, entro dodici mesi dalla data di entrata in vigore dei decreti di cui al comma 1, con le medesime procedure di cui ai
+							<mrif>
+								commi
+								<rif xlink:href="#art1-com3" xlink:type="simple">3</rif>
+								e
+								<rif xlink:href="#art1-com4" xlink:type="simple">4</rif>
+							</mrif>
+							, uno o più decreti legislativi correttivi o modificativi dei medesimi decreti, nel rispetto dei principi e criteri direttivi di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com7">
+						<num>7.</num>
+						<corpo>Dall'attuazione delle norme di ciascun decreto di cui al presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Abrogazioni</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							I
+							<mrif>
+								commi
+								<rif xlink:href="urn:nir:stato:decreto.legge:2006-10-03;262#art2-com143" xlink:type="simple">143</rif>
+								,
+								<rif xlink:href="urn:nir:stato:decreto.legge:2006-10-03;262#art2-com144" xlink:type="simple">144</rif>
+								e
+								<rif xlink:href="urn:nir:stato:decreto.legge:2006-10-03;262#art2-com145" xlink:type="simple">145</rif>
+								dell'articolo 2 del decreto-legge 3 ottobre 2006, n. 262
+							</mrif>
+							, convertito, con modificazioni, dalla
+							<rif xlink:href="urn:nir:stato:legge:2006-11-24;286" xlink:type="simple">legge 24 novembre 2006, n. 286</rif>
+							, sono abrogati.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>
+				<h:p>La presente legge, munita del sigillo dello Stato sarà inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.</h:p>
+			</formulafinale>
+			<conclusione>
+				<dataeluogo codice="" norm="">Data a Roma, addì 27 settembre 2007</dataeluogo>
+			</conclusione>
+		</Legge>
+	</NIR>

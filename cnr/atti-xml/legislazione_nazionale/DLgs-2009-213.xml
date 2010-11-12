@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DecretoLegislativo>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20100201" num="25" tipo="GU" />
+					<entratainvigore norm="20100216" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:stato:decreto.legislativo:2009-12-31;213" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100216" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20100216" fonte="ra1" id="t2" tipo="modifica" />
+						<evento data="20100216" fonte="ra2" id="t3" tipo="modifica" />
+						<evento data="20100216" fonte="ra3" id="t4" tipo="modifica" />
+						<evento data="20100216" fonte="ra4" id="t5" tipo="modifica" />
+						<evento data="20100216" fonte="ra5" id="t6" tipo="modifica" />
+						<evento data="20100216" fonte="ra6" id="t7" tipo="modifica" />
+						<evento data="20100216" fonte="ra7" id="t8" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple" />
+						<attiva id="ra2" xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple" />
+						<attiva id="ra3" xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple" />
+						<attiva id="ra4" xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple" />
+						<attiva id="ra5" xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple" />
+						<attiva id="ra6" xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38" xlink:type="simple" />
+						<attiva id="ra7" xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
+							<dsp:termine da="#t3" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
+							<dsp:termine da="#t4" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
+							<dsp:termine da="#t5" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com2" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
+							<dsp:termine da="#t6" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com4" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod5" xlink:type="simple" />
+							<dsp:termine da="#t7" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38#art19-com2" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod6" xlink:type="simple" />
+							<dsp:termine da="#t8" />
+							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286#art3-com1" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+					</modificheattive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<tipoDoc>Decreto Legislativo</tipoDoc>
+				<dataDoc norm="20091231">31 dicembre 2009</dataDoc>
+				, n.
+				<numDoc>213</numDoc>
+				<titoloDoc>
+					Riordino degli enti di ricerca in attuazione dell'
+					<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1" xlink:type="simple">articolo 1 della legge 27 settembre 2007, n. 165</rif>
+					.
+				</titoloDoc>
+				pubblicato nella Gazzetta Ufficiale del 1 febbraio 2010, n. 25
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE DELLA REPUBBLICA</h:p>
+				<preambolo>
+					<h:p>
+						Visti gli
+						<mrif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art9" xlink:type="simple">articoli 9</rif>
+							,
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art33" xlink:type="simple">33</rif>
+							,
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art76" xlink:type="simple">76</rif>
+							e
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art87" xlink:type="simple">87</rif>
+							della Costituzione
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59" xlink:type="simple">legge 15 marzo 1997, n. 59</rif>
+						, e successive modificazioni;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">decreto legislativo 5 giugno 1998, n. 204</rif>
+						, e successive modificazioni;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:1998-11-09;439" xlink:type="simple">decreto del Presidente della Repubblica 9 novembre 1998, n. 439</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419" xlink:type="simple">decreto legislativo 29 ottobre 1999, n. 419</rif>
+						, concernente il riordino del sistema degli enti pubblici nazionali, a norma degli
+						<mrif>
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art11" xlink:type="simple">articoli 11</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art14" xlink:type="simple">14</rif>
+							della legge 15 marzo 1997, n. 59
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple">decreto legislativo 19 novembre 2004, n. 286</rif>
+						, concernente l'istituzione del Servizio nazionale di valutazione del sistema educativo di istruzione e di formazione, nonché il riordino dell'omonimo istituto a norma degli
+						<mrif>
+							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53#art1" xlink:type="simple">articoli 1</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53#art3" xlink:type="simple">3</rif>
+							della legge 28 marzo 2003, n. 53
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Visto l'
+						<mrif>
+							articolo 1, commi
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com612" xlink:type="simple">612</rif>
+							,
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com613" xlink:type="simple">613</rif>
+							,
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com614" xlink:type="simple">614</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com615" xlink:type="simple">615</rif>
+							della legge 27 dicembre 2006, n. 296
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legge:2007-09-07;147" xlink:type="simple">decreto-legge 7 settembre 2007, n. 147</rif>
+						, convertito, con modificazioni, dalla
+						<rif xlink:href="urn:nir:stato:legge:2007-10-25;176" xlink:type="simple">legge 25 ottobre 2007, n. 176</rif>
+						;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple">legge 27 settembre 2007, n. 165</rif>
+						, e successive modificazioni;
+					</h:p>
+					<h:p>
+						Visto l'
+						<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78#art17" xlink:type="simple">articolo 17 del decreto-legge 1 luglio 2009, n. 78</rif>
+						, convertito, con modificazioni, dalla
+						<rif xlink:href="urn:nir:stato:legge:2009-08-03;102" xlink:type="simple">legge 3 agosto 2009, n. 102</rif>
+						;
+					</h:p>
+					<h:p>Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 novembre 2009;</h:p>
+					<h:p>Acquisiti i pareri delle competenti Commissioni parlamentari del Senato della Repubblica e della Camera dei deputati;</h:p>
+					<h:p>Ritenuto di non accogliere la condizione espressa dalla VII Commissione permanente del Senato relativa all'applicazione anche all'INFN della disciplina generale prevista per i consigli di amministrazione degli enti data la peculiarità dell'organizzazione dell'ente medesimo;</h:p>
+					<h:p>Ritenuto di non accogliere la condizione espressa dalla VII Commissione permanente del Senato relativa al ripristino del parere delle commissioni parlamentari sulle nomine dei presidenti degli enti in quanto la nuova procedura si fonda su una scelta dei candidati attraverso criteri selettivi e di valutazione operati da uno specifico comitato selettivo di alto profilo;</h:p>
+					<h:p>Ritenuto di non accogliere la condizione espressa dalla VII Commissione permanente del Senato circa la possibilità, nella fase di prima attuazione della riforma, per i presidenti di essere rinominati qualora abbiano ricoperto l'incarico medesimo per meno di otto anni in quanto si è accolta una condizione differente, posta sul medesimo comma, dalla VII Commissione della Camera al fine di uniformare il trattamento tra presidenti e componenti dei consigli di amministrazione;</h:p>
+					<h:p>
+						Ritenuto di non accogliere la condizione espressa dalla VII Commissione permanente della Camera relativa all'eliminazione del numero massimo dei componenti dei consigli di amministrazione e dei consigli tecnico-scientifici in quanto entrambe le disposizioni realizzano la delega prevista dalla
+						<rif xlink:href="urn:nir:stato:legge:2007;165" xlink:type="simple">legge n. 165/2007</rif>
+						, fissando limiti e metodo della prevista riduzione;
+					</h:p>
+					<h:p>Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 dicembre 2009;</h:p>
+					<h:p>Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'istruzione, dell'università e della ricerca, di concerto con i Ministri per la pubblica amministrazione e l'innovazione, dell'economia e delle finanze e per la semplificazione normativa;</h:p>
+				</preambolo>
+				<h:p>Emana</h:p>
+				<h:p>il seguente decreto legislativo:</h:p>
+			</formulainiziale>
+			<articolato>
+				<capo id="cap1">
+					<num>Capo I</num>
+					<rubrica>Riordino degli enti di ricerca</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Obiettivi del riordino e definizioni</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								Allo scopo di promuovere, sostenere, rilanciare e razionalizzare le attività nel settore della ricerca, di garantire autonomia, trasparenza ed efficienza nella gestione e di provvedere al riordino della disciplina relativa agli statuti e agli organi degli enti pubblici nazionali di ricerca, vigilati dal Ministero dell'istruzione, dell'università e della ricerca, è emanato il presente decreto legislativo, nel rispetto dei principi e criteri direttivi indicati nell'
+								<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art18" xlink:type="simple">articolo 18 della legge 15 marzo 1997, n. 59</rif>
+								e di quelli fissati dalla
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple">legge delega 27 settembre 2007, n. 165</rif>
+								, così come modificata dalla
+								<rif xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-leta" xlink:type="simple">lettera a) del comma 1 dell'articolo 27 della legge 18 giugno 2009, n. 69</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art1-com2">
+							<num>2.</num>
+							<alinea>Agli effetti del presente decreto legislativo, ove non diversamente disposto, si intendono:</alinea>
+							<el id="art1-com2-leta">
+								<num>a)</num>
+								<corpo>per enti di ricerca: gli enti pubblici nazionali di ricerca vigilati dal Ministero dell'istruzione, dell'università e della ricerca;</corpo>
+							</el>
+							<el id="art1-com2-letb">
+								<num>b)</num>
+								<corpo>per Ministro e Ministero: rispettivamente, il Ministro dell'istruzione, dell'università e della ricerca e il Ministero dell'istruzione, dell'università e della ricerca;</corpo>
+							</el>
+							<el id="art1-com2-letc">
+								<num>c)</num>
+								<corpo>
+									per PNR: il Programma nazionale della ricerca, di cui all'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art1-com2-letd">
+								<num>d)</num>
+								<corpo>
+									per PTA: Piano triennale di attività, di cui all'
+									<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art1-com2-lete">
+								<num>e)</num>
+								<corpo>
+									per DVS: il Documento di visione strategica decennale degli enti di ricerca, di cui all'
+									<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>Autonomia statutaria</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<corpo>
+								Agli enti di ricerca è riconosciuta autonomia statutaria nel rispetto dell'
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art33-com6" xlink:type="simple">articolo 33, sesto comma, della Costituzione</rif>
+								, ed in coerenza con i principi della Carta europea dei ricercatori, allegata alla raccomandazione n. 2005/251/CE della commissione, dell'11 marzo 2005. Gli enti di ricerca adottano o adeguano i propri statuti in conformità alle disposizioni della
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple">legge 27 settembre 2007, n. 165</rif>
+								, e del presente decreto legislativo, nonché con quelli compatibili dei rispettivi ordinamenti vigenti, prevedendo forme di sinergia tra gli enti di ricerca, le strutture universitarie ed il mondo dell'impresa, nonché modelli organizzativi tendenti alla valorizzazione, partecipazione e rappresentanza dell'intera comunità scientifica nazionale di riferimento.
+							</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<corpo>Mediante atti di indirizzo e direttive, adottati con decreto del Ministro, di concerto con i Ministri eventualmente interessati, sono individuati la missione e gli obiettivi di ricerca per ciascun ente, in coerenza con i contenuti del PNR e gli obiettivi strategici fissati dall'Unione europea.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>Statuti degli enti di ricerca</rubrica>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<corpo>Gli statuti degli enti di ricerca specificano ed articolano la missione e gli obiettivi di ricerca tenuto conto degli obiettivi strategici fissati dal Ministro e dall'Unione europea, nonché dei fabbisogni e del modello strutturale di organizzazione e funzionamento previsti per il raggiungimento degli scopi istituzionali ed il buon andamento delle attività.</corpo>
+						</comma>
+						<comma id="art3-com2">
+							<num>2.</num>
+							<corpo>
+								Gli statuti devono prevedere la riduzione del numero dei componenti degli organi di direzione, amministrazione, consulenza e controllo, nonché l'adozione di forme organizzative atte a garantire trasparenza ed efficienza della gestione. Le specifiche misure di snellimento devono comunque garantire l'alto profilo scientifico e professionale, le competenze tecnico-organizzative e la rappresentatività dei componenti, secondo i criteri previsti dall'
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com1-letf" xlink:type="simple">articolo 1, comma 1, lettera f) della legge 27 settembre 2007, n. 165</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art3-com3">
+							<num>3.</num>
+							<corpo>
+								In sede di prima attuazione, la formulazione e deliberazione degli statuti e dei regolamenti, cui all'
+								<rif xlink:href="#art6" xlink:type="simple">articolo 6</rif>
+								, è attribuita ai consigli di amministrazione in carica alla data di emanazione del presente decreto, integrati da cinque esperti dotati di specifiche competenze in relazione alle finalità dell'ente ed al particolare compito conferito, nominati, senza nuovi o maggiori oneri per la finanza pubblica, dal Ministro. Agli esperti non è riconosciuto alcun compenso o indennità. I predetti statuti sono deliberati previo parere dei consigli scientifici, entro sei mesi dalla data di entrata in vigore del presente decreto legislativo. In caso di inottemperanza della disposizione del presente comma, può provvedere il Ministero in via sostitutiva, fatta salva la possibilità di applicazione dell'
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>Finanziamento degli enti di ricerca</rubrica>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<corpo>
+								La ripartizione del fondo ordinario per gli enti di ricerca finanziati dal Ministero, di cui all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7" xlink:type="simple">articolo 7 del decreto legislativo 5 giugno 1998, n. 204</rif>
+								, e successive modificazioni, è effettuata sulla base della programmazione strategica preventiva, di cui all'
+								<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+								, nonché tenendo conto della valutazione della qualità dei risultati della ricerca, effettuata dall'Agenzia nazionale di valutazione dell'università e della ricerca (ANVUR).
+							</corpo>
+						</comma>
+						<comma id="art4-com2">
+							<num>2.</num>
+							<corpo>
+								A decorrere dall'anno 2011, al fine di promuovere e sostenere l'incremento qualitativo dell'attività scientifica degli enti di ricerca e migliorare l'efficacia e l'efficienza nell'utilizzo delle risorse, una quota non inferiore al 7 per cento del fondo di cui al
+								<rif xlink:href="#art4-com1" xlink:type="simple">comma 1</rif>
+								, con progressivi incrementi negli anni successivi, è destinata al finanziamento premiale di specifici programmi e progetti, anche congiunti, proposti dagli enti. I criteri e le motivazioni di assegnazione della predetta quota sono disciplinate con decreto avente natura non regolamentare del Ministro.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>Piani triennali di attività - PTA e Documento di visione strategica decennale degli enti di ricerca - DVS</rubrica>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<corpo>In conformità alle linee guida enunciate nel PNR, ai fini della pianificazione operativa i consigli di amministrazione dei singoli enti di ricerca, previo parere dei rispettivi consigli scientifici, adottano un piano triennale di attività, aggiornato annualmente, ed elaborano un documento di visione strategica decennale, in conformità alle particolari disposizioni definite nei rispettivi statuti e regolamenti.</corpo>
+						</comma>
+						<comma id="art5-com2">
+							<num>2.</num>
+							<corpo>Il predetto piano è valutato e approvato dal Ministero, anche ai fini della identificazione e dello sviluppo degli obiettivi generali di sistema, del coordinamento dei piani triennali di attività dei diversi enti di ricerca, nonché del riparto del fondo ordinario per il finanziamento degli enti di ricerca.</corpo>
+						</comma>
+						<comma id="art5-com3">
+							<num>3.</num>
+							<corpo>
+								Per il perseguimento delle finalità di coordinamento ed armonizzazione di cui al
+								<rif xlink:href="#art5-com2" xlink:type="simple">comma 2</rif>
+								, il Ministero, tenuto conto degli obiettivi del Programma nazionale della ricerca ed in funzione della elaborazione di nuovi indirizzi, svolge una specifica funzione di preventiva valutazione comparativa e di indirizzo strategico. Tale funzione è prevalentemente esercitata sulla base dei PTA e dei DVS ovvero anche impartendo dirette indicazioni volte a favorire il perseguimento di obiettivi di sistema o esperendo iniziative basate su modalità di carattere selettivo atte a sollecitare la collaborazione tra i diversi enti in funzione della promozione e realizzazione di progetti congiunti. A tale fine il Ministero può avvalersi del supporto, anche individuale, di dipendenti di enti di ricerca e università, anche in forma di comando, sulla base di apposite intese con le amministrazioni di appartenenza.
+							</corpo>
+						</comma>
+						<comma id="art5-com4">
+							<num>4.</num>
+							<corpo>Nell'ambito dell'autonomia e coerentemente al PTA, gli enti di ricerca determinano la consistenza e le variazioni dell'organico e del piano di fabbisogno del personale, sentite le organizzazioni sindacali. L'approvazione del fabbisogno del personale, la consistenza e le variazioni dell'organico da parte del Ministero avviene previo parere favorevole del Ministero dell'economia e delle finanze e del Dipartimento della funzione pubblica.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>Regolamenti degli enti di ricerca</rubrica>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>
+								I regolamenti del personale e di amministrazione, finanza e contabilità, vengono adottati in conformità ai principi e alle vigenti norme di amministrazione e contabilità pubblica e a quelle generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">decreto legislativo 30 marzo 2001, n. 165</rif>
+								, e successive modificazioni, ed ai principi e disposizioni del
+								<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262" xlink:type="simple">codice civile</rif>
+								per quanto compatibili, nel rispetto dei principi di trasparenza, efficienza, economicità ed efficacia della gestione.
+							</corpo>
+						</comma>
+						<comma id="art6-com2">
+							<num>2.</num>
+							<corpo>I regolamenti del personale prevedono modalità procedurali per l'espressione, da parte del consiglio di amministrazione, di un parere vincolante sulla validità curriculare dei dirigenti proposti, la cui individuazione e nomina resta in capo ai dirigenti apicali ai sensi della normativa vigente in materia.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>Procedura di adozione degli statuti e dei regolamenti</rubrica>
+						<comma id="art7-com1">
+							<num>1.</num>
+							<corpo>Gli statuti e i regolamenti di amministrazione, finanza e contabilità, e del personale degli enti di ricerca sono formulati e adottati dai competenti organi deliberativi dei singoli enti, previo controllo di legittimità e di merito esercitato dal Ministro.</corpo>
+						</comma>
+						<comma id="art7-com2">
+							<num>2.</num>
+							<corpo>Il Ministero esercita il controllo sui regolamenti di amministrazione, finanza e contabilità, sentito il Ministero dell'economia e delle finanze e, per quanto concerne i regolamenti del personale, anche il Dipartimento della funzione pubblica.</corpo>
+						</comma>
+						<comma id="art7-com3">
+							<num>3.</num>
+							<corpo>Il controllo e l'approvazione da parte del Ministero dei predetti statuti e regolamenti, avviene entro sessanta giorni dalla ricezione dei medesimi. Decorso tale termine in assenza di formali osservazioni di legittimità o di merito, gli statuti ed i regolamenti si intendono approvati e divengono efficaci. Lo stesso procedimento si applica anche per le successive modificazioni.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Consiglio di amministrazione degli enti di ricerca</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<alinea>Il numero dei componenti il consiglio di amministrazione, compreso il presidente, non può superare:</alinea>
+							<el id="art8-com1-leta">
+								<num>a)</num>
+								<corpo>cinque componenti, nel caso di enti che ricevono un contributo pubblico annuale di importo superiore al 20 per cento del fondo di funzionamento ordinario degli enti o che impiegano oltre cinquecento unità di personale;</corpo>
+							</el>
+							<el id="art8-com1-letb">
+								<num>b)</num>
+								<corpo>tre componenti negli altri casi.</corpo>
+							</el>
+						</comma>
+						<comma id="art8-com2">
+							<num>2.</num>
+							<corpo>
+								I componenti del consiglio di amministrazione, compreso il presidente, sono nominati con decreto del Ministro, durano in carica quattro anni, e possono essere confermati una sola volta. Agli stessi si applica quanto previsto nel quarto periodo dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+								, anche con riferimento ai mandati già espletati prima dell'entrata in vigore del presente decreto legislativo.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>Consiglio nazionale delle ricerche, Agenzia spaziale italiana e Istituto nazionale di fisica nucleare</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>
+								Il consiglio di amministrazione del Consiglio nazionale delle ricerche (CNR) è composto da sette componenti scelti tra personalità di alta qualificazione tecnico-scientifica nel campo della ricerca, di comprovata esperienza gestionale di enti ed istituzioni pubbliche o private, di cui: quattro, tra i quali il presidente, designati dal Ministro, di cui uno su indicazione del presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome; gli altri tre designati uno dalla Conferenza dei rettori delle università italiane, uno dalla Confindustria ed uno espressione delle comunità scientifica di riferimento. Il relativo consiglio scientifico di cui all'
+								<rif xlink:href="#art10" xlink:type="simple">articolo 10</rif>
+								può essere costituito fino ad un massimo di dieci componenti.
+							</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>Al fine di sostenere la competitività anche a livello internazionale delle competenze di ricerca, lo statuto del CNR assegna ai dipartimenti interni anche un ruolo centrale di riferimento e valorizzazione delle comunità tematiche e disciplinari in ambito nazionale, nonché nell'affidamento agli istituti dei programmi e progetti di ricerca ed assegnazione delle relative risorse, ferme restando le specifiche competenze e responsabilità del consiglio di amministrazione. Il predetto statuto del CNR può altresì prevedere una struttura organizzativa di programmazione e coordinamento delle attività polari.</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<corpo>Il consiglio di amministrazione dell'Agenzia spaziale italiana, nominato con decreto del Ministro, è costituito dal presidente e da altri quattro componenti, dei quali uno designato dal Ministro degli affari esteri, uno dal Ministro della difesa e uno dal Ministro dell'economia e delle finanze.</corpo>
+						</comma>
+						<comma id="art9-com4">
+							<num>4.</num>
+							<corpo>La composizione del consiglio direttivo dell'Istituto nazionale di fisica nucleare (INFN) è ridotta dei due componenti rappresentativi degli enti di livello non ministeriale. Restano in vigore le particolari disposizioni del vigente ordinamento dell'ente relative alla nomina degli organi statutari.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>Consigli scientifici o tecnico-scientifici degli enti di ricerca</rubrica>
+						<comma id="art10-com1">
+							<num>1.</num>
+							<corpo>Gli statuti degli enti di ricerca prevedono la costituzione e composizione di consigli scientifici o tecnico-scientifici ed indicano analiticamente i casi e le modalità di esercizio delle funzioni consultive in materia di proposte e pareri sui documenti di pianificazione e di visione strategica, nonché valorizzano il ruolo, anche nell'ottica di misure volte a favorire la dimensione europea e internazionale della ricerca, incentivando la cooperazione scientifica e tecnica con istituzioni ed enti di altri Paesi, nonché l'introduzione di misure volte a favorire la collaborazione con le attività delle regioni in materia di ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi.</corpo>
+						</comma>
+						<comma id="art10-com2">
+							<num>2.</num>
+							<corpo>I consigli scientifici sono nominati dal consiglio di amministrazione, previo esperimento di forme di consultazione della comunità scientifica ed economica, appositamente previste dagli statuti, e sono formati da non più di sette componenti.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art11">
+						<num>Art. 11</num>
+						<rubrica>Comitati di selezione dei presidenti e dei componenti dei consigli di amministrazione degli enti di ricerca di designazione governativa</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<corpo>Ai fini della nomina dei presidenti e dei membri del consiglio di amministrazione di designazione governativa, con decreto del Ministro è nominato un comitato di selezione, composto da un massimo di cinque persone, scelte tra esperti della comunità scientifica nazionale ed internazionale ed esperti in alta amministrazione, di cui uno con funzione di coordinatore, senza nuovi o maggiori oneri a carico del bilancio del Ministero. Il comitato di selezione agisce nel rispetto degli indirizzi stabiliti dal Ministro nel decreto di nomina e, per gli adempimenti aventi carattere amministrativo, è supportato dalle competenti direzioni generali del Ministero. Il personale del Ministero non può, in nessun caso, fare parte del comitato di selezione.</corpo>
+						</comma>
+						<comma id="art11-com2">
+							<num>2.</num>
+							<alinea>Il comitato di selezione fissa, con avviso pubblico, le modalità e i termini per la presentazione delle candidature e, per ciascuna posizione ed ove possibile in ragione del numero dei candidati, propone al Ministro:</alinea>
+							<el id="art11-com2-leta">
+								<num>a)</num>
+								<corpo>cinque nominativi per la carica di presidente;</corpo>
+							</el>
+							<el id="art11-com2-letb">
+								<num>b)</num>
+								<corpo>tre nominativi per la carica di consigliere.</corpo>
+							</el>
+						</comma>
+						<comma id="art11-com3">
+							<num>3.</num>
+							<corpo>Nei consigli di amministrazione composti da tre consiglieri, due componenti, incluso il presidente, sono individuati dal Ministro. Il terzo consigliere è scelto direttamente dalla comunità scientifica o disciplinare di riferimento sulla base di una forma di consultazione definita negli statuti.</corpo>
+						</comma>
+						<comma id="art11-com4">
+							<num>4.</num>
+							<corpo>
+								Nei consigli di amministrazione composti da cinque consiglieri, tre componenti e tra questi il presidente, sono individuati dal Ministro. Gli altri due componenti sono scelti direttamente dalla comunità scientifica o disciplinare di riferimento sulla base di una forma di consultazione definita negli statuti, fatto salvo quanto specificamente disposto all'
+								<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art11-com5">
+							<num>5.</num>
+							<corpo>I decreti ministeriali di nomina dei presidenti e dei consigli di amministrazione sono comunicati al Parlamento.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>Organizzazione interna e dirigenza degli enti di ricerca</rubrica>
+						<comma id="art12-com1">
+							<num>1.</num>
+							<corpo>
+								Gli enti di ricerca, nell'esercizio della propria potestà statutaria e regolamentare, adeguano i propri ordinamenti ai principi dell'
+								<mrif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art4" xlink:type="simple">articolo 4</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap2" xlink:type="simple">capo II del titolo II</rif>
+									del decreto legislativo 30 marzo 2001, n. 165
+								</mrif>
+								, nonché della
+								<rif xlink:href="urn:nir:stato:legge:1990-08-07;241" xlink:type="simple">legge 7 agosto 1990, n. 241</rif>
+								, e, tenendo conto delle relative peculiarità, adottano con lo statuto anche le regole di organizzazione e funzionamento.
+							</corpo>
+						</comma>
+						<comma id="art12-com2">
+							<num>2.</num>
+							<corpo>Ai fini dell'organizzazione interna, gli statuti e i regolamenti degli enti sono elaborati tenendo conto della separazione tra compiti di programmazione ed indirizzo strategico, competenze e responsabilità gestionali, comprendenti anche le tipiche attività di controllo di gestione, nonché funzioni valutative e di controllo.</corpo>
+						</comma>
+						<comma id="art12-com3">
+							<num>3.</num>
+							<corpo>Gli statuti ridefiniscono le attribuzioni dei consigli di amministrazione allo scopo di ricondurne le competenze alla approvazione degli atti di carattere generale o fondamentale per l'organizzazione, il funzionamento, l'amministrazione e la gestione degli enti medesimi, consentendo la semplificazione e la speditezza delle procedure, la valorizzazione e responsabilizzazione del ruolo dei direttori generali e della relativa dirigenza.</corpo>
+						</comma>
+						<comma id="art12-com4">
+							<num>4.</num>
+							<corpo>Gli statuti e i regolamenti prevedono inoltre procedure di valutazione comparativa per l'individuazione dei direttori degli organi di ricerca, misure organizzative volte a potenziare la professionalità e l'autonomia dei ricercatori, norme anti-discriminatorie tra donne e uomini nella composizione degli organi, nonché specifiche disposizioni agevolative per la mobilità dei dipendenti tra gli enti di ricerca, con le istituzioni internazionali di ricerca e le imprese, senza nuovi o maggiori oneri a carico della finanza pubblica, anche al fine di ottenere azioni di interscambio di competenze ed esperienze tra pubblico e privato.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<rubrica>Riconoscimento e valorizzazione del merito eccezionale</rubrica>
+						<comma id="art13-com1">
+							<num>1.</num>
+							<corpo>Gli enti di ricerca, previo nulla-osta del Ministro, sulla base del parere del comitato di esperti per la politica della ricerca (CEPR), possono assumere per chiamata diretta, con contratto a tempo indeterminato, nell'ambito del 3 per cento dell'organico dei ricercatori e tecnologi nei limiti delle disponibilità di bilancio, con inquadramento fino al massimo livello contrattuale del personale di ricerca definito dal consiglio di amministrazione, ricercatori o tecnologi italiani o stranieri dotati di altissima qualificazione scientifica negli ambiti disciplinari di riferimento, che si sono distinti per merito eccezionale ovvero che siano stati insigniti di alti riconoscimenti scientifici in ambito internazionale.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>Riorganizzazione delle sedi degli enti di ricerca</rubrica>
+						<comma id="art14-com1">
+							<num>1.</num>
+							<corpo>
+								Le misure di razionalizzazione di cui all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419#art12" xlink:type="simple">articolo 12 del decreto legislativo 29 ottobre 1999, n. 419</rif>
+								, si applicano agli enti di ricerca vigilati dal Ministero che, entro il 31 dicembre 2010, con le modalità ivi previste, predispongono un piano volto alla razionalizzazione della localizzazione degli uffici, anche tra diversi enti, nonché alla realizzazione di economie di spesa.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art15">
+						<num>Art. 15</num>
+						<rubrica>Infrastrutture di ricerca</rubrica>
+						<comma id="art15-com1">
+							<num>1.</num>
+							<corpo>Gli statuti degli enti di ricerca prevedono specifiche misure e soluzioni organizzative, atte a favorire una gestione ottimale delle infrastrutture e strutture di ricerca, con l'obiettivo di consentire una loro programmazione e gestione coordinata tra tutti gli attori del sistema della ricerca e delle imprese, anche nel rispetto degli orientamenti europei ed allo scopo di produrre economie di scala, di accrescere la loro efficienza, accessibilità ed internazionalizzazione.</corpo>
+						</comma>
+						<comma id="art15-com2">
+							<num>2.</num>
+							<corpo>
+								Le infrastrutture nazionali di ricerca, dichiarate strategiche e di preminente interesse nazionale, sono realizzate con le modalità di cui alla
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163#prt2-tit3-cap4" xlink:type="simple">parte II del titolo III del capo IV del decreto legislativo 12 aprile 2006, n. 163</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art15-com3">
+							<num>3.</num>
+							<corpo>
+								Ai fini dell'attuazione del presente articolo e per l'accrescimento del livello di eccellenza delle infrastrutture di ricerca si fa ricorso alle risorse rese disponibili, in particolare, dall'
+								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art17-com4" xlink:type="simple">articolo 17 comma 4, del decreto-legge 25 giugno 2008, n. 112</rif>
+								, convertito, con modificazioni, dalla
+								<rif xlink:href="urn:nir:stato:legge:2008-08-06;133" xlink:type="simple">legge 6 agosto 2008, n. 133</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art16">
+						<num>Art. 16</num>
+						<rubrica>Strumenti innovativi di finanziamento e partecipazione al capitale di rischio</rubrica>
+						<comma id="art16-com1">
+							<num>1.</num>
+							<corpo>
+								Il Ministero e, previa valutazione di legittimità e di merito da parte dello stesso, gli stessi enti di ricerca, senza nuovi o maggiori oneri a carico della finanza pubblica e senza garanzie da parte loro, possono promuovere, concorrere alla costituzione o partecipare a fondi di investimento con la partecipazione di investitori pubblici e privati, articolati in un sistema integrato tra fondi di livello nazionale e rete di fondi locali, ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art4" xlink:type="simple">articolo 4 del decreto-legge 25 giugno 2008, n. 112</rif>
+								, convertito, con modificazioni, dalla
+								<rif xlink:href="urn:nir:stato:legge:2008-08-06;133" xlink:type="simple">legge 6 agosto 2008, n. 133</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art16-com2">
+							<num>2.</num>
+							<corpo>Tali fondi sono destinati all'attuazione di programmi di trasferimento tecnologico e di investimento per la realizzazione di iniziative produttive con elevato contenuto di innovazione e ricerca, con il coinvolgimento di apporti dei soggetti pubblici e privati operanti nel territorio di riferimento e la valorizzazione di risorse finanziarie destinate allo scopo, anche derivanti da cofinanziamenti europei ed internazionali.</corpo>
+						</comma>
+						<comma id="art16-com3">
+							<num>3.</num>
+							<corpo>
+								Gli enti di ricerca nell'articolazione dei rispettivi statuti e nell'enumerazione delle attività da svolgere tengono conto di quanto previsto agli
+								<mrif>
+									articoli
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art4" xlink:type="simple">4</rif>
+									,
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art6" xlink:type="simple">6</rif>
+									e
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art17" xlink:type="simple">17</rif>
+									del decreto-legge 25 giugno 2008, n. 112
+								</mrif>
+								, convertito, con modificazioni, dalla
+								<rif xlink:href="urn:nir:stato:legge:2008-08-06;133" xlink:type="simple">legge 6 agosto 2008, n. 133</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+				</capo>
+				<capo id="cap2">
+					<num>Capo II</num>
+					<rubrica>Enti di ricerca del settore istruzione</rubrica>
+					<articolo id="art17">
+						<num>Art. 17</num>
+						<rubrica>Istituto nazionale per la valutazione del sistema di istruzione e di formazione</rubrica>
+						<comma id="art17-com1">
+							<num>1.</num>
+							<corpo>
+								L'Istituto nazionale per la valutazione del sistema di istruzione e di formazione (INVALSI) mantiene la natura giuridica e le competenze definite dal
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple">decreto legislativo 19 novembre 2004, n. 286</rif>
+								, dalla
+								<rif xlink:href="urn:nir:stato:legge:2006-12-27;296" xlink:type="simple">legge 27 dicembre 2006, n. 296</rif>
+								, dal
+								<rif xlink:href="urn:nir:stato:decreto.legge:2007-09-07;147" xlink:type="simple">decreto-legge 7 settembre 2007, n. 147</rif>
+								, convertito, con modificazione, dalla
+								<rif xlink:href="urn:nir:stato:legge:2007-10-25;176" xlink:type="simple">legge 25 ottobre 2007, n. 176</rif>
+								. Gli attuali membri del Comitato di indirizzo restano in carica per tutta la durata del mandato inizialmente ricevuto.
+							</corpo>
+						</comma>
+						<comma id="art17-com2">
+							<num>2.</num>
+							<alinea>Nell'ambito della costruzione del Sistema nazionale di valutazione l'INVALSI ha pertanto i seguenti compiti:</alinea>
+							<el id="art17-com2-leta">
+								<num>a)</num>
+								<corpo>lo studio e la predisposizione di strumenti e modalita oggettive di valutazione degli apprendimenti e la cura dell'elaborazione e della diffusione dei risultati della valutazione;</corpo>
+							</el>
+							<el id="art17-com2-letb">
+								<num>b)</num>
+								<corpo>la promozione di periodiche rilevazioni nazionali sugli apprendimenti che interessano le istituzioni scolastiche e istruzione e formazione professionale, il supporto e l'assistenza tecnica alle istituzioni scolastiche e formative anche attraverso la messa a disposizione di prove oggettive per la valutazione degli apprendimenti finalizzate anche alla realizzazione di autonome iniziative di valutazione e autovalutazione;</corpo>
+							</el>
+							<el id="art17-com2-letc">
+								<num>c)</num>
+								<corpo>lo studio di modelli e metodologie per la valutazione delle istituzioni scolastiche e di istruzione e formazione professionale e dei fattori che influenzano gli apprendimenti;</corpo>
+							</el>
+							<el id="art17-com2-letd">
+								<num>d)</num>
+								<corpo>la predisposizione di prove a carattere nazionale per gli esami di Stato, nell'ambito della normativa vigente;</corpo>
+							</el>
+							<el id="art17-com2-lete">
+								<num>e)</num>
+								<corpo>lo svolgimento di attività di ricerca e la collaborazione alle attività di valutazione del sistema scolastico al fine di realizzare iniziative di valorizzazione del merito anche in collaborazione con il sistema universitario;</corpo>
+							</el>
+							<el id="art17-com2-letf">
+								<num>f)</num>
+								<corpo>lo svolgimento di attività di ricerca, nell'ambito delle proprie finalità istituzionali, sia su propria iniziativa che su mandato di enti pubblici e privati, assicurando inoltre la partecipazione italiana a progetti internazionali in campo valutativo;</corpo>
+							</el>
+							<el id="art17-com2-letg">
+								<num>g)</num>
+								<corpo>lo svolgimento di attività di supporto e assistenza tecnica alle regioni e agli enti territoriali per la realizzazione di autonome iniziative di monitoraggio, valutazione e autovalutazione;</corpo>
+							</el>
+							<el id="art17-com2-leth">
+								<num>h)</num>
+								<corpo>lo svolgimento di attività di formazione del personale docente e dirigente della scuola sui temi della valutazione in collaborazione con l'ANSAS.</corpo>
+							</el>
+						</comma>
+					</articolo>
+				</capo>
+				<capo id="cap3">
+					<num>Capo III</num>
+					<rubrica>Disposizioni finali, abrogazioni e disapplicazioni di norme</rubrica>
+					<articolo id="art18">
+						<num>Art. 18</num>
+						<rubrica>Disposizioni finali, abrogazioni e disapplicazioni di norme</rubrica>
+						<comma id="art18-com1">
+							<num>1.</num>
+							<alinea>Con l'entrata in vigore del presente decreto sono abrogate le disposizioni dei vigenti ordinamenti di ciascun ente incompatibili con i principi e le disposizioni del presente decreto legislativo, nonché in particolare le seguenti disposizioni:</alinea>
+							<el id="art18-com1-leta">
+								<num>a)</num>
+								<corpo>
+									<mod id="mod1">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, primo periodo, del decreto legislativo 5 giugno 1998, n. 204</rif>
+<!-- frammento periodo:ord=1; -->
+										;
+									</mod>
+								</corpo>
+							</el>
+							<el id="art18-com1-letb">
+								<num>b)</num>
+								<corpo>
+									<mod id="mod2">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple">articolo 20, comma 2, del decreto legislativo 4 giugno 2003, n. 127</rif>
+										;
+									</mod>
+								</corpo>
+							</el>
+							<el id="art18-com1-letc">
+								<num>c)</num>
+								<corpo>
+									<mod id="mod3">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 4 giugno 2003, n. 128</rif>
+										;
+									</mod>
+								</corpo>
+							</el>
+							<el id="art18-com1-letd">
+								<num>d)</num>
+								<corpo>
+									<mod id="mod4">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com4" xlink:type="simple">articolo 19, comma 4, del decreto legislativo 4 giugno 2003, n. 128</rif>
+										;
+									</mod>
+								</corpo>
+							</el>
+							<el id="art18-com1-lete">
+								<num>e)</num>
+								<corpo>
+									<mod id="mod5">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38#art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 21 gennaio 2004, n. 38</rif>
+										;
+									</mod>
+								</corpo>
+							</el>
+							<el id="art18-com1-letf">
+								<num>f)</num>
+								<corpo>
+									<mod id="mod6">
+										l'
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286#art3-com1" xlink:type="simple">articolo 3, comma 1, del decreto legislativo 19 novembre 2004, n. 286</rif>
+										.
+									</mod>
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art18-com2">
+							<num>2.</num>
+							<corpo>Gli organi degli enti in carica o scaduti alla data di entrata in vigore del presente decreto legislativo rimangono in carica fino alla data di entrata in vigore dei nuovi statuti o fino al completamento delle procedure di nomina che devono completarsi entro il termine di mesi due dalla data di entrata in vigore dei nuovi statuti.</corpo>
+						</comma>
+						<comma id="art18-com3">
+							<num>3.</num>
+							<corpo>
+								Rimane salvo quanto disposto all'
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+				</capo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</DecretoLegislativo>
+	</NIR>
