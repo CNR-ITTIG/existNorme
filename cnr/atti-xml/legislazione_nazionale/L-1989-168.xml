@@ -230,7 +230,7 @@
 				</disposizioni>
 			</meta>
 			<intestazione>
-				<tipoDoc>LEGGE</tipoDoc>
+				<tipoDoc>Legge</tipoDoc>
 				<dataDoc norm="19890509">9 maggio 1989</dataDoc>
 				, n.
 				<numDoc>168</numDoc>
@@ -728,10 +728,10 @@
 						<denAnnesso>Tabella A</denAnnesso>
 						<titAnnesso>(prevista dall'articolo 13, comma 1 e dall'articolo 19, comma 10)</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
 								<urn valore="urn:nir:stato:legge:1989-05-09;168:tabella.a" />
@@ -756,10 +756,10 @@
 						<denAnnesso>Tabella B</denAnnesso>
 						<titAnnesso>(prevista dall'articolo 13, comma 2 e dell'articolo 19, comma 6)</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red3" nome="" norm="" />
 								<urn valore="urn:nir:stato:legge:1989-05-09;168:tabella.b" />
