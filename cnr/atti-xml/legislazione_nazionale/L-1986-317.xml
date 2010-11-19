@@ -176,7 +176,7 @@
 				</disposizioni>
 			</meta>
 			<intestazione>
-				<tipoDoc>LEGGE</tipoDoc>
+				<tipoDoc>Legge</tipoDoc>
 				<dataDoc norm="19860621">21 giugno 1986</dataDoc>
 				, n.
 				<numDoc>317</numDoc>
@@ -713,10 +713,10 @@
 							<rif xlink:href="#art1bis-com2-leta" xlink:type="simple">articolo 1-bis, comma 2, lettera a)</rif>
 						</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
 								<urn valore="urn:nir:stato:legge:1986-06-21;317:allegato.1" />
@@ -744,10 +744,10 @@
 							<rif xlink:href="#art1bis-com2-lete" xlink:type="simple">articolo 1-bis, comma 2, lettera e)</rif>
 						</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red3" nome="" norm="" />
 								<urn valore="urn:nir:stato:legge:1986-06-21;317:allegato.2" />
