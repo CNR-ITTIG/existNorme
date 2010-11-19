@@ -43,7 +43,7 @@
 				</disposizioni>
 			</meta>
 			<intestazione>
-				<tipoDoc>DECRETO LEGISLATIVO</tipoDoc>
+				<tipoDoc>Decreto Legislativo</tipoDoc>
 				<dataDoc norm="19990929">29 settembre 1999</dataDoc>
 				, n.
 				<numDoc>381</numDoc>
@@ -127,7 +127,7 @@
 						<num>Art. 1</num>
 						<rubrica>Istituzione dell'ente</rubrica>
 						<comma id="art1-com1">
-							<num>1.</num>
+							<num />
 							<corpo />
 						</comma>
 					</articolo>
@@ -295,8 +295,17 @@
 							<el id="art9-com3-leta">
 								<num>a)</num>
 								<corpo>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
-									, lettere c), e), g) ed h);
+									<mrif>
+										articolo 2, comma 1, lettere
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letc" xlink:type="simple">c)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-lete" xlink:type="simple">e)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letg" xlink:type="simple">g)</rif>
+										ed
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-leth" xlink:type="simple">h)</rif>
+									</mrif>
+									;
 								</corpo>
 							</el>
 							<el id="art9-com3-letb">
@@ -323,8 +332,13 @@
 							<el id="art9-com3-lete">
 								<num>e)</num>
 								<corpo>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
-									, lettera a), numero 5, e lettera b);
+									<mrif>
+										articolo 7, comma 1,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-leta-num5" xlink:type="simple">lettera a), numero 5</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-letb" xlink:type="simple">lettera b)</rif>
+									</mrif>
+									;
 								</corpo>
 							</el>
 							<el id="art9-com3-letf">
@@ -366,7 +380,7 @@
 								<mmod id="mmo1">
 									In sede di prima applicazione del presente decreto il consiglio di amministrazione è integrato con un componente nominato dal Ministro dell'università e della ricerca scientifica e tecnologica, nonché da un rappresentante per ciascuno dei soci di diritto di cui all'
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art1-com1" xlink:type="simple">articolo 1, comma 1, del decreto del Presidente della Repubblica 6 marzo 1978, n. 102</rif>
-									.Entro novanta giorni dalla predetta nomina il consiglio di amministrazione trasmette al MURST le modifiche e integrazioni allo statuto e ai regolamenti per l'adeguamento al presente decreto. Alla data di pubblicazione dello statuto così modificato e integrato sono abrogati gli articoli 12, commi
+									. Entro novanta giorni dalla predetta nomina il consiglio di amministrazione trasmette al MURST le modifiche e integrazioni allo statuto e ai regolamenti per l'adeguamento al presente decreto. Alla data di pubblicazione dello statuto così modificato e integrato sono abrogati gli articoli 12, commi
 									<mod id="mod1">
 										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-03-06;102#art12-com1" xlink:type="simple">primo</rif>
 									</mod>
@@ -440,8 +454,17 @@
 							<el id="art10-com1-leta">
 								<num>a)</num>
 								<corpo>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
-									, lettere c), e), g) e h), in materia di funzioni;
+									<mrif>
+										articolo 2, comma 1, lettere
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letc" xlink:type="simple">c)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-lete" xlink:type="simple">e)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letg" xlink:type="simple">g)</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-leth" xlink:type="simple">h)</rif>
+									</mrif>
+									, in materia di funzioni;
 								</corpo>
 							</el>
 							<el id="art10-com1-letb">
@@ -468,15 +491,21 @@
 							<el id="art10-com1-lete">
 								<num>e)</num>
 								<corpo>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
-									, lettera a), numero 5, elettera b) , in materia di princìpi applicativi ai regolamenti di organizzazione e funzionamento, di amministrazione, finanza e contabilità;
+									<mrif>
+										articolo 7, comma 1,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-leta-num5" xlink:type="simple">lettera a), numero 5</rif>
+										e
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art7-com1-letb" xlink:type="simple">lettera b)</rif>
+									</mrif>
+									, in materia di princìpi applicativi ai regolamenti di organizzazione e funzionamento, di amministrazione, finanza e contabilità;
 								</corpo>
 							</el>
 							<el id="art10-com1-letf">
 								<num>f)</num>
 								<corpo>
 									<mrif>
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com1" xlink:type="simple">articolo 9, commi 1</rif>
+										articolo 9, commi
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com1" xlink:type="simple">1</rif>
 										e
 										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art9-com2" xlink:type="simple">2</rif>
 									</mrif>
@@ -533,8 +562,17 @@
 							<el id="art10-com2-leta">
 								<num>a)</num>
 								<corpo>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1" xlink:type="simple">articolo 2, comma 1</rif>
-									, lettere c), e), g) ed h), in materia di funzioni;
+									<mrif>
+										articolo 2, comma 1, lettere
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letc" xlink:type="simple">c)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-lete" xlink:type="simple">e)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-letg" xlink:type="simple">g)</rif>
+										ed
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art2-com1-leth" xlink:type="simple">h)</rif>
+									</mrif>
+									, in materia di funzioni;
 								</corpo>
 							</el>
 							<el id="art10-com2-letb">
@@ -592,8 +630,13 @@
 							<num>5.</num>
 							<corpo>
 								Al personale di ricerca dell'ENEA e dell'ASI, con rapporto di lavoro a tempo indeterminato, si applicano i criteri e i princìpi contenuti nelle disposizioni di cui al
-								<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
-								, lettere h) ed i).
+								<mrif>
+									comma 1, lettere
+									<rif xlink:href="#art10-com1-leth" xlink:type="simple">h)</rif>
+									ed
+									<rif xlink:href="#art10-com1-leti" xlink:type="simple">i)</rif>
+								</mrif>
+								.
 							</corpo>
 						</comma>
 					</articolo>
@@ -680,10 +723,13 @@
 						<comma id="art12-com1">
 							<num>1.</num>
 							<corpo>
-								Gli enti di cui agli articoli
-								<rif xlink:href="#art9" xlink:type="simple">9</rif>
-								,
-								<rif xlink:href="#art10-com1" xlink:type="simple">10, comma 1</rif>
+								Gli enti di cui agli
+								<mrif>
+									articoli
+									<rif xlink:href="#art9" xlink:type="simple">9</rif>
+									,
+									<rif xlink:href="#art10-com1" xlink:type="simple">10, comma 1</rif>
+								</mrif>
 								, e all'allegato 1 del presente decreto, nonché l'INGV e il CNR, in sede di applicazione dell'
 								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art11" xlink:type="simple">articolo 11 del decreto legislativo 30 gennaio 1999, n. 19</rif>
 								, ove operanti in più aree scientifiche e settori tecnologici, indicano le predette aree e settori per le assunzioni dei ricercatori e dei tecnologi, sulla base di criteri generali determinati con decreto del Ministro dell'università e della ricerca scientifica e tecnologica, con la finalità di assicurare la compatibilità con le competenze scientifiche in essere, procedure di revisione periodica e di variazione delle afferenze, nonché di agevolare i passaggi diretti tra enti di ricerca ai sensi dell'
@@ -704,7 +750,16 @@
 							</alinea>
 							<el id="art13-com1-leta">
 								<num>a)</num>
-								<corpo>ai ricercatori e tecnologi, secondo quanto previsto alle lettere b) e c), sono garantite la libertà di ricerca e l'autonomia professionale;</corpo>
+								<corpo>
+									ai ricercatori e tecnologi, secondo quanto previsto alle
+									<mrif>
+										lettere
+										<rif xlink:href="#art13-com1-letb" xlink:type="simple">b)</rif>
+										e
+										<rif xlink:href="#art13-com1-letc" xlink:type="simple">c)</rif>
+									</mrif>
+									, sono garantite la libertà di ricerca e l'autonomia professionale;
+								</corpo>
 							</el>
 							<el id="art13-com1-letb">
 								<num>b)</num>
@@ -753,12 +808,12 @@
 					<testata>
 						<denAnnesso>Allegato 1</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
-								<redazione id="red2" nome="" norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:1999-09-29;381:allegato.1" />
 							</descrittori>
 						</meta>
