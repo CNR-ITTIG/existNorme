@@ -49,9 +49,9 @@
 				</disposizioni>
 			</meta>
 			<intestazione>
-				<tipoDoc>Decreto legislativo</tipoDoc>
+				<tipoDoc>Decreto Legislativo</tipoDoc>
 				<dataDoc norm="20030604">4 giugno 2003</dataDoc>
-				n.
+				, n.
 				<numDoc>127</numDoc>
 				<titoloDoc>Riordino del Consiglio nazionale delle ricerche (C.N.R.)</titoloDoc>
 			</intestazione>
@@ -340,8 +340,13 @@
 							<num>d)</num>
 							<corpo>
 								attribuisce gli incarichi di direzione al direttore generale, ai responsabili dei servizi generali, ai direttori dei dipartimenti ed ai direttori di istituto previamente deliberati dal consiglio di amministrazione, come previsto all'
-								<rif xlink:href="#art7-com1" xlink:type="simple">articolo 7, comma 1</rif>
-								, lettere g) ed h);
+								<mrif>
+									articolo 7, comma 1, lettere
+									<rif xlink:href="#art7-com1-letg" xlink:type="simple">g)</rif>
+									ed
+									<rif xlink:href="#art7-com1-leth" xlink:type="simple">h)</rif>
+								</mrif>
+								;
 							</corpo>
 						</el>
 						<el id="art6-com1-lete">
@@ -435,7 +440,7 @@
 					</comma>
 					<comma id="art7-com2">
 						<num>2.</num>
-						<corpo>Il consiglio di amministrazione é composto dal presidente e da sette componenti, scelti tra personalità di alta qualificazione tecnico-scientifica nel campo della ricerca, di comprovata esperienza gestionale di enti ed istituzioni pubbliche o private, di cui tre designati dal Ministro dell'istruzione, dell'università e della ricerca, uno dal presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, uno dall'Unione italiana delle camere di commercio, industria, agricoltura e artigianato, uno dalla Confindustria ed uno dalla Conferenza dei rettori delle università italiane.</corpo>
+						<corpo>Il consiglio di amministrazione è composto dal presidente e da sette componenti, scelti tra personalità di alta qualificazione tecnico-scientifica nel campo della ricerca, di comprovata esperienza gestionale di enti ed istituzioni pubbliche o private, di cui tre designati dal Ministro dell'istruzione, dell'università e della ricerca, uno dal presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, uno dall'Unione italiana delle camere di commercio, industria, agricoltura e artigianato, uno dalla Confindustria ed uno dalla Conferenza dei rettori delle università italiane.</corpo>
 					</comma>
 					<comma id="art7-com3">
 						<num>3.</num>
@@ -1228,12 +1233,12 @@
 						<denAnnesso>Tabella 1</denAnnesso>
 						<titAnnesso>RIORDINO DEL CONSIGLIO NAZIONALE DELLE RICERCHE (C.N.R.)</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="20030606" num="129" tipo="GU" />
-								<entratainvigore norm="20030607" />
-								<redazione id="red2" nome="" norm="" />
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.1" />
 							</descrittori>
 						</meta>
@@ -1551,12 +1556,12 @@
 						<denAnnesso>Tabella 2</denAnnesso>
 						<titAnnesso>A) ISTITUTO DI DIRITTO AGRARIO INTERNAZIONALE E COMPARATO - PIANTA ORGANICA</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="20030606" num="129" tipo="GU" />
-								<entratainvigore norm="20030607" />
-								<redazione id="red3" nome="" norm="" />
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.2" />
 							</descrittori>
 						</meta>
@@ -1613,12 +1618,12 @@
 						<denAnnesso>Tabella 3</denAnnesso>
 						<titAnnesso>B) ISTITUTO NAZIONALE DI OTTICA APPLICATA DI FIRENZE PIANTA ORGANICA</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
-								<redazione id="red4" nome="" norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.3" />
 							</descrittori>
 						</meta>
@@ -1831,12 +1836,12 @@
 						<denAnnesso>Tabella 4</denAnnesso>
 						<titAnnesso>C) ISTITUTO PAPIROLOGICO "GIROLAMO VITELLI" PIANTA ORGANICA</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
-								<redazione id="red5" nome="" norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.4" />
 							</descrittori>
 						</meta>
@@ -1949,12 +1954,12 @@
 						<denAnnesso>Tabella 5</denAnnesso>
 						<titAnnesso>ISTITUTO NAZIONALE PER LA FISICA DELLA MATERIA (INFM) PIANTA ORGANICA</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
-								<redazione id="red6" nome="" norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.5" />
 							</descrittori>
 						</meta>
@@ -2152,12 +2157,12 @@
 						<denAnnesso>Tabella 6</denAnnesso>
 						<titAnnesso>PREVISTA DALL'ARTICOLO 22, COMMA 8</titAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
-								<redazione id="red7" nome="" norm="" />
+								<redazione id="" nome="" norm="" />
 								<urn valore="urn:nir:stato:decreto.legislativo:2003-06-04;127:tabella.6" />
 							</descrittori>
 						</meta>
