@@ -1,0 +1,34 @@
+Organizzazione e funzionamento:
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033
+
+
+Amministrazione, contabilità e finanza
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034
+
+
+Personale
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035
+
+
+Trattamento dati sensibili e giudiziari
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;2676
+
+
+Modalità e criteri di ripartizione degli incentivi
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1
+
+
+Disciplinare Associatura
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6
+
+
+Conferimento incarichi di collaborazione
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64
+
+
+Disciplinare contratti d'opera a carico di finanziamenti esterni 
+	- urn:nir:consiglio.nazionale.ricerche:regolamento;contratti.opera.finanziamenti.esterni:????-??-??;??
