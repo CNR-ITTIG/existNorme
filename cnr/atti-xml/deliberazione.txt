@@ -1,0 +1,95 @@
+CNR
+	atti-xml
+		regolamenti
+				All1-69-2007.xml (8 matches)
+12: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69:allegato.1" /> 
+21: <originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" /> 
+22: <passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" /> 
+23: <allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69" xlink:type="simple" /> 
+42: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple"> 
+43: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" /> 
+57: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple"> 
+58: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" /> 
+
+
+				Disc-138-2009.xml (2 matches)
+11: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" /> 
+20: <allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" xlink:type="simple" /> 
+
+
+				Disc-159-2007.xml
+19: <allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-09-19;159" xlink:type="simple" /> 
+				
+
+				Disc-162-2005.xml
+19: <allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;162" xlink:type="simple" /> 
+
+
+				Disc-188-2008.xml (2 matches)
+11: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188:disciplinare" /> 
+20: <allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188" xlink:type="simple" /> 
+
+
+				Disc-198-2007.xml (6 matches)
+11: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" /> 
+59: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.1" /> 
+87: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.2" /> 
+115: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.3" /> 
+143: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.4" /> 
+171: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare.allegato.5" /> 
+
+
+				Disc-64-2007.xml (41 matches)
+27: <passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple" /> 
+28: <passiva id="rp2" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-11-04;223" xlink:type="simple" /> 
+29: <passiva id="rp3" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple" /> 
+49: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple"> 
+50: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29#art2" xlink:type="simple" /> 
+61: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+62: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art3" xlink:type="simple" /> 
+76: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+77: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art3" xlink:type="simple" /> 
+88: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+89: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art4" xlink:type="simple" /> 
+100: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+101: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple" /> 
+112: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+113: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art6" xlink:type="simple" /> 
+127: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+128: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art6" xlink:type="simple" /> 
+139: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+140: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art6" xlink:type="simple" /> 
+151: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+152: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art8" xlink:type="simple" /> 
+163: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+164: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art9" xlink:type="simple" /> 
+175: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+176: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art9" xlink:type="simple" /> 
+187: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+188: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art10" xlink:type="simple" /> 
+199: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-11-04;223" xlink:type="simple"> 
+200: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-11-04;223" xlink:type="simple" /> 
+214: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple"> 
+215: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29#art3" xlink:type="simple" /> 
+226: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+227: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art2" xlink:type="simple" /> 
+241: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-11-04;223" xlink:type="simple"> 
+242: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-11-04;223#art2" xlink:type="simple" /> 
+256: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple"> 
+257: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29#art4" xlink:type="simple" /> 
+271: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple"> 
+272: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29#art5" xlink:type="simple" /> 
+283: <dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198" xlink:type="simple"> 
+284: <dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;198#art7" xlink:type="simple" /> 
+
+
+				DelCdA-modello.xml (9 matches)
+10: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" /> 
+18: <originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" xlink:type="simple" /> 
+65: <rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione n. 128/2000 del 13 aprile 2000</rif> 
+70: <rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005;70" xlink:type="simple">deliberazione n. 70/2005</rif> 
+72: <rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000 del 13 aprile 2000</rif> 
+84: <rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000</rif> 
+157: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.1" /> 
+193: <urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" /> 
+213: <rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" xlink:type="simple">DISCIPLINARE PER LA NOMINA, LA DESIGNAZIONE E LA REVOCA DEI RAPPRESENTANTI DEL CONSIGLIO NAZIONALE DELLE RICERCHE PRESSO ALTRE ISTITUZIONI E INIZIATIVE COMUNI CON ALTRI SOGGETTI, PUBBLICI E PRIVATI, PARTECIPATE DAL CNR (CONSORZI, FONDAZIONI, SOCIETA, ECC.).</rif> 
