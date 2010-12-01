@@ -7,19 +7,21 @@
 					<pubblicazione norm="" num="" tipo="BUCNR" />
 					<entratainvigore norm="20070202" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;628" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;628" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;628:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;628:allegato" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20070202" fonte="ro1" id="t1" tipo="entrata in vigore" />
 						<evento data="20070202" fonte="all1" id="t2" tipo="allegato" />
-						<evento data="20070202" fonte="all2" id="t3" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6" xlink:type="simple" />
-						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;628" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
