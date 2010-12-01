@@ -32,3 +32,7 @@ Conferimento incarichi di collaborazione
 
 Disciplinare contratti d'opera a carico di finanziamenti esterni 
 	- urn:nir:consiglio.nazionale.ricerche:regolamento;contratti.opera.finanziamenti.esterni:????-??-??;??
+	
+	
+Disciplina delle assunzioni di personale con contratto a tempo determinato del Consiglio Nazionale delle Ricerche
+	- urn:nir:consiglio.nazionale.ricerche:disciplinare;assunzioni.personale.contratto.lavoro.tempo.determinato:2005-11-09;162	
