@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+					<entratainvigore norm="20050622" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050622" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20050622">22 giugno 2005</dataDoc>
+				, n.
+				<numDoc>45</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">33238</numDoc>
+				)
+				<titoloDoc>
+					Attuazione degli
+					<mrif>
+						articoli
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art5" xlink:type="simple">5</rif>
+						e
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art11" xlink:type="simple">11</rif>
+						del Regolamento del Personale del Consiglio Nazionale delle Ricerche
+					</mrif>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.Lgs. n. 127 del 4 giugno 2003</rif>
+						, recante "Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035" xlink:type="simple">Regolamento del Personale del Consiglio Nazionale delle Ricerche (CNR)</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25035</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n.124 del 30 maggio 2005;
+					</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:2005-05-11;61" xlink:type="simple">deliberazione n. 61/2005 dell' 11 maggio 2005</rif>
+						con la quale sono state deliberate le procedure di reclutamento ai vari livelli del personale ricercatore e tecnologo, e del personale dal IV al IX livello;
+					</h:p>
+					<h:p>- considerato che tra le varie previsioni si è provveduto, tra l'altro, alla istituzione dell'Albo di esperti interni ed esterni per la composizione delle commissioni nelle procedure di reclutamento del personale ricercatore e tecnologo e alla istituzione di un Comitato di 14 garanti, nominati dal Presidente per fornire supporto con la individuazione di rose di nomi nella scelta dei componenti delle commissioni;</h:p>
+					<h:p>- atteso che, con la medesima deliberazione, è stato dato mandato al Presidente di procedere con proprio decreto alla formulazione definitiva del provvedimento secondo quanto deliberato dopo aver esperito, nelle forme previste da leggi e regolamenti, il confronto con le OO.SS., nonché di apportare eventuali miglioramenti del testo o correzioni coerenti con gli indirizzi generali valutando, se del caso, l'introduzione di significativi cambiamenti da sottoporre alle decisioni del Consiglio;</h:p>
+					<h:p>- considerato che in data 17 maggio 2005 si è proceduto ad esperire le procedure di consultazione delle OO.SS. e che, successivamente, sono pervenute alcune osservazioni scritte;</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-06-08;69" xlink:type="simple">deliberazione del Consiglio di amministrazione del 8 giugno 2005 n.69/2005</rif>
+						di istituzione delle direzioni centrali' e avvio del riassetto organizzativa dell'Amministrazione;
+					</h:p>
+					<h:p>
+						- ritenuto di dover procedere, nell'ambito del mandato conferito dal Consiglio di amministrazione al Presidente, all'approvazione definitiva apportando alcune modifiche migliorative in accoglimento delle osservazioni pervenute ed in particolare: precisazione dell ambito di applicazione (reclutamento a tempo indeterminato); adeguamento del dispositivo alla
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-06-08;69" xlink:type="simple">deliberazione n.69/2005</rif>
+						relativa all istituzione delle direzioni centrali; eliminazione del termine "Comitato" riferito ai garanti in quanto abilitati ad operare singolarmente o per gruppi; utilizzo dei garanti anche per le nomine delle commissioni nelle selezioni per le progressioni di carriera del personale ricercatore e tecnologo; riferimento esplicito alle disposizioni in materia di pari opportunità nella composizione delle commissioni;
+					</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="artunico">
+					<num>ARTICOLO UNICO</num>
+					<comma id="artunico-com1">
+						<num>1.</num>
+						<corpo>
+							le procedure di reclutamento ai vari livelli del personale ricercatore e tecnologo con contratto a tempo indeterminato sono svolte secondo i criteri e le modalità definiti dalle norme di attuazione di cui all'
+							<rif xlink:href="#ann1" xlink:type="simple">allegato A</rif>
+							che costituisce parte integrante del presente decreto;
+						</corpo>
+					</comma>
+					<comma id="artunico-com2">
+						<num>2.</num>
+						<corpo>
+							le procedure di reclutamento del personale dal IV al IX livello con contratto a tempo indeterminato sono svolte secondo i criteri e le modalità dalle norme di attuazione di cui all'
+							<rif xlink:href="#ann2" xlink:type="simple">allegato B</rif>
+							che costituisce parte integrante del presente decreto;
+						</corpo>
+					</comma>
+					<comma id="artunico-com3">
+						<num>3.</num>
+						<corpo>
+							è istituito l'Albo di esperti interrai ed esterni per- la composizione delle commissioni nelle procedure di reclutamento del personale ricercatore e tecnologo secondo le modalità indicate nell'
+							<rif xlink:href="#ann3" xlink:type="simple">allegato C</rif>
+							che costituisce parte integrante del presente decreto. L'Albo è tenuto, allo stato, dall'Ufficio Concorsi e borse di studio (ex Servizio II - DSTS) della Direzione Centrale Supporto alla Gestione delle Risorse, ed è aggiornato annualmente. In prima applicazione le sezioni 1 e 2 della parte II dell'Albo sono composte da tutti i professori di ruolo nelle università italiane;
+						</corpo>
+					</comma>
+					<comma id="artunico-com4">
+						<num>4.</num>
+						<corpo>
+							con decreto del Presidente sono nominati 14 garanti uno per ognuna delle aggregazioni disciplinari di cui all'
+							<rif xlink:href="#ann4" xlink:type="simple">allegato D</rif>
+							che costituisce parte integrante del presente decreto. I Garanti possono operare singolarmente o per gruppi;
+						</corpo>
+					</comma>
+					<comma id="artunico-com5">
+						<num>5.</num>
+						<corpo>
+							le commissioni di concorso sono nominate dal Presidente mila base di rose proposte dai garanti e nel rispetto di quanto previsto dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
+							;
+						</corpo>
+					</comma>
+					<comma id="artunico-com6">
+						<num>6.</num>
+						<corpo>
+							ai fini della nomina delle Commissioni di concorso, le aree scientifiche sono quelle deliberate nel Piano preliminare di attività per il 2004 con indicazioni relative al triennio 2004-2006 e i settori tecnologici sono quelli identificati nella determinazione commissariale prot. n. 1950569 del 5 maggio 2004, entrambi riportati nella tabella I dell'
+							<rif xlink:href="#ann2" xlink:type="simple">allegato B</rif>
+							, che costituisce parte integrante del presente decreto;
+						</corpo>
+					</comma>
+					<comma id="artunico-com7">
+						<num>7.</num>
+						<corpo>
+							le disposizioni previste dal
+							<rif xlink:href="#artunico-com5" xlink:type="simple">comma 5</rif>
+							si applicano, in quanto compatibili con le disposizioni speciali contenute nei bandi, alle selezioni per le progressioni di carriera di ricercatori e tecnologi previste dai CCNL;
+						</corpo>
+					</comma>
+					<comma id="artunico-com8">
+						<num>8</num>
+						<corpo>
+							ai fini della nomina delle commissioni si applicano le disposizioni in materia di pari opportunità di cui all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art57" xlink:type="simple">articolo 57 del decreto legislativo 30 marzo 2001, n.165</rif>
+							e dall'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1994-05-09;487#art9-com2" xlink:type="simple">articolo 9 comma 2 del decreto del Presidente della Repubblica 9 maggio 1994, n.487</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					(Prof. Fabio Pistella)
+				</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato A</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Provvedimento">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<entratainvigore norm="20050622" />
+								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.a" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20050622" fonte="ro2" id="t2" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+						</meta>
+						<intestazione>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+							<tipoDoc>Allegato A al DPCNR</tipoDoc>
+							<dataDoc norm="20050622">22 giugno 2005</dataDoc>
+							, n.
+							<numDoc>45</numDoc>
+							(prot. n.
+							<numDoc nome="protocollo">33238</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.a" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato</rif>
+								<h:br />
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>Allegato B</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Provvedimento">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<entratainvigore norm="20050622" />
+								<redazione contributo="" id="red3" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.b" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20050622" fonte="ro3" id="t3" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro3" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="" />
+									<cnr:autoritaEmanante valore="" />
+									<cnr:tipoDestinatario valore="" />
+									<cnr:strutturaDestinataria valore="" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:disciplina valore="" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+							<tipoDoc>Allegato B al DPCNR</tipoDoc>
+							<dataDoc norm="20050622">22 giugno 2005</dataDoc>
+							, n.
+							<numDoc>45</numDoc>
+							(prot. n.
+							<numDoc nome="protocollo">33238</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.b" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="" nome="">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann3">
+					<testata>
+						<denAnnesso>Allegato C</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Provvedimento">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<entratainvigore norm="20050622" />
+								<redazione contributo="" id="red4" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.c" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20050622" fonte="ro4" id="t4" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro4" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+						</meta>
+						<intestazione>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+							<tipoDoc>Allegato C al DPCNR</tipoDoc>
+							<dataDoc norm="" />
+							, n.
+							<numDoc>45</numDoc>
+							(prot. n.
+							<numDoc nome="protocollo">33238</numDoc>
+							)
+							<titoloDoc><rif xlink:href="pdf/AllC_DPCNR_45-2005.pdf" xlink:type="simple">Aree scientifiche e Settori Tecnologici del CNR</rif></titoloDoc>
+						</intestazione>
+						<contenitore id="" nome="">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann4">
+					<testata>
+						<denAnnesso>Allegato D</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<entratainvigore norm="20050622" />
+								<redazione contributo="" id="red5" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.d" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20050622" fonte="ro5" id="t5" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro5" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="" />
+									<cnr:autoritaEmanante valore="" />
+									<cnr:tipoDestinatario valore="" />
+									<cnr:strutturaDestinataria valore="" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:disciplina valore="" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante>Consiglio Nazionale delle Ricerche</emanante>
+							<tipoDoc>Allegato D al DPCNR</tipoDoc>
+							<dataDoc norm="">22 giugno 2005</dataDoc>
+							, n.
+							<numDoc>45</numDoc>
+							(prot. n.
+							<numDoc nome="protocollo">33238</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.d" xlink:type="simple">Aggregazioni disciplinari per l'individuazione del Comitato garanti</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="" nome="">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

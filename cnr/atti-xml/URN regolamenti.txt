@@ -23,7 +23,7 @@ Modalità e criteri di ripartizione degli incentivi
 
 
 Disciplinare Associatura
-	- urn:nir:consiglio.nazionale.ricerche:regolamento;istituto.associatura:2007-02-02;6
+	- urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6
 
 
 Conferimento incarichi di collaborazione

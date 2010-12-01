@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="1/2010" tipo="BUCNR" />
+					<entratainvigore norm="20100129" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2010-01-29;19" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2010-01-29;7994" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2010-01-29;19" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2010-01-29;7994" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100129" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2010-01-29;19" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Dipartimenti" />
+						<cnr:strutturaDestinataria valore="Dipartimento Identità Culturale" />
+						<cnr:tipoProvvedimento valore="Nomina del Direttore facente funzioni" />
+						<cnr:dipartimento valore="Identità Culturale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20100129">29 gennaio 2010</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">628</numDoc>
+				)
+				<titoloDoc>DIPARTIMENTO DI IDENTITÀ CULTURALE - Nomina del Direttore facente funzioni</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.Lgs, del 4 giugno 2003, n. 127</rif>
+						di "Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il vigente
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+						, e in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art19-com4" xlink:type="simple">articolo 19, comma 4</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-10-08;203" xlink:type="simple">deliberazione del Consiglio di Amministrazione n. 203 dell'8 ottobre 2008</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTI i propri provvedimenti nn.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008;118" xlink:type="simple">118/2008</rif>
+						,
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009;107" xlink:type="simple">107/2009</rif>
+						e
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009;138" xlink:type="simple">138/2009</rif>
+						di attribuzione dell'incarico di Direttore f.f. del Dipartimento di Identità Culturale;
+					</h:p>
+					<h:p>CONSIDERATO che nella seduta del 16 dicembre 2009 il Consiglio di Amministrazione ha approvato gli atti della Commissione per la selezione del Direttore del Dipartimento Identità Culturale;</h:p>
+					<h:p>
+						CONSIDERATA l'imminente scadenza dell'incarico conferito con il richiamato
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009;138" xlink:type="simple">provvedimento 138/2009</rif>;
+					</h:p>
+					<h:p>RITENUTO di dover continuare ad assicurare la gestione del Dipartimento Identità Culturale in attesa della conclusione della procedura di nomina del nuovo Direttore di Dipartimento titolare;</h:p>
+					<h:p>TENENDO CONTO della disponibilità dichiarata dall'interessato;</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="artunico">
+					<num>Articolo Unico</num>
+					<rubrica />
+					<comma id="artunico-com1">
+						<num />
+						<corpo>il Dott. Andrea BOZZI è nominato Direttore facente funzioni del Dipartimento Identità Culturale fino alla nomina del Direttore di Dipartimento titolare e comunque non oltre il 30 giugno 2010.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					Luciano Maiani
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Circolare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20100401" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;26573" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100401" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Circolare</tipoDoc>
+				<dataDoc norm="20100401">1 aprile 2010</dataDoc>
+				, n.
+				<numDoc>9</numDoc>
+				(AMMCNT - CNR n.
+				<numDoc nome="protocollo">26573</numDoc>
+				)
+				<titoloDoc>
+					Il procedimento disciplinare novellato dal
+					<mrif>
+						D.lgs. n. 150/2009 artt.
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art68" xlink:type="simple">68</rif>
+						e
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art69" xlink:type="simple">69</rif>
+					</mrif>
+					.
+					<h:br />
+					Pubblicità sul sito URP del Cnr.
+				</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<contenitore id="con2" nome="">
+					<h:p>Ai</h:p>
+					<h:p>Dirigenti/Direttori delle Unità Organiche e Strutture del CNR</h:p>
+					<h:p>Loro Sedi</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>Si fa seguito alla precedente nota della scrivente Direzione prot. 1859652 del 6 marzo 2002, con la quale si comunicava ai Direttori/Dirigenti dell'Amministrazione Centrale di aver provveduto all'adempimento di affissione per la Sede Centrale, Piazzale Aldo Moro, 7 Roma, del "Codice Disciplinare" - normato dall'art. 28 del CCNL relativo al personale del comparto delle Istituzioni e degli Enti di Ricerca e Sperimentazione, stipulato il 21 febbraio 2002 -.</h:p>
+					<h:p>Con detta nota, altresì, si informavano i Direttori delle Strutture Cnr decentrate circa l'obbligo degli stessi di dare pubblicità al Codice Disciplinare menzionato, mediante affissione in luogo idoneo, accessibile e visibile a tutti i dipendenti.</h:p>
+					<h:p>
+						Si fa presente al riguardo che la normativa in materia disciplinare, regolamentata dal
+						<mrif>
+							D.lgs. 30.03.2001, n. 165 artt.
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art55" xlink:type="simple">55</rif>
+							-
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art56" xlink:type="simple">56</rif>
+						</mrif>
+						demandava alla contrattazione collettiva l'individuazione dei comportamenti illeciti e delle relative sanzioni indicandola quale fonte primaria del citato "Codice Disciplinare".
+					</h:p>
+					<h:p>
+						Il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165" xlink:type="simple">D.lgs. 165/01</rif>
+						è stato recentemente interessato dalle rilevanti innovazioni apportate dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. 150/2009</rif>
+						, pubblicato sul supplemento ordinario alla Gazzetta Ufficiale n. 254 del 31 ottobre 2009 -Serie Generale-, che viene a limitare in maniera inderogabile la contrattazione collettiva. La disciplina in parola si applica a tutti i lavoratori dipendenti ed ai dirigenti il cui rapporto di lavoro con una pubblica amministrazione è regolato mediante contratti individuali e collettivi.
+					</h:p>
+					<h:p>
+						Le disposizioni innovate dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#cap5" xlink:type="simple">Capo V del D.lgs. n. 150/2009</rif>
+						sono quelle contenute nell'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55" xlink:type="simple">art. 55 del D.lgs. n.165/2001</rif>
+						, che viene interessato dai seguenti articoli:
+					</h:p>
+					<h:ul>
+						<h:li>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art68" xlink:type="simple">Art. 68</rif>
+							recante "Ambito di applicazione, codice disciplinare, procedure di conciliazione"
+							<h:b>
+								che sostituisce in toto il testo dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55" xlink:type="simple">art. 55 del D.lgs. 165/2001</rif>
+							</h:b>
+							;
+						</h:li>
+						<h:li>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art69" xlink:type="simple">Art. 69</rif>
+							recante "Disposizioni relative al procedimento disciplinare"
+							<h:b>
+								che integra l'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55" xlink:type="simple">art. 55 del D.lgs. 165/2001</rif>
+							</h:b>
+							, introducendo dopo lo stesso gli artt. da 55 bis a 55 novies.
+						</h:li>
+					</h:ul>
+					<h:p>
+						Le disposizioni contenute negli artt. da 55 fino a 55 octies costituiscono
+						<h:b>norme imperative</h:b>
+						e pertanto immediatamente applicabili in relazione alle infrazioni di cui si è avuta conoscenza da parte dei soggetti competenti a promuovere l'azione disciplinare,
+						<h:b>
+							dopo il 15 novembre 2009, data dell'entrata in vigore del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. n. 150/2009</rif>
+						</h:b>
+						.
+					</h:p>
+					<h:p>
+						Occorre precisare che, come evidenziato dalla
+						<rif xlink:href="urn:nir:ministro.funzione.pubblica:circolare:2009;9" xlink:type="simple">circolare n. 9 del 2009 del Dipartimento della Funzione Pubblica</rif>
+						, mentre le norme relative al rito trovano applicazione per le infrazioni conosciute dall'Amministrazione dopo il 15 novembre 2009, le nuove infrazioni disciplinari previste dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. 150/2009</rif>
+						potranno essere contestate solo se commesse dal 15 novembre 2009 in poi. Le infrazioni commesse sino al 15 novembre 2009, quindi, verranno giudicate secondo il previgente codice disciplinare. La natura imperativa delle norme introdotte dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. 150/2009</rif>
+						comporta che
+						<h:b>qualora una clausola contrattuale contrasti con qualcuna di tali norme, essa è nulla</h:b>
+						ed è sostituita automaticamente dalla norma legislativa.
+					</h:p>
+					<contenitore id="con4" nome="">
+						<h:p>
+							Si riportano in sintesi le principali innovazioni introdotte dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. n.150/2009</rif>
+						</h:p>
+						<h:p>a. Più poteri al Dirigente/Direttore della Struttura ove il dipendente lavora;</h:p>
+						<h:p>b. Riduzione dei termini temporali del procedimento;</h:p>
+						<h:p>c. Abolizione dei collegi arbitrali di disciplina e divieto per la contrattazione collettiva di istituire procedure di impugnazione dei procedimenti disciplinari;</h:p>
+						<h:p>d. Competenza del giudice ordinario sulle controversie in materia di sanzioni e procedimenti disciplinari;</h:p>
+						<h:p>e. Facoltà di disciplinare mediante contratti collettivi procedure di conciliazione non obbligatorie, fatta eccezione per la sanzione disciplinare del licenziamento;</h:p>
+						<h:p>f. Definizione ed elencazione di una serie di infrazioni particolarmente gravi assoggettate alla sanzione del licenziamento;</h:p>
+						<h:p>g. Revisione del rapporto tra Procedimento Penale e Procedimento Disciplinare;</h:p>
+						<h:p>h. Introduzione per legge di nuove fattispecie, oltre a quelle disciplinate dalle contrattazioni nazionali collettive di lavoro, che comportano l'instaurazione del procedimento disciplinare e l'applicazione di sanzioni disciplinari;</h:p>
+						<h:p>i. L'ottemperanza all'obbligo di pubblicazione del codice disciplinare anche attraverso la pubblicazione sul sito telematico dell'Amministrazione;</h:p>
+					</contenitore>
+					<h:p>
+						Si precisa che la tipologia delle infrazioni e delle correlate sanzioni rimane assegnata alla contrattazione collettiva, fatto salvo peraltro quanto novellato dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. 150/2009</rif>
+						.
+					</h:p>
+					<contenitore id="con5" nome="">
+						<h:p>Riguardo a quanto sopra rappresentato si ritiene opportuno richiamare l'attenzione sui seguenti punti:</h:p>
+						<h:p>
+							a) La nuova disciplina introdotta dall'
+							<mrif>
+								art. 55-bis commi
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com1" xlink:type="simple">1</rif>
+								,
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com2" xlink:type="simple">2</rif>
+								,
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com3" xlink:type="simple">3</rif>
+								,
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com4" xlink:type="simple">4</rif>
+							</mrif>
+							ha previsto due tipologie di procedimenti:
+						</h:p>
+						<h:ul>
+							<h:li>
+								<h:u>Procedimento semplificato</h:u>
+								: si riferisce alle "sanzioni dal rimprovero scritto alla sospensione con privazione della retribuzione fino ad un massimo di 10 gg.";
+								<h:b>è di competenza</h:b>
+								del Responsabile cui è stato affidato l'incarico dirigenziale della Struttura ove lavora il dipendente interessato, quindi: Direttore di Dipartimento; Direttore d'Istituto, Dirigente/Direttore di strutture dell'Amministrazione. Ai suddetti compete l'avvio e la gestione del procedimento semplificato che - si fa rilevare -
+								<h:b>non può mai essere sospeso in relazione ad un procedimento penale</h:b>
+								.
+								<h:br />
+								(Per il supporto dell'Ufficio Procedimenti Disciplinari si rinvia a quanto più appresso rappresentato);
+							</h:li>
+							<h:li>
+								<h:u>Procedimento ordinario</h:u>
+								: è di competenza dell'Ufficio Procedimenti Disciplinari per quanto concerne le "sanzioni maggiori della sospensione fino a 10gg." oppure, a prescindere dall'entità della sanzione, laddove il "Responsabile della Struttura" non è assegnatario di incarico dirigenziale. Il procedimento ordinario
+								<h:b>può essere sospeso in attesa della conclusione del procedimento penale in relazione ad infrazioni di maggior gravità, a fronte della dichiarazione dell'amministrazione di non essere in grado di completare l'istruttoria sulla base degli atti raccolti</h:b>
+								;
+							</h:li>
+						</h:ul>
+						<h:p>
+							b) Trasferimento-Dimissioni, (
+							<mrif>
+								commi
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com8" xlink:type="simple">8</rif>
+								e
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com9" xlink:type="simple">9</rif>
+								dell'art.55-bis
+							</mrif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>
+								<h:u>Trasferimento</h:u>
+								: il procedimento è avviato o concluso o, se già concluso, l'eventuale sanzione è applicata presso l'amministrazione nella quale il dipendente si è trasferito;
+							</h:li>
+							<h:li>
+								<h:u>Dimissioni</h:u>
+								: se per l'infrazione commessa è previsto il licenziamento o se è stata disposta la sospensione cautelare dal servizio, l'amministrazione deve concludere il procedimento disciplinare, ai fini degli effetti giuridici non preclusi dalla cessazione del rapporto di lavoro;
+							</h:li>
+						</h:ul>
+						<h:p>
+							c) Licenziamento disciplinare (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55quater" xlink:type="simple">art. 55-quater</rif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>Prevede una gamma di infrazioni particolarmente gravi, che la contrattazione collettiva può ampliare ma non diminuire;</h:li>
+						</h:ul>
+						<h:p>
+							d) False attestazioni o certificazioni (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55quinquies" xlink:type="simple">art. 55-quinquies</rif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>
+								Dette disposizioni tendono a contrastare le condotte penalmente illecite prevedendo, per le false attestazioni o certificazioni concernenti la presenza in servizio/malattia, la reclusione da uno a cinque anni e l'obbligazione civilistica del risarcimento del danno (multa da €400 ad €600), fermo restando quanto previsto dal
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398" xlink:type="simple">codice penale</rif>
+								;
+							</h:li>
+						</h:ul>
+						<h:p>
+							e) Responsabilità disciplinare per condotte pregiudizievoli per l'amministrazione e limitazione della responsabilità per l'esercizio dell'azione disciplinare (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55sexies" xlink:type="simple">art. 55-sexies</rif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>Dette disposizioni fanno emergere l'importanza dell'attività istruttoria in relazione a specifiche responsabilità del dipendente per condotte che arrecano danno all'immagine dell'Amministrazione e per le quali sono previste le sanzioni della sospensione dal servizio ovvero il collocamento in disponibilità a seconda della gravità dei comportamenti;</h:li>
+						</h:ul>
+						<h:p>
+							f) Controlli sulle assenze (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55septies" xlink:type="simple">art. 55-septies</rif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>
+								Sono recepite le misure già introdotte dal
+								<rif xlink:href="urn:nir:stato:decreto.legge:2008;112" xlink:type="simple">D.l. 112/2008</rif>
+								in materia di controlli sulle assenze, ponendo a carico del Dirigente della Struttura di lavoro l'obbligo di farle osservare;
+							</h:li>
+						</h:ul>
+						<h:p>
+							g) Permanente inidoneità psicofisica (
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55octies" xlink:type="simple">art. 55-octies</rif>
+							):
+						</h:p>
+						<h:ul>
+							<h:li>E' prevista la possibilità della risoluzione del rapporto di lavoro in relazione a situazioni di permanente inidoneità psicofisica del dipendente, ma viene rinviata ad un intervento regolamentare del Governo l'emanazione di una disciplina applicativa.</h:li>
+						</h:ul>
+					</contenitore>
+					<h:p>
+						Ai fini di una più puntuale lettura si rappresenta il seguente schema: [
+						<rif xlink:href="pdf/tab_circ_9_2010.pdf" xlink:type="simple">visualizza</rif>
+						]
+					</h:p>
+					<h:p />
+					<h:p>L'Ufficio Procedimenti Disciplinari fornirà per la corretta applicazione della disciplina e per la procedura da seguire, consulenza e supporto. Al riguardo sarà predisposto un apposito disciplinare. Per ciò che concerne il "Procedimento ordinario" la cui competenza e gestione si ribadisce è dei Dirigenti/Direttori, il supporto dell'Ufficio suddetto riguarderà le varie fasi procedurali, tra cui: istruttoria del procedimento disciplinare (verifica, formazione e acquisizione di fatti, atti ed interessi), contestazione dell'addebito, convocazione del lavoratore, escussione degli eventuali testimoni, redazione dei verbali delle testimonianze rese, giudizio sulle eccezioni preliminari sollevate dagli avvocati che tutelano il lavoratore, osservanza dei termini perentori procedurali previsti dalla legge e dalla contrattazione collettiva, corretta individuazione della sanzione, eventuale adozione del provvedimento di erogazione della sanzione.</h:p>
+					<h:p>
+						Si fa presente che si è provveduto a pubblicare sul sito dell'Urp
+						<h:a xlink:href="http://www.urp.cnr.it" xlink:type="simple">www.urp.cnr.it</h:a>
+						(alla voce Dipendenti) le nuove norme disciplinari di cui alla Contrattazione Collettiva del Comparto Ricerca ed al menzionato
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150" xlink:type="simple">D.lgs. 150/2009</rif>
+						, riservandosi di pubblicare altresì il testo coordinato non appena sarà reso disponibile.
+					</h:p>
+				</contenitore>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL DIRETTORE GENERALE
+					<h:br />
+					(Fabrizio Tuzi)
+				</firma>
+				<h:hr />
+				Per informazioni in merito alla presente circolare sarà possibile rivolgersi a:
+				<h:br />
+				Dott. Domenico Petrillo e mail: domenico.petrillo@cnr.it tel. 06.4993 7381
+				<h:br />
+				Dott.ssa Marina Quaranta e mail: marina.quaranta@cnr.it tel. 06.4993 2521
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Integrazione alla Circolare</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9:allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:direttiva:2010-07-13;52934" xlink:type="simple">Direttiva 13 luglio 2010, AMMCNT - CNR n. 52934</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con6" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso />
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9:allegato.2" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<titoloDoc>
+								<rif xlink:href="zip/IntegrazioneCircolare_Mod_09_2010.zip" xlink:type="simple">Modelli</rif>
+								<h:br />
+								(formato .zip - 98,3 Kb)
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con7" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

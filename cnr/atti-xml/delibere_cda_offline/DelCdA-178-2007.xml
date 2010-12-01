@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20071017" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-10-17;178" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20071017" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:tipoDestinatario valore="Direzione Generale" />
+						<cnr:tipoDestinatario valore="Dipartimenti" />
+						<cnr:strutturaDestinataria valore="" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20071017">17 ottobre 2007</dataDoc>
+				, n.
+				<numDoc>178</numDoc>
+				<titoloDoc>Integrazioni dei criteri per la valutazione da parte del Consiglio di amministrazione delle richieste di autorizzazione alla istituzione di unità di ricerca presso terzi</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 17 ottobre 2007, ha adottato all'unanimità la seguente deliberazione n. 178/2007 - Verb. 69</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-07-30;149" xlink:type="simple">deliberazione del Consiglio di amministrazione del CNR del 30 luglio 2007 n. 149</rif>
+						con la quale il Prof. Federico Rossi è stato nominato Vice-Presidente del CNR;
+					</h:p>
+					<h:p>VISTA la nota del Ministero dell'Università e della Ricerca del 2 agosto 2007 prot. n. 103/SEGR.RIC con cui, preso atto della richiamata delibera del Consiglio di amministrazione del CNR di nomina del Vice-Presidente e delle dimissioni del Presidente, il Prof. Federico Rossi è stato invitato, a svolgere le funzioni di Presidente del Consiglio Nazionale delle Ricerche nelle more dell'espletamento e del completamento delle procedure per la nomina del nuovo Presidente;</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69" xlink:type="simple">delibera n. 69 del 17 aprile 2007</rif>
+						che individua i criteri generali per la valutazione da parte del Consiglio di amministrazione delle richieste di autorizzazione alla costituzione di Unità di ricerca presso terzi;
+					</h:p>
+					<h:p>CONSIDERATE le indicazioni recentemente emerse in Consiglio di amministrazione e condivise sul piano strategico dal Consiglio scientifico generale che ha trattato l'argomento nella riunione del 2 ottobre 2007;</h:p>
+					<h:p>RITENUTO opportuno all'esito delle verifiche sulla prima applicazione delle disposizioni in materia di costituzione di Unità di ricerca presso terzi integrare i criteri indicati nella delibera;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>
+					1. di integrare l'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple">allegato alla delibera del Consiglio di amministrazione n. 69 del 17 aprile 2007</rif>
+					come segue:
+				</h:p>
+				<h:p>
+					<mod id="mod1">
+						a) nella sezione "Contenuti della relazione del proponente", la lettera k) è sostituita dalla seguente: "
+						<virgolette id="mod1-vir1" tipo="struttura">
+							<el id="mod1-vir1-leta">
+								<num />
+								<corpo>numero di unità, impegno di tempo e livelli del personale CNR e della parte terza che si programma possano collaborare alle attività progettuali della URT</corpo>
+							</el>
+						</virgolette>
+						";
+					</mod>
+				</h:p>
+				<h:p>
+					<mod id="mod2">
+						b) nella sezione "Criteri per la decisione del Consiglio di Amministrazione" sono aggiunti dopo il punto 4 i seguenti:
+						<virgolette id="mod2-vir1" tipo="struttura">
+							<en id="mod2-vir1-num5">
+								<num>5)</num>
+								<corpo>l'assegnazione di unità di personale del CNR all'Unità di ricerca presso terzi può essere disposta solo in casi eccezionali e motivati;</corpo>
+							</en>
+							<en id="mod2-vir1-num6">
+								<num>6)</num>
+								<corpo>i dipartimenti possono essere autorizzati a costituire Unità di ricerca presso terzi attive contemporaneamente nei limiti numerici indicati in sede di approvazione delle linee guida per l'elaborazione del Piano triennale di attività;</corpo>
+							</en>
+						</virgolette>
+					</mod>
+				</h:p>
+				<h:p>2. le attività delle Unità di ricerca presso terzi sono soggette a verifica e valutazione annuale. Le Convenzioni devono prevedere la facoltà di recesso del CNR in caso di valutazione negativa.</h:p>
+				<h:p>3. le autorizzazioni approvate con delibera del Consiglio di amministrazione che alla data della presente deliberazione non hanno portato alla formale costituzione delle Unità di ricerca o alla stipula di atti convenzionali con terzi preordinati alla costituzione devono intendersi modificate in conformità con quanto stabilito dai punti 1 e 2 della presente deliberazione. I direttori dei dipartimenti interessati procedono a conformare i conseguenti atti ai principi e alle regole sopra indicati.</h:p>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL VICE PRESIDENTE</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

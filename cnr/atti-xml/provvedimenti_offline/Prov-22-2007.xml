@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="2/2007" tipo="BUCNR" />
+					<entratainvigore norm="20070518" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn iniziovigore="t1" finevigore="t2" valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" />
+					<urn iniziovigore="t2" valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22@2007-11-08" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;41166" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070518" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20071109" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art6-com4" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art2-com1-num2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 2, comma 1, numero 2 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h2" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h1" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art6-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art2-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 2, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art6-com2bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art10-com1-letd" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art3-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 3, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art10-com1-lete" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com2-letb" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h3" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com2-letb" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt5" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h5" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h4" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 2 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art11-com2bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 3 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt7" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h6" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 3 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt8" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#h8" xlink:type="simple" />
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#h7" xlink:type="simple" />
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art11-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art4-com1-num3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 4, comma 1, numero 3 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt9" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art11-com4" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art12-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art5-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 5, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt10" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art12-com2bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art12-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art5-com1-num2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 5, comma 1, numero 2 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt11" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art12-com4" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art13-com1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art6-com1-num1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 6, comma 1, numero 1 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt12" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art13-com1bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art13-com2" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-08;62#art6-com1-num2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 6, comma 1, numero 2 della provvedimento Consiglio Nazionale delle Ricerche 8 novembre 2007, n. 62" id="itt13" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art13-com3" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Provvedimento</tipoDoc>
+				<dataDoc norm="20070518">18 maggio 2007</dataDoc>
+				, n.
+				<numDoc>22</numDoc>
+				(Protocollo n.
+				<numDoc nome="protocollo">41166</numDoc>
+				)
+				<titoloDoc>
+					Provvedimento organizzatorio relativo alle modalità e ai criteri di accesso ai documenti amministrativi ai sensi della
+					<rif xlink:href="urn:nir:stato:legge:1990-08-07;241" xlink:type="simple">legge 7 agosto 1990 n. 241</rif>
+					e del Regolamento di attuazione di cui al
+					<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006-04-12;184" xlink:type="simple">D.P.R. 12 aprile 2006, n. 184</rif>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL DIRETTORE GENERALE</h:p>
+				<preambolo>
+					<h:p>
+						- Vista la
+						<rif xlink:href="urn:nir:stato:legge:1990-08-07;241" xlink:type="simple">Legge 7 agosto 1990 n, 241</rif>
+						, e successive modificazioni;
+					</h:p>
+					<h:p>
+						- Visto il Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa di cui al
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445" xlink:type="simple">D.P.R. 28 dicembre 2000, n. 445</rif>
+						;
+					</h:p>
+					<h:p>
+						- Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">D.Lgs. 30 giugno 2003, n.196</rif>
+						in materia di protezione dei dati personali;
+					</h:p>
+					<h:p>
+						- Vista la
+						<rif xlink:href="urn:nir:stato:legge:2005-02-11;15" xlink:type="simple">legge 11 febbraio 2005, n. 15</rif>
+						che ha integrato e modificato la
+						<rif xlink:href="urn:nir:stato:legge:1990;241" xlink:type="simple">legge 241/90</rif>
+						;
+					</h:p>
+					<h:p>
+						- Visto il
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006-04-12;184" xlink:type="simple">D.P.R. 12 aprile 2006, n. 184</rif>
+						"Regolamento recante la disciplina in materia di accesso ai documenti amministrativi";
+					</h:p>
+					<h:p>
+						- Vista la
+						<rif xlink:href="urn:nir:stato:legge:2006-12-27;296" xlink:type="simple">Legge finanziaria 27 dicembre 2006, n. 296</rif>
+						;
+					</h:p>
+					<h:p>
+						- Considerata la necessità di adottare, in applicazione dell'
+						<mrif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art1-com2" xlink:type="simple">art. 1, comma 2</rif>
+							, e
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art8" xlink:type="simple">dell'art. 8</rif>
+							del D.P.R. n. 184/2006
+						</mrif>
+						citato, i provvedimenti organizzatori generali del CNR per garantire l'esercizio del diritto di accesso ai documenti, apportando, in conformità alla legge, le opportune innovazioni alla normativa interna già esistente in materia;
+					</h:p>
+					<h:p>- Vista la Direttiva della Presidenza del Consiglio dei Ministri n. UCA27720/928/46 del 19 marzo 1993 relativa ai costi di riproduzione dei documenti amministrativi;</h:p>
+					<h:p>- Vista, altresì, la Delibera di attuazione della G.A. nelle funzioni di Consiglio di Amministrazione del CNR n. 694.430.97 del 16 luglio 1997, nonché la circolare CNR n. 39/97 del 4 novembre 1997;</h:p>
+					<h:p>
+						- Visto il proprio
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-06-28;47911" xlink:type="simple">provvedimento n.0047911 del 28/6/2006</rif>
+						mediante il quale è stato costituito un Gruppo di lavoro per l'applicazione in ambito CNR della disciplina prevista dal
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006-04-12;184" xlink:type="simple">D.P.R. 12 aprile 2006, n. 184</rif>
+						, attuativo della
+						<rif xlink:href="urn:nir:stato:legge:1990;241" xlink:type="simple">legge 241/1990</rif>
+						, in materia di accesso ai documenti amministrativi;
+					</h:p>
+					<h:p>- Visti gli atti di indirizzo del Ministro per le Riforme e le Innovazioni nella Pubblica Amministrazione in materia di interscambio dei dati tra le pubbliche amministrazioni e pubblicità dell'attività negoziale: Direttive n. 1 del 02/02/07, n. 2 del 20/02/2007, n. 3 del 22/02/2007;</h:p>
+					<h:p>- Visto, in particolare, il punto 4 del citato atto di indirizzo che impone l'adozione di nuovi sistemi di consultazione dei dati in tempo reale;</h:p>
+					<h:p>- Visto il documento tecnico approntato dal Gruppo di lavoro incaricato di predisporre i suddetti provvedimenti organizzatori in materia di accesso ai documenti amministrativi;</h:p>
+					<h:p>- Esaminato il contenuto del documento e la sua conformità alle normativa vigente in materia di accesso agli atti;</h:p>
+				</preambolo>
+				<h:p>DISPONE</h:p>
+				<h:p>
+					In attuazione delle disposizioni recate dalla
+					<rif xlink:href="urn:nir:stato:legge:1990;241" xlink:type="simple">legge 241/1990</rif>
+					e dal regolamento di cui al
+					<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184" xlink:type="simple">D.P.R. n. 184/2006</rif>
+					, nonché in conformità a quanto disposto dalla normativa richiamata nelle premesse, è adottato il seguente provvedimento organizzatorio in materia di accesso ai documenti amministrativi.
+				</h:p>
+			</formulainiziale>
+			<articolato>
+				<titolo id="tit1">
+					<num>Titolo I</num>
+					<rubrica>Ambito di applicazione</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Oggetto e finalità del diritto di accesso</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								Il presente provvedimento contiene, in attuazione di quanto previsto dall'
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art8" xlink:type="simple">art. 8 del D.P.R. n. 184/2006</rif>
+								ed in conformità alla
+								<rif xlink:href="urn:nir:stato:legge:1990;241" xlink:type="simple">legge 241/90</rif>
+								e successive modificazioni e integrazioni, le misure organizzatorie idonee a garantire il diritto di accesso ai documenti amministrativi, formati o stabilmente detenuti dal Consiglio Nazionale delle Ricerche, ed alle informazioni contenute nei documenti stessi, al fine di favorire la partecipazione all'attività amministrativa e assicurarne la trasparenza e l'imparzialità.
+							</corpo>
+						</comma>
+						<comma id="art1-com2">
+							<num>2.</num>
+							<corpo>Per documento amministrativo si intende ogni rappresentazione, comunque formata, del contenuto di atti, anche interni, delle pubbliche amministrazioni o, comunque, utilizzati ai fini dell'attività amministrativa.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>Soggetti legittimati</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<corpo>Il diritto di accesso è esercitabile da chiunque abbia un interesse diretto, concreto, attuale, giuridicamente tutelato e correlato al documento di cui si chiede l'accesso in conformità alle norme in materia di protezione dei dati personali.</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<corpo>Il diritto è, altresì esercitabile dai portatori di interessi diffusi o collettivi, secondo le modalità prescritte dal presente provvedimento.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art.3</num>
+						<rubrica>Tutela dei controinteressati</rubrica>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<corpo>
+								Qualora l'Amministrazione individui soggetti controinteressati alla richiesta di accesso è tenuta a darne comunicazione agli stessi secondo le modalità previste dal
+								<rif xlink:href="#art7" xlink:type="simple">successivo art. 7</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art3-com2">
+							<num>2.</num>
+							<corpo>Per controinteressati si intendono i soggetti che dall'esercizio dell'accesso vedrebbero compromesso il loro diritto alla riservatezza.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit2">
+					<num>Titolo II</num>
+					<rubrica>Esercizio del diritto di accesso</rubrica>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>Elementi essenziali della richiesta</rubrica>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<alinea>La richiesta di accesso deve essenzialmente contenere:</alinea>
+							<el id="art4-com1-leta">
+								<num>a)</num>
+								<corpo>l'ufficio competente destinatario della richiesta;</corpo>
+							</el>
+							<el id="art4-com1-letb">
+								<num>b)</num>
+								<corpo>il soggetto richiedente;</corpo>
+							</el>
+							<el id="art4-com1-letc">
+								<num>c)</num>
+								<corpo>l'oggetto della richiesta;</corpo>
+							</el>
+							<el id="art4-com1-letd">
+								<num>d)</num>
+								<corpo>l'interesse connesso all'oggetto della richiesta.</corpo>
+							</el>
+						</comma>
+						<comma id="art4-com2">
+							<num>2.</num>
+							<corpo>La richiesta di accesso dovrà essere indirizzata all'ufficio del CNR che ha prodotto il documento richiesto o che lo detiene stabilmente e per conoscenza all'URP incaricato di fornire indicazioni sulle modalità del diritto di accesso e informazioni sull'organizzazione funzionale dell'ente per l'individuazione dell'ufficio destinatario della richiesta.</corpo>
+						</comma>
+						<comma id="art4-com3">
+							<num>3.</num>
+							<corpo>
+								Il soggetto richiedente, persona fisica o giuridica che abbia i requisiti di legittimazione prescritti dall'
+								<rif xlink:href="#art2" xlink:type="simple">art. 2</rif>
+								del presente provvedimento, dovrà indicare nella richiesta i propri dati anagrafici, nonché gli estremi del documento di identificazione allegandone copia. Il soggetto richiedente può essere, altresì, persona fisica o giuridica che abbia ricevuto dall'interessato poteri di rappresentanza legale o di delega comprovati da idonea documentazione da allegare alla domanda.
+							</corpo>
+						</comma>
+						<comma id="art4-com4">
+							<num>4.</num>
+							<corpo>Le richieste non possono essere generiche, ma devono consentire l'individuazione del documento al quale si vuole accedere e devono indicare gli estremi del documento al quale si chiede l'accesso ed in particolare protocollo/registrazione, data, posizione o classificazione, ufficio che ha predisposto l'atto e l'oggetto. Mediante l'istanza di accesso ad un documento amministrativo si può accedere, se espressamente richiesto, a tutti i documenti da esso richiamati ed appartenenti al medesimo procedimento.</corpo>
+						</comma>
+						<comma id="art4-com5">
+							<num>5.</num>
+							<corpo>Nella richiesta deve essere, inoltre, specificato e, ove occorra comprovato, l'interesse connesso all'oggetto della richiesta.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>Accesso informale</rubrica>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<corpo>Il diritto di accesso può essere esercitato in via informale mediante richiesta anche verbale all'ufficio competente a formare l'atto o a detenerlo stabilmente qualora in base alla natura del documento richiesto non risulti l'esistenza di controinteressati. L'ufficio avrà cura di annotare in ordine cronologico le richieste informali pervenute e farle sottoscrivere dall'interessato .</corpo>
+						</comma>
+						<comma id="art5-com2">
+							<num>2.</num>
+							<corpo>La richiesta è esaminata immediatamente e senza formalità da parte del responsabile del procedimento di accesso e, nel caso non vi siano elementi che impediscano l'esercizio del diritto, viene accolta direttamente mediante l'esibizione del documento o l'estrazione di copia.</corpo>
+						</comma>
+						<comma id="art5-com3">
+							<num>3.</num>
+							<corpo>Nel caso in cui risulti l'esistenza di controinteressati, ovvero vi siano dubbi sulla legittimazione del richiedente, sulla sua identità, sui suoi poteri rappresentativi, sulla sussistenza dell'interesse, l'ufficio ricevente invita il richiedente a presentare domanda formale.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>Accesso formale</rubrica>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>
+								Il diritto di accesso può sempre essere esercitato in via formale mediante richiesta scritta corredata di tutti gli elementi di cui all'
+								<rif xlink:href="#art4" xlink:type="simple">art. 4</rif>
+								. A tal fine può essere utilizzato apposito modello disponibile sul sito internet URP del Consiglio Nazionale delle Ricerche all'indirizzo
+								<h:a xlink:href="http://www.urp.cnr.it" xlink:type="simple">http://www.urp.cnr.it</h:a>
+								(area Ente).
+							</corpo>
+						</comma>
+						<comma id="art6-com2">
+							<num>2.</num>
+							<alinea>
+								La richiesta di accesso completa degli elementi indicati all'
+								<rif xlink:href="#art4" xlink:type="simple">art. 4</rif>
+								può essere presentata, in conformità alle disposizioni di legge, secondo una delle seguenti modalità:
+							</alinea>
+							<ep id="art6-com2-pun1">
+								<num>-</num>
+								<corpo>tramite servizio postale;</corpo>
+							</ep>
+							<ep id="art6-com2-pun2">
+								<num>-</num>
+								<corpo>consegna a mano;</corpo>
+							</ep>
+							<ep id="art6-com2-pun3">
+								<num>-</num>
+								<corpo>a mezzo fax;</corpo>
+							</ep>
+							<ep id="art6-com2-pun4">
+								<num>-</num>
+								<corpo>per via telematica.</corpo>
+							</ep>
+						</comma>
+						<comma id="art6-com2bis" iniziovigore="t2">
+							<num>2 bis.</num>
+							<corpo>
+								Le modalità di invio delle domande e le relative sottoscrizioni, inviate per via telematica, sono disciplinate dall'
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445#art38" xlink:type="simple">art. 38 del DPR 28.12.2000 n. 445</rif>
+								e successive modificazioni, dagli
+								<mrif>
+									artt.
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68#art4" xlink:type="simple">4</rif>
+									e
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68#art5" xlink:type="simple">5</rif>
+									del DPR 11 febbraio 2005 n. 68
+								</mrif>
+								e dal
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2005-03-07;82" xlink:type="simple">D.Lgs. 7.3.2005 n. 82</rif>
+								e successive modificazioni. Tali richieste dovranno quindi essere effettuate in conformità alla citata normativa.
+							</corpo>
+						</comma>
+						<comma id="art6-com3">
+							<num>3.</num>
+							<corpo>
+								La richiesta di accesso formale tramite servizio postale, deve essere effettuata con raccomandata con avviso di ricevimento o altro mezzo idoneo ad accertare la ricezione. Nel caso di consegna a mano, l'ufficio accettazione corrispondenza è tenuto a rilasciare ricevuta dell'avvenuta presentazione della richiesta. Se la richiesta di accesso perviene ad ufficio non competente, questo provvederà a trasmetterlo all'ufficio competente, dandone tempestiva comunicazione all'interessato. In ogni caso il termine di 30 giorni entro il quale il procedimento di accesso deve concludersi, ai sensi dell'
+								<rif xlink:href="urn:nir:stato:legge:1990;241#art25" xlink:type="simple">articolo 25 della legge 241/1990</rif>
+								, decorre dalla data di protocollazione della richiesta.
+							</corpo>
+						</comma>
+						<comma id="art6-com4">
+							<num>4.</num>
+							<corpo>
+								Nel caso di richieste irregolari o incomplete l'ufficio ricevente deve darne comunicazione, entro 10 giorni, al richiedente mediante mezzo idoneo ad accertarne la ricezione e il termine conclusivo del procedimento di 30 giorni
+								<h:span finevigore="t2" id="h1" iniziovigore="t1" status="abrogato">rimane sospeso per il periodo compreso tra la comunicazione e la regolarizzazione</h:span>
+								<h:span id="h2" iniziovigore="t2">decorre dalla presentazione della nuova istanza o dal completamento della precedente</h:span>
+								.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>Notifica ai controinteressati</rubrica>
+						<comma id="art7-com1">
+							<num>1.</num>
+							<corpo>L'ufficio competente è tenuto a dare comunicazione ai controinteressati dell'avvio del procedimento di accesso, mediante raccomandata con avviso di ricevimento. I controinteressati possono presentare motivata opposizione alla richiesta di accesso, anche per via telematica o via fax, entro dieci giorni dal ricevimento.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Responsabile del procedimento</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>Il Dirigente/Responsabile dell'ufficio competente a formare l'atto o a detenere stabilmente la documentazione richiesta individua nell'ambito della propria unità organizzativa il responsabile del procedimento di accesso. Qualora non sia diversamente specificato, il responsabile del procedimento coincide con il responsabile dell'istruttoria o, in mancanza, con il Dirigente/Responsabile dell'ufficio competente. Il responsabile del procedimento provvede a quanto necessario per l'esercizio dei diritti da parte del richiedente con le modalità stabilite dal presente provvedimento. In particolare accerta regolarità e completezza delle richieste, provvede all'identificazione del richiedente e adotta, ove di competenza, l'atto conclusivo di accoglimento, rifiuto, limitazione o differimento dell'accesso.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit3">
+					<num>Titolo III</num>
+					<rubrica>Accoglimento della richiesta e modalità per l'accesso ai documenti amministrativi</rubrica>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>Accoglimento della domanda</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>L'atto di accoglimento della richiesta, qualora non si debba provvedere per posta o altro sistema telematico di trasmissione, deve indicare l'ufficio e la sede presso cui effettuare la visione del documento ed estrarne eventuale copia. Deve, inoltre, indicare la data, non inferiore a quindici giorni, e l'ora in cui l'accesso può avvenire e recare ogni ulteriore indicazione necessaria all'esercizio del diritto di accesso ivi compresi i costi di riproduzione, ricerca e visura.</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>Con l'accoglimento della richiesta di accesso ad un documento è data facoltà di accesso anche agli altri documenti nello stesso richiamati, salvo quanto diversamente disposto da norme di legge o di regolamento.</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<corpo>L'accoglimento della richiesta di accesso può avvenire in modo parziale ove si renda necessario differire o escludere dall'accesso alcune parti del documento.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>Modalità di accesso</rubrica>
+						<comma id="art10-com1">
+							<num>1.</num>
+							<alinea>L'accesso ai documenti può avvenire secondo le modalità di seguito indicate:</alinea>
+							<el id="art10-com1-leta">
+								<num>a)</num>
+								<alinea>presso l'ufficio a cui è stata inviata la richiesta mediante:</alinea>
+								<ep id="art10-com1-leta-pun1">
+									<num>-</num>
+									<corpo>esame del documento in presenza del responsabile del procedimento o della persona a ciò incaricata. Il richiedente o il suo delegato può prendere annotazioni sul contenuto del documento o trascriverlo in tutto o in parte senza alterarlo o deteriorarlo;</corpo>
+								</ep>
+								<ep id="art10-com1-leta-pun2">
+									<num>-</num>
+									<corpo>consegna a mano di una o più copie semplici o conformi al documento originale.</corpo>
+								</ep>
+							</el>
+							<el id="art10-com1-letb">
+								<num>b)</num>
+								<corpo>a mezzo spedizione postale;</corpo>
+							</el>
+							<el id="art10-com1-letc">
+								<num>c)</num>
+								<corpo>a mezzo fax;</corpo>
+							</el>
+							<el id="art10-com1-letd">
+								<num>d)</num>
+								<corpo>per via telematica.</corpo>
+							</el>
+							<el id="art10-com1-lete" iniziovigore="t2">
+								<num>e)</num>
+								<corpo>
+									per la quantità dei documenti rischiesti, ovvero per particolari ragioni organizzative, l'amministrazione si riserva di soddisfare il diritto di accesso ai documenti, mediante rilascio delle copie su supporto elettronico, in formato non modificabile, dietro il rimborso del costo del supporto elettronico e il pagamento degli ordinari costi di ricerca e visura di cui al successivo
+									<rif xlink:href="#art11" xlink:type="simple">art. 11</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art11">
+						<num>Art. 11</num>
+						<rubrica>Costi per il rilascio di copie ed eventuale spedizione</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<corpo>La semplice consultazione dei documenti immediatamente reperibili è gratuita ed è effettuata presso l'Ufficio indicato nell'atto di accoglimento.</corpo>
+						</comma>
+						<comma id="art11-com2">
+							<num>2.</num>
+							<alinea>Il rilascio di copie presuppone, invece, il rimborso dei costi di riproduzione, di ricerca, visura ed eventuale spedizione. È, altresì, dovuta l'imposta di bollo nel caso in cui si richiedano copie conformi al documento originale. In particolare, i costi sono così fissati:</alinea>
+							<el id="art11-com2-leta">
+								<num>a)</num>
+								<corpo>Euro 5,00 per ricerca e visura di documenti collocati presso archivi esterni alla struttura;</corpo>
+							</el>
+							<el id="art11-com2-letb">
+								<num>b)</num>
+								<corpo>
+									per riproduzione
+									<h:span finevigore="t2" id="h3" iniziovigore="t1" status="abrogato">, in conformità alla Direttiva della Presidenza del Consiglio dei Ministri n. 27720 /928/46 del 19 marzo 1993 e successivi adeguamenti</h:span>
+									,
+									<h:span finevigore="t2" id="h4" iniziovigore="t1" status="abrogato">Euro 0,25 ogni due fogli</h:span>
+									<h:span id="h5" iniziovigore="t2">Euro 0,26 per ogni foglio</h:span>
+									, salvo maggiorazioni per formati speciali o su carte particolari;
+								</corpo>
+							</el>
+							<el id="art11-com2-letc">
+								<num>c)</num>
+								<corpo>
+									per le copie conformi, per le quali è richiesta l'imposta di bollo, oltre al rimborso dei costi di ricerca e rilascio copie di cui ai
+									<mrif>
+										<rif xlink:href="#art11-com2-leta" xlink:type="simple">punti a)</rif>
+										e
+										<rif xlink:href="#art11-com2-letb" xlink:type="simple">b)</rif>
+									</mrif>
+									, è necessario produrre una marca da apporre sul documento ogni quattro facciate.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art11-com2bis" iniziovigore="t2">
+							<num>2 bis.</num>
+							<corpo>Le somme pari o inferiori ad € 30,00 dovranno essere corrisposte in valori bollati da consegnare all'Economo del CNR.</corpo>
+						</comma>
+						<comma id="art11-com3">
+							<num>3.</num>
+							<corpo>
+								Il versamento delle somme
+								<h:span id="h6" iniziovigore="t2">superiori al limite minimo di cui al punto precedente,</h:span>
+								dovrà essere effettuato sul
+								<h:span finevigore="t2" id="h7" iniziovigore="t1" status="abrogato">c/c bancario n. 218155</h:span>
+								<h:span id="h8" iniziovigore="t2">c/c bancario n. 218150</h:span>
+								denominato conto di transito CNR acceso presso la B.N.L. sportello CNR 6392 CAB 01005 ABI 03392 COD. CIN S ovvero su conto corrente postale n. 27437003 CNR "Prestazioni di servizi" intestato CNR.
+							</corpo>
+						</comma>
+						<comma id="art11-com4" iniziovigore="t2">
+							<num>4.</num>
+							<corpo>Qualora l'accesso avvenga attraverso trasmissione dell'atto all'indirizzo indicato dal richiedente ad esso andranno addebitate anche le spese di spedizione.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit4">
+					<num>Titolo IV</num>
+					<rubrica>Limitazioni, differimento ed esclusione del diritto di accesso</rubrica>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>Limitazione e differimento dell'accesso</rubrica>
+						<comma id="art12-com1">
+							<num>1.</num>
+							<corpo>L'Amministrazione può limitare l'accesso ad un documento oscurandone alcuni contenuti qualora ciò si renda necessario per salvaguardare il diritto alla riservatezza di terzi, sempre che le informazioni non siano rilevanti per il richiedente, valutati i contenuti della domanda di accesso.</corpo>
+						</comma>
+						<comma id="art12-com2">
+							<num>2</num>
+							<corpo>
+								L'amministrazione può, altresì differire temporaneamente, con atto motivato, l'accesso ai documenti amministrativi dalla cui diffusione possa derivare pregiudizio alla riservatezza di persone fisiche o giuridiche indicandone le ragioni e il termine massimo di differimento. Il differimento può, inoltre, essere disposto per salvaguardare specifiche esigenze dell'amministrazione, specie nella fase preparatoria degli atti in relazione a documenti la cui conoscenza potrebbe compromettere il buon andamento dell'amministrazione. Il differimento è in ogni caso disposto ove sia sufficiente a tutelare i diritti previsti dall'
+								<rif xlink:href="urn:nir:stato:legge:1990;241#art24-com6" xlink:type="simple">art. 24, comma 6, della legge 241/90</rif>
+								, senza dover ricorrere all'esclusione dell'accesso.
+							</corpo>
+						</comma>
+						<comma id="art12-com2bis" iniziovigore="t2">
+							<num>2 bis.</num>
+							<corpo>Per i documenti relativi a procedure concorsuali o selettive, l'accesso è differito fino alla data di adozione del provvedimento conclusivo delle relative procedure.</corpo>
+						</comma>
+						<comma id="art12-com3">
+							<num>3.</num>
+							<corpo>L'atto che dispone il differimento dell'accesso ne indica la durata.</corpo>
+						</comma>
+						<comma id="art12-com4" iniziovigore="t2">
+							<num>4.</num>
+							<corpo>
+								Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;185#art11" xlink:type="simple">art. 11 della deliberazione del CNR 1 luglio 1999 n. 185</rif>
+								citata nelle premesse.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<rubrica>Esclusione del diritto di accesso</rubrica>
+						<comma id="art13-com1">
+							<num>1.</num>
+							<alinea>L'amministrazione, previa valutazione accurata degli elementi a sua disposizione e del caso specifico, può escludere l'accesso per le seguenti tipologie di documenti:</alinea>
+							<el id="art13-com1-leta">
+								<num>a)</num>
+								<corpo>
+									atti e documenti rientranti nelle categorie generali individuate dall'
+									<rif xlink:href="urn:nir:stato:legge:1990;241#art24-com1" xlink:type="simple">art. 24, comma 1 della legge 241/90</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art13-com1-letb">
+								<num>b)</num>
+								<corpo>
+									atti e documenti dai quali possa derivare una lesione ad interessi rilevanti individuati dall'
+									<mrif>
+										articolo 24, comma 6, lettera
+										<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art24-com6-leta" xlink:type="simple">a)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art24-com6-letb" xlink:type="simple">b)</rif>
+										,
+										<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art24-com6-lete" xlink:type="simple">e)</rif>
+										della legge 7 agosto 1990, n. 241
+									</mrif>
+									;
+								</corpo>
+							</el>
+							<el id="art13-com1-letc">
+								<num>c)</num>
+								<corpo>documenti che riguardino la vita privata o la riservatezza di persone fisiche, persone giuridiche, gruppi, imprese e associazioni, con particolare riferimento agli interessi epistolari, sanitari, professionali, finanziari, industriali e commerciali di cui siano in concreto titolari, ancorchè i relativi dati siano forniti all'amministrazione dagli stessi soggetti cui si riferiscono, quando la loro conoscenza possa arrecare grave insanabile pregiudizio ai soggetti cui le informazioni contenute nei documenti sono riferite ovvero i soggetti conferenti le informazioni abbiano evidenziato che le stesse sono assoggettate a particolari forme di tutela, in base a disposizioni di legge;</corpo>
+							</el>
+							<el id="art13-com1-letd">
+								<num>d)</num>
+								<corpo>
+									documenti relativi a procedure di gara nei limiti previsti dall'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2006;163#art13" xlink:type="simple">art. 13 del D.Lgs.163/2006</rif>
+									.
+								</corpo>
+							</el>
+						</comma>
+						<comma id="art13-com1bis" iniziovigore="t2">
+							<num>1 bis.</num>
+							<corpo>Il diritto di accesso è, altresì, limitato ai sensi della normativa vigente in materia di diritti d'autore e proprietà intellettuale.</corpo>
+						</comma>
+						<comma id="art13-com2">
+							<num>2.</num>
+							<corpo>
+								Sono fatte salve le ipotesi previste nel
+								<rif xlink:href="#art14" xlink:type="simple">successivo articolo 14</rif>
+								.
+							</corpo>
+						</comma>
+						<comma id="art13-com3" iniziovigore="t2">
+							<num>3.</num>
+							<corpo>
+								Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;184#art2" xlink:type="simple">art. 2 della deliberazione CNR 1 luglio 1999 n. 184</rif>
+								citata nelle premesse.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>Tutela della riservatezza</rubrica>
+						<comma id="art14-com1">
+							<num>1.</num>
+							<corpo>Il Consiglio Nazionale delle Ricerche garantisce comunque ai richiedenti l'accesso ai documenti la cui conoscenza sia necessaria per curare o per difendere i propri interessi giuridici.</corpo>
+						</comma>
+						<comma id="art14-com2">
+							<num>2.</num>
+							<corpo>
+								Nel caso di documenti contenenti dati sensibili e giudiziari, l'accesso è consentito nei limiti in cui sia strettamente indispensabile e, in caso di dati idonei a rivelare lo stato di salute e la vita sessuale, nei termini previsti dall'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art60" xlink:type="simple">art. 60 del D.Lgs. 30 giugno 2003, n. 196</rif>
+								. In ogni situazione in cui sia presumibile che l'accesso possa recare pregiudizio in relazione ai casi previsti dal precedenti
+								<mrif>
+									<rif xlink:href="#art12" xlink:type="simple">art. 12</rif>
+									e
+									<rif xlink:href="#art13" xlink:type="simple">articolo 13</rif>
+								</mrif>
+								, il responsabile del procedimento di accesso valuta che l'interesse o il diritto per il quale l'interessato esercita l'accesso sia di peso pari o superiore alla tutela della riservatezza degli elementi contenuti nel documento.
+							</corpo>
+						</comma>
+						<comma id="art14-com3">
+							<num>3.</num>
+							<corpo>Resta fermo, in ogni caso, il principio per cui i conflitti tra diritto di accesso e riservatezza dei terzi devono essere risolti nel senso che l'accesso, finalizzato per la cura o la difesa di propri interessi legittimi, prevale rispetto all'esigenza della riservatezza, nei limiti però in cui esso è necessario alla difesa di un interesse giuridicamente rilevante.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit5">
+					<num>Titolo V</num>
+					<articolo id="art15">
+						<num>Art. 15</num>
+						<rubrica>Pubblicità dei documenti di interesse generale</rubrica>
+						<comma id="art15-com1">
+							<num>1.</num>
+							<corpo>
+								Il Consiglio Nazionale delle Ricerche garantisce ai sensi dell'
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art8" xlink:type="simple">art. 8 del D.P.R. n.184</rif>
+								, la pubblicazione dei documenti di interesse generale sul sito internet URP all'indirizzo
+								<h:a xlink:href="http://www.urp.cnr.it" xlink:type="simple">http://www.urp.cnr.it</h:a>
+								(area Ente) ed in altri luoghi interni accessibili a tutti. L'URP inoltre assicurerà la consultazione dei documenti di interesse generale attraverso adeguate e semplificate tecniche di ricerca dei documenti, anche con la predisposizione di indici e la indicazione dei luoghi di consultazione.
+							</corpo>
+						</comma>
+						<comma id="art15-com2">
+							<num>2.</num>
+							<corpo>
+								Al fine di assicurare la trasparenza dell'azione amministrativa ed in attuazione dell'
+								<rif xlink:href="urn:nir:stato:legge:1990;241#art26" xlink:type="simple">art.26 della Legge n. 241/90</rif>
+								e della
+								<rif xlink:href="urn:nir:stato:legge:2006-12-27;296" xlink:type="simple">Legge 27 dicembre 2006, n. 296</rif>
+								, dovranno essere trasmessi all'URP i documenti che i servizi/uffici del CNR sono tenuti a pubblicare.
+							</corpo>
+						</comma>
+						<comma id="art15-com3">
+							<num>3.</num>
+							<corpo>
+								Gli uffici/servizi dovranno provvedere alla redazione di tali documenti nel rispetto delle disposizioni previste dal
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1993;196" xlink:type="simple">D. Lgs. 196/93</rif>
+								in materia di tutela dei dati personali ed, in particolare, i provvedimenti conclusivi di un procedimento amministrativo e, comunque, tutti gli atti aventi interesse di carattere generale non dovranno contenere dati sensibili o giudiziari al fine di poter ottemperare a tutti gli obblighi di pubblicità previsti dalle normative richiamate.
+							</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+			</articolato>
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL DIRETTORE GENERALE
+					<h:br />
+					(Dott. Angelo Guerrini)
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

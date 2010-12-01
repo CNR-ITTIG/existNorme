@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20090520" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-05-20;95" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20090520" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20090520">20 maggio 2009</dataDoc>
+				, n.
+				<numDoc>95</numDoc>
+				<titoloDoc>Linee guida attivazione e proroghe comandi: indicatori e criteri generali</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 20 maggio 2009, ha adottato all'unanimità la seguente deliberazione n. 95/2009 - Verb. 104</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica italiana n. 124 del 30.5.2005;
+					</h:p>
+					<h:p>
+						VISTO in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art49" xlink:type="simple">art. 49 del suddetto Regolamento di organizzazione e funzionamento</rif>
+						concernente le collaborazioni, nelle attività di ricerca, del CNR con altri soggetti;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">Regolamento del personale del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">decreto del Presidente prot. n. 25035 in data 4 maggio 2005</rif>
+						, pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica italiana n. 124 del 30.5.2005;
+					</h:p>
+					<h:p>
+						VISTO in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art21" xlink:type="simple">art.21 del suddetto Regolamento del personale</rif>
+						concernente la mobilità del personale CNR con le Università;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:1957;3" xlink:type="simple">Decreto del Presidente della Repubblica n. 3 del 1957</rif>
+						(Testo Unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato) e, in particolare gli
+						<mrif>
+							artt.
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1957;3#art56" xlink:type="simple">56</rif>
+							e
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1957;3#art57" xlink:type="simple">57</rif>
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:1975-03-20;70" xlink:type="simple">legge 20 marzo 1975 n. 70</rif>
+						e, in particolare, l'
+						<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art40" xlink:type="simple">art. 40</rif>
+						che dispone in merito al personale comandato degli Enti di ricerca;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">Decreto Legislativo n. 165 del 30 marzo 2001</rif>
+						e successive modificazioni ed integrazioni;
+					</h:p>
+					<h:p>
+						VISTO in particolare l'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art30" xlink:type="simple">art. 30 del suddetto decreto legislativo n. 165/2001</rif>
+						, in merito al passaggio diretto di personale tra amministrazioni diverse;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:1999-10-14;349" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 349 del 14 ottobre 1999</rif>
+						avente ad oggetto "Comandi di personale - Direttiva";
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:presidente.consiglio.ministri:circolare:2006-04-26;2" xlink:type="simple">circolare n. 2 del 26 aprile 2006</rif>
+						della Presidenza del Consiglio dei Ministri - Dipartimento della Funzione Pubblica - titolata "Procedure di mobilità - personale in posizione di utilizzo temporaneo" con la quale è stato evidenziato che le amministrazioni presso le quali i dipendenti sono in posizione di comando o fuori ruolo hanno l'opportunità e il dovere di attivare le procedure di mobilità volontaria;
+					</h:p>
+					<h:p>TENUTO CONTO del carattere di eccezionalità e di delimitazione temporale dell'istituto del comando;</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007;126" xlink:type="simple">delibera n. 126/2007</rif>
+						adottata dal CdA nella riunione dell'11 luglio 2007 con la quale, al punto 1, è dato mandato al Direttore Generale f.f., in ottemperanza alla succitata Direttiva della Funzione Pubblica, di porre in essere ogni atto necessario alla valutazione della opportunità e congruità della permanenza dei comandi di personale da e verso il CNR, soprattutto per le posizioni protrattesi da più tempo;
+					</h:p>
+					<h:p>VISTA la puntuale ricognizione dei comandi in essere alla data del 14 aprile 2009, effettuata dall'Ufficio competente;</h:p>
+					<h:p>RITENUTO pertanto necessario individuare obiettivi indicatori quantitativi e qualitativi nonchè criteri generali di riferimento ai fini della proroga dei comandi in essere e dell'attivazione dei nuovi comandi da e per il CNR;</h:p>
+					<h:p>RITENUTO opportuno escludere dall'applicazione dei suddetti criteri i comandi su Convenzioni, attivati con soggetti terzi, in quanto tali rapporti di collaborazione vengono di norma attivati nell'interesse dell'Ente e in molti casi la relativa quota di partecipazione è rappresentata proprio dalla messa a disposizione di unità di personale comandato;</h:p>
+					<h:p>VISTA la relazione del Direttore Generale prot AMMCNT-CNR n.0039397 del 14 maggio 2009;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>1. di approvare, per l'attivazione dei comandi da e verso il CNR e per la proroga, gli indicatori e i criteri generali contenuti nel testo di cui all'allegato A che costituisce parte integrante della presente delibera.</h:p>
+				<h:p>2. I suddetti indicatori e criteri hanno validità dalla data della presente delibera.</h:p>
+				<h:p>3. Il Direttore Generale, entro il mese di aprile di ogni anno, presenta il quadro generale dei comandi in essere e i relativi costi.</h:p>
+				<h:p>
+					4. Il Direttore Generale è autorizzato a conferire i comandi nei seguenti casi:
+					<h:br />
+					a) comandi di durata inferiore ai 3 anni e senza oneri a carico del CNR;
+					<h:br />
+					b) comandi su Convenzioni già approvate dal Consiglio di Amministrazione.
+				</h:p>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL PRESIDENTE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95:allegato" />
+							</descrittori>
+<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato alla Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20090520">20 maggio 2009</dataDoc>
+				, n.
+				<numDoc>95</numDoc>
+				<titoloDoc>INDICATORI E CRITERI PER L'ATTIVAZIONE DI NUOVI COMANDI E PER LA PROROGA</titoloDoc>
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<contenitore id="con3" nome="">
+								<h:p>
+									<h:b>INDICATORI</h:b>
+								</h:p>
+								<h:p>1. durata massima del comando (3 anni, prorogabili di un ulteriore anno);</h:p>
+								<h:p>2. percentuale massima di personale in comando (in uscita e in entrata) rispetto al personale in servizio alla data di rilevazione pari al 1% (con esclusione dei comandi su Convenzioni);</h:p>
+								<h:p>3. tetto massimo di spesa (del budget destinato alla spesa di personale) peri comandi a carico dell'Ente (con esclusione dei comandi su convenzioni) pari al 1,5%;</h:p>
+								<h:p>4. esistenza di progetti in essere che giustifichino il comando da un punto di vista tecnico-scientifico;</h:p>
+								<h:p>5. esistenza di un equilibrio tra risorse da erogare (es. costo a carico dell'Ente dell'u.d.p. in comando) e risorse acquisibili (es. capacità di attrazione nell'Ente di nuove commesse e progetti attraverso l'utilizzo dell'u.d.p. in comando);</h:p>
+								<h:p>6. positive implicazioni per l'Ente da un punto di vista del rilievo intemazionale e del ritomo di immagine.</h:p>
+								<h:p>7. casi di comandi in uscita per u.d.p. interessate da processi di riorganizzazione, di razionalizzazione o appartenenti a qualifiche professionali per le quali è prevista una riduzione di organico;</h:p>
+								<h:p>8. casi di comandi in uscita per u.d.p. appartenenti a strutture per le quali non sussistono situazioni di carenza di personale specie del profilo corrispondente o comunque in grado di garantire la sostituzione (compresa la verifica del turnover per il periodo previsto dal comando);</h:p>
+								<h:p>9. casi di comandi in entrata in strutture interessate da grave carenza di personale, specie nel profilo corrispondente.</h:p>
+							</contenitore>
+							<contenitore id="con4" nome="">
+								<h:p>
+									<h:b>CRITERI GENERALI</h:b>
+								</h:p>
+								<h:p>1. Rispettati i primi tre indicatori soprariportati l'autorizzazione al comando potrà essere concessa anche in presenza di uno soltanto degli indicatori residui.</h:p>
+								<h:p>2. Eventuali deroghe all'adozione dei criteri in parola potranno essere concesse, per i comandi senza oneri per l'Ente, esclusivamente in casi eccezionali e a fronte di motivate, adeguate, richieste.</h:p>
+								<h:p>3. ll Dirigente/Direttore della struttura all'atto del rilascio del nulla osta al comando, si impegna a non richiedere unità di personale in sostituzione di quello uscente in comando.</h:p>
+								<h:p>
+									4. Nei casi di comandi in essere che superano il periodo (3 anni) stabilito dai criteri in argomento, sarà concesso un ulteriore anno e successivamente il personale in comando dovrà rientrare nell'amministrazione di appartenenza oppure il comando stesso dorrà essere mutato, ai sensi dell'
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art30" xlink:type="simple">art. 30 del D.Lgs. n. 165/2001</rif>
+									in prestazione di attività lavorativa a titolo definitivo per le Amministrazioni riceventi, con relativo inserimento in ruolo per effetto della mobilità.
+								</h:p>
+							</contenitore>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

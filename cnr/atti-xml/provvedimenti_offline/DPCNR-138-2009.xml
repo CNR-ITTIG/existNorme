@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="4/2009" tipo="BUCNR" />
+					<entratainvigore norm="20091223" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;89628" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-12-23;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-12-23;89628" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20091223" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;138" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Dipartimenti" />
+						<cnr:strutturaDestinataria valore="Dipartimento Identità Culturale" />
+						<cnr:tipoProvvedimento valore="Proroga del Direttore facente funzioni" />
+						<cnr:dipartimento valore="Identità Culturale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20091223">23 dicembre 2009</dataDoc>
+				, n.
+				<numDoc>138</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">89628</numDoc>
+				)
+				<titoloDoc>DIPARTIMENTO DI IDENTITÀ CULTURALE - Proroga del Direttore facente funzioni</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.Lgs, del 4 giugno 2003, n. 127</rif>
+						di "Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il vigente
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-10-08;203" xlink:type="simple">deliberazione del Consiglio di Amministrazione n. 203 dell'8 ottobre 2008</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTO il proprio
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-10-10;118" xlink:type="simple">provvedimento n. 118 del 10 ottobre 2008</rif>
+						di attribuzione dell'incarico di Direttore f.f. del Dipartimento Identità Culturale al Prof. Tullio Gregory;
+					</h:p>
+					<h:p>
+						VISTO il proprio
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-10-07;107" xlink:type="simple">provvedimento n. 107 del 7 ottobre 2009</rif>
+						di proroga dell'incarico stesso al 31 dicembre 2009;
+					</h:p>
+					<h:p>
+						CONSIDERATO che con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-08-05;159" xlink:type="simple">deliberazione n. 159 del 5 agosto 2009</rif>
+						il Consiglio di Amministrazione ha individuato la composizione della Commissione per la selezione del Direttore del Dipartimento Identità Culturale;
+					</h:p>
+					<h:p>CONSIDERATO che nella seduta del 16 dicembre 2009 il Consiglio di Amministrazione ha approvato gli atti della Commissione per la selezione del Direttore del Dipartimento Identità Culturale;</h:p>
+					<h:p>CONSIDERATA l'imminente scadenza dell'incarico conferito al Prof. Tullio Gregory;</h:p>
+					<h:p>RITENUTO di dover assicurare la continuità della gestione del Dipartimento Identità Culturale prorogando l'incarico dello stesso Prof. Tullio Gregory;</h:p>
+					<h:p>TENENDO CONTO della disponibilità dichiarata dall'interessato;</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="artunico">
+					<num>Articolo Unico</num>
+					<rubrica />
+					<comma id="artunico-com1">
+						<num />
+						<corpo>
+							Il termine del 31 dicembre 2009, fissato nel
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-10-07;109" xlink:type="simple">decreto del presidente del CNR del 7 ottobre 2009 provvedimento n. 109</rif>
+							, è prorogato, fermo il resto, fino alla nomina del Direttore di Dipartimento titolare e comunque non oltre il 31 gennaio 2010.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					Luciano Maiani
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

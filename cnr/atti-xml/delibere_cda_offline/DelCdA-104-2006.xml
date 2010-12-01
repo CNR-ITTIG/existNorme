@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20060614" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2006-06-14;104" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-06-14;104" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060614" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2006-06-14;104" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20060614">14 giugno 2006</dataDoc>
+				, n.
+				<numDoc>104</numDoc>
+				<titoloDoc>
+					Integrazione della
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005;150" xlink:type="simple">delibera del Consiglio di amministrazione n. 150/2005</rif>
+					in materia di estensione dell'istituto dell'associatura in base all'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art54-com2-leta" xlink:type="simple">articolo 54, comma 2, lettera a) del Regolamento di organizzazione e funzionamento del CNR</rif>
+					- Approvazione
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 14 giugno 2006, ha adottato all'unanimità la seguente deliberazione n. 104/2006 - Verb. 39</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche" ed in particolare l'
+						<mrif>
+							articolo 23,
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1" xlink:type="simple">comma 1</rif>
+							,
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com2" xlink:type="simple">2</rif>
+							e
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com4" xlink:type="simple">4</rif>
+							e
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, ed in particolare il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art54-com2" xlink:type="simple">comma 2 dell'articolo 54</rif>
+						(Disposizioni generali per l'aggregazione degli Enti di ricerca al CNR);
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035" xlink:type="simple">Regolamento del personale del Consiglio Nazionale delle Ricerche</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25035</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare l'art.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">17</rif>
+						che detta i principi che regolano l'istituto dell'associatura, gli articoli
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art22" xlink:type="simple">22</rif>
+						(Mobilità con gli istituti di ricovero e cura a carattere scientifico),
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art27" xlink:type="simple">27</rif>
+						(Obblighi del personale), che dettano disposizioni applicabili agli associati e l'articolo
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art31" xlink:type="simple">31</rif>
+						(Norme transitorie), che dispone la prosecuzione delle attività degli associati che operano presso le strutture di ricerca sulla base degli atti emanati nel previgente quadro regolamentare fino al 31 dicembre 2005;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-31;35" xlink:type="simple">decreto del Presidente CNR n. 35 del 31 maggio 2005</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;150" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 150/2005 del 9 novembre 2005</rif>
+						con la quale è stato approvato il disciplinare contenente i "Criteri generali per l'associazione ai sensi dell'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">articolo 17 del Regolamento del personale</rif>
+						";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-03-01;17932" xlink:type="simple">provvedimento del Direttore Generale n. 0017932 del 1 marzo 2006</rif>
+						, relativo alla costituzione del Gruppo di lavoro sulla "Problematiche amministrativo gestionale derivanti dalla confluenza INFM - INOA nel CNR";
+					</h:p>
+					<h:p>VISTA la nota del direttore generale prot. AMMCNT del 14 giugno 2006 n.44769 con la quale il Direttore generale sulla base degli approfondimenti fatti dal Gruppo di lavoro, si propone di estendere l'Istituto dell'associatura alle seguenti figure operanti presso l'Università: titolari di borse di studio post-doc, titolari di assegni di ricerca, dottorandi di ricerca, titolari di borse per le scuole di specializzazione, tecnici laureati che svolgono attività di ricerca nei dipartimenti universitari;</h:p>
+					<h:p>PRESO ATTO che nella stessa nota il Direttore generale evidenzia l'interesse del CNR alla integrazione sottolineando in particolare la possibilità, previo inserimento di apposite clausole negli strumenti convenzionali, di rendicontare le attività di questi soggetti nei progetti CNR affidati da terzi;</h:p>
+					<h:p>PRESO ATTO altresì dell'esigenza richiamata dal Direttore generale di ulteriori approfondimenti tecnici per realizzare tali modifiche;</h:p>
+					<h:p>RITENUTO opportuno far precedere la decisione definitiva da un confronto con le OO.SS.;</h:p>
+					<h:p>RAVVISATA l'opportunità di integrare in tal senso il disciplinare;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>- è dato mandato al Presidente di approvare con proprio decreto e previo espletamento delle opportune verifiche da parte del direttore generale e dopo aver esperito i confronti con le OO.SS., le integrazioni al disciplinare per l'estensione dell'associatura ai seguenti soggetti che operano presso le Università su progetti inseriti nella programmazione del CNR:</h:p>
+				<h:p>a) titolari di borse di studio post-doc;</h:p>
+				<h:p>b) titolari di assegni di ricerca;</h:p>
+				<h:p>c) dottorandi di ricerca;</h:p>
+				<h:p>d) titolari di borse per le scuole di specializzazione;</h:p>
+				<h:p>e) tecnici laureati che svolgono attività di ricerca nei dipartimenti universitari.</h:p>
+			</contenitore>
+			<conclusione>
+				<firma tipo="sottoscrizione">Il Presidente</firma>
+				<firma tipo="sottoscrizione">Il Segretario</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

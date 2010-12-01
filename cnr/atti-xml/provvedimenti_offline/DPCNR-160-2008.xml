@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="4/2008" tipo="BUCNR" />
+					<entratainvigore norm="20081204" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;160" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;91845" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-12-04;160" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-12-04;91845" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20081204" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;160" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="ITTIG - Istituto di Teoria e Tecniche dell'Informazione Giuridica" />
+						<cnr:tipoProvvedimento valore="nomina direttore" />
+						<cnr:dipartimento valore="Identità Culturale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20081204">4 dicembre 2008</dataDoc>
+				, n.
+				<numDoc>160</numDoc>
+				(Prot. n.
+				<numDoc nome="protocollo">91845</numDoc>
+				)
+				<titoloDoc>ISTITUTO DI TEORIA E TECNICHE DELL'INFORMAZIONE GIURIDICA (ITTIG) - Nomina del Direttore facente funzioni</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D. Lgs. n. 127 in data 4 giugno 2003</rif>
+						recante "Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel supplemento ordinario n. 101 della Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art28-com4" xlink:type="simple">art. 28 comma 4</rif>
+						, in cui è stabilito che in caso di revoca del Direttore di Istituto e in attesa del compimento della selezione pubblica di cui all'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art27" xlink:type="simple">art. 27</rif>
+						del citato regolamento, le funzioni di Direttore sono svolte da un facente funzioni nominato dal Presidente;
+					</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-10-08;207" xlink:type="simple">deliberazione del Consiglio di Amministrazione n. 207 in data 8 ottobre 2008</rif>
+						con la quale si dispone che gli effetti di cessazione dell'incarico di direzione di Istituto al 30 novembre 2008, previsto dalla
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:2008-07-30;187" xlink:type="simple">delibera n. 187 del 30 luglio 2008</rif>
+						, si applicano esclusivamente nei casi in cui risulti superato il limite di età previsto dall'
+						<rif xlink:href="urn:nir:stato:decreto.legge:2006-07-04;233#art33" xlink:type="simple">art. 33 del DL. 4 luglio 2006, n. 233</rif>
+						convertito con modificazioni della
+						<rif xlink:href="urn:nir:stato:legge:2006-08-04;248" xlink:type="simple">L. 4 agosto 2006, n. 248</rif>
+						, richiamato nella propria precedente
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:2008;6" xlink:type="simple">delibera n. 6/2008</rif>
+						;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" xlink:type="simple">D.P.CNR n. 015998 in data 12 ottobre 2001</rif>
+						, relativo alla costituzione dell'Istituto di Teoria e Tecniche dell'Informazione Giuridica (ITTIG) - Firenze;
+					</h:p>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2002-05-14;16250" xlink:type="simple">D.P.CNR n. 016250 in data 14 maggio 2002</rif>
+						, relativo alla nomina del Prof. Nicola PALAZZOLO, quale Direttore dell'Istituto di Teoria e Tecniche dell'Informazione Giuridica (ITTIG) - Firenze;
+					</h:p>
+					<h:p>Considerato che il Prof. Nicola PALAZZOLO cesserà dall'incarico di direzione a decorrere dal 1° dicembre 2008, per raggiunti limiti di età, secondo quanto sopra riportato e che pertanto occorre provvedere alla nomina di un nuovo Direttore, conseguente all'espletamento della apposita procedura concorsuale;</h:p>
+					<h:p>Valutata l'opportunità che il Direttore ff. sia individuato tra il personale in servizio presso l'Istituto in argomento con la qualifica più elevata in posizione e con la maggiore anzianità nel livello e, a parità di anzianità di servizio nel livello, di maggiore anzianità anagrafica, previa verifica per il tramite del Direttore del Dipartimento, che il nominativo così individuato offre la più ampia garanzia di continuità delle linee di attività dell'Istituto così come impostate dal Direttore uscente;</h:p>
+					<h:p>Considerato che i requisiti suesposti corrispondono al nominativo del Dott. Costantino CIAMPI, Dirigente di ricerca dell'Istituto di cui trattasi;</h:p>
+					<h:p>Visto il curriculum vitae del Dott. Costantino CIAMPI;</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;151" xlink:type="simple">deliberazione del Consiglio di Amministrazione n. 151/2005 in data 9 novembre 2005</rif>
+						con la quale è stata determinata, in via transitoria, l'indennità di funzione annuale per i direttori di istituto prevista dall'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art28-com4" xlink:type="simple">art. 28 punto 7 del citato Regolamento di organizzazione e funzionamento</rif>
+						;
+					</h:p>
+					<h:p>Ravvisata la necessità di provvedere;</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+				<contenitore id="con1" nome="">
+					<h:p>
+						Il Dott. Costantino CIAMPI, Dirigente di ricerca, è nominato Direttore f.f. dell'Istituto di Teoria e Tecniche dell'Informazione Giuridica (ITTIG) - Firenze, a decorrere dal 1° dicembre 2008 e fino alla nomina del Direttore dell'Istituto medesimo conseguente all'espletamento della prevista procedura concorsuale e comunque non oltre il limite temporale di cui all'
+						<rif xlink:href="urn:nir:stato:decreto.legge:2006-07-04;233#art33" xlink:type="simple">art. 33 del DL. 4 luglio 2006, n. 223</rif>
+						convertito con modificazioni dalla
+						<rif xlink:href="urn:nir:stato:legge:2006-08-04;248" xlink:type="simple">L. 4 agosto 2006, n. 248</rif>
+						.
+					</h:p>
+					<h:p>Per il predetto periodo al Dott. Costantino CIAMPI è attribuita una indennità di funzione annuale, al lordo delle ritenute di legge, pari ad € 20.658,28=.</h:p>
+					<h:p>Il Direttore facente funzioni deve ottemperare a quanto stabilito dalle norme e dai Regolamenti CNR.</h:p>
+				</contenitore>
+			</formulainiziale>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					(Prof. Luciano MAIANI)
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20060503" num="101" tipo="GU" />
+					<entratainvigore norm="20050504" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-04-04;nir-1" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050504" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20050504" fonte="haa1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20060404">4 aprile 2006</dataDoc>
+				<titoloDoc>
+					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						Visto l'
+						<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
+						, e successive modificazioni e integrazioni, concernente incentivi da ripartire tra il personale dipendente titolare di particolari incarichi in relazione alla realizzazione di opere e lavori;
+					</h:p>
+					<h:p>
+						Visto l'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127#art19" xlink:type="simple">art. 19 del decreto legislativo n. 127/2003</rif>
+						che prevede che i regolamenti interni dell'ente disciplinanti specifiche materie vengano adottati in coerenza con le procedure e modalità di cui all'
+						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">art. 8 della legge 9 maggio 1989, n. 168</rif>
+						;
+					</h:p>
+					<h:p>Vista la delibera del Consiglio di amministrazione n. 116 in data 13 luglio 2005 mediante la quale, dopo apposita contrattazione integrativa con le organizzazioni sindacali, è stato approvato il regolamento relativo a modalità e criteri di ripartizione degli incentivi in argomento;</h:p>
+					<h:p>
+						Vista la nota n. 11 del 4 gennaio 2006 con la quale il Ministero dell'università e della ricerca scientifica ha approvato il predetto regolamento , ai sensi del citato
+						<rif xlink:href="urn:nir:stato:legge:1989;168#art8" xlink:type="simple">art. 8 della legge n. 168/1989</rif>
+						, e che tale disposizione ha rilevato che occorre provvedere all'emanazione dello stesso ed alla sua pubblicazione nella Gazzetta Ufficiale;
+					</h:p>
+				</preambolo>
+				<h:p>EMANA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>
+					- l'unito
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" xlink:type="simple">regolamento concernente le modalità e i criteri di ripartizione degli incentivi di cui all'articolo 18 della legge 11 febbraio 1994, n. 109</rif>
+					(legge quadro in materia di lavori pubblici).
+				</h:p>
+			</contenitore>
+			<formulafinale>
+				Il presente decreto sarà pubblicato nella Gazzetta Ufficiale della Repubblica italiana ai sensi dell'
+				<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">art. 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
+				.
+			</formulafinale>
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					(Prof. Fabio Pistella)
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>
