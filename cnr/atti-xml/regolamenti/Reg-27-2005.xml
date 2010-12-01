@@ -11,6 +11,8 @@
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;27:allegato" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;27:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;25035:allegato" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
