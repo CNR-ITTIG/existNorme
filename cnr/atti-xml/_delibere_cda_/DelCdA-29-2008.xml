@@ -7,8 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20080206" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-02-06;29" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -21,13 +20,13 @@
 						<evento data="20080206" fonte="ra6" id="t7" tipo="modifica" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-02-06;29" xlink:type="simple" />
-						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<attiva id="ra2" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<attiva id="ra3" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<attiva id="ra4" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<attiva id="ra5" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<attiva id="ra6" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra2" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra3" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra4" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra5" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra6" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -45,8 +44,8 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
 							<dsp:termine da="#t3" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art1" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art1" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:posizione>
 								<dsp:pos dove="dopo" xlink:href="#mod1-vir1" xlink:type="simple" />
@@ -61,8 +60,8 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
 							<dsp:termine da="#t4" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="1" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -77,8 +76,8 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
 							<dsp:termine da="#t6" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="1" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -98,8 +97,8 @@
 						<dsp:abrogazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
 							<dsp:termine da="#t7" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art14-com3" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14-com3" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:pos xlink:href="#mod4-vir1" xlink:type="simple" />
@@ -238,11 +237,11 @@
 					</h:p>
 					<h:p>
 						VISTO il "
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare concernente il conferimento di incarichi di collaborazione</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare concernente il conferimento di incarichi di collaborazione</rif>
 						" approvato con provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
 						e approvato a ratifica dal Consiglio di Amministrazione del CNR con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
 						verb. 71 del 28 novembre 2007;
 					</h:p>
 					<h:p>
@@ -259,7 +258,7 @@
 					</h:p>
 					<h:p>
 						CONSIDERATA la necessità di modificare il "
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
 						" al fine di rendere coerenti le disposizioni in esso contenute con le norme recate dalla
 						<rif xlink:href="urn:nir:stato:legge:2007;244" xlink:type="simple">legge 244/2007</rif>
 						(legge finanziaria 2008) e di consentire ai Centri di Responsabilità dell'Ente di conferire legittimamente gli incarichi di collaborazione;
@@ -275,11 +274,11 @@
 						<num />
 						<corpo>
 							Al "
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
 							" approvato coni provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
 							e approvato a ratifica dal Consiglio di Amministrazione del CNR con
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
 							verb. 71 del 28 novembre 2007 sono apportate le modifiche ed integrazioni di cui agli articoli seguenti.
 						</corpo>
 					</comma>
@@ -292,7 +291,7 @@
 						<corpo>
 							<mod id="mod1">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art1" xlink:type="simple">art. 1</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art1" xlink:type="simple">art. 1</rif>
 								dopo le parole "
 								<virgolette id="mod1-vir1" tipo="parola">di natura coordinata e continuativa che di natura occasionale (non abituale o professionale),</virgolette>
 								" sono aggiunte le seguenti: "
@@ -310,7 +309,7 @@
 						<corpo>
 							<mod id="mod2">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
 								è aggiunto il seguente comma:
 								<virgolette id="mod2-vir1" tipo="struttura">
 									<comma id="mod2-vir1-com1bis">
@@ -330,7 +329,7 @@
 						<corpo>
 							<mod id="mod3">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple">art. 14</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple">art. 14</rif>
 								il comma 1 viene sostituito dal seguente:
 								<virgolette id="mod3-vir1" tipo="struttura">
 									<comma id="mod3-vir1-com1">
@@ -354,7 +353,7 @@
 						<corpo>
 							<mod id="mod4">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art14-com3" xlink:type="simple">art. 14, comma 3</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14-com3" xlink:type="simple">art. 14, comma 3</rif>
 								le parole "
 								<virgolette id="mod4-vir1" tipo="parola">, per le parti compatibili,</virgolette>
 								" sono soppresse.
