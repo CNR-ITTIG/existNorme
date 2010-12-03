@@ -7,8 +7,8 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20090715" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.designazione.revoca.rappresentanti:2009-07-15;138" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;designazione.revoca.rappresentanti:2009-07-15;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138:allegato.2" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -16,8 +16,8 @@
 						<evento data="20090715" fonte="all1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disciplinare.designazione.revoca.rappresentanti:2009-07-15;138" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;designazione.revoca.rappresentanti:2009-07-15;138" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
