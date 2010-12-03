@@ -7,15 +7,16 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20071031" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-10-31;198" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20071031" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20071031" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -66,12 +67,13 @@
 					<h:p>PRESO ATTO del residuo di Euro 320.000,00, sullo stanziamento complessivo per l'anno 2007 ammontante ad Euro 700.000,00;</h:p>
 					<h:p>VISTI i nominativi indicati dai Direttori dei Dipartimenti per la composizione della Commissione di Esperti;</h:p>
 				</preambolo>
-				<h:p>DELIBERA</h:p></formulainiziale>
-				<contenitore id="con1" nome="">
-					<h:p>1. di dare mandato al Presidente di approvare con proprio decreto il Programma speciale Short-term mobility per l'anno 2008 con l'impiego del residuo di Euro 320.000,00;</h:p>
-					<h:p>2. di rinviare all'atto della predisposizione del bilancio di previsione 2008 l'assegnazione definitiva per il 2008;</h:p>
-					<h:p>3. di dare mandato al Presidente di nominare la Commissione di Esperti per la valutazione delle proposte di studio.</h:p>
-				</contenitore>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>1. di dare mandato al Presidente di approvare con proprio decreto il Programma speciale Short-term mobility per l'anno 2008 con l'impiego del residuo di Euro 320.000,00;</h:p>
+				<h:p>2. di rinviare all'atto della predisposizione del bilancio di previsione 2008 l'assegnazione definitiva per il 2008;</h:p>
+				<h:p>3. di dare mandato al Presidente di nominare la Commissione di Esperti per la valutazione delle proposte di studio.</h:p>
+			</contenitore>
 			<formulafinale />
 			<conclusione>
 				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
@@ -84,39 +86,41 @@
 					</testata>
 					<DocumentoNIR nome="">
 						<meta>
-				<descrittori>
-					<pubblicazione norm="" num="" tipo="" />
-					<entratainvigore norm="20071031" />
-					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" />
-				</descrittori>
-				<ciclodivita>
-					<eventi>
-						<evento data="20071031" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
-					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
-					</relazioni>
-				</ciclodivita>
-				<proprietario xlink:type="simple">
-					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
-						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
-						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
-						<cnr:tipoDestinatario valore="Presidenza" />
-						<cnr:tipoDestinatario valore="Organi di Ricerca" />
-						<cnr:strutturaDestinataria valore="tutti" />
-						<cnr:tipoProvvedimento valore="" />
-						<cnr:dipartimento valore="" />
-					</cnr:meta>
-				</proprietario>
-			</meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="20071031" />
+								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20071031" fonte="ro1" id="t3" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+									<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+									<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+									<cnr:tipoDestinatario valore="Presidenza" />
+									<cnr:tipoDestinatario valore="Organi di Ricerca" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
 						<intestazione>
 							<tipoDoc>Disciplinare</tipoDoc>
-				<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
-				, n.
-				<numDoc>198</numDoc>
-				<titoloDoc><rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif></titoloDoc>
+							<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
+							, n.
+							<numDoc>198</numDoc>
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif>
+							</titoloDoc>
 						</intestazione>
 						<contenitore id="con2" nome="corpo">
 							<h:p />
