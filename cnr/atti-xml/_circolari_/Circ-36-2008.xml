@@ -188,7 +188,7 @@
 					<testata>
 						<denAnnesso>Allegato 1</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="GU" />
@@ -227,7 +227,7 @@
 					<testata>
 						<denAnnesso>Allegato 2</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="GU" />
@@ -266,7 +266,7 @@
 					<testata>
 						<denAnnesso>Allegato 3</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="GU" />
@@ -309,7 +309,7 @@
 					<testata>
 						<denAnnesso>Allegato 4</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="GU" />

@@ -173,7 +173,7 @@
 					<testata>
 						<denAnnesso>Allegato</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="4/2007" tipo="BUCNR" />

@@ -285,7 +285,7 @@
 					<testata>
 						<denAnnesso>Integrazione alla Circolare</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="" />
@@ -308,7 +308,7 @@
 					<testata>
 						<denAnnesso />
 					</testata>
-					<DocumentoNIR nome="xxxxx">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="" />
