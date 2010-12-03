@@ -293,12 +293,12 @@
 					<h:p>- Vista, altresì, la Delibera di attuazione della G.A. nelle funzioni di Consiglio di Amministrazione del CNR n. 694.430.97 del 16 luglio 1997, nonché la circolare CNR n. 39/97 del 4 novembre 1997;</h:p>
 					<h:p>
 						- Visto il Regolamento per l'individuazione delle categorie di documenti, formati dal Consiglio Nazionale delle Ricerche (CNR) o comunque detenuti stabilmente dallo stesso, sottratti all'accesso -
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;184" xlink:type="simple">deliberazione 1° luglio 1999 n.184</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;184" xlink:type="simple">deliberazione 1° luglio 1999 n.184</rif>
 						;
 					</h:p>
 					<h:p>
 						- Viste le Disposizioni attinenti alla organizzazione del diritto d'accesso ai documenti amministrativi di pertinenza del Consiglio Nazionale delle Ricerche (CNR) -
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;185" xlink:type="simple">deliberazione 1° luglio 1999 n. 185</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;185" xlink:type="simple">deliberazione 1° luglio 1999 n. 185</rif>
 						;
 					</h:p>
 					<h:p>
@@ -551,7 +551,7 @@
 											<num>4.</num>
 											<corpo>
 												Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
-												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;185#art11" xlink:type="simple">art. 11 della deliberazione del CNR 1 luglio 1999 n. 185</rif>
+												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;185#art11" xlink:type="simple">art. 11 della deliberazione del CNR 1 luglio 1999 n. 185</rif>
 												citata nelle premesse
 											</corpo>
 										</comma>
@@ -601,7 +601,7 @@
 											<num>3.</num>
 											<corpo>
 												Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
-												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:delibera:1999-07-01;184#art2" xlink:type="simple">art. 2 della deliberazione CNR 1 luglio 1999 n. 184</rif>
+												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;184#art2" xlink:type="simple">art. 2 della deliberazione CNR 1 luglio 1999 n. 184</rif>
 												citata nelle premesse
 											</corpo>
 										</comma>
