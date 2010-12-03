@@ -523,61 +523,61 @@
 								</corpo>
 							</ep>
 						</en>
+						<contenitore id="con3" nome="">
+							<h:p>
+								<h:b>Il Programma Short-Term Mobility 2008 è consultabile:</h:b>
+							</h:p>
+							<h:ul>
+								<h:li>
+									<h:b>
+										Pagina WEB del CNR (
+										<h:a xlink:href="http://www.cnr.it" xlink:type="simple">www.cnr.it</h:a>
+										) voce Attività, "Attività internazionali, Programmi di mobilità"
+									</h:b>
+								</h:li>
+							</h:ul>
+							<contenitore id="con4" nome="">
+								<h:p>
+									<h:b>Per informazioni e invio della documentazione per e-mail:</h:b>
+								</h:p>
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>
+												<h:b>Personale CNR</h:b>
+											</h:td>
+											<h:td>
+												<h:b>
+													<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">antonella.porretti@cnr.it</h:a>
+												</h:b>
+											</h:td>
+											<h:td>
+												<h:b>Tel. 06/4993.3116</h:b>
+												<h:br />
+												<h:b>Fax 06/4993.2905</h:b>
+											</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>
+												<h:b>Personale Universitario associato e visitatori stranieri</h:b>
+											</h:td>
+											<h:td>
+												<h:b>
+													<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">rita.carbonetti@cnr.it</h:a>
+												</h:b>
+											</h:td>
+											<h:td>
+												<h:b>Tel. 06/4993.2960</h:b>
+												<h:br />
+												<h:b>Fax 06/4993.2905</h:b>
+											</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</contenitore>
+						</contenitore>
 					</comma>
 				</articolo>
-				<contenitore id="con3" nome="">
-					<h:p>
-						<h:b>Il Programma Short-Term Mobility 2008 è consultabile:</h:b>
-					</h:p>
-					<h:ul>
-						<h:li>
-							<h:b>
-								Pagina WEB del CNR (
-								<h:a xlink:href="http://www.cnr.it" xlink:type="simple">www.cnr.it</h:a>
-								) voce Attività, "Attività internazionali, Programmi di mobilità"
-							</h:b>
-						</h:li>
-					</h:ul>
-					<contenitore id="con4" nome="">
-						<h:p>
-							<h:b>Per informazioni e invio della documentazione per e-mail:</h:b>
-						</h:p>
-						<h:table>
-							<h:tbody>
-								<h:tr>
-									<h:td>
-										<h:b>Personale CNR</h:b>
-									</h:td>
-									<h:td>
-										<h:b>
-											<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">antonella.porretti@cnr.it</h:a>
-										</h:b>
-									</h:td>
-									<h:td>
-										<h:b>Tel. 06/4993.3116</h:b>
-										<h:br />
-										<h:b>Fax 06/4993.2905</h:b>
-									</h:td>
-								</h:tr>
-								<h:tr>
-									<h:td>
-										<h:b>Personale Universitario associato e visitatori stranieri</h:b>
-									</h:td>
-									<h:td>
-										<h:b>
-											<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">rita.carbonetti@cnr.it</h:a>
-										</h:b>
-									</h:td>
-									<h:td>
-										<h:b>Tel. 06/4993.2960</h:b>
-										<h:br />
-										<h:b>Fax 06/4993.2905</h:b>
-									</h:td>
-								</h:tr>
-							</h:tbody>
-						</h:table>
-					</contenitore>
-				</contenitore>
 			</articolato>
 			<annessi>
 				<annesso id="ann1">
