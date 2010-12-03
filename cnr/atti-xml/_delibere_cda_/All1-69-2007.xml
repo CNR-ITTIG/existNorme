@@ -9,7 +9,7 @@
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
 					<urn finevigore="t3" iniziovigore="t1" valore="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-04-17;69" />
 					<urn iniziovigore="t3" valore="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-04-17;69@2007-10-17" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69:allegato.1" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -18,9 +18,9 @@
 						<evento data="20071017" fonte="rp1" id="t3" tipo="modifica" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-04-17;69" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -39,8 +39,8 @@
 					<modifichepassive>
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#??" xlink:type="simple" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="deliberazione Consiglio Nazionale delle Ricerche 17 ottobre 2007, n. 178" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -54,8 +54,8 @@
 						</dsp:sostituzione>
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#??" xlink:type="simple" />
-							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-17;178" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="deliberazione Consiglio Nazionale delle Ricerche 17 ottobre 2007, n. 178" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>

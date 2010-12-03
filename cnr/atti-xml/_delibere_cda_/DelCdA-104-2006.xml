@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20060614" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2006-06-14;104" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2006-06-14;104" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-06-14;104" />
 				</descrittori>
 				<ciclodivita>
@@ -15,7 +15,7 @@
 						<evento data="20060614" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2006-06-14;104" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2006-06-14;104" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -37,7 +37,7 @@
 				<numDoc>104</numDoc>
 				<titoloDoc>
 					Integrazione della
-					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005;150" xlink:type="simple">delibera del Consiglio di amministrazione n. 150/2005</rif>
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005;150" xlink:type="simple">delibera del Consiglio di amministrazione n. 150/2005</rif>
 					in materia di estensione dell'istituto dell'associatura in base all'
 					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art54-com2-leta" xlink:type="simple">articolo 54, comma 2, lettera a) del Regolamento di organizzazione e funzionamento del CNR</rif>
 					- Approvazione
@@ -94,7 +94,7 @@
 					</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;150" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 150/2005 del 9 novembre 2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 150/2005 del 9 novembre 2005</rif>
 						con la quale è stato approvato il disciplinare contenente i "Criteri generali per l'associazione ai sensi dell'
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">articolo 17 del Regolamento del personale</rif>
 						";

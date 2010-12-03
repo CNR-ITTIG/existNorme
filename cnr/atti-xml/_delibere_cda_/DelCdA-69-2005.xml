@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20050608" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-06-08;69" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;69" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-08;69" />
 				</descrittori>
 				<ciclodivita>
@@ -15,7 +15,7 @@
 						<evento data="20050608" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-06-08;69" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;69" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -55,7 +55,7 @@
 					</h:p>
 					<h:p>
 						- vista la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-06;116" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 116/2000 del 6 aprile 2000</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000-04-06;116" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 116/2000 del 6 aprile 2000</rif>
 						con la quale si provvedeva all'individuazione degli uffici di diretta collaborazione e alla costituzione del Dipartimento per le Attività Scientifiche e Tecnologiche, del Dipartimento per le Attività Internazionali e del Dipartimento per i Servizi Tecnici e di Supporto ai sensi degli
 						<mrif>
 							articoli
@@ -100,12 +100,12 @@
 					<h:p>- considerata l'esigenza di dare avvio alla riorganizzazione iniziando con l'istituzione delle Direzioni centrali anche al fine di rendere coerente l'assetto organizzativo previsto dal decreto di riordino, come precisato nel regolamento di organizzazione e funzionamento, con le principali strutture;</h:p>
 					<h:p>
 						- considerata in particolare l'esigenza di assicurare che non permangano strutture incompatibili con l'assetto organizzativo derivante dal nuovo quadro normativo tali da creare problemi applicativi e ravvisata conseguentemente l'inopportunità di individuare fra le strutture previgenti da confermare temporaneamente i dipartimenti costituiti con la citata
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000;116" xlink:type="simple">deliberazione n. 116/2000</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000;116" xlink:type="simple">deliberazione n. 116/2000</rif>
 						;
 					</h:p>
 					<h:p>
 						- vista la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005;68" xlink:type="simple">deliberazione n. 68/2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005;68" xlink:type="simple">deliberazione n. 68/2005</rif>
 						assunta in data odierna con la quale il Dott. Angelo Guerrini, già Direttore Generale f.f., è stato nominato Direttore Generale del CNR sulla base del nuovo regolamento di organizzazione e funzionamento;
 					</h:p>
 					<h:p>
@@ -127,7 +127,7 @@
 					</h:p>
 					<h:p>
 						- vista la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-04-06;39" xlink:type="simple">deliberazione n. 39/2005 del 6 aprile 2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-04-06;39" xlink:type="simple">deliberazione n. 39/2005 del 6 aprile 2005</rif>
 						con la quale è stato approvato il titolario per la classificazione degli atti dando, contestualmente, mandato al Presidente di istituire con proprio decreto il servizio per la gestione informatica dei documenti, dei flussi documentali e degli archivi ai sensi dell'
 						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art61" xlink:type="simple">art. 61 del DPR 445/2000</rif>
 						e ravvisata l'esigenza di collocare un apposito ufficio di coordinamento presso la direzione generale;

@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20051109" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;150" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-09;150" />
 				</descrittori>
 				<ciclodivita>
@@ -15,7 +15,7 @@
 						<evento data="20051109" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;150" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -94,7 +94,7 @@
 						VISTO il
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-31;35" xlink:type="simple">decreto del Presidente provv. n.35 del 31 maggio 2005</rif>
 						, ratificato dal Consiglio di amministrazione con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-06-08;65" xlink:type="simple">delibera n.65 del 8 giugno 2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;65" xlink:type="simple">delibera n.65 del 8 giugno 2005</rif>
 						che, tra l'altro, istituisce in via transitoria tre Centri di Responsabilità scientifica di primo livello uno per ciascun Ente accorpato e nomina i relativi responsabili;
 					</h:p>
 					<h:p>
@@ -103,9 +103,9 @@
 						e
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-30;50" xlink:type="simple">50</rif>
 						del 30 giugno 2005, ratificati dal Consiglio di Amministrazione rispettivamente con le deliberazioni nn.
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-07-13;88" xlink:type="simple">88</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-13;88" xlink:type="simple">88</rif>
 						e
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-07-13;89" xlink:type="simple">89</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-13;89" xlink:type="simple">89</rif>
 						del 13 luglio 2005 con i quali è stata disposta la transitoria configurazione di due istituti sperimentali quali Centri di responsabilità scientifica di primo livello e sono stati nominati i relativi responsabili;
 					</h:p>
 					<h:p>CONSIDERATO che nelle more del processo di riorganizzazione i Responsabili dei Centri di responsabilità di attività scientifica di primo livello, di cui ai provvedimenti richiamati, esercitano le funzioni corrispondenti a quelle dei direttori di istituto;</h:p>

@@ -7,15 +7,14 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20090715" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-07-15;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20090715" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -62,14 +61,14 @@
 					</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione n. 128/2000 del 13 aprile 2000</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione n. 128/2000 del 13 aprile 2000</rif>
 						, con la quale il Consiglio direttivo del CNR ha definito criteri generali per la nomina di rappresentanti CNR presso altre istituzioni, e le iniziative comuni, partecipate dal CNR, ad altri soggetti pubblici e privati;
 					</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005;70" xlink:type="simple">deliberazione n. 70/2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005;70" xlink:type="simple">deliberazione n. 70/2005</rif>
 						- Verb. 20 del 8 giugno 2005, con cui il Consiglio di Amministrazione ha stabilito l'applicazione, in via temporanea e comunque non oltre il 31 dicembre 2005, dei criteri generali per la nomina di rappresentanti CNR presso altre istituzioni, e le iniziative comuni, partecipate dal CNR, ad altri soggetti pubblici e privati, stabiliti dalla
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000 del 13 aprile 2000</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000 del 13 aprile 2000</rif>
 						;
 					</h:p>
 					<h:p>
@@ -81,7 +80,7 @@
 					</h:p>
 					<h:p>
 						CONSIDERATO che, per assicurare la continuità dell'azione amministrativa, l'Ente ha continuato ad applicare, nelle more della definizione dei nuovi indirizzi, i criteri per la nomina di rappresentanti CNR presso altre istituzioni, e le iniziative comuni ad altri soggetti, pubblici e privati, previsti dalla
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000-04-13;128" xlink:type="simple">deliberazione del Consiglio Direttivo n. 128/2000</rif>
 						;
 					</h:p>
 					<h:p>CONSIDERATO che i Direttori di dipartimento si sono insediati nel mese di aprile 2006 (fatta eccezione per il Direttore del Dipartimento Scienze della Vita che si è insediato nel mese di ottobre 2006) e che, nel primo anno di attività, sono stati coinvolti nel processo di formulazione del Piano Triennale, in particolare nella predisposizione, previa concertazione nell'ambito del Comitato dei Direttori di Dipartimento, di una proposta programmatica complessiva dei progetti attraverso i quali intendono sviluppare i loro programmi e delle correlate commesse;</h:p>
@@ -151,10 +150,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20090715" />
 								<redazione id="red2" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.1" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138:allegato.1" />
 							</descrittori>
 <proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
@@ -187,10 +186,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20090715" />
 								<redazione id="red3" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138:allegato.2" />
 							</descrittori>
 <proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
@@ -210,7 +209,7 @@
 				, n.
 				<numDoc>138</numDoc>
 				<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-07-15;138:allegato.2" xlink:type="simple">DISCIPLINARE PER LA NOMINA, LA DESIGNAZIONE E LA REVOCA DEI RAPPRESENTANTI DEL CONSIGLIO NAZIONALE DELLE RICERCHE PRESSO ALTRE ISTITUZIONI E INIZIATIVE COMUNI CON ALTRI SOGGETTI, PUBBLICI E PRIVATI, PARTECIPATE DAL CNR (CONSORZI, FONDAZIONI, SOCIETA, ECC.).</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-07-15;138:allegato.2" xlink:type="simple">DISCIPLINARE PER LA NOMINA, LA DESIGNAZIONE E LA REVOCA DEI RAPPRESENTANTI DEL CONSIGLIO NAZIONALE DELLE RICERCHE PRESSO ALTRE ISTITUZIONI E INIZIATIVE COMUNI CON ALTRI SOGGETTI, PUBBLICI E PRIVATI, PARTECIPATE DAL CNR (CONSORZI, FONDAZIONI, SOCIETA, ECC.).</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con3" nome="corpo">

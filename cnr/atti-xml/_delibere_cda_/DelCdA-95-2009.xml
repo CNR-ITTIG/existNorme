@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20090520" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-05-20;95" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-05-20;95" />
 				</descrittori>
 				<ciclodivita>
@@ -15,7 +15,7 @@
 						<evento data="20090520" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-05-20;95" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -101,7 +101,7 @@
 					</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:1999-10-14;349" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 349 del 14 ottobre 1999</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-10-14;349" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 349 del 14 ottobre 1999</rif>
 						avente ad oggetto "Comandi di personale - Direttiva";
 					</h:p>
 					<h:p>
@@ -112,7 +112,7 @@
 					<h:p>TENUTO CONTO del carattere di eccezionalità e di delimitazione temporale dell'istituto del comando;</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007;126" xlink:type="simple">delibera n. 126/2007</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007;126" xlink:type="simple">delibera n. 126/2007</rif>
 						adottata dal CdA nella riunione dell'11 luglio 2007 con la quale, al punto 1, è dato mandato al Direttore Generale f.f., in ottemperanza alla succitata Direttiva della Funzione Pubblica, di porre in essere ogni atto necessario alla valutazione della opportunità e congruità della permanenza dei comandi di personale da e verso il CNR, soprattutto per le posizioni protrattesi da più tempo;
 					</h:p>
 					<h:p>VISTA la puntuale ricognizione dei comandi in essere alla data del 14 aprile 2009, effettuata dall'Ufficio competente;</h:p>
@@ -150,7 +150,7 @@
 								<pubblicazione norm="" num="" tipo="GU" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2009-05-20;95:allegato" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-05-20;95:allegato" />
 							</descrittori>
 <proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">

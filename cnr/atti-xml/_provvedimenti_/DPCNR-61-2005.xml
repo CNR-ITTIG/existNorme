@@ -85,7 +85,7 @@
 					</h:p>
 					<h:p>
 						- vista la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-07-27;108" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 108/2005 del 27 luglio 2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-27;108" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 108/2005 del 27 luglio 2005</rif>
 						di istituzione dei dipartimenti e le motivazioni che si intendono qui integralmente richiamate;
 					</h:p>
 					<h:p>- ravvisata la necessità di provvedere a ridefinire composizione e mandato dei Comitati ordinatori di supporto al Presidente per il completamento delle attività istruttorie con particolare riferimento alla definizione e all'aggiornamento delle proposte contenute nell'allegato al Piano triennale 2005-2007;</h:p>
@@ -395,7 +395,7 @@
 						<num>1.</num>
 						<corpo>
 							La direzione centrale supporto alla programmazione e alle infrastrutture provvede agli adempimenti relativi all'istituzione delle segreterie tecniche previste dal
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-07-27;108" xlink:type="simple">punto 2 della deliberazione del Consiglio di amministrazione n. 108/2005</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-27;108" xlink:type="simple">punto 2 della deliberazione del Consiglio di amministrazione n. 108/2005</rif>
 							e alla gestione degli aspetti amministrativi attinenti al funzionamento delle Commissioni e alla copertura finanziaria delle spese da sostenere.
 						</corpo>
 					</comma>

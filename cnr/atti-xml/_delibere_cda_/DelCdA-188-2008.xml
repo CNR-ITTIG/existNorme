@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20080730" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-07-30;188" />
 				</descrittori>
 				<ciclodivita>
@@ -16,8 +16,8 @@
 						<evento data="20080730" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188" xlink:type="simple" />
-						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -83,11 +83,11 @@
 						, ed all'
 						<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593#art11" xlink:type="simple">art. 11 del decreto del Ministero dell'Università e della Ricerca Scientifica e Tecnologica dell'8 agosto 2000 n. 593</rif>
 						", approvato dal Consiglio Direttivo del CNR con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2001-05-03;82" xlink:type="simple">deliberazione n. 82 del 3 maggio 2001</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2001-05-03;82" xlink:type="simple">deliberazione n. 82 del 3 maggio 2001</rif>
 						, successivamente modificato con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2002-04-18;160" xlink:type="simple">deliberazione n. 160 del 18 aprile 2002</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2002-04-18;160" xlink:type="simple">deliberazione n. 160 del 18 aprile 2002</rif>
 						e la cui applicazione è stata estesa con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2003-04-23;68" xlink:type="simple">deliberazione n. 68 del 23 aprile 2003</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2003-04-23;68" xlink:type="simple">deliberazione n. 68 del 23 aprile 2003</rif>
 						anche ai casi di partecipazione del personale di ricerca del CNR e del CNR stesso a imprese altamente innovative da costituire non ricadenti nell'ambito del
 						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;297" xlink:type="simple">D. Lgs. 297/99</rif>
 						e del
@@ -134,14 +134,14 @@
 								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20080730" />
 								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188:disciplinare" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
 									<evento data="20080730" fonte="ro1" id="t3" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
 							<proprietario xlink:type="simple">

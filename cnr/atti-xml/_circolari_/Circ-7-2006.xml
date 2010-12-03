@@ -56,7 +56,7 @@
 						Nel sito
 						<h:a xlink:href="https://albo.cnr.it/" xlink:type="simple">albo.cnr.it</h:a>
 						è pubblicata la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2005-11-09;150" xlink:type="simple">delibera del Consiglio di amministrazione n. 150/2005 in data 9 novembre 2005</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" xlink:type="simple">delibera del Consiglio di amministrazione n. 150/2005 in data 9 novembre 2005</rif>
 						relativa ai criteri generali per l'associazione ai sensi dell'
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">articolo 17 del Regolamento del personale</rif>
 						. Tali criteri sono contenuti nel disciplinare allegato alla delibera stessa, costituendone parte integrante.
@@ -106,7 +106,7 @@
 					</h:p>
 					<h:p>
 						Si fa presente infine che il disciplinare in argomento annulla e sostituisce quello sugli incarichi di ricerca e di collaborazione tecnica approvato dall'allora Consiglio Direttivo del CNR con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:1999;295" xlink:type="simple">deliberazione n. 295 in data 15 - 16 settembre 1999</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999;295" xlink:type="simple">deliberazione n. 295 in data 15 - 16 settembre 1999</rif>
 						, in quanto anch'esso relativo alla materia dell'associazione.
 					</h:p>
 					<h:p>Pertanto gli incarichi di ricerca e di collaborazione tecnica non sono più conferibili ai sensi di tale disciplinare.</h:p>

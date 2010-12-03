@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20070919" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-09-19;159" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-09-19;159" />
 				</descrittori>
 				<ciclodivita>
@@ -16,7 +16,7 @@
 						<evento data="20070919" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-09-19;159" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -61,7 +61,7 @@
 					</h:p>
 					<h:p>
 						VISTA la
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-07-30;149" xlink:type="simple">deliberazione del Consiglio di amministrazione del CNR del 30 luglio 2007 n. 149</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-07-30;149" xlink:type="simple">deliberazione del Consiglio di amministrazione del CNR del 30 luglio 2007 n. 149</rif>
 						con la quale il Prof. Federico Rossi è stato nominato Vice-Presidente del CNR;
 					</h:p>
 					<h:p>VISTA la nota del Ministero dell'Università e della Ricerca del 2 agosto 2007 prot. n. 103/SEGR.RIC con cui, preso atto della richiamata delibera del Consiglio di amministrazione del CNR di nomina del Vice-Presidente e delle dimissioni del Presidente, il Prof. Federico Rossi è stato invitato, a svolgere le funzioni di Presidente del Consiglio Nazionale delle Ricerche nelle more dell'espletamento e del completamento delle procedure per la nomina del nuovo Presidente;</h:p>
