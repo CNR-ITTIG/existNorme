@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
-	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
 		<DocumentoNIR nome="Disciplinare">
 			<meta>
@@ -7,17 +7,22 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20071231" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-10-31;198:disciplinare" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:allegato" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20071231" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
+				<redazionale xlink:type="simple">
+					<nota id="n1">
+						<h:p>Gli studiosi appartenenti alla categoria A4 sono equiparati al VI livello del ruolo del personale del CNR.</h:p>
+					</nota>
+				</redazionale>
 				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
 						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
@@ -37,13 +42,543 @@
 				<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
 				, n.
 				<numDoc>198</numDoc>
-				<titoloDoc>
-					<rif xlink:href="pdf/All_DelCdA_198-2007.pdf" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif>
-				</titoloDoc>
+				<titoloDoc>PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</titoloDoc>
 			</intestazione>
-			<contenitore id="con1" nome="">
-				<h:p />
-			</contenitore>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num />
+						<corpo>È istituito il presente Programma speciale volto a favorire la mobilità di breve durata di studiosi italiani e stranieri per lo svolgimento di progetti di ricerca scientifica di interesse del CNR. Il Programma va annoverato tra i progetti speciali di ricerca del CNR tendenti alla promozione della collaborazione scientifica tra Istituzioni pubbliche italiane/Università ed Istituti di ricerca stranieri di elevato livello, nell'interesse esclusivo della ricerca scientifica nel nostro Paese. Esso quindi non va inteso come contributo rivolto alla formazione dei ricercatori (come ad esempio sono gli assegni, le borse di studio, i corsi di perfezionamento/specializzazione) o destinato alla partecipazione di ricercatori e scienziati italiani a congressi, simposi e riunioni scientifiche.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num />
+						<alinea>Il programma ha due finalità:</alinea>
+						<en id="art1-com2-num1">
+							<num>1)</num>
+							<alinea>consentire brevi soggiorni (21 gg. ovvero 21 notti) di ricerca all'estero di:</alinea>
+							<ep id="art1-com2-num1-pun1">
+								<num>-</num>
+								<corpo>ricercatori e tecnologi del CNR;</corpo>
+							</ep>
+							<ep id="art1-com2-num1-pun2">
+								<num>-</num>
+								<corpo>
+									ricercatori e tecnologi di altre Istituzioni pubbliche scientifiche italiane, delle Università ed altri studiosi come da
+									<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+									;
+								</corpo>
+							</ep>
+						</en>
+						<en id="art1-com2-num2">
+							<num>2)</num>
+							<corpo>
+								consentire brevi visite (10 gg. ovvero 10 notti) di ricercatori stranieri di alta qualificazione
+								<h:b>presso Istituti CNR</h:b>
+								.
+							</corpo>
+						</en>
+						<coda>
+							<h:b>
+								Il 70% del budget del Programma à riservato ai ricercatori e tecnologi del CNR e agli stranieri ospitati presso Istituti del CNR, il restante 30% è riservato agli studiosi delle Università e di altre Istituzioni pubbliche italiane, associati alle attività di ricerca delle strutture scientifiche del CNR. (Cfr.
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">art.17 del Nuovo Regolamento del CNR</rif>
+								:
+								<h:a xlink:href="http://www.cnr.it" xlink:type="simple">www.cnr.it</h:a>
+								- Organizzazione - Regolamenti del CNR - Personale).
+							</h:b>
+						</coda>
+					</comma>
+					<comma id="art1-com3">
+						<num />
+						<corpo>Il Programma, favorendo la mobilità internazionale per periodi di breve durata, si propone di facilitare l'avvio, la prosecuzione o il completamento di programmi di ricerca in collaborazione o perfezionamento di tecniche altamente specialistiche, nell'intento di contribuire al rafforzamento della cooperazione scientifica internazionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Termini di presentazione e limiti di utilizzazione</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							<h:b>Le domande di partecipazione al Programma dovranno pervenire al:</h:b>
+							<h:br />
+							<h:br />
+							<h:b>Consiglio Nazionale delle Ricerche</h:b>
+							<h:br />
+							<h:b>Direzione Generale - Ufficio Paesi Industrializzati e Organismi Internazionali - Programma Short-Term Mobility</h:b>
+							<h:br />
+							<h:b>Piazzale Aldo Moro, 7</h:b>
+							<h:br />
+							<h:b>00185 Roma</h:b>
+							<h:br />
+							<h:br />
+							<h:b>secondo il calendario che segue:</h:b>
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>
+											<h:b>Periodi di soggiorno</h:b>
+										</h:td>
+										<h:td>
+											<h:b>Termine per la presentazione della domanda</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>dal 4 febbraio al 30 aprile 2008</h:b>
+										</h:td>
+										<h:td>
+											<h:b>7 dicembre 2007</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>dal 1° maggio al 1° agosto 2008</h:b>
+										</h:td>
+										<h:td>
+											<h:b>17 marzo 2008</h:b>
+										</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>
+											<h:b>dal 1° settembre al 19 dicembre 2008</h:b>
+										</h:td>
+										<h:td>
+											<h:b>6 giugno 2008</h:b>
+										</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+							<h:p>
+								<h:b>Per tutti gli studiosi, italiani e stranieri, interessati al Programma, i termini per la presentazione delle domande sono perentori; per la data di arrivo farà fede il timbro dell'Ufficio Accettazione del CNR.</h:b>
+							</h:p>
+							<h:p>
+								<h:b>Non saranno accettati spostamenti della data di inizio del soggiorno di ricerca salvo casi documentati e dettati da forza maggiore.</h:b>
+							</h:p>
+							<h:p>
+								<h:b>I soggiorni di ricerca in Italia e all'estero non potranno essere effettuati dal il 2 al 31 agosto 2008 e dal 20 al 31 dicembre 2008.</h:b>
+							</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Proponenti e Fruitori del Programma - modalità di partecipazione</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>Per poter accedere alla selezione, ciascuna candidatura deve essere presentata al CNR da un Proponente (Dirigente di ricerca o 1° Ricercatore del CNR; corrispondenti figure di Istituzioni pubbliche di ricerca; Professore di prima o di seconda fascia di Università italiane).</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num />
+						<alinea>
+							In base alle finalità del Programma di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+							del presente Disciplinare, le categorie professionali degli studiosi italiani e stranieri che possono presentare domanda di partecipazione sono:
+						</alinea>
+						<ep id="art3-com2-pun1">
+							<num />
+							<alinea>
+								<h:b>Categoria A</h:b>
+								(studiosi italiani):
+							</alinea>
+							<en id="art3-com2-pun1-numa1">
+								<num>A1)</num>
+								<corpo>ricercatori, tecnologi di ogni livello e tecnici laureati italiani (fatta eccezione per i dipendenti del CNR che siano di nazionalià diversa) appartenenti ad Istituti CNR;</corpo>
+							</en>
+							<en id="art3-com2-pun1-numa2">
+								<num>A2)</num>
+								<corpo>ricercatori e tecnologi italiani di ogni livello appartenenti ad Istituzioni pubbliche di ricerca;</corpo>
+							</en>
+							<en id="art3-com2-pun1-numa3">
+								<num>A3)</num>
+								<corpo>docenti di seconda fascia, ricercatori e funzionari tecnici (D1-D2-D3-D4-D5) delle Università italiane;</corpo>
+							</en>
+							<en id="art3-com2-pun1-numa4">
+								<num>A4)</num>
+								<corpo>
+									dottori di ricerca, dottorandi, borsisti e assegnisti di ricerca di nazionalità italiana che presso le Università, il CNR ed altre Istituzioni pubbliche di ricerca partecipano o collaborano a programmi di ricerca che siano compresi nelle aree scientifiche proprie del CNR.
+									<ndr num="#n1" valore="" xlink:type="simple">(*)</ndr>
+								</corpo>
+							</en>
+							<contenitore id="con1" nome="">
+								<h:p>Non possono fruire del programma i borsisti che sono titolari per lo stesso periodo di una borsa di studio per l'estero.</h:p>
+								<h:p>Gli studiosi appartenenti alle categorie A2, A3 e A4 (ad eccezione dei borsisti e assegnisti CNR) dovranno essere associati alle attività di ricerca delle strutture scientifiche del CNR.</h:p>
+								<h:p>Il personale CNR in pensione, associato agli Istituti, non può fruire del programma.</h:p>
+							</contenitore>
+						</ep>
+						<ep id="art3-com2-pun2">
+							<num />
+							<alinea>
+								<h:b>Categoria B</h:b>
+								(studiosi stranieri):
+							</alinea>
+							<ep id="art3-com2-pun2-pun1">
+								<num>-</num>
+								<corpo>
+									studiosi stranieri (o italiani stabilmente residenti all'estero) di
+									<h:b>elevata qualificazione accademica</h:b>
+									appartenenti ad Università ed Istituzioni di ricerca straniere di
+									<h:b>elevato prestigio scientifico,</h:b>
+									invitati presso Istituti CNR, in modo che la ricerca italiana benefici della loro attività e presenza nel nostro Paese.
+								</corpo>
+							</ep>
+						</ep>
+					</comma>
+					<comma id="art3-com3">
+						<num />
+						<corpo>Indipendentemente dal programma scientifico e dalla Istituzione ospitante, nel corso dell'anno di validità del Programma può essere presentata una sola proposta che riguardi lo stesso candidato.</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num />
+						<corpo>Non saranno prese in considerazione domande di fruizione del programma inoltrate da personale appartenente a istituzioni scientifiche private, restando salvi i casi di assoluto rilievo scientifico, e/o di interesse primario per l'Ente, valutati dalla Commissione esaminatrice.</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num />
+						<corpo>Il contributo non potrà essere assegnato alla stessa persona per più di due anni consecutivi e, per riproporre nuovamente la candidatura, dovranno trascorrere almeno due anni dall'ultima fruizione.</corpo>
+					</comma>
+					<comma id="art3-com6">
+						<num />
+						<corpo>I Fruitori del Programma dovranno dichiarare di non godere di altra sovvenzione per le spese di soggiorno relativamente al periodo finanziato dal CNR.</corpo>
+					</comma>
+					<comma id="art3-com7">
+						<num />
+						<alinea>
+							Per quanto concerne la
+							<h:b>Categoria A</h:b>
+							la proposta dovrà comprendere:
+						</alinea>
+						<en id="art3-com7-num1">
+							<num>1)</num>
+							<corpo>
+								lo schema di partecipazione debitamente compilato (
+								<mrif>
+									All.
+									<rif xlink:href="#ann1" xlink:type="simple">1</rif>
+									e
+									<rif xlink:href="#ann2" xlink:type="simple">2</rif>
+								</mrif>
+								);
+							</corpo>
+						</en>
+						<en id="art3-com7-num2">
+							<num>2)</num>
+							<alinea>una dichiarazione (in lingua inglese o francese) da parte dell'Istituzione straniera ospitante che:</alinea>
+							<ep id="art3-com7-num2-pun1">
+								<num>-</num>
+								<corpo>manifesti l'interesse al programma di ricerca proposto;</corpo>
+							</ep>
+							<ep id="art3-com7-num2-pun2">
+								<num>-</num>
+								<corpo>attesti la disponibilità della struttura stessa ad accogliere lo studioso nel periodo indicato nello schema di partecipazione e a fornire allo stesso i mezzi tecnici ed operativi necessari per svolgere l'attività di ricerca;</corpo>
+							</ep>
+						</en>
+						<en id="art3-com7-num3">
+							<num>3)</num>
+							<corpo>
+								il programma di ricerca (
+								<rif xlink:href="#ann3" xlink:type="simple">All. 3</rif>
+								) da svolgere durante il soggiorno all'estero, firmato dal Proponente e dal Fruitore, nel quale siano evidenziati la rispondenza alle finalità di cui all'
+								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+								del presente Disciplinare e le motivazioni scientifiche che rendono necessario lo svolgimento della ricerca presso l'Istituzione straniera indicata;
+							</corpo>
+						</en>
+						<en id="art3-com7-num4">
+							<num>4)</num>
+							<corpo>una dichiarazione, da parte del Proponente, sotto la propria responsabilità che il soggiorno non prevede la partecipazione del Fruitore a congressi o simposi ovvero lo svolgimento di attività didattiche o frequenza di corsi;</corpo>
+						</en>
+						<en id="art3-com7-num5">
+							<num>5)</num>
+							<corpo>il parere favorevole del Direttore dell'Istituto CNR o del Direttore di altro Istituto pubblico di ricerca o del Direttore di Dipartimento o Istituto universitario ai quali afferiscono i Fruitori;</corpo>
+						</en>
+						<en id="art3-com7-num6">
+							<num>6)</num>
+							<corpo>il curriculum vitae e l'elenco delle pubblicazioni del Fruitore riferito agli ultimi cinque anni;</corpo>
+						</en>
+						<en id="art3-com7-num7">
+							<num>7)</num>
+							<alinea>per i dottorandi:</alinea>
+							<ep id="art3-com7-num7-pun1">
+								<num>-</num>
+								<corpo>il parere favorevole del Coordinatore del collegio dei docenti del corso di dottorato;</corpo>
+							</ep>
+							<ep id="art3-com7-num7-pun2">
+								<num>-</num>
+								<corpo>una dichiarazione del dottorando di non trovarsi già all'estero al momento dell'inizio del programma e di non fruire dell'integrazione del 50% della borsa di dottorato spettante per i periodi trascorsi all'estero;</corpo>
+							</ep>
+						</en>
+						<en id="art3-com7-num8">
+							<num>8)</num>
+							<corpo>per gli studiosi appartenenti alle categorie A2, A3, A4: una copia del provvedimento di associatura rilasciato dal Direttore CNR presso la cui struttura scientifica il fruitore è associato.</corpo>
+						</en>
+					</comma>
+					<comma id="art3-com8">
+						<num />
+						<alinea>
+							Per quanto concerne la
+							<h:b>Categoria B</h:b>
+							la proposta dovrà comprendere:
+						</alinea>
+						<en id="art3-com8-num1">
+							<num>1)</num>
+							<corpo>
+								lo schema di partecipazione debitamente compilato dal Proponente (
+								<mrif>
+									All.
+									<rif xlink:href="#ann1" xlink:type="simple">1</rif>
+									e
+									<rif xlink:href="#ann2" xlink:type="simple">2</rif>
+								</mrif>
+								);
+							</corpo>
+						</en>
+						<en id="art3-com8-num2">
+							<num>2)</num>
+							<corpo>una copia del passaporto/documento di espatrio dello studioso;</corpo>
+						</en>
+						<en id="art3-com8-num3">
+							<num>3)</num>
+							<corpo>il curriculum vitae e l'elenco delle pubblicazioni comprovante l'elevata qualificazione scientifica dello studioso visitatore riferito agli ultimi cinque anni;</corpo>
+						</en>
+						<en id="art3-com8-num4">
+							<num>4)</num>
+							<corpo>
+								il programma di ricerca (
+								<rif xlink:href="#art3" xlink:type="simple">All. 3</rif>
+								) da svolgere, firmato dal Proponente, nel quale si evidenzi inoltre la sua rispondenza alle finalità di cui all'
+								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+								del presente Disciplinare;
+							</corpo>
+						</en>
+						<en id="art3-com8-num5">
+							<num>5)</num>
+							<corpo>una presentazione scientifica dello studioso da parte del Proponente, nella quale si evidenzi l'interesse e il beneficio scientifico per il CNR derivante dall'espletamento del programma di ricerca in collaborazione con l'Ente;</corpo>
+						</en>
+						<en id="art3-com8-num6">
+							<num>6)</num>
+							<corpo>una dichiarazione, da parte del Proponente, sotto la propria responsabilità che il soggiorno non prevederà la partecipazione del visitatore straniero a congressi o simposi ovvero lo svolgimento di attività didattiche.</corpo>
+						</en>
+					</comma>
+					<comma id="art3-com9">
+						<num />
+						<corpo>
+							<contenitore id="con2" nome="">
+								<h:p>
+									<h:b>
+										Sia gli studiosi italiani che quelli stranieri dovranno inviare al CNR il programma di ricerca ed il curriculum vitae con l'elenco delle pubblicazioni, oltre che in forma cartacea all'indirizzo riportato all'
+										<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
+										, mediante e-mail agli indirizzi indicati di seguito per ciascuna categoria di studiosi.
+									</h:b>
+								</h:p>
+								<h:p>
+									<h:b>Le proposte di ricerca che perverranno incomplete della documentazione e/o dichiarazioni richieste, verranno considerate non ammissibili.</h:b>
+								</h:p>
+							</contenitore>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Paesi ed Istituzioni scientifiche stranieri coinvolti nel Programma</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>Tutti i Paesi sono coinvolti nel Programma, i Paesi appartenenti all'Unione Europea e gli Stati Uniti d'America sono considerati prioritari.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num />
+						<corpo>Le Istituzioni straniere che possono essere coinvolte sono le Università pubbliche o private e gli Istituti scientifici e di ricerca di elevato prestigio scientifico.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Valutazione scientifica dei programmi di ricerca</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							I programmi di ricerca saranno valutati da una Commissione di esperti composta da Dirigenti di Ricerca del CNR e Professori universitari, nominata dal Consiglio di Amministrazione del CNR su proposta del Presidente.
+							<h:p>
+								<h:b>I programmi saranno ammessi al finanziamento nei limiti dei fondi destinati per ogni area scientifica relativamente al periodo di riferimento, sulla base di valutazioni comparative dei progetti di ricerca, dei curriculum vitae, delle pubblicazioni, della qualificazione scientifica del partner, dell'Istituzione straniera e per gli studiosi che hanno già partecipato al Programma sarà ulteriore elemento di valutazione la relazione scientifica finale del soggiorno già finanziato. Nel caso in cui i progetti eccellenti approvati dovessero essere in numero tale da superare il budget finanziario riservato al periodo di riferimento, la Commissione provvederà a stilare per l'Ufficio di competenza, una graduatoria dei progetti da tenere in considerazione in caso di reperimento di ulteriori risorse finanziarie.</h:b>
+							</h:p>
+						</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num />
+						<corpo>I giudizi di merito della Commissione sono insindacabili.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Criteri per la determinazione delle risorse da attribuire agli studiosi cui è stato approvato il soggiorno</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<alinea>
+							Studiosi appartenenti alla
+							<h:b>Categoria A</h:b>
+							:
+						</alinea>
+						<ep id="art6-com1-pun1">
+							<num />
+							<corpo>al personale CNR o assimilato, sarà erogata la diaria prevista dalle norme che regolano i soggiorni all'estero per i dipendenti dello Stato secondo la normativa vigente all'atto della partenza;</corpo>
+						</ep>
+						<ep id="art6-com1-pun2">
+							<num>-</num>
+							<corpo>Il numero di giorni di permanenza all'estero a carico del Programma non potrà essere in ogni caso inferiore a 21 notti per gli studiosi italiani e 10 notti per gli studiosi stranieri.</corpo>
+						</ep>
+						<coda>
+							<h:b>
+								I Fruitori provvederanno personalmente all'acquisto del titolo di viaggio che sarà rimborsato forfettariamente a fine soggiorno nei limiti finanziari indicati nella tabella allegata al presente Disciplinare (
+								<rif xlink:href="#ann4" xlink:type="simple">All. 4</rif>
+								).
+							</h:b>
+						</coda>
+					</comma>
+					<comma id="art6-com2">
+						<num />
+						<alinea>
+							Studiosi appartenenti alla
+							<h:b>Categoria B</h:b>
+							:
+						</alinea>
+						<ep id="art6-com2-pun1">
+							<num />
+							<corpo>Agli studiosi stranieri verrà corrisposto un compenso forfettario a copertura delle spese di viaggio e di permanenza in Italia nella misura di Euro 1.600,00 netti complessivi. Tale compenso sarà liquidato direttamente all'ospite durante il periodo di permanenza in Italia.</corpo>
+						</ep>
+						<ep id="art6-com2-pun2">
+							<num />
+							<corpo>Eventuali spese assicurative contro infortuni e/o rischi di malattia connesse all'attività di ricerca saranno a totale carico dei Fruitori.</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Relazione scientifica finale e liquidazione del soggiorno</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<alinea>
+							<h:b>Categoria A</h:b>
+							<h:br />
+							Il trattamento economico relativo al soggiorno all'estero verrà liquidato solo a seguito della presentazione di:
+						</alinea>
+						<en id="art7-com1-num1">
+							<num>1)</num>
+							<corpo>una relazione scientifica (vistata dal Proponente) sui risultati dell'attività di ricerca svolta presso l'Istituzione straniera. La relazione scientifica dovrà essere inviata oltre che in forma cartacea anche per e-mail.</corpo>
+						</en>
+						<en id="art7-com1-num2">
+							<num>2)</num>
+							<corpo>il biglietto di viaggio (in originale o in copia conforme) debitamente utilizzato;</corpo>
+						</en>
+						<en id="art7-com1-num3">
+							<num>3)</num>
+							<corpo>una dichiarazione da parte dell'Istituzione straniera attestante lo svolgimento del programma ed il periodo effettivamente trascorso presso l'Istituzione stessa;</corpo>
+						</en>
+						<en id="art7-com1-num4">
+							<num>4)</num>
+							<alinea>una dichiarazione a firma congiunta nella quale il Proponente ed il Fruitore comunicheranno sotto la propria responsabilità:</alinea>
+							<ep id="art7-com1-num4-pun1">
+								<num>-</num>
+								<corpo>la data di partenza, la data di rientro in Italia e la durata del soggiorno di ricerca all'estero;</corpo>
+							</ep>
+							<ep id="art7-com1-num4-pun2">
+								<num>-</num>
+								<corpo>l'impegno a citare il CNR in eventuali rapporti scientifici o pubblicazioni conseguenti all'attività di ricerca svolta;</corpo>
+							</ep>
+							<ep id="art7-com1-num4-pun3">
+								<num>-</num>
+								<corpo>
+									la liberatoria allegata al presente disciplinare debitamente compilata e firmata (
+									<rif xlink:href="#ann5" xlink:type="simple">All. 5</rif>
+									).
+								</corpo>
+							</ep>
+						</en>
+						<coda>La documentazione sopraindicata dovrà pervenire entro e non oltre tre mesi dal termine del soggiorno di ricerca all'estero.</coda>
+					</comma>
+					<comma id="art7-com2">
+						<num />
+						<alinea>
+							<h:b>Categoria B</h:b>
+							<h:br />
+							Al termine del soggiorno in Italia dello studioso straniero il Proponente e/o il Fruitore dovrà presentare al CNR:
+						</alinea>
+						<en id="art7-com2-num1">
+							<num>1)</num>
+							<corpo>una relazione scientifica sui risultati dell'attività di ricerca svolta dal visitatore presso l'Istituto CNR. La relazione scientifica dovrà essere inviata oltre che in forma cartacea anche per e-mail;</corpo>
+						</en>
+						<en id="art7-com2-num2">
+							<num />
+							<alinea>una dichiarazione che attesti sotto la propria responsabilità:</alinea>
+							<ep id="art7-com2-num2-pun1">
+								<num>-</num>
+								<corpo>la data di partenza e quella di rientro nel paese di origine dello studioso straniero ed il periodo effettivamente trascorso dallo stesso presso l'Istituto CNR sede del programma;</corpo>
+							</ep>
+							<ep id="art7-com2-num2-pun2">
+								<num>-</num>
+								<corpo>l'impegno a citare il CNR in eventuali rapporti scientifici o pubblicazioni conseguenti all'attività di ricerca svolta;</corpo>
+							</ep>
+							<ep id="art7-com2-num2-pun3">
+								<num>-</num>
+								<corpo>
+									la liberatoria allegata al presente disciplinare debitamente compilata e firmata dal Proponente e/o Fruitore (
+									<rif xlink:href="#ann5" xlink:type="simple">All. 5</rif>
+									).
+								</corpo>
+							</ep>
+						</en>
+					</comma>
+				</articolo>
+				<contenitore id="con3" nome="">
+					<h:p>
+						<h:b>Il Programma Short-Term Mobility 2008 è consultabile:</h:b>
+					</h:p>
+					<h:ul>
+						<h:li>
+							<h:b>
+								Pagina WEB del CNR (
+								<h:a xlink:href="http://www.cnr.it" xlink:type="simple">www.cnr.it</h:a>
+								) voce Attività, "Attività internazionali, Programmi di mobilità"
+							</h:b>
+						</h:li>
+					</h:ul>
+					<contenitore id="con4" nome="">
+						<h:p>
+							<h:b>Per informazioni e invio della documentazione per e-mail:</h:b>
+						</h:p>
+						<h:table>
+							<h:tbody>
+								<h:tr>
+									<h:td>
+										<h:b>Personale CNR</h:b>
+									</h:td>
+									<h:td>
+										<h:b>
+											<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">antonella.porretti@cnr.it</h:a>
+										</h:b>
+									</h:td>
+									<h:td>
+										<h:b>Tel. 06/4993.3116</h:b>
+										<h:br />
+										<h:b>Fax 06/4993.2905</h:b>
+									</h:td>
+								</h:tr>
+								<h:tr>
+									<h:td>
+										<h:b>Personale Universitario associato e visitatori stranieri</h:b>
+									</h:td>
+									<h:td>
+										<h:b>
+											<h:a xlink:href="mailto:antonella.porretti@cnr.it" xlink:type="simple">rita.carbonetti@cnr.it</h:a>
+										</h:b>
+									</h:td>
+									<h:td>
+										<h:b>Tel. 06/4993.2960</h:b>
+										<h:br />
+										<h:b>Fax 06/4993.2905</h:b>
+									</h:td>
+								</h:tr>
+							</h:tbody>
+						</h:table>
+					</contenitore>
+				</contenitore>
+			</articolato>
 			<annessi>
 				<annesso id="ann1">
 					<testata>
@@ -69,7 +604,7 @@
 								<rif xlink:href="pdf/All1_Disc_198-2007.pdf" xlink:type="simple">Schema di partecipazione</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="con2" nome="corpo">
+						<contenitore id="con5" nome="corpo">
 							<h:p />
 						</contenitore>
 					</DocumentoNIR>
@@ -97,7 +632,7 @@
 								<rif xlink:href="pdf/All2_Disc_198-2007.pdf" xlink:type="simple">Schema di partecipazione</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="con3" nome="corpo">
+						<contenitore id="con6" nome="corpo">
 							<h:p />
 						</contenitore>
 					</DocumentoNIR>
@@ -125,7 +660,7 @@
 								<rif xlink:href="pdf/All3_Disc_198-2007.pdf" xlink:type="simple">Programma di ricerca</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="con4" nome="corpo">
+						<contenitore id="con7" nome="corpo">
 							<h:p />
 						</contenitore>
 					</DocumentoNIR>
@@ -153,7 +688,7 @@
 								<rif xlink:href="pdf/All4_Disc_198-2007.pdf" xlink:type="simple">Tabella rimborsi titoli di viaggio</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="con5" nome="corpo">
+						<contenitore id="con8" nome="corpo">
 							<h:p />
 						</contenitore>
 					</DocumentoNIR>
@@ -181,7 +716,7 @@
 								<rif xlink:href="pdf/All5_Disc_198-2007.pdf" xlink:type="simple">Liberatoria</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="con6" nome="corpo">
+						<contenitore id="con9" nome="corpo">
 							<h:p />
 							<h:p />
 							<h:p />
