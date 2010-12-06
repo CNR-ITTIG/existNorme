@@ -170,14 +170,16 @@
 					<testata>
 						<denAnnesso>Allegato A</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="Provvedimento">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20050622" />
 								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.a" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.a" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.a" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
@@ -190,7 +192,7 @@
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
-							<tipoDoc>Allegato A al DPCNR</tipoDoc>
+							<tipoDoc>Disciplinare</tipoDoc>
 							<dataDoc norm="20050622">22 giugno 2005</dataDoc>
 							, n.
 							<numDoc>45</numDoc>
@@ -198,7 +200,7 @@
 							<numDoc nome="protocollo">33238</numDoc>
 							)
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.a" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato</rif>
 								<h:br />
 							</titoloDoc>
 						</intestazione>
@@ -211,14 +213,16 @@
 					<testata>
 						<denAnnesso>Allegato B</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="Provvedimento">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20050622" />
 								<redazione contributo="" id="red3" nome="Urp-Cnr" norm="" url="" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.b" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.b" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.b" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
@@ -228,20 +232,10 @@
 									<originale id="ro3" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
-							<proprietario xlink:type="simple">
-								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-									<cnr:strutturaEmanante valore="" />
-									<cnr:autoritaEmanante valore="" />
-									<cnr:tipoDestinatario valore="" />
-									<cnr:strutturaDestinataria valore="" />
-									<cnr:tipoProvvedimento valore="" />
-									<cnr:disciplina valore="" />
-								</cnr:meta>
-							</proprietario>
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
-							<tipoDoc>Allegato B al DPCNR</tipoDoc>
+							<tipoDoc>Disciplinare</tipoDoc>
 							<dataDoc norm="20050622">22 giugno 2005</dataDoc>
 							, n.
 							<numDoc>45</numDoc>
@@ -249,7 +243,7 @@
 							<numDoc nome="protocollo">33238</numDoc>
 							)
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-06-22;45:allegato.b" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="" nome="">
@@ -261,14 +255,16 @@
 					<testata>
 						<denAnnesso>Allegato C</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="Provvedimento">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20050622" />
 								<redazione contributo="" id="red4" nome="Urp-Cnr" norm="" url="" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.c" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.c" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.c" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
@@ -281,7 +277,7 @@
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
-							<tipoDoc>Allegato C al DPCNR</tipoDoc>
+							<tipoDoc>DPCNR</tipoDoc>
 							<dataDoc norm="" />
 							, n.
 							<numDoc>45</numDoc>
@@ -302,11 +298,13 @@
 					<DocumentoNIR nome="">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20050622" />
 								<redazione contributo="" id="red5" nome="Urp-Cnr" norm="" url="" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" />
 								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.d" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.d" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.d" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
@@ -316,20 +314,10 @@
 									<originale id="ro5" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
-							<proprietario xlink:type="simple">
-								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-									<cnr:strutturaEmanante valore="" />
-									<cnr:autoritaEmanante valore="" />
-									<cnr:tipoDestinatario valore="" />
-									<cnr:strutturaDestinataria valore="" />
-									<cnr:tipoProvvedimento valore="" />
-									<cnr:disciplina valore="" />
-								</cnr:meta>
-							</proprietario>
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
-							<tipoDoc>Allegato D al DPCNR</tipoDoc>
+							<tipoDoc>DPCNR</tipoDoc>
 							<dataDoc norm="">22 giugno 2005</dataDoc>
 							, n.
 							<numDoc>45</numDoc>
