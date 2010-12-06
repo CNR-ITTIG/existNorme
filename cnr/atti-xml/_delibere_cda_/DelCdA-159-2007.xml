@@ -8,7 +8,6 @@
 					<entratainvigore norm="20070919" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-09-19;159" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -17,7 +16,7 @@
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159" xlink:type="simple" />
-						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.interne:2007-09-19;159" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -78,7 +77,7 @@
 				<h:p>DELIBERA</h:p></formulainiziale>
 				<contenitore id="con1" nome="">
 					<h:p>
-						1. di approvare l'<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" xlink:type="simple">unito disciplinare interno</rif>.
+						1. di approvare l'<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.interne:2007-09-19;159" xlink:type="simple">unito disciplinare interno</rif>.
 					</h:p>
 				</contenitore>
 			<formulafinale />

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Disciplinare">
+		<DocumentoNIR nome="Allegato">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20070919" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;disposizioni.organizzative.interne:2007-09-19;159" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159:allegato" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -15,8 +16,8 @@
 						<evento data="20070919" fonte="all1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;disposizioni.organizzative.integrative:2007-09-19;159" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:deliberazione:2007-09-19;159" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;disposizioni.organizzative.interne:2007-09-19;159" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-09-19;159" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -32,7 +33,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>Allegato alla Deliberazione CdA</tipoDoc>
+				<tipoDoc>Disciplinare</tipoDoc>
 				<dataDoc norm="20070919">19 settembre 2007</dataDoc>
 				, n.
 				<numDoc>159</numDoc>
