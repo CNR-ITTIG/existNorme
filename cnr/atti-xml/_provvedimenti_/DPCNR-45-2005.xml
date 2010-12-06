@@ -33,7 +33,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20050622">22 giugno 2005</dataDoc>
 				, n.
 				<numDoc>45</numDoc>
@@ -246,7 +246,7 @@
 								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
 							</titoloDoc>
 						</intestazione>
-						<contenitore id="" nome="">
+						<contenitore id="con2" nome="">
 							<h:p />
 						</contenitore>
 					</DocumentoNIR>
@@ -284,10 +284,431 @@
 							(prot. n.
 							<numDoc nome="protocollo">33238</numDoc>
 							)
-							<titoloDoc><rif xlink:href="pdf/AllC_DPCNR_45-2005.pdf" xlink:type="simple">Aree scientifiche e Settori Tecnologici del CNR</rif></titoloDoc>
+							<titoloDoc>Aree scientifiche e Settori Tecnologici del CNR</titoloDoc>
 						</intestazione>
-						<contenitore id="" nome="">
-							<h:p />
+						<contenitore id="con3" nome="">
+							<contenitore id="con4" nome="">
+								<h:p>
+									<h:b>AREE SCIENTIFICHE</h:b>
+								</h:p>
+							</contenitore>
+							<contenitore id="con5" nome="">
+								<h:p>
+									<h:b>Scienze Matematiche</h:b>
+								</h:p>
+								<h:p>MAT/O1 Logica matematica</h:p>
+								<h:p>MATIO2 Algebra</h:p>
+								<h:p>MAT/03 Geometria</h:p>
+								<h:p>MAT/O4 Matematiche complementari</h:p>
+								<h:p>MAT/O5 Analisi matematica</h:p>
+								<h:p>MAT/O6 Probabilità  statistica matematica</h:p>
+								<h:p>MAT/07 Fisica matematica</h:p>
+								<h:p>MAT/O8 Analisi numerica</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con6" nome="">
+								<h:p>
+									<h:b>Scienze Informatiche</h:b>
+								</h:p>
+								<h:p>INF/01 Informatica</h:p>
+								<h:p>MAT/09 Ricerca operativa</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con7" nome="">
+								<h:p>
+									<h:b>Scienze fisiche</h:b>
+								</h:p>
+								<h:p>FIS/01 Fisica sperimentale</h:p>
+								<h:p>FIS/02 Fisica teorica, modelli e metodi matematici</h:p>
+								<h:p>FIS/03 Fisica della materia</h:p>
+								<h:p>FIS/O4 Fisica nucleare e subnucleare</h:p>
+								<h:p>FIS/06 Fisica per il sistema terra e il mezzo circumterrestre</h:p>
+								<h:p>FIS/07 Fisica applicata (a beni culturali, ambientali, biologia e medicina)</h:p>
+								<h:p>FIS/O8 Didattica e storia della fisica</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con8" nome="">
+								<h:p>
+									<h:b>Scienze dell'universo</h:b>
+								</h:p>
+								<h:p>FIS/05 Astronomia e astrofisica</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con9" nome="">
+								<h:p>
+									<h:b>Scienze chimiche</h:b>
+								</h:p>
+								<h:p>CHIM/O1 Chimica analitica</h:p>
+								<h:p>CHIM/02 Chimica fisica</h:p>
+								<h:p>CHIM/03 Chimica generale e inorganica</h:p>
+								<h:p>CHIM/06 Chimica organica</h:p>
+								<h:p>CHIM/07 Fondamenti chimici delle tecnologie</h:p>
+								<h:p>CHIM/O8 Chimica farmaceutica</h:p>
+								<h:p>CHIM/09 Farmaceutico tecnologico applicativo</h:p>
+								<h:p>CHIM/10 Chimica degli alimenti</h:p>
+								<h:p>CHIM/11 Chimica e biotecnologia delle fermentazioni</h:p>
+								<h:p>CHIM/12 Chimica dell'ambiente e dei beni culturali</h:p>
+								<h:p>CHIM/cnr1 Scienza e tecnologia della combustione</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con10" nome="">
+								<h:p>
+									<h:b>Scienze e tecnologie dei materiali</h:b>
+								</h:p>
+								<h:p>CHIM/04 Chimica industriale</h:p>
+								<h:p>CHIM/05 Scienza e tecnologia dei materiali polimerici</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con11" nome="">
+								<h:p>
+									<h:b>Scienze della terra</h:b>
+								</h:p>
+								<h:p>GEO/01 Paleontologia e paleoecologia</h:p>
+								<h:p>GEO/02 Geologia stratigrafica e sedimentologia</h:p>
+								<h:p>GEO/03 Geologia strutturale</h:p>
+								<h:p>GEO/04 Geografia fisica e geomorfologia</h:p>
+								<h:p>GEO/0S Geologia applicata</h:p>
+								<h:p>GEO/06 Mineralogia</h:p>
+								<h:p>GEO/07 Petrologia e petrografia</h:p>
+								<h:p>GEO/08 Geochimica e vulcanologia</h:p>
+								<h:p>GEO/09 Georisorse minerarie e applicazioni mineralogicopetrografiche per l'ambiente</h:p>
+								<h:p>GEO/10 Geofisica della terra solida</h:p>
+								<h:p>GEO/11 Geofisica applicata</h:p>
+								<h:p>GEO/12 Oceanografia e fisica dell'atmosfera</h:p>
+								<h:p>ICAR/01 Idraulica</h:p>
+								<h:p>ICAR/02 Costruzioni idrauliche e marittime e idrologia</h:p>
+								<h:p>ICAR/03 Ingegneria sanitaria-ambientale</h:p>
+								<h:p>ICAR/04 Strade, ferrovie e aeroporti</h:p>
+								<h:p>ICAR/05 Trasporti</h:p>
+								<h:p>ICAR/06 Topografia e cartografia</h:p>
+								<h:p>ICAR/07 Geotecnica</h:p>
+								<h:p>INF/01 Informatica</h:p>
+								<h:p>AGR/14 Pedologia</h:p>
+								<h:p>ING-INF/05 Sistemi di elaborazione delle informazioni</h:p>
+								<h:p>ING-IND/22 Scienza e tecnologia dei materiali</h:p>
+								<h:p>ING-IND/28 Ingegneria e sicurezza degli scavi</h:p>
+								<h:p>ING-IND/29 Ingegneria delle materie prime</h:p>
+								<h:p>ING-IND/30 Idrocarburi e fluidi del sottosuolo</h:p>
+								<h:p>FIS/01 Fisica sperimentale</h:p>
+								<h:p>FIS/06 Fisica per il sistema terra e il mezzo circumterrestre</h:p>
+								<h:p>SECS-P/06 Economia applicata</h:p>
+								<h:p>GEO/CNR1 Tecniche di osservazione della terra</h:p>
+								<h:p>GEO/CNR2 Telerilevamento e cartografia</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con12" nome="">
+								<h:p>
+									<h:b>Scienze dell'ambiente</h:b>
+								</h:p>
+								<h:p>GEO/01 Paleontologia e paleoecologia</h:p>
+								<h:p>GEO/04 Geografia fisica e geomorfologia</h:p>
+								<h:p>GEO/05 Geologia applicata</h:p>
+								<h:p>GEO/08 Geochimica e vulcanologia</h:p>
+								<h:p>GEO/11 Geofisica applicata</h:p>
+								<h:p>GEO/12 Oceanografia e fisica dell'atmosfera</h:p>
+								<h:p>ICAR/01 Idraulica</h:p>
+								<h:p>ICAR/02 Costruzioni idrauliche e marittime e idrologia</h:p>
+								<h:p>ICAR/03 Ingegneria sanitaria-ambientale</h:p>
+								<h:p>ICAR/06 Topografia e cartografia</h:p>
+								<h:p>INF/01 Informatica</h:p>
+								<h:p>AGR/14 Pedologia</h:p>
+								<h:p>ING-INF/05 Sistemi di elaborazione delle informazioni</h:p>
+								<h:p>ING-IND/22 Scienza e tecnologia dei materiali</h:p>
+								<h:p>FIS/01 Fisica sperimentale</h:p>
+								<h:p>FIS/06 Fisica per il sistema terra e il mezzo circumterrestre</h:p>
+								<h:p>FIS/O7 Fisica applicata (a beni culturali, ambientali, biologia e medicina)</h:p>
+								<h:p>SECS-P/06 Economia applicata</h:p>
+								<h:p>GEO/CNR1 Tecniche di osservazione della terra</h:p>
+								<h:p>GEO/CNR2 Telerilevamento e cartografia</h:p>
+								<h:p>MAT/08 Analisi numerica</h:p>
+								<h:p>MAT/09 Ricerca operativa</h:p>
+								<h:p>CHIM/01 Chimica analitica</h:p>
+								<h:p>CHIM/04 Chimica industriale</h:p>
+								<h:p>CHIM/11 Chimica e biotecnologia delle fermentazioni</h:p>
+								<h:p>CHIM/12 Chimica dell'ambiente e dei beni culturali</h:p>
+								<h:p>AGR/02 Agronomia e coltivazioni arboree</h:p>
+								<h:p>AGR/08 Idraulica agraria e sistemazioni idraulico forestali</h:p>
+								<h:p>AGR/13 Chimica agraria</h:p>
+								<h:p>AGR/16 Microbiologia agraria</h:p>
+								<h:p>ING-IND/09 Sistemi per l'energia e l'ambiente</h:p>
+								<h:p>ING-IND/25 impianti chimici</h:p>
+								<h:p>ING-IND/27 Chimica industriale e tecnologica</h:p>
+								<h:p>SECS-S/02 Statistica per la ricerca sperimentale e tecnologica</h:p>
+								<h:p>SPS/10 Sociologia dell'ambiente e del territorio</h:p>
+								<h:p>BIO/07 Ecologia</h:p>
+								<h:p>BIO/19 Microbiologia generale</h:p>
+								<h:p>AMB/CNR1 Idrogeologia</h:p>
+								<h:p>AMB/CNR2 Ecologia applicata</h:p>
+								<h:p>AMB/CNR3 Idrobiologia e limnologia</h:p>
+								<h:p>AMB/CNR4 Modellistica ambientale</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con13" nome="">
+								<h:p>
+									<h:b>Scienze biologiche</h:b>
+								</h:p>
+								<h:p>BIO/01 Botanica generale</h:p>
+								<h:p>BIO/02 Botanica sistematica</h:p>
+								<h:p>BIO/03 Botanica ambientale applicata</h:p>
+								<h:p>BIO/04 Fisiologia vegetale</h:p>
+								<h:p>BIO/05 Zoologia</h:p>
+								<h:p>BIO/06 Anatomia comparata e citologica</h:p>
+								<h:p>BIO/07 Ecologia</h:p>
+								<h:p>BIO/08 Antropologia</h:p>
+								<h:p>BIO/09 FisiologiA</h:p>
+								<h:p>BIO/13 Biologia applicata</h:p>
+								<h:p>BIO/14 Farmacologia</h:p>
+								<h:p>BIO/15 Biologia farmaceutica</h:p>
+								<h:p>BIO/16 Anatomia umana</h:p>
+								<h:p>BIO/17 Istologia</h:p>
+								<h:p>BIO/18 Genetica</h:p>
+								<h:p>BIO/19 Microbiologia generale</h:p>
+								<h:p>BIO/20 Scienze delle attività motorie</h:p>
+								<h:p>BIO/CNR1 Biologia cellulare</h:p>
+								<h:p>BIO/CNR2 Biologia vegetale, agroambientale e forestale</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con14" nome="">
+								<h:p>
+									<h:b>Scienze fisiologiche, biologiche, biochimiche e di medicina molecolare</h:b>
+								</h:p>
+								<h:p>BIO/09 Fisiologia</h:p>
+								<h:p>MED/04 Patologia generale</h:p>
+								<h:p>MED/03 Genetica medica</h:p>
+								<h:p>BIO/10 Biochimica</h:p>
+								<h:p>BIO/11 Biologia molecolare</h:p>
+								<h:p>BIO/12 Biochimica clinica e biologia molecolare clinica</h:p>
+								<h:p>MED/CNR5 Biologia cellulare</h:p>
+								<h:p>MED/CNR6 Radiochimica e radiofarmacologia</h:p>
+								<h:p>MED/CNR7 Immunologia</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con15" nome="">
+								<h:p>
+									<h:b>Scienze cliniche mediche e chirurgiche</h:b>
+								</h:p>
+								<h:p>MED/06 Oncologia medica</h:p>
+								<h:p>MED/08 Anatomia patologica</h:p>
+								<h:p>MED/09 Medicina interna</h:p>
+								<h:p>MED/10 Malattie dell'apparato respiratorio</h:p>
+								<h:p>MED/11 Malattie dell'apparato cardiovascolare</h:p>
+								<h:p>MED/13 Endocrinologia</h:p>
+								<h:p>MED/14 Nefrologia</h:p>
+								<h:p>MED/15 Malattie del sangue</h:p>
+								<h:p>MED/16 Reumatologia</h:p>
+								<h:p>MED/17 Malattie infettive</h:p>
+								<h:p>MED/18 Chirurgia generale</h:p>
+								<h:p>MED/21 Chirurgia toracica</h:p>
+								<h:p>MED/23 Chirurgia cardiaca</h:p>
+								<h:p>MED/36 Diagnostica per immagini e radioterapia</h:p>
+								<h:p>MED/38 Pediatria generale e specialistica</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con16" nome="">
+								<h:p>
+									<h:b>Scienze biostatiche, epidemiologiche e gestionali sanitarie</h:b>
+								</h:p>
+								<h:p>MED/01 Statistica medica</h:p>
+								<h:p>MED/44 Medicina del lavoro</h:p>
+								<h:p>MED/CNR2 Biostatistica</h:p>
+								<h:p>MED/CNR3 Epidemiologia</h:p>
+								<h:p>MED/CNR4 Organizzazione e gestione sanitaria</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con17" nome="">
+								<h:p>
+									<h:b>Scienze tecnologiche e di base per la medicina</h:b>
+								</h:p>
+								<h:p>lNG-INF/06 Bioingegneria elettronica e informatica</h:p>
+								<h:p>CHIM/05 Scienza e tecnologia dei materiali polimerici</h:p>
+								<h:p>MED/CNR8 Fisica medica</h:p>
+								<h:p>MED/CNR9 Ingegneria clinica</h:p>
+								<h:p>MED/CNR10 Informatica medica</h:p>
+								<h:p>MED/CNR11 Matematica per la medicina</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con18" nome="">
+								<h:p>
+									<h:b>Neuroscienze</h:b>
+								</h:p>
+								<h:p>MED/25 Psichiatria</h:p>
+								<h:p>MED/26 Neurologia</h:p>
+								<h:p>MED/27 Neurochirurgia</h:p>
+								<h:p>MED/37 Neuroradiologia</h:p>
+								<h:p>MED/39 Neuropsichiatria infantile</h:p>
+								<h:p>M-PSl/08 Psicologia clinica</h:p>
+								<h:p>MED/CNR1 Neuro?siologia e neurobiologia</h:p>
+								<h:p>MED/CNR12 Neurofarmacologia</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con19" nome="">
+								<h:p>
+									<h:b>Scienze mediche</h:b>
+								</h:p>
+								<h:p>MED/02 Storia della medicina</h:p>
+								<h:p>MED/05 Patologia clinica</h:p>
+								<h:p>MED/07 Microbiologia e microbiologia clinica</h:p>
+								<h:p>MED/12 Gastroenterologia</h:p>
+								<h:p>MED/19 Chirurgia plastica</h:p>
+								<h:p>MED/20 Chirurgia pediatrica e infantile</h:p>
+								<h:p>MED/22 Chirurgia vascolare</h:p>
+								<h:p>MED/24 Urologia</h:p>
+								<h:p>MED/28 Malattie odontostomatologiche</h:p>
+								<h:p>MED/29 Chirurgia maxillofacciale</h:p>
+								<h:p>MED/30 Malattie apparato visivo</h:p>
+								<h:p>MED/31 Otorinolaringoiatria</h:p>
+								<h:p>MED/32 Audiologia</h:p>
+								<h:p>MED/33 Malattie apparato locomotore</h:p>
+								<h:p>MED/34 Medicina fisica e riabilitativa</h:p>
+								<h:p>MED/35 Malattie cutanee e veneree</h:p>
+								<h:p>MED/40 Ginecologia e ostetricia</h:p>
+								<h:p>MED/41 Anestesiologia</h:p>
+								<h:p>MED/42 Igiene generale e applicata</h:p>
+								<h:p>MED/43 Medicina legale</h:p>
+								<h:p>MED/45 Scienze infermieristiche generali, cliniche e pediatriche</h:p>
+								<h:p>MED/46 Scienze tecniche di medicina di laboratorio</h:p>
+								<h:p>MED/47 Scienze infermieristiche ostetrico-ginecologiche</h:p>
+								<h:p>MED/48 Scienze infermieristiche e tecniche neuro-psichiatriche e riabilitative</h:p>
+								<h:p>MED/49 Scienze tecniche dietetiche applicate</h:p>
+								<h:p>MED/50 Scienze tecniche mediche applicate</h:p>
+								<h:p>MED/51 Scienze cliniche applicate alle attività motorie</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con20" nome="">
+								<h:p>
+									<h:b>Scienze agrarie</h:b>
+								</h:p>
+								<h:p>AGR/O1 Economia ed estimo rurale</h:p>
+								<h:p>AGR/02 Agronomia e coltivazioni arboree</h:p>
+								<h:p>AGR/03 Arboricoltura generale e coltivazioni arboree</h:p>
+								<h:p>AGR/04 Orticoltura e floricoltura</h:p>
+								<h:p>AGR/O5 Assestamento forestale e selvicoltura</h:p>
+								<h:p>AGR/O6 Tecnologia del legno e utilizzazioni forestali</h:p>
+								<h:p>AGR/07 Genetica agraria</h:p>
+								<h:p>AGR/08 Idraulica agraria e sistemazioni idraulico forestali</h:p>
+								<h:p>AGR/09 Meccanica agraria</h:p>
+								<h:p>AGR/10 Costruzioni rurali e territorio agroforestale</h:p>
+								<h:p>AGR/11 Entomologia generale e applicata</h:p>
+								<h:p>AGR/12 Patologia vegetale</h:p>
+								<h:p>AGR/13 Chimica agraria</h:p>
+								<h:p>AGR/14 Pedologia</h:p>
+								<h:p>AGR/15 Scienze e tecnologie alimentari</h:p>
+								<h:p>AGR/16 Microbiologia agraria</h:p>
+								<h:p>AGR/17 Zootecnica generale e miglioramento genetico</h:p>
+								<h:p>AGR/18 Nutrizione e alimentazione animale</h:p>
+								<h:p>AGR/19 Zootecnica speciale</h:p>
+								<h:p>AGR/20 Zoocolture</h:p>
+								<h:p>AGR/CNR1 Biometeorologia</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con21" nome="">
+								<h:p>
+									<h:b>Scienze veterinarie</h:b>
+								</h:p>
+								<h:p>VET/01 Anatomia degli animali domestici</h:p>
+								<h:p>VET/02 Fisiologia veterinaria</h:p>
+								<h:p>VET/03 Patologia generale e anatomia patologica veterinaria</h:p>
+								<h:p>VET/04 Ispezione degli alimenti di origine animale</h:p>
+								<h:p>VET/05 Malattie infettive deglianimali domestici</h:p>
+								<h:p>VET/06 Parassitologia e malattie parassitarie degli animali</h:p>
+								<h:p>VET/07 Farmacologia e tossicologia veterinaria</h:p>
+								<h:p>VET/08 Clinica medica veterinaria</h:p>
+								<h:p>VET/09 Clinica chirurgica veterinaria</h:p>
+								<h:p>VET/10 Clinica ostetrica e ginecologia veterinaria</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con22" nome="">
+								<h:p>
+									<h:b>Ingegneria civile e architettura</h:b>
+								</h:p>
+								<h:p>ICAR/01 Idraulica</h:p>
+								<h:p>ICAR/02 Costruzioni idrauliche e marittime e idrologia</h:p>
+								<h:p>ICAR/03 ingegneria sanitaria-ambientale</h:p>
+								<h:p>ICAR/04 Strade, ferrovie e aeroporti</h:p>
+								<h:p>ICAR/05 Trasporti</h:p>
+								<h:p>ICAR/06 Topografia e cartografia</h:p>
+								<h:p>ICAR/07 Geotecnica</h:p>
+								<h:p>ICAR/08 Scienza delle costruzioni</h:p>
+								<h:p>ICAR/09 Tecnica delle costruzioni</h:p>
+								<h:p>ICAR/10 Architettura tecnica</h:p>
+								<h:p>ICAR/11 Produzione edilizia</h:p>
+								<h:p>ICAR/12 Tecnologia dell'architettura</h:p>
+								<h:p>ICAR/13 Disegno industriale</h:p>
+								<h:p>ICAR/14 Composizione architettonica e urbana</h:p>
+								<h:p>ICAR/15 Architettura del paesaggio</h:p>
+								<h:p>ICAR/16 Architettura degli interni e allestimento</h:p>
+								<h:p>ICAR/17 Disegno</h:p>
+								<h:p>ICAR/18 Storia dell'architettura</h:p>
+								<h:p>ICAR/19 Restauro</h:p>
+								<h:p>ICAR/20 Tecnica e pianificazione urbanistica</h:p>
+								<h:p>ICAR/21 Urbanistica</h:p>
+								<h:p>ICAR/22 Estimo</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="con23" nome="">
+								<h:p>
+									<h:b>Ingegneria industriale</h:b>
+								</h:p>
+								<h:p>ING-IND/01 Architettura navale</h:p>
+								<h:p>ING-IND/02 Costruzioni e impianti navali marini</h:p>
+								<h:p>ING-IND/03 Meccanica del volo</h:p>
+								<h:p>ING-IND/04 Costruzioni e strutture aerospaziali</h:p>
+								<h:p>ING-IND/05 Impianti e sistemi aerospaziaii</h:p>
+								<h:p>ING-IND/06 Fluidodinamica</h:p>
+								<h:p>ING-IND/07 Propulsione aerospaziale</h:p>
+								<h:p>ING-IND/08 Macchine a fluido</h:p>
+								<h:p>ING-IND/09 Sistemi per l'energia e l'ambiente</h:p>
+								<h:p>ING-IND/13 Meccanica applicata alle macchine</h:p>
+								<h:p>ING-IND/14 Progettazione meccanica e costruzione di macchine</h:p>
+								<h:p>ING-IND/15 Disegno e metodi dell'ingegneria industriale</h:p>
+								<h:p>ING-IND/16 Tecnologie e sistemi di lavorazione</h:p>
+								<h:p>ING-IND/17 Impianti industriali meccanici</h:p>
+								<h:p>ING-IND/18 Fisica dei reattori nucleari</h:p>
+								<h:p>ING-IND/19 Impianti nucleari</h:p>
+								<h:p>ING-IND/20 Misure e strumentazione nucleari</h:p>
+								<h:p>ING-IND/21 Metallurgia</h:p>
+								<h:p>ING-IND/22 Scienza e tecnologia dei materiali</h:p>
+								<h:p>ING-IND/23 Chimica fisica applicata</h:p>
+								<h:p>ING-IND/24 Principi d'ingegneria chimica</h:p>
+								<h:p>ING-IND/25 Impianti chimici</h:p>
+								<h:p>ING-IND/26 Teoria dello sviluppo dei processi chimici</h:p>
+								<h:p>ING-IND/27 Chimica industriale e tecnologica</h:p>
+								<h:p>ING-IND/28 Ingegneria e sicurezza degli scavi</h:p>
+								<h:p>ING-IND/29 Ingegneria delle materie prime</h:p>
+								<h:p>ING-IND/30 Idrocarburi e fluidi del sottosuolo</h:p>
+								<h:p>ING-IND/31 Elettrotecnica</h:p>
+								<h:p>ING-IND/32 Convertitori, macchine e azionamenti elettrici</h:p>
+								<h:p>ING-IND/33 Sistemi elettrici per l'energia</h:p>
+								<h:p>ING-IND/34 Bioingegneria industriale</h:p>
+								<h:p>ING-IND/35 Ingegneria economico-gestionale</h:p>
+								<h:p>CHIM/CNR1 Scienza e tecnologia della combustione</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="" nome="">
+								<h:p>
+									<h:b>Scienze della misura</h:b>
+								</h:p>
+								<h:p>ING-lND/10 Fisica tecnica industriale</h:p>
+								<h:p>ING-IND/11 Fisica tecnica ambientale</h:p>
+								<h:p>ING-lND/12 Misure meccaniche e termiche</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="" nome="">
+								<h:p>
+									<h:b>Ingegneria dell'informazione</h:b>
+								</h:p>
+								<h:p>ING-INF/01 Elettronica</h:p>
+								<h:p>lNG-lNF/02 Campi elettromagnetici</h:p>
+								<h:p>ING-lNF/03 Telecomunicazioni</h:p>
+								<h:p>lNG-lNF/04 Automatica</h:p>
+								<h:p>ING-lNF/05 Sistemi di elaborazione delle informazioni</h:p>
+								<h:p>lNG-lNF/06 Bioingegneria elettronica e informatica</h:p>
+								<h:p>ING-lNF/07 Misure elettriche ed elettroniche</h:p>
+								<h:p />
+							</contenitore>
+							<contenitore id="" nome="">
+								<h:p />
+							</contenitore>
 						</contenitore>
 					</DocumentoNIR>
 				</annesso>
@@ -295,7 +716,7 @@
 					<testata>
 						<denAnnesso>Allegato D</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="">
+					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="" />
@@ -324,12 +745,69 @@
 							(prot. n.
 							<numDoc nome="protocollo">33238</numDoc>
 							)
-							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.d" xlink:type="simple">Aggregazioni disciplinari per l'individuazione del Comitato garanti</rif>
-							</titoloDoc>
+							<titoloDoc>Aggregazioni disciplinari per l'individuazione del Comitato garanti</titoloDoc>
 						</intestazione>
-						<contenitore id="" nome="">
-							<h:p />
+						<contenitore id="con24" nome="corpo">
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>01</h:td>
+										<h:td>Scienze matematiche e informatiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>02</h:td>
+										<h:td>Scienze fisiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>03</h:td>
+										<h:td>Scienze chimiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>04</h:td>
+										<h:td>Scienze della terra</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>05</h:td>
+										<h:td>Scienze biologiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>06</h:td>
+										<h:td>Scienze mediche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>07</h:td>
+										<h:td>Scienze agrarie e veterinarie</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>08</h:td>
+										<h:td>Ingegneria civile e Architettura</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>09</h:td>
+										<h:td>Ingegneria industriale e dell'informazione</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>10</h:td>
+										<h:td>Scienze dell'antichità, filologiche-letterarie e storiche-artistiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>11</h:td>
+										<h:td>Scienze storiche, filosofiche, pedagogiche e psicologiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>12</h:td>
+										<h:td>Scienze giuridiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>13</h:td>
+										<h:td>Scienze economiche e statistiche</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>14</h:td>
+										<h:td>Scienze politiche e sociali</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
 						</contenitore>
 					</DocumentoNIR>
 				</annesso>
