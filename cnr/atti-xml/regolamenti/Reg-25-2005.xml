@@ -145,13 +145,13 @@
 								<num>1.</num>
 								<corpo>
 									Il presente regolamento deliberato dal Consiglio di amministrazione in attuazione dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art19-com1" xlink:type="simple">articolo 19 comma 1 del decreto legislativo 4 giugno 2003 n. 127</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art19-com1" xlink:type="simple">articolo 19 comma 1 del decreto legislativo 4 giugno 2003 n. 127</rif>
 									, di seguito "decreto di riordino", è sottoposto ad approvazione del Ministro dell'Istruzione dell'università e della ricerca che esercita i controlli di legittimità e di merito. I controlli di legittimità e di merito si esercitano nelle forme di cui all'
 									<mrif>
 										articolo 6, commi
-										<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art6-com9" xlink:type="simple">9</rif>
+										<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art6-com9" xlink:type="simple">9</rif>
 										e
-										<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art6-com10" xlink:type="simple">10</rif>
+										<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art6-com10" xlink:type="simple">10</rif>
 										della legge 9 maggio 1989, n. 168
 									</mrif>
 									; il controllo di merito è esercitato nella forma della richiesta motivata di riesame nel termine perentorio di sessanta giorni dalla loro comunicazione, decorso il quale si intendono approvati. Il regolamento è emanato con decreto del Presidente ed è pubblicato nella Gazzetta Ufficiale.
@@ -200,7 +200,7 @@
 									<num>e)</num>
 									<corpo>
 										attribuisce gli incarichi di direzione, previamente deliberati dal Consiglio di amministrazione, al direttore generale, ai direttori dei dipartimenti e ai direttori di istituto, nonché ai responsabili delle direzioni centrali di cui all'
-										<rif xlink:href="#art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
+										<rif xlink:href="~art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
 										;
 									</corpo>
 								</el>
@@ -240,7 +240,7 @@
 									<num>a)</num>
 									<corpo>
 										delibera nel rispetto dei principi generali della programmazione di cui all'
-										<rif xlink:href="#art39" xlink:type="simple">articolo 39</rif>
+										<rif xlink:href="~art39" xlink:type="simple">articolo 39</rif>
 										, le linee guida per la elaborazione del piano triennale dell'Ente, nonché, sentito il Consiglio scientifico generale relativamente al piano triennale e ai relativi aggiornamenti;
 									</corpo>
 								</el>
@@ -268,7 +268,7 @@
 									<num>g)</num>
 									<corpo>
 										nomina il Consiglio scientifico generale, i direttori di dipartimento, i direttori di istituto, il Comitato di valutazione, il direttore generale e i responsabili delle direzioni centrali di cui all'
-										<rif xlink:href="#art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
+										<rif xlink:href="~art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
 										;
 									</corpo>
 								</el>
@@ -276,7 +276,7 @@
 									<num>h)</num>
 									<corpo>
 										delibera l'affidamento degli incarichi al direttore generale, ai responsabili delle direzioni centrali di cui all'
-										<rif xlink:href="#art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
+										<rif xlink:href="~art38-com1" xlink:type="simple">articolo 38, comma 1</rif>
 										, ai dirigenti, ai direttori di dipartimento e d'istituto;
 									</corpo>
 								</el>
@@ -288,7 +288,7 @@
 									<num>l)</num>
 									<corpo>
 										delibera in ordine alla istituzione, trasformazione e soppressione degli istituti, secondo la procedura di cui all'
-										<rif xlink:href="#art25" xlink:type="simple">articolo 25</rif>
+										<rif xlink:href="~art25" xlink:type="simple">articolo 25</rif>
 										;
 									</corpo>
 								</el>
@@ -318,13 +318,13 @@
 										delibera in materia di partecipazione a soggetti esterni di cui all'
 										<mrif>
 											articolo 18, comma 1, lettere
-											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letb" xlink:type="simple">b)</rif>
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letb" xlink:type="simple">b)</rif>
 											e
-											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letc" xlink:type="simple">c)</rif>
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letc" xlink:type="simple">c)</rif>
 											del decreto di riordino
 										</mrif>
 										secondo i criteri di cui all'
-										<rif xlink:href="#art50" xlink:type="simple">articolo 50</rif>
+										<rif xlink:href="~art50" xlink:type="simple">articolo 50</rif>
 										;
 									</corpo>
 								</el>
@@ -332,9 +332,9 @@
 									<num>s)</num>
 									<corpo>
 										individua le macro aree di ricerca scientifica e tecnologica e assume le conseguenti determinazioni secondo la procedura di cui all'
-										<rif xlink:href="#art14" xlink:type="simple">articolo 14</rif>
+										<rif xlink:href="~art14" xlink:type="simple">articolo 14</rif>
 										ivi incluso il riassetto dei dipartimenti ai sensi dell'
-										<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
+										<rif xlink:href="~art16" xlink:type="simple">articolo 16</rif>
 										;
 									</corpo>
 								</el>
@@ -352,9 +352,9 @@
 										definisce con propria delibera criteri e modalità: per lo svolgimento delle attività di accreditamento per le pubbliche amministrazioni, certificazione, e prova; per la collaborazione con enti e istituzioni nazionali, stranieri, e internazionali nel settore della normativa tecnica anche ai fini dell'espletamento delle funzioni di vigilanza affidate da leggi e regolamenti al CNR; per le attività di valorizzazione e trasferimento dei risultati della ricerca; per le attività di consulenza tecnico scientifica e di fornitura di servizi previste dall'
 										<mrif>
 											articolo 3, comma 1,
-											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com1-leto" xlink:type="simple">lettera o)</rif>
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com1-leto" xlink:type="simple">lettera o)</rif>
 											e
-											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com1-letp" xlink:type="simple">lettera p)</rif>
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com1-letp" xlink:type="simple">lettera p)</rif>
 											del decreto di riordino
 										</mrif>
 										; per la realizzazione, nei termini previsti dalla legge, di attività di formazione post lauream;
@@ -389,7 +389,7 @@
 								<num>8.</num>
 								<corpo>
 									E' possibile partecipare alle riunioni del Consiglio di amministrazione tramite videoconferenza. Con il regolamento interno di cui al
-									<rif xlink:href="#art4-com9" xlink:type="simple">comma 9</rif>
+									<rif xlink:href="~art4-com9" xlink:type="simple">comma 9</rif>
 									si provvede a stabilire modalità per la partecipazione in videoconferenza tali da assicurare che tutti i partecipanti possano essere identificati, che gli stessi siano in grado di seguire la discussione e di intervenire in tempo reale nella trattazione degli argomenti.
 								</corpo>
 							</comma>
@@ -449,7 +449,7 @@
 								<num>7.</num>
 								<alinea>
 									Le terne di cui al
-									<rif xlink:href="#art5-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="~art5-com2" xlink:type="simple">comma 2</rif>
 									sono individuate in ragione di una per ciascuno di cinque raggruppamenti di dipartimenti definiti con deliberazione del Consiglio di amministrazione. In prima applicazione si fa riferimento ai seguenti cinque raggruppamenti:
 								</alinea>
 								<el id="art5-com7-leta">
@@ -482,11 +482,11 @@
 								<num>9.</num>
 								<corpo>
 									In caso di dimissioni o decadenza di un componente nominato o in base alle procedure elettive di cui al
-									<rif xlink:href="#art5-com3" xlink:type="simple">comma 3</rif>
+									<rif xlink:href="~art5-com3" xlink:type="simple">comma 3</rif>
 									o alle terne proposte dai direttori degli istituti di cui al
-									<rif xlink:href="#art5-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="~art5-com2" xlink:type="simple">comma 2</rif>
 									, il Consiglio di amministrazione procede alla nomina in ordine sequenziale dei non eletti o alla scelta nell'ambito di uno degli altri due designati ai sensi del
-									<rif xlink:href="#art5-com7" xlink:type="simple">comma 7</rif>
+									<rif xlink:href="~art5-com7" xlink:type="simple">comma 7</rif>
 									.
 								</corpo>
 							</comma>
@@ -514,7 +514,7 @@
 								<num>1.</num>
 								<corpo>
 									Il Collegio dei revisori dei conti è l'organo di controllo della regolarità amministrativa e contabile dell'ente e svolge i compiti previsti dall'
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2403" xlink:type="simple">articolo 2403 del codice civile</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2403" xlink:type="simple">articolo 2403 del codice civile</rif>
 									, per quanto applicabile.
 								</corpo>
 							</comma>
@@ -538,7 +538,7 @@
 								<num>6.</num>
 								<corpo>
 									I membri supplenti del Collegio possono essere chiamati a coadiuvare i membri effettivi nelle attività di cui al
-									<rif xlink:href="#art6-com5" xlink:type="simple">comma 5</rif>
+									<rif xlink:href="~art6-com5" xlink:type="simple">comma 5</rif>
 									, su invito del Presidente.
 								</corpo>
 							</comma>
@@ -562,7 +562,7 @@
 								<num>3.</num>
 								<corpo>
 									Il Comitato di valutazione, anche sulla base dei documenti di autovalutazione prodotti dalla rete scientifica e dei documenti di cui al
-									<rif xlink:href="#art7-com5" xlink:type="simple">comma 5</rif>
+									<rif xlink:href="~art7-com5" xlink:type="simple">comma 5</rif>
 									, valuta periodicamente i risultati dell'attività di ricerca dell'Ente, anche in relazione agli obiettivi definiti nel piano triennale e nel caso di loro adozione, negli strumenti di programmazione di lungo periodo, sulla base dei criteri di valutazione e dei parametri di qualità definiti dal Ministro dell'istruzione dell'università e della ricerca.
 								</corpo>
 							</comma>
@@ -570,7 +570,7 @@
 								<num>4.</num>
 								<corpo>
 									Il Comitato presenta al Presidente e al Consiglio di amministrazione una relazione di valutazione annuale dei risultati dell'attività di ricerca dell'Ente che è trasmessa, ai sensi dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art22" xlink:type="simple">articolo 22 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art22" xlink:type="simple">articolo 22 del decreto di riordino</rif>
 									, ai ministeri competenti.
 								</corpo>
 							</comma>
@@ -598,7 +598,7 @@
 								<num>1.</num>
 								<corpo>
 									Il Presidente si avvale di uffici di diretta collaborazione, di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art14" xlink:type="simple">articolo 14 del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art14" xlink:type="simple">articolo 14 del decreto legislativo 30 marzo 2001, n.165</rif>
 									e successive modificazioni, aventi esclusive competenze di supporto e di raccordo con l'amministrazione.
 								</corpo>
 							</comma>
@@ -634,7 +634,7 @@
 								<num>6.</num>
 								<corpo>
 									Il contingente di personale degli uffici di diretta collaborazione non può superare complessivamente le sessanta unità, oltre ai responsabili. Il contingente può essere modificato con delibera del Consiglio di amministrazione in funzione delle competenze attribuite agli uffici. I responsabili degli uffici di diretta collaborazione sono nominati, fatto salvo quanto disposto al
-									<rif xlink:href="#art8-com7" xlink:type="simple">comma 7</rif>
+									<rif xlink:href="~art8-com7" xlink:type="simple">comma 7</rif>
 									, tra i dirigenti amministrativi, i ricercatori e i tecnologi del CNR. La nomina, l'attribuzione dell'incarico e la valutazione di detti uffici è di competenza del Presidente.
 								</corpo>
 							</comma>
@@ -642,7 +642,7 @@
 								<num>7.</num>
 								<corpo>
 									Nei limiti del trenta percento delle unità di personale di cui al
-									<rif xlink:href="#art8-com6" xlink:type="simple">comma 6</rif>
+									<rif xlink:href="~art8-com6" xlink:type="simple">comma 6</rif>
 									, si può ricorrere, anche per l'individuazione dei responsabili, a dipendenti pubblici in posizione di aspettativa, fuori ruolo o comando, a collaboratori assunti con contratto a tempo determinato o ricorrere ad esperti e consulenti per particolari professionalità e specializzazioni, con incarichi di collaborazione coordinata e continuativa.
 								</corpo>
 							</comma>
@@ -670,7 +670,7 @@
 								<num>4.</num>
 								<corpo>
 									La direzione del Servizio è affidata ad un esperto, anche esterno all'Ente, con competenze di gestione progettuale e controllo di gestione, conseguita in strutture private o pubbliche, a livello di dirigente amministrativo o dirigente di ricerca o dirigente tecnologo, nominato dal Consiglio di amministrazione, nel rispetto dell'incompatibilità di cui all'
-									<rif xlink:href="#art10-com2" xlink:type="simple">articolo 10 comma 2</rif>
+									<rif xlink:href="~art10-com2" xlink:type="simple">articolo 10 comma 2</rif>
 									.
 								</corpo>
 							</comma>
@@ -698,7 +698,7 @@
 								<num>1.</num>
 								<corpo>
 									Il Presidente, se professore o ricercatore universitario, può essere collocato in aspettativa ai sensi dell'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art13" xlink:type="simple">articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13" xlink:type="simple">articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 									; se dipendente di altre pubbliche amministrazioni è collocato in aspettativa senza assegni.
 								</corpo>
 							</comma>
@@ -730,7 +730,7 @@
 								<num>6.</num>
 								<corpo>
 									Le dimissioni, anche al di fuori dell'ipotesi prevista dal
-									<rif xlink:href="#art10-com5" xlink:type="simple">comma 5</rif>
+									<rif xlink:href="~art10-com5" xlink:type="simple">comma 5</rif>
 									, sono presentate all'autorità che ha proceduto alla nomina e comunicate al Presidente, o a chi ne fa le veci, e hanno effetto dalla data della loro accettazione da parte dell'autorità competente per la nomina.
 								</corpo>
 							</comma>
@@ -810,7 +810,7 @@
 								<num>7.</num>
 								<corpo>
 									Al direttore generale è corrisposto un compenso, il cui ammontare è fissato dal Consiglio di amministrazione sulla base dei criteri di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15-com5" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art15-com5" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
 									.
 								</corpo>
 							</comma>
@@ -834,9 +834,9 @@
 								<num>4.</num>
 								<corpo>
 									Il direttore generale, se professore o ricercatore universitario, è collocato in aspettativa ai sensi dell'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 									; se ricercatore o tecnologo o dipendente di pubbliche amministrazioni è collocato in aspettativa senza assegni ai sensi dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
 									e successive modificazioni.
 								</corpo>
 							</comma>
@@ -867,7 +867,7 @@
 									<num>1.</num>
 									<corpo>
 										Il Consiglio di amministrazione, previa istruttoria che tenga conto dello sviluppo degli scenari e delle opportunità della scienza e della tecnologia in ambito internazionale, europeo e nazionale, nonché degli eventuali risvolti sul numero, sulle finalità e sull'organizzazione dei dipartimenti, procede alla trasformazione o soppressione delle macro aree di cui al
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com2" xlink:type="simple">comma 2 dell'articolo 3 del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com2" xlink:type="simple">comma 2 dell'articolo 3 del decreto di riordino</rif>
 										o all'individuazione di nuove macro aree in numero comunque non superiore a dodici.
 									</corpo>
 								</comma>
@@ -883,9 +883,9 @@
 									<num>1.</num>
 									<corpo>
 										I dipartimenti sono le unità organizzative, istituite in ragione di uno per ciascuna delle macro aree di ricerca scientifica e tecnologica, con compiti di programmazione, coordinamento e controllo dei risultati, organizzate in progetti per classi di obiettivi omogenei, dei quali affidano la realizzazione agli istituti, alle unità di ricerca presso terzi di cui all'
-										<rif xlink:href="#art32" xlink:type="simple">articolo 32</rif>
+										<rif xlink:href="~art32" xlink:type="simple">articolo 32</rif>
 										, direttamente a imprese o altri operatori di ricerca, previa delibera del Consiglio di amministrazione ai sensi dell'
-										<rif xlink:href="#art4-com2-letp" xlink:type="simple">articolo 4, comma 2, lettera p)</rif>
+										<rif xlink:href="~art4-com2-letp" xlink:type="simple">articolo 4, comma 2, lettera p)</rif>
 										. Essi promuovono lo sviluppo di grandi progetti e programmi sulle materie di competenza, anche a livello europeo e internazionale, e l'integrazione con il territorio, con le università e le imprese.
 									</corpo>
 								</comma>
@@ -893,7 +893,7 @@
 									<num>2.</num>
 									<corpo>
 										Relativamente agli affidamenti esterni diversi dall'acquisizione di beni, servizi o prestazioni professionali, i dipartimenti decidono in applicazione delle previsioni inserite nella programmazione e nel rispetto di quanto indicato dall'
-										<rif xlink:href="#art49" xlink:type="simple">articolo 49</rif>
+										<rif xlink:href="~art49" xlink:type="simple">articolo 49</rif>
 										.
 									</corpo>
 								</comma>
@@ -905,7 +905,7 @@
 									<num>4.</num>
 									<corpo>
 										L'attività complessiva dei dipartimenti si svolge nell'ambito del piano triennale del dipartimento, con relativi aggiornamenti annuali, di cui all'
-										<rif xlink:href="#art41" xlink:type="simple">articolo 41</rif>
+										<rif xlink:href="~art41" xlink:type="simple">articolo 41</rif>
 										.
 									</corpo>
 								</comma>
@@ -929,7 +929,7 @@
 									<num>2.</num>
 									<corpo>
 										Conseguentemente all'istituzione del dipartimento, il Consiglio di amministrazione, su proposta del Presidente, nomina il direttore di dipartimento, secondo la procedura di cui all'
-										<rif xlink:href="#art18" xlink:type="simple">articolo 18</rif>
+										<rif xlink:href="~art18" xlink:type="simple">articolo 18</rif>
 										.
 									</corpo>
 								</comma>
@@ -937,7 +937,7 @@
 									<num>3.</num>
 									<corpo>
 										Il direttore di dipartimento, sentito il Consiglio dei direttori di dipartimento, sulla base del programma preliminare di cui al
-										<rif xlink:href="#art16-com1" xlink:type="simple">comma 1</rif>
+										<rif xlink:href="~art16-com1" xlink:type="simple">comma 1</rif>
 										, e previa consultazione dei direttori degli istituti interessati alle attività del dipartimento, individua gli istituti afferenti al dipartimento, le opportunità di coinvolgimento di altri istituti, nonché le risorse finanziarie, strumentali e di personale necessarie al dipartimento e presenta una proposta complessiva sulla quale delibera il Consiglio di amministrazione.
 									</corpo>
 								</comma>
@@ -949,7 +949,7 @@
 									<num>5.</num>
 									<corpo>
 										Eventuali modifiche dell'afferenza degli istituti ai dipartimenti è disposta con le stesse procedure di cui al
-										<rif xlink:href="#art16-com3" xlink:type="simple">comma 3</rif>
+										<rif xlink:href="~art16-com3" xlink:type="simple">comma 3</rif>
 										.
 									</corpo>
 								</comma>
@@ -964,9 +964,9 @@
 										<num>a)</num>
 										<corpo>
 											individua, in coerenza con le linee guida di cui al
-											<rif xlink:href="#art4-com2-leta" xlink:type="simple">comma 2 lettera a) dell'articolo 4</rif>
+											<rif xlink:href="~art4-com2-leta" xlink:type="simple">comma 2 lettera a) dell'articolo 4</rif>
 											, l'articolazione in progetti delle attività del dipartimento e, conseguentemente, elabora, sentito il parere del Consiglio scientifico di dipartimento, il piano triennale del dipartimento e i relativi aggiornamenti, ai sensi dell'
-											<rif xlink:href="#art42" xlink:type="simple">articolo 42</rif>
+											<rif xlink:href="~art42" xlink:type="simple">articolo 42</rif>
 											;
 										</corpo>
 									</el>
@@ -986,9 +986,9 @@
 										<num>e)</num>
 										<corpo>
 											affida la realizzazione dei progetti di ricerca all'interno dell'Ente ai sensi dell'
-											<rif xlink:href="#art44" xlink:type="simple">articolo 44</rif>
+											<rif xlink:href="~art44" xlink:type="simple">articolo 44</rif>
 											e all'esterno dell'Ente ai sensi dell'
-											<rif xlink:href="#art49" xlink:type="simple">articolo 49</rif>
+											<rif xlink:href="~art49" xlink:type="simple">articolo 49</rif>
 											;
 										</corpo>
 									</el>
@@ -1004,7 +1004,7 @@
 										<num>h)</num>
 										<corpo>
 											richiede al Consiglio di amministrazione l'autorizzazione per l'istituzione di unità di ricerca presso terzi per singoli progetti a tempo definito ai sensi dell'
-											<rif xlink:href="#art32" xlink:type="simple">articolo 32</rif>
+											<rif xlink:href="~art32" xlink:type="simple">articolo 32</rif>
 											;
 										</corpo>
 									</el>
@@ -1012,7 +1012,7 @@
 										<num>i)</num>
 										<corpo>
 											adotta gli atti di organizzazione degli uffici interni al dipartimento e conferisce l'incarico ai responsabili di unità organizzative di supporto ai quali può attribuire deleghe per le attività di gestione. Attribuisce deleghe ai responsabili di progetto individuati con le modalità di cui all'
-											<rif xlink:href="#art20" xlink:type="simple">articolo 20</rif>
+											<rif xlink:href="~art20" xlink:type="simple">articolo 20</rif>
 											;
 										</corpo>
 									</el>
@@ -1069,7 +1069,7 @@
 									<num>8.</num>
 									<corpo>
 										Gli atti della commissione sono approvati dal Consiglio di amministrazione. Nei casi previsti dall'
-										<rif xlink:href="#art19-com7" xlink:type="simple">articolo 19 comma 7</rif>
+										<rif xlink:href="~art19-com7" xlink:type="simple">articolo 19 comma 7</rif>
 										la nomina è subordinata alla preventiva richiesta di aspettativa all'Università o all'Amministrazione. La scelta, la nomina e l'affidamento dell'incarico sono deliberati dal Consiglio di amministrazione, l'incarico è attribuito dal Presidente.
 									</corpo>
 								</comma>
@@ -1104,7 +1104,7 @@
 										<num>b)</num>
 										<corpo>
 											valutazione negativa sui risultati raggiunti espressa dal Consiglio di amministrazione in applicazione dell'
-											<rif xlink:href="#art4-com2-leti" xlink:type="simple">articolo 4 comma 2 lettera i)</rif>
+											<rif xlink:href="~art4-com2-leti" xlink:type="simple">articolo 4 comma 2 lettera i)</rif>
 											con particolare riferimento alla attuazione delle linee strategiche di sviluppo delle attività del dipartimento contenute nel documento presentato nell'ambito della procedura di nomina ed eventuali aggiornamenti derivanti dal processo di programmazione; in questo caso il predetto atto di revoca può essere emanato solo dopo aver garantito al direttore un contraddittorio in relazione alle valutazioni negative attribuitegli. Ai fini dell'applicazione della presente lettera il Consiglio di amministrazione procede alla valutazione almeno una volta all'anno;
 										</corpo>
 									</el>
@@ -1112,7 +1112,7 @@
 										<num>c)</num>
 										<corpo>
 											violazione delle disposizioni in materia di incompatibilità e conflitto di interessi previste dal presente regolamento accertate mediante l'applicazione della procedura prevista dal
-											<rif xlink:href="#art10-com5" xlink:type="simple">comma 5 dell'articolo 10</rif>
+											<rif xlink:href="~art10-com5" xlink:type="simple">comma 5 dell'articolo 10</rif>
 											.
 										</corpo>
 									</el>
@@ -1125,7 +1125,7 @@
 									<num>4.</num>
 									<corpo>
 										In caso di dimissioni, decesso o revoca dall'incarico prima del termine del quinquennio e in attesa dello svolgimento della selezione pubblica di cui all'
-										<rif xlink:href="#art18" xlink:type="simple">articolo 18</rif>
+										<rif xlink:href="~art18" xlink:type="simple">articolo 18</rif>
 										, le funzioni del direttore sono svolte da un facente funzioni nominato dal Presidente.
 									</corpo>
 								</comma>
@@ -1133,7 +1133,7 @@
 									<num>5.</num>
 									<corpo>
 										Al direttore di dipartimento si applicano le norme di cui all'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15-com1" xlink:type="simple">articolo 15, comma 1, del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art15-com1" xlink:type="simple">articolo 15, comma 1, del decreto di riordino</rif>
 										. La carica di direttore di dipartimento è incompatibile con altri uffici o impieghi pubblici o privati, anche elettivi, nonché con le funzioni di amministratore o sindaco di società che abbiano fine di lucro e con l'esercizio di attività commerciali o industriali; l'esercizio di attività professionali o comunque di consulenza, può essere autorizzato dal Consiglio di amministrazione in considerazione del volume di impegno previsto, sulla base di un'autocertificazione sottoscritta dall'interessato.
 									</corpo>
 								</comma>
@@ -1145,9 +1145,9 @@
 									<num>7.</num>
 									<corpo>
 										Il direttore di dipartimento, se professore o ricercatore universitario, è collocato in aspettativa ai sensi dell'
-										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 										; se ricercatore o tecnologo di altri enti o dipendente di altre pubbliche amministrazioni è collocato in aspettativa senza assegni ai sensi dell'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
 										e successive modificazioni.
 									</corpo>
 								</comma>
@@ -1155,7 +1155,7 @@
 									<num>8.</num>
 									<corpo>
 										Al direttore è corrisposto un compenso, il cui ammontare è fissato dal Consiglio di amministrazione sulla base dei criteri di cui all'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15-com1" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art15-com1" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
 										.
 									</corpo>
 								</comma>
@@ -1171,7 +1171,7 @@
 									<num>2.</num>
 									<corpo>
 										Gli incarichi per la funzione di responsabile di progetto sono conferiti di norma a ricercatori e tecnologi dell'Ente. Possono essere conferiti altresì incarichi per la funzione di responsabile di progetto ad esperti esterni di alta qualificazione scientifica nello specifico settore progettuale e comprovata esperienza di natura gestionale, in questo caso la delibera di cui al
-										<rif xlink:href="#art20-com3" xlink:type="simple">comma 3</rif>
+										<rif xlink:href="~art20-com3" xlink:type="simple">comma 3</rif>
 										specifica modalità e condizioni per il conferimento dell'incarico.
 									</corpo>
 								</comma>
@@ -1263,7 +1263,7 @@
 									<num>4.</num>
 									<corpo>
 										Il Consiglio dei direttori di dipartimento partecipa al processo di programmazione ai sensi dell'
-										<rif xlink:href="#art42" xlink:type="simple">articolo 42</rif>
+										<rif xlink:href="~art42" xlink:type="simple">articolo 42</rif>
 										.
 									</corpo>
 								</comma>
@@ -1291,9 +1291,9 @@
 									<num>2.</num>
 									<corpo>
 										Gli istituti operano nell'ambito della programmazione di cui all'
-										<rif xlink:href="#art42" xlink:type="simple">articolo 42</rif>
+										<rif xlink:href="~art42" xlink:type="simple">articolo 42</rif>
 										con autonomia scientifica, finanziaria e gestionale, nel rispetto dell'autonomia scientifica dei ricercatori di cui all'
-										<rif xlink:href="#art43" xlink:type="simple">articolo 43</rif>
+										<rif xlink:href="~art43" xlink:type="simple">articolo 43</rif>
 										.
 									</corpo>
 								</comma>
@@ -1325,7 +1325,7 @@
 									<num>2.</num>
 									<corpo>
 										L'istituzione degli istituti deve essere conforme con i piani di attività dell'Ente, coerente con la missione di cui all'
-										<rif xlink:href="#art24-com3" xlink:type="simple">articolo 24 comma 3</rif>
+										<rif xlink:href="~art24-com3" xlink:type="simple">articolo 24 comma 3</rif>
 										, nonché deve tenere conto della necessità di una dimensione di risorse adeguata alle esigenze delle diverse discipline. Il raggiungimento di una dimensione adeguata in termini di risorse umane e, per le discipline scientifico-tecnologiche, strumentali, deve essere valutato anche in relazione alla possibilità di collaborazione con le università, con altri organismi scientifici e con altre strutture di ricerca pubbliche o private, così da assicurare una capacità di ricerca complessiva adeguata e coerente con gli obiettivi del Programma nazionale di ricerca e tale da consentire una cooperazione con analoghe strutture di livello internazionale.
 									</corpo>
 								</comma>
@@ -1341,14 +1341,14 @@
 									<num>1.</num>
 									<alinea>
 										Il direttore dirige e coordina l'attività dell'istituto avvalendosi dei responsabili di commessa di cui all'
-										<rif xlink:href="#art29" xlink:type="simple">articolo 29</rif>
+										<rif xlink:href="~art29" xlink:type="simple">articolo 29</rif>
 										e di unita di supporto tecnico amministrativo, nonché del Consiglio di istituto. A tal fine, adottando i necessari atti di competenza dell'istituto, compresi quelli che impegnano l'istituto verso l'esterno, nel rispetto dei regolamenti dell'ente:
 									</alinea>
 									<el id="art26-com1-leta">
 										<num>a)</num>
 										<corpo>
 											propone al dipartimento, in attuazione dell'
-											<rif xlink:href="#art42" xlink:type="simple">articolo 42</rif>
+											<rif xlink:href="~art42" xlink:type="simple">articolo 42</rif>
 											, e sentito il Consiglio di istituto, il piano triennale;
 										</corpo>
 									</el>
@@ -1409,7 +1409,7 @@
 									<num>3.</num>
 									<corpo>
 										I criteri di valutazione devono accertare la sussistenza dei requisiti soggettivi di cui al
-										<rif xlink:href="#art27-com1" xlink:type="simple">primo comma</rif>
+										<rif xlink:href="~art27-com1" xlink:type="simple">primo comma</rif>
 										tenendo conto delle esigenze scientifiche e organizzative dell'istituto.
 									</corpo>
 								</comma>
@@ -1433,7 +1433,7 @@
 									<num>8.</num>
 									<corpo>
 										Gli atti della commissione sono approvati dal Consiglio di amministrazione. Nei casi previsti dall'
-										<rif xlink:href="#art28-com6" xlink:type="simple">articolo 28 comma 6</rif>
+										<rif xlink:href="~art28-com6" xlink:type="simple">articolo 28 comma 6</rif>
 										la nomina è subordinata alla preventiva richiesta di aspettativa all'Università o all'Amministrazione. La scelta, la nomina e l'affidamento dell'incarico sono deliberati dal Consiglio di amministrazione, l'incarico è attribuito dal Presidente.
 									</corpo>
 								</comma>
@@ -1449,7 +1449,7 @@
 									<num>11.</num>
 									<corpo>
 										Nel caso in cui il direttore consegua lo stato di quiescenza nel corso dell'espletamento del mandato si applica il
-										<rif xlink:href="#art18-com11" xlink:type="simple">comma 11 dell'articolo 18</rif>
+										<rif xlink:href="~art18-com11" xlink:type="simple">comma 11 dell'articolo 18</rif>
 										.
 									</corpo>
 								</comma>
@@ -1468,9 +1468,9 @@
 										<num>a)</num>
 										<corpo>
 											ristrutturazione della rete di ricerca del CNR in base all'
-											<rif xlink:href="#art56" xlink:type="simple">articolo 56</rif>
+											<rif xlink:href="~art56" xlink:type="simple">articolo 56</rif>
 											o qualora si proceda ai sensi dell'
-											<rif xlink:href="#art25" xlink:type="simple">articolo 25</rif>
+											<rif xlink:href="~art25" xlink:type="simple">articolo 25</rif>
 											;
 										</corpo>
 									</el>
@@ -1478,11 +1478,11 @@
 										<num>b)</num>
 										<corpo>
 											valutazione negativa sui risultati raggiunti espressa dal Consiglio di amministrazione in applicazione dell'
-											<rif xlink:href="#art4-com2-leti" xlink:type="simple">articolo 4 comma 1 lettera i)</rif>
+											<rif xlink:href="~art4-com2-leti" xlink:type="simple">articolo 4 comma 1 lettera i)</rif>
 											con particolare riferimento all'assolvimento della missione di cui all'
-											<rif xlink:href="#art24" xlink:type="simple">articolo 24</rif>
+											<rif xlink:href="~art24" xlink:type="simple">articolo 24</rif>
 											e al conseguimento degli obiettivi assegnati in sede di programmazione delle attività, con particolare riferimento all'
-											<rif xlink:href="#art26-com2" xlink:type="simple">articolo 26 comma 2</rif>
+											<rif xlink:href="~art26-com2" xlink:type="simple">articolo 26 comma 2</rif>
 											, alla attuazione delle linee strategiche di sviluppo delle attività dell'istituto contenute nel documento presentato nell'ambito della procedura di nomina ed eventuali aggiornamenti derivanti dal processo di programmazione. In questo caso il predetto atto di revoca può essere emanato solo dopo aver garantito al direttore un contraddittorio in relazione alle valutazioni negative attribuitegli. Ai fini dell'applicazione della presente lettera il Consiglio di amministrazione procede alla valutazione almeno una volta all'anno;
 										</corpo>
 									</el>
@@ -1490,7 +1490,7 @@
 										<num>c)</num>
 										<corpo>
 											violazione delle disposizioni in materia di incompatibilità e conflitto di interessi previste dal presente regolamento accertate mediante l'applicazione della procedura prevista dal
-											<rif xlink:href="#art10-com5" xlink:type="simple">comma 5 dell'articolo 10</rif>
+											<rif xlink:href="~art10-com5" xlink:type="simple">comma 5 dell'articolo 10</rif>
 											.
 										</corpo>
 									</el>
@@ -1503,7 +1503,7 @@
 									<num>4.</num>
 									<corpo>
 										In caso di dimissioni, decesso o revoca dall'incarico prima del termine del quinquennio e in attesa dello svolgimento della selezione pubblica di cui all'
-										<rif xlink:href="#art27" xlink:type="simple">articolo 27</rif>
+										<rif xlink:href="~art27" xlink:type="simple">articolo 27</rif>
 										, le funzioni del direttore sono svolte da un facente funzioni nominato dal Presidente.
 									</corpo>
 								</comma>
@@ -1511,7 +1511,7 @@
 									<num>5.</num>
 									<corpo>
 										Al direttore di istituto si applicano le norme di cui all'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15-com1" xlink:type="simple">articolo 15, comma 1, del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art15-com1" xlink:type="simple">articolo 15, comma 1, del decreto di riordino</rif>
 										. La carica di direttore di istituto è incompatibile con altri uffici o impieghi pubblici o privati, anche elettivi, nonché con le funzioni di amministratore o sindaco di società che abbiano fine di lucro e con l'esercizio di attività commerciali o industriali; l'esercizio di attività professionali o comunque di consulenza, può essere autorizzato dal Consiglio di amministrazione in considerazione del volume di impegno previsto, sulla base di un'autocertificazione sottoscritta dall'interessato.
 									</corpo>
 								</comma>
@@ -1519,9 +1519,9 @@
 									<num>6.</num>
 									<corpo>
 										Il direttore di istituto, se professore o ricercatore universitario, è collocato in aspettativa ai sensi dell'
-										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 										; se ricercatore o tecnologo di altri enti o dipendente di altre pubbliche amministrazioni è collocato in aspettativa senza assegni ai sensi dell'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6" xlink:type="simple">articolo 19 comma 6 del decreto legislativo 30 marzo 2001, n.165</rif>
 										e successive modificazioni.
 									</corpo>
 								</comma>
@@ -1529,7 +1529,7 @@
 									<num>7.</num>
 									<corpo>
 										Al direttore è corrisposto un compenso, il cui ammontare è fissato dal Consiglio di amministrazione sulla base dei criteri di cui all'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art15-com5" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art15-com5" xlink:type="simple">articolo 15 comma 5 del decreto di riordino</rif>
 										.
 									</corpo>
 								</comma>
@@ -1541,7 +1541,7 @@
 									<num>1.</num>
 									<corpo>
 										Il responsabile di commessa, è individuato tra i ricercatori e tecnologi dell'istituto e tra gli associati nei limiti precisati dall'
-										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">articolo 17 del regolamento del personale</rif>
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art17" xlink:type="simple">articolo 17 del regolamento del personale</rif>
 										, coordina l'utilizzo delle risorse di personale, strumentali e finanziarie che nella programmazione sono assegnate alla commessa ed è responsabile, nei confronti del direttore di istituto, dei risultati ottenuti.
 									</corpo>
 								</comma>
@@ -1549,7 +1549,7 @@
 									<num>2.</num>
 									<corpo>
 										L'incarico di responsabile di commessa è conferito dal Presidente su proposta congiunta del direttore di istituto cui è affidata la commessa e del direttore del dipartimento che la affida. Il direttore dell'istituto conferisce al responsabile di commessa le necessarie attribuzioni e deleghe. Il Consiglio di amministrazione definisce, con propria delibera, le modalità del conferimento delle deleghe sulla base di indirizzi operativi proposti dal direttore generale. Al responsabile di commessa può essere riconosciuta una indennità ai sensi dell'
-										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art28" xlink:type="simple">articolo 28 del Regolamento del personale</rif>
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art28" xlink:type="simple">articolo 28 del Regolamento del personale</rif>
 										con le modalità e nei limiti stabiliti con delibera del Consiglio di amministrazione.
 									</corpo>
 								</comma>
@@ -1569,7 +1569,7 @@
 									<num>2.</num>
 									<corpo>
 										Per lo svolgimento dei compiti di ragioneria, nonché dei compiti di acquisizione delle entrate e di erogazione delle spese ai sensi del regolamento di contabilità, presso l'istituto è costituito un ufficio di supporto amministrativo e contabile, denominato "segreteria amministrativa" composto da personale assegnato all'istituto e da personale in servizio presso unità decentrate dell'amministrazione dell'Ente distaccato presso l'istituto. La segreteria amministrativa è coordinata, nel rispetto delle direttive del direttore, da un segretario amministrativo nominato dal direttore tra il personale di adeguato livello professionale assegnato o distaccato presso l'istituto. Allo scopo di aumentare l'efficienza nello svolgimento delle funzioni di supporto tecnico amministrativo possono essere costituite unità aventi tali compiti che operano simultaneamente per dare supporto a più istituti, riportando dal punto di vista gerarchico ad uno degli istituti stessi o, in alternativa, a una delle unità di cui all'
-										<rif xlink:href="#art36-com1" xlink:type="simple">articolo 36 comma 1</rif>
+										<rif xlink:href="~art36-com1" xlink:type="simple">articolo 36 comma 1</rif>
 										del presente regolamento.
 									</corpo>
 								</comma>
@@ -1577,7 +1577,7 @@
 									<num>3.</num>
 									<corpo>
 										Gli istituti possono avere delle unità organizzative di supporto in sedi diverse dalla sede istituzionale dell'istituto. Tali unità, cui è preposto un responsabile delegato alla gestione ai sensi dell'
-										<rif xlink:href="#art26-com1-letf" xlink:type="simple">articolo 26 comma 1 lettera f)</rif>
+										<rif xlink:href="~art26-com1-letf" xlink:type="simple">articolo 26 comma 1 lettera f)</rif>
 										, sono istituite dal direttore dell'istituto previa delibera del Consiglio di amministrazione. L'istruttoria per il Consiglio di amministrazione è predisposta dal direttore del dipartimento su richiesta del direttore di istituto.
 									</corpo>
 								</comma>
@@ -1600,7 +1600,7 @@
 										<num>c)</num>
 										<corpo>
 											coadiuva il direttore di istituto nell'elaborazione del piano di gestione e della relazione annuale di cui all'
-											<rif xlink:href="#art51" xlink:type="simple">articolo 51</rif>
+											<rif xlink:href="~art51" xlink:type="simple">articolo 51</rif>
 											.
 										</corpo>
 									</el>
@@ -1623,9 +1623,9 @@
 										Al Consiglio di istituto, limitatamente alle materie indicate dalle
 										<mrif>
 											lettere
-											<rif xlink:href="#art31-com1-leta" xlink:type="simple">a)</rif>
+											<rif xlink:href="~art31-com1-leta" xlink:type="simple">a)</rif>
 											e
-											<rif xlink:href="#art31-com1-letc" xlink:type="simple">c)</rif>
+											<rif xlink:href="~art31-com1-letc" xlink:type="simple">c)</rif>
 											del comma 1
 										</mrif>
 										, partecipa un rappresentante eletto dal personale tecnico-amministrativo;
@@ -1641,9 +1641,9 @@
 										I pareri e le proposte di cui alle
 										<mrif>
 											lettere
-											<rif xlink:href="#art31-com1-leta" xlink:type="simple">a)</rif>
+											<rif xlink:href="~art31-com1-leta" xlink:type="simple">a)</rif>
 											e
-											<rif xlink:href="#art31-com1-letb" xlink:type="simple">b)</rif>
+											<rif xlink:href="~art31-com1-letb" xlink:type="simple">b)</rif>
 											del comma 1
 										</mrif>
 										sono trasmessi al direttore del dipartimento.
@@ -1698,7 +1698,7 @@
 								<num>2.</num>
 								<corpo>
 									Gli uffici della Direzione generale, istituti dal direttore generale ai sensi dell'
-									<rif xlink:href="#art11-com6-leth" xlink:type="simple">articolo 11 comma 6 lettera h)</rif>
+									<rif xlink:href="~art11-com6-leth" xlink:type="simple">articolo 11 comma 6 lettera h)</rif>
 									, svolgono funzioni di supporto al direttore generale per l'esercizio delle sue attività.
 								</corpo>
 							</comma>
@@ -1802,7 +1802,7 @@
 								<num>2.</num>
 								<corpo>
 									Le aree di ricerca, cui è preposto un responsabile delegato con i compiti di supporto di cui al
-									<rif xlink:href="#art36-com1" xlink:type="simple">comma 1</rif>
+									<rif xlink:href="~art36-com1" xlink:type="simple">comma 1</rif>
 									e nominato dal direttore della direzione centrale "Supporto alla programmazione e alle infrastrutture", sono istituite con deliberazione del Consiglio di amministrazione, su proposta del Direttore generale sentiti gli istituti interessati.
 								</corpo>
 							</comma>
@@ -1814,7 +1814,7 @@
 								<num>4.</num>
 								<corpo>
 									Gli Istituti localizzati nell'Area possono tra loro concordare l'organizzazione di ulteriori servizi comuni stipulando apposite convenzioni nell'ambito del Comitato degli utenti di cui all'
-									<rif xlink:href="#art37" xlink:type="simple">articolo 37</rif>
+									<rif xlink:href="~art37" xlink:type="simple">articolo 37</rif>
 									.
 								</corpo>
 							</comma>
@@ -1845,7 +1845,7 @@
 									<num>c)</num>
 									<corpo>
 										formula proposte circa la gestione di servizi ulteriori sulla base di convenzioni stipulate ai sensi del
-										<rif xlink:href="#art36-com4" xlink:type="simple">comma 4 dell'articolo 36</rif>
+										<rif xlink:href="~art36-com4" xlink:type="simple">comma 4 dell'articolo 36</rif>
 										;
 									</corpo>
 								</el>
@@ -1866,7 +1866,7 @@
 								<num>1.</num>
 								<corpo>
 									Le direzioni centrali sono affidate alla responsabilità di dirigenti generali che dirigono, coordinano e controllano l'attività dei dirigenti preposti agli uffici interni alle stesse, esercitando le funzioni di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art16" xlink:type="simple">articolo 16 del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art16" xlink:type="simple">articolo 16 del decreto legislativo 30 marzo 2001, n.165</rif>
 									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel regolamento del personale e esercitano coerenti poteri anche di spesa nell'ambito del piano di gestione.
 								</corpo>
 							</comma>
@@ -1874,7 +1874,7 @@
 								<num>2.</num>
 								<corpo>
 									I dirigenti responsabili degli uffici dirigenziali esercitano le funzioni di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art17" xlink:type="simple">articolo 17 del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art17" xlink:type="simple">articolo 17 del decreto legislativo 30 marzo 2001, n.165</rif>
 									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel regolamento del personale esercitando coerenti poteri anche di spesa nell'ambito del piano di gestione.
 								</corpo>
 							</comma>
@@ -1930,7 +1930,7 @@
 								<num>1.</num>
 								<corpo>
 									Il piano triennale definisce gli obiettivi, i programmi di ricerca, i risultati socio-economici attesi, nonché le correlate risorse, in coerenza con i principi di cui all'
-									<rif xlink:href="#art39" xlink:type="simple">articolo 39</rif>
+									<rif xlink:href="~art39" xlink:type="simple">articolo 39</rif>
 									e comprende la programmazione triennale del fabbisogno del personale, sia a tempo indeterminato sia a tempo determinato.
 								</corpo>
 							</comma>
@@ -1942,7 +1942,7 @@
 								<num>3.</num>
 								<corpo>
 									Nel piano triennale, in applicazione dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3" xlink:type="simple">articolo 3 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3" xlink:type="simple">articolo 3 del decreto di riordino</rif>
 									, saranno altresì illustrate per il complesso delle attività svolte dall'Ente, le valenze, a carattere generale e ad impatto esterno sul sistema produttivo e sociale, trasversali rispetto alle aree tematiche.
 								</corpo>
 							</comma>
@@ -1962,7 +1962,7 @@
 								<num>7.</num>
 								<corpo>
 									Le informazioni specifiche relative all'anno in corso di cui al
-									<rif xlink:href="#art41-com5" xlink:type="simple">comma 5</rif>
+									<rif xlink:href="~art41-com5" xlink:type="simple">comma 5</rif>
 									, sono aggiornate trimestralmente attraverso una nota integrativa predisposta dal direttore generale che illustra le risultanze dell'utilizzo del piano di gestione come modificato nel frattempo ai sensi del regolamento di contabilità.
 								</corpo>
 							</comma>
@@ -2018,7 +2018,7 @@
 								<num>7.</num>
 								<corpo>
 									Il direttore generale integra la proposta predisposta dal Consiglio dei direttori di dipartimento e le proposte di ricerca spontanea a tema libero raccolte dagli istituti con le esigenze gestionali dell'Ente predisponendo una proposta preliminare di piano triennale per il Presidente, comprensiva degli elementi relativi al primo anno del triennio di cui al
-									<rif xlink:href="#art41-com5" xlink:type="simple">comma 5 dell'articolo 41</rif>
+									<rif xlink:href="~art41-com5" xlink:type="simple">comma 5 dell'articolo 41</rif>
 									.
 								</corpo>
 							</comma>
@@ -2026,7 +2026,7 @@
 								<num>8.</num>
 								<corpo>
 									Il Presidente, sulla base della proposta preliminare di piano triennale di cui al
-									<rif xlink:href="#art42-com7" xlink:type="simple">comma 7</rif>
+									<rif xlink:href="~art42-com7" xlink:type="simple">comma 7</rif>
 									definisce la proposta conclusiva di piano triennale corredata del parere del Consiglio scientifico generale.
 								</corpo>
 							</comma>
@@ -2058,7 +2058,7 @@
 								<num>1.</num>
 								<corpo>
 									Nell'ambito degli strumenti di programmazione i ricercatori e i tecnologi svolgono attività di ricerca spontanea a tema libero e partecipano nel rispetto dell'autonomia scientifica garantita dall'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-09-29;381#art13" xlink:type="simple">articolo 13 del decreto legislativo 29 settembre 1999, n. 381</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-09-29;381~art13" xlink:type="simple">articolo 13 del decreto legislativo 29 settembre 1999, n. 381</rif>
 									, a progetti cui contribuisce l'istituto di appartenenza, sia di sviluppo competenze, sia di ricerca sviluppo e dimostrazione su tematiche a carattere strategico, in coerenza con il Programma nazionale della ricerca.
 								</corpo>
 							</comma>
@@ -2066,7 +2066,7 @@
 								<num>2.</num>
 								<corpo>
 									I ricercatori hanno facoltà di proposta per attività di ricerca relativamente sia allo sviluppo competenze sia a tematiche di carattere strategico, nonché per iniziative di formazione in applicazione dell'
-									<rif xlink:href="#art46" xlink:type="simple">articolo 46</rif>
+									<rif xlink:href="~art46" xlink:type="simple">articolo 46</rif>
 									.
 								</corpo>
 							</comma>
@@ -2076,9 +2076,9 @@
 									Le disposizioni di cui ai
 									<mrif>
 										commi
-										<rif xlink:href="#art43-com1" xlink:type="simple">1</rif>
+										<rif xlink:href="~art43-com1" xlink:type="simple">1</rif>
 										e
-										<rif xlink:href="#art43-com2" xlink:type="simple">2</rif>
+										<rif xlink:href="~art43-com2" xlink:type="simple">2</rif>
 									</mrif>
 									si applicano anche al personale dipendente con contratto di lavoro a tempo determinato fermo restando l'obbligo di svolgere le attività programmatiche per la cui realizzazione l'assunzione è stata effettuata.
 								</corpo>
@@ -2091,7 +2091,7 @@
 								<num>5.</num>
 								<corpo>
 									Il direttore d'istituto, in apposita sezione della relazione annuale di autovalutazione, espone sinteticamente opportunità ed esiti delle attività di cui al
-									<rif xlink:href="#art43-com1" xlink:type="simple">comma 1</rif>
+									<rif xlink:href="~art43-com1" xlink:type="simple">comma 1</rif>
 									, acquisendo preventivamente il parere del Consiglio di istituto.
 								</corpo>
 							</comma>
@@ -2107,7 +2107,7 @@
 								<num>2.</num>
 								<corpo>
 									Le attività sono articolate in una o più commesse, individuando per ciascuna di esse obiettivi convenuti e risorse affidate, ivi inclusa l'indicazione, ove necessario, del responsabile di commessa in applicazione dell'
-									<rif xlink:href="#art29" xlink:type="simple">articolo 29</rif>
+									<rif xlink:href="~art29" xlink:type="simple">articolo 29</rif>
 									.
 								</corpo>
 							</comma>
@@ -2135,7 +2135,7 @@
 								<num>1.</num>
 								<corpo>
 									I dipartimenti promuovono e coordinano, attraverso gli strumenti di programmazione, lo svolgimento di attività di consulenza, certificazione, prova ed accreditamento per le pubbliche amministrazioni, nonché di fornitura di servizi a terzi in regime di diritto privato nell'ambito delle competenze istituzionali del dipartimento e dei criteri e delle modalità definite ai sensi dell'
-									<rif xlink:href="#art4-com2-letv" xlink:type="simple">articolo 4 comma 2 lettera v)</rif>
+									<rif xlink:href="~art4-com2-letv" xlink:type="simple">articolo 4 comma 2 lettera v)</rif>
 									.
 								</corpo>
 							</comma>
@@ -2143,7 +2143,7 @@
 								<num>2.</num>
 								<corpo>
 									Gli istituti gestiscono le attività di cui al
-									<rif xlink:href="#art45-com1" xlink:type="simple">comma 1</rif>
+									<rif xlink:href="~art45-com1" xlink:type="simple">comma 1</rif>
 									.
 								</corpo>
 							</comma>
@@ -2155,7 +2155,7 @@
 								<num>1.</num>
 								<corpo>
 									Nell'ambito delle attività formative di cui all'
-									<rif xlink:href="#art4-com2-letb" xlink:type="simple">articolo 4, comma 2, lettera b)</rif>
+									<rif xlink:href="~art4-com2-letb" xlink:type="simple">articolo 4, comma 2, lettera b)</rif>
 									prevista per l'intero personale, ogni dipartimento propone annualmente al Consiglio di amministrazione il piano delle iniziative di sviluppo e di formazione dei ricercatori e tecnologi, elaborato sulla base dei criteri formulati dalla direzione supporto alla gestione delle risorse.
 								</corpo>
 							</comma>
@@ -2183,9 +2183,9 @@
 								<num>3.</num>
 								<corpo>
 									Ai dottorati di ricerca realizzati sulla base di apposite convenzioni con le università anche con il coinvolgimento del mondo imprenditoriale, di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com1-letn" xlink:type="simple">articolo 3 comma 1 lettera n) del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com1-letn" xlink:type="simple">articolo 3 comma 1 lettera n) del decreto di riordino</rif>
 									è riservato, in applicazione dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art7-com1-letn" xlink:type="simple">articolo 7 comma 1 lettera n) del medesimo decreto</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art7-com1-letn" xlink:type="simple">articolo 7 comma 1 lettera n) del medesimo decreto</rif>
 									, il due percento delle risorse finanziarie provenienti dal fondo ordinario ripartite tra i Dipartimenti.
 								</corpo>
 							</comma>
@@ -2201,7 +2201,7 @@
 								<num>6.</num>
 								<corpo>
 									Il Consiglio di amministrazione con propria deliberazione stabilisce modalità e criteri per la presentazione delle domande per il riconoscimento dell'equipollenza di titoli rilasciati dal CNR con il titolo di dottore di ricerca in base all'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art74" xlink:type="simple">articolo 74 del decreto del Presidente della Repubblica del 11 luglio 1980, n. 382</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art74" xlink:type="simple">articolo 74 del decreto del Presidente della Repubblica del 11 luglio 1980, n. 382</rif>
 									.
 								</corpo>
 							</comma>
@@ -2233,7 +2233,7 @@
 								<num>1.</num>
 								<alinea>
 									Ferma restando la facoltà autonoma del Consiglio di amministrazione di commissionare, nel quadro della programmazione, attività di ricerca e studio a soggetti pubblici e privati nazionali e internazionali, ai sensi dell'
-									<rif xlink:href="#art4-com2-letp" xlink:type="simple">articolo 4, comma 2, lettera p)</rif>
+									<rif xlink:href="~art4-com2-letp" xlink:type="simple">articolo 4, comma 2, lettera p)</rif>
 									, i rapporti di collaborazione nell'attività di ricerca tra il CNR e soggetti pubblici e privati, italiani e stranieri sono regolati attraverso contratti aventi come riferimento di massima la seguente tipologia:
 								</alinea>
 								<el id="art49-com1-leta">
@@ -2257,7 +2257,7 @@
 								<num>3.</num>
 								<corpo>
 									L'Accordo quadro è sottoscritto dal Presidente su proposta del direttore del dipartimento o di una direzione centrale. L'Accordo quadro definisce aree progettuali e modalità di collaborazione e costituisce la base per la successiva stipula di convenzioni operative da parte degli istituti ai sensi del
-									<rif xlink:href="#art49-com4" xlink:type="simple">comma 4</rif>
+									<rif xlink:href="~art49-com4" xlink:type="simple">comma 4</rif>
 									. La gestione congiunta delle attività è di norma affidata ad un comitato di gestione dove sono rappresentate le parti dell'Accordo quadro.
 								</corpo>
 							</comma>
@@ -2285,7 +2285,7 @@
 								<num>6.</num>
 								<corpo>
 									La definizione dei contratti avviene sulla base dei criteri approvati dal Consiglio di amministrazione; i predetti criteri tengono conto, nella distribuzione dei ricavi, delle attività svolte dai singoli ricercatori, secondo quanto stabilito dalla normativa vigente e dal regolamento del personale e devono indicare le modalità per assicurare l'espletamento delle attività del CNR, secondo quanto stabilito dall'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com1" xlink:type="simple">articolo 3 comma 1 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com1" xlink:type="simple">articolo 3 comma 1 del decreto di riordino</rif>
 									, e in particolare le attività in collaborazione con università, imprese e altri soggetti pubblici e privati.
 								</corpo>
 							</comma>
@@ -2325,13 +2325,13 @@
 								<num>3.</num>
 								<alinea>
 									Il Consiglio di amministrazione, previo espletamento delle procedure previste dall'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letb" xlink:type="simple">articolo 18 comma 1 lettera b), del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letb" xlink:type="simple">articolo 18 comma 1 lettera b), del decreto di riordino</rif>
 									, e delle procedure previste per l'attuazione del
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letc" xlink:type="simple">comma 1 lettera c) del medesimo articolo</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letc" xlink:type="simple">comma 1 lettera c) del medesimo articolo</rif>
 									, a seconda dei casi, provvede con propria deliberazione a specificare le modalità di utilizzo delle risorse e degli strumenti societari di cui al
-									<rif xlink:href="#art50-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="~art50-com2" xlink:type="simple">comma 2</rif>
 									, nonché la destinazione degli eventuali utili. La costituzione di nuove imprese ai sensi dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letc" xlink:type="simple">articolo 18 comma 1 lettera c), del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letc" xlink:type="simple">articolo 18 comma 1 lettera c), del decreto di riordino</rif>
 									è effettuata sulla base dei seguenti criteri:
 								</alinea>
 								<el id="art50-com3-leta">
@@ -2348,7 +2348,7 @@
 								</el>
 								<coda>
 									Il Consiglio di amministrazione provvede con propria delibera a determinare le modalità attuative per la costituzione di nuove imprese ai sensi dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art18-com1-letc" xlink:type="simple">articolo 18 comma 1 lettera c), del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art18-com1-letc" xlink:type="simple">articolo 18 comma 1 lettera c), del decreto di riordino</rif>
 									, sulla base della normativa vigente e dei criteri individuati nel presente comma.
 								</coda>
 							</comma>
@@ -2380,9 +2380,9 @@
 								<num>5.</num>
 								<corpo>
 									Il Presidente, sentito il Consiglio scientifico generale, presenta al Consiglio di amministrazione, per la verifica di cui alla
-									<rif xlink:href="#art4-com2-leti" xlink:type="simple">lettera i) comma 2 dell'articolo 4</rif>
+									<rif xlink:href="~art4-com2-leti" xlink:type="simple">lettera i) comma 2 dell'articolo 4</rif>
 									, la relazione annuale di verifica dei risultati gestionali ed economici dell'Ente, insieme con la relazione del Comitato di valutazione, di cui all'
-									<rif xlink:href="#art7-com4" xlink:type="simple">articolo 7 comma 4</rif>
+									<rif xlink:href="~art7-com4" xlink:type="simple">articolo 7 comma 4</rif>
 									. La relazione annuale è inviata al Ministero dell'istruzione dell'università e della ricerca e al Ministero dell'economia e delle finanze.
 								</corpo>
 							</comma>
@@ -2394,7 +2394,7 @@
 								<num>1.</num>
 								<corpo>
 									Successivamente alla verifica di cui alla
-									<rif xlink:href="#art4-com2-leti" xlink:type="simple">lettera i) comma 2 dell'articolo 4</rif>
+									<rif xlink:href="~art4-com2-leti" xlink:type="simple">lettera i) comma 2 dell'articolo 4</rif>
 									, il Presidente del CNR, avvalendosi del supporto degli uffici e del parere del Consiglio scientifico generale, cura la predisposizione del rapporto annuale sull'attività del CNR che è inviato al Ministero dell'istruzione, dell'università e della ricerca.
 								</corpo>
 							</comma>
@@ -2441,18 +2441,18 @@
 								Nell'applicazione delle disposizioni previste dal presente regolamento, ed in particolare degli
 								<mrif>
 									articoli
-									<rif xlink:href="#art30" xlink:type="simple">30</rif>
+									<rif xlink:href="~art30" xlink:type="simple">30</rif>
 									e
-									<rif xlink:href="#art33" xlink:type="simple">33</rif>
+									<rif xlink:href="~art33" xlink:type="simple">33</rif>
 								</mrif>
 								, che consentono di assicurare l'autonomia gestionale delle strutture interne degli Enti che confluiscono nel CNR, nonché di quelle previste dal regolamento del personale, e in particolare il
 								<mrif>
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a#art4-com2" xlink:type="simple">comma 2 dell'articolo 4</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a~art4-com2" xlink:type="simple">comma 2 dell'articolo 4</rif>
 									e
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a#art17" xlink:type="simple">l'articolo 17</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a~art17" xlink:type="simple">l'articolo 17</rif>
 								</mrif>
 								, che assicurano la salvaguardia della specificità del rapporto di lavoro e della presente parte del regolamento, che disciplina la fase transitoria, il Consiglio di amministrazione curerà che la riorganizzazione della rete scientifica avvenga assicurando agli enti di cui al
-								<rif xlink:href="#art54-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art54-com1" xlink:type="simple">comma 1</rif>
 								quanto previsto dal decreto di riordino. In particolare saranno salvaguardate:
 							</alinea>
 							<el id="art54-com2-leta">
@@ -2467,7 +2467,7 @@
 								<num>b)</num>
 								<corpo>
 									le collaborazioni con le imprese attraverso le deliberazioni del Consiglio di amministrazione adottate in base all'
-									<rif xlink:href="#art50" xlink:type="simple">articolo 50</rif>
+									<rif xlink:href="~art50" xlink:type="simple">articolo 50</rif>
 									del presente regolamento.
 								</corpo>
 							</el>
@@ -2476,7 +2476,7 @@
 							<num>3.</num>
 							<corpo>
 								Fino al compimento definitivo del processo di aggregazione e comunque non oltre il 31 dicembre 2005, il Consiglio di amministrazione costituisce, presso le direzioni centrali competenti, uffici speciali e temporanei per l'espletamento dei compiti di cui al
-								<rif xlink:href="#art54-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art54-com1" xlink:type="simple">comma 1</rif>
 								. Con delibera del Consiglio di amministrazione sono individuate le disposizioni specifiche dei regolamenti previgenti degli enti accorpati che, in quanto compatibili con il quadro normativo e con il presente regolamento restano in vigore temporaneamente per la gestione della fase transitoria.
 							</corpo>
 						</comma>
@@ -2488,7 +2488,7 @@
 							<num>1.</num>
 							<alinea>
 								Le macro aree di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com2" xlink:type="simple">articolo 3 comma 2 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com2" xlink:type="simple">articolo 3 comma 2 del decreto di riordino</rif>
 								sono così individuate:
 							</alinea>
 							<en id="art55-com1-num1">
@@ -2540,11 +2540,11 @@
 							<num>2.</num>
 							<corpo>
 								Le macro aree di cui al
-								<rif xlink:href="#art55-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art55-com1" xlink:type="simple">comma 1</rif>
 								possono essere nuovamente individuate in applicazione dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com2" xlink:type="simple">articolo 3 comma 2 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art3-com2" xlink:type="simple">articolo 3 comma 2 del decreto di riordino</rif>
 								in base all'
-								<rif xlink:href="#art14" xlink:type="simple">articolo 14</rif>
+								<rif xlink:href="~art14" xlink:type="simple">articolo 14</rif>
 								del presente regolamento.
 							</corpo>
 						</comma>
@@ -2556,9 +2556,9 @@
 							<num>1.</num>
 							<corpo>
 								Il Consiglio di amministrazione, in deroga a quanto stabilito dall'
-								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
+								<rif xlink:href="~art16" xlink:type="simple">articolo 16</rif>
 								del presente Regolamento, provvede contestualmente alla istituzione dei dipartimenti e agli adempimenti di cui all'
-								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
+								<rif xlink:href="~art16" xlink:type="simple">articolo 16</rif>
 								sulla base delle proposte formulate dal Presidente. Il Presidente per le attività istruttorie può avvalersi dei risultati del lavoro di Commissioni di studio per l'attivazione dei dipartimenti quali quelle nominate con Provvedimento ordinamentale n.16630 del 17 settembre 2004.
 							</corpo>
 						</comma>
@@ -2566,7 +2566,7 @@
 							<num>2.</num>
 							<corpo>
 								Con delibera del Consiglio di amministrazione, sono nominati i direttori dei dipartimenti ai sensi dell'
-								<rif xlink:href="#art18" xlink:type="simple">articolo 18</rif>
+								<rif xlink:href="~art18" xlink:type="simple">articolo 18</rif>
 								del presente Regolamento.
 							</corpo>
 						</comma>
@@ -2574,9 +2574,9 @@
 							<num>3.</num>
 							<corpo>
 								Il Presidente nell'espletamento delle funzioni di cui al
-								<rif xlink:href="#art56-com1" xlink:type="simple">comma</rif>
+								<rif xlink:href="~art56-com1" xlink:type="simple">comma</rif>
 								1 propone la conferma, la soppressione, l'accorpamento o l'eventuale istituzione di nuovi istituti, tenuto conto dei criteri di cui al
-								<rif xlink:href="#art25-com2" xlink:type="simple">comma 2 dell'articolo 25</rif>
+								<rif xlink:href="~art25-com2" xlink:type="simple">comma 2 dell'articolo 25</rif>
 								. Il Consiglio di amministrazione provvede con propria deliberazione ed avvia le procedure per la nomina dei direttori.
 							</corpo>
 						</comma>
@@ -2584,7 +2584,7 @@
 							<num>4.</num>
 							<corpo>
 								Le disposizioni previste dall'
-								<rif xlink:href="#art28-com6" xlink:type="simple">articolo 28 comma 6</rif>
+								<rif xlink:href="~art28-com6" xlink:type="simple">articolo 28 comma 6</rif>
 								non si applicano ai direttori di istituto in carica al momento dell'entrata in vigore del presente regolamento che abbiano fruito della deroga ai sensi del comma 5 dell'articolo 9 del regolamento sull'istituzione ed il funzionamento degli istituti, adottato con
 								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15446" xlink:type="simple">Decreto del Presidente del CNR n. 15446 del 14 gennaio 2000</rif>
 								, fino al termine del loro mandato.
@@ -2594,7 +2594,7 @@
 							<num>5.</num>
 							<corpo>
 								Entro un anno dall'insediamento dei direttori di dipartimento il Consiglio di amministrazione procederà, anche attraverso l'analisi delle relazioni previste dal presente regolamento, ad una valutazione delle attività svolte dai dipartimenti e dagli istituti al fine di adottare eventuali interventi di riorganizzazione, in attuazione dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art19-com2-letc" xlink:type="simple">articolo 19 comma 2 lettera c) del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art19-com2-letc" xlink:type="simple">articolo 19 comma 2 lettera c) del decreto di riordino</rif>
 								. Ai direttori di istituto in carica al momento dell'entrata in vigore del presente regolamento il Consiglio di amministrazione, su proposta del Presidente, potrà conferire una proroga del mandato con termine al completamento del processo di riorganizzazione.
 							</corpo>
 						</comma>
@@ -2602,7 +2602,7 @@
 							<num>6.</num>
 							<corpo>
 								Con delibera del Consiglio di amministrazione sono individuate le disposizioni specifiche previgenti che, in quanto compatibili con il quadro normativo e con il presente regolamento restano in vigore temporaneamente per gestire le sezioni territorialmente distinte in attesa che siano perfezionate le necessarie deleghe tra cui quelle previste dall'
-								<rif xlink:href="#art26-com1-letf" xlink:type="simple">articolo 26 comma 1 lettera f)</rif>
+								<rif xlink:href="~art26-com1-letf" xlink:type="simple">articolo 26 comma 1 lettera f)</rif>
 								.
 							</corpo>
 						</comma>
@@ -2646,7 +2646,7 @@
 							<num>3.</num>
 							<corpo>
 								Fino all'emanazione della delibera di cui al
-								<rif xlink:href="#art58-com2" xlink:type="simple">comma 2</rif>
+								<rif xlink:href="~art58-com2" xlink:type="simple">comma 2</rif>
 								le aree operano sulla base della disciplina previgente, restano in vigore le convenzioni in essere e continuano ad operare gli organi in base ad esse costituiti ferma restando la libertà delle strutture scientifiche che insistono sull'area di scegliere gli strumenti più adeguati per la gestione delle parti comuni e di eventuali servizi comuni.
 							</corpo>
 						</comma>

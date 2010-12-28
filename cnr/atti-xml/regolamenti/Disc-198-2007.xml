@@ -68,7 +68,7 @@
 								<num>-</num>
 								<corpo>
 									ricercatori e tecnologi di altre Istituzioni pubbliche scientifiche italiane, delle Università ed altri studiosi come da
-									<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+									<rif xlink:href="~art3" xlink:type="simple">art. 3</rif>
 									;
 								</corpo>
 							</ep>
@@ -84,7 +84,7 @@
 						<coda>
 							<h:b>
 								Il 70% del budget del Programma à riservato ai ricercatori e tecnologi del CNR e agli stranieri ospitati presso Istituti del CNR, il restante 30% è riservato agli studiosi delle Università e di altre Istituzioni pubbliche italiane, associati alle attività di ricerca delle strutture scientifiche del CNR. (Cfr.
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">art.17 del Nuovo Regolamento del CNR</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27~art17" xlink:type="simple">art.17 del Nuovo Regolamento del CNR</rif>
 								:
 								<h:a xlink:href="http://www.cnr.it" xlink:type="simple">www.cnr.it</h:a>
 								- Organizzazione - Regolamenti del CNR - Personale).
@@ -174,7 +174,7 @@
 						<num />
 						<alinea>
 							In base alle finalità del Programma di cui all'
-							<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+							<rif xlink:href="~art1" xlink:type="simple">art. 1</rif>
 							del presente Disciplinare, le categorie professionali degli studiosi italiani e stranieri che possono presentare domanda di partecipazione sono:
 						</alinea>
 						<ep id="art3-com2-pun1">
@@ -255,9 +255,9 @@
 								lo schema di partecipazione debitamente compilato (
 								<mrif>
 									All.
-									<rif xlink:href="#ann1" xlink:type="simple">1</rif>
+									<rif xlink:href="~ann1" xlink:type="simple">1</rif>
 									e
-									<rif xlink:href="#ann2" xlink:type="simple">2</rif>
+									<rif xlink:href="~ann2" xlink:type="simple">2</rif>
 								</mrif>
 								);
 							</corpo>
@@ -278,9 +278,9 @@
 							<num>3)</num>
 							<corpo>
 								il programma di ricerca (
-								<rif xlink:href="#ann3" xlink:type="simple">All. 3</rif>
+								<rif xlink:href="~ann3" xlink:type="simple">All. 3</rif>
 								) da svolgere durante il soggiorno all'estero, firmato dal Proponente e dal Fruitore, nel quale siano evidenziati la rispondenza alle finalità di cui all'
-								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+								<rif xlink:href="~art1" xlink:type="simple">art. 1</rif>
 								del presente Disciplinare e le motivazioni scientifiche che rendono necessario lo svolgimento della ricerca presso l'Istituzione straniera indicata;
 							</corpo>
 						</en>
@@ -326,9 +326,9 @@
 								lo schema di partecipazione debitamente compilato dal Proponente (
 								<mrif>
 									All.
-									<rif xlink:href="#ann1" xlink:type="simple">1</rif>
+									<rif xlink:href="~ann1" xlink:type="simple">1</rif>
 									e
-									<rif xlink:href="#ann2" xlink:type="simple">2</rif>
+									<rif xlink:href="~ann2" xlink:type="simple">2</rif>
 								</mrif>
 								);
 							</corpo>
@@ -345,9 +345,9 @@
 							<num>4)</num>
 							<corpo>
 								il programma di ricerca (
-								<rif xlink:href="#art3" xlink:type="simple">All. 3</rif>
+								<rif xlink:href="~art3" xlink:type="simple">All. 3</rif>
 								) da svolgere, firmato dal Proponente, nel quale si evidenzi inoltre la sua rispondenza alle finalità di cui all'
-								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+								<rif xlink:href="~art1" xlink:type="simple">art. 1</rif>
 								del presente Disciplinare;
 							</corpo>
 						</en>
@@ -367,7 +367,7 @@
 								<h:p>
 									<h:b>
 										Sia gli studiosi italiani che quelli stranieri dovranno inviare al CNR il programma di ricerca ed il curriculum vitae con l'elenco delle pubblicazioni, oltre che in forma cartacea all'indirizzo riportato all'
-										<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
+										<rif xlink:href="~art2" xlink:type="simple">Art. 2</rif>
 										, mediante e-mail agli indirizzi indicati di seguito per ciascuna categoria di studiosi.
 									</h:b>
 								</h:p>
@@ -428,7 +428,7 @@
 						<coda>
 							<h:b>
 								I Fruitori provvederanno personalmente all'acquisto del titolo di viaggio che sarà rimborsato forfettariamente a fine soggiorno nei limiti finanziari indicati nella tabella allegata al presente Disciplinare (
-								<rif xlink:href="#ann4" xlink:type="simple">All. 4</rif>
+								<rif xlink:href="~ann4" xlink:type="simple">All. 4</rif>
 								).
 							</h:b>
 						</coda>
@@ -487,7 +487,7 @@
 								<num>-</num>
 								<corpo>
 									la liberatoria allegata al presente disciplinare debitamente compilata e firmata (
-									<rif xlink:href="#ann5" xlink:type="simple">All. 5</rif>
+									<rif xlink:href="~ann5" xlink:type="simple">All. 5</rif>
 									).
 								</corpo>
 							</ep>
@@ -520,7 +520,7 @@
 								<num>-</num>
 								<corpo>
 									la liberatoria allegata al presente disciplinare debitamente compilata e firmata dal Proponente e/o Fruitore (
-									<rif xlink:href="#ann5" xlink:type="simple">All. 5</rif>
+									<rif xlink:href="~ann5" xlink:type="simple">All. 5</rif>
 									).
 								</corpo>
 							</ep>

@@ -44,7 +44,7 @@
 						Visto il
 						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n.19</rif>
 						, con particolare riguardo all'
-						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art8-com1-leta" xlink:type="simple">articolo 8, comma 1, lettera a)</rif>
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19~art8-com1-leta" xlink:type="simple">articolo 8, comma 1, lettera a)</rif>
 						che prevede la razionalizzazione della rete degli organi di ricerca al fine di costituire "qualificati istituti di ricerca scientifica e tecnologica, di livello internazionale e di dimensioni adeguate, tenendo anche conto delle capacità di autofinanziamento";
 					</h:p>
 					<h:p>Visto il regolamento sull'istituzione ed il funzionamento degli Istituti del Consiglio nazionale delle ricerche, di seguito denominato "regolamento istituti", che in particolare (art.2) prevede la costituzione, con decreto del Presidente, previa deliberazione del Consiglio direttivo, di Istituti in luogo dei precedenti organi di ricerca (Istituti e Centri di studio);</h:p>
@@ -168,7 +168,7 @@
 								<num>c)</num>
 								<corpo>
 									dai responsabili delle sezioni e delle strutture tecniche di servizio, comunque in numero non superiore ai rappresentanti di cui alla
-									<rif xlink:href="#art6-com2-letb" xlink:type="simple">lettera b)</rif>
+									<rif xlink:href="~art6-com2-letb" xlink:type="simple">lettera b)</rif>
 									;
 								</corpo>
 							</el>

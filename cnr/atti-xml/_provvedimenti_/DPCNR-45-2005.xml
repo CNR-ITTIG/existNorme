@@ -44,9 +44,9 @@
 					Attuazione degli
 					<mrif>
 						articoli
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art5" xlink:type="simple">5</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art5" xlink:type="simple">5</rif>
 						e
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art11" xlink:type="simple">11</rif>
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art11" xlink:type="simple">11</rif>
 						del Regolamento del Personale del Consiglio Nazionale delle Ricerche
 					</mrif>
 				</titoloDoc>
@@ -94,7 +94,7 @@
 						<num>1.</num>
 						<corpo>
 							le procedure di reclutamento ai vari livelli del personale ricercatore e tecnologo con contratto a tempo indeterminato sono svolte secondo i criteri e le modalità definiti dalle norme di attuazione di cui all'
-							<rif xlink:href="#ann1" xlink:type="simple">allegato A</rif>
+							<rif xlink:href="~ann1" xlink:type="simple">allegato A</rif>
 							che costituisce parte integrante del presente decreto;
 						</corpo>
 					</comma>
@@ -102,7 +102,7 @@
 						<num>2.</num>
 						<corpo>
 							le procedure di reclutamento del personale dal IV al IX livello con contratto a tempo indeterminato sono svolte secondo i criteri e le modalità dalle norme di attuazione di cui all'
-							<rif xlink:href="#ann2" xlink:type="simple">allegato B</rif>
+							<rif xlink:href="~ann2" xlink:type="simple">allegato B</rif>
 							che costituisce parte integrante del presente decreto;
 						</corpo>
 					</comma>
@@ -110,7 +110,7 @@
 						<num>3.</num>
 						<corpo>
 							è istituito l'Albo di esperti interrai ed esterni per- la composizione delle commissioni nelle procedure di reclutamento del personale ricercatore e tecnologo secondo le modalità indicate nell'
-							<rif xlink:href="#ann3" xlink:type="simple">allegato C</rif>
+							<rif xlink:href="~ann3" xlink:type="simple">allegato C</rif>
 							che costituisce parte integrante del presente decreto. L'Albo è tenuto, allo stato, dall'Ufficio Concorsi e borse di studio (ex Servizio II - DSTS) della Direzione Centrale Supporto alla Gestione delle Risorse, ed è aggiornato annualmente. In prima applicazione le sezioni 1 e 2 della parte II dell'Albo sono composte da tutti i professori di ruolo nelle università italiane;
 						</corpo>
 					</comma>
@@ -118,7 +118,7 @@
 						<num>4.</num>
 						<corpo>
 							con decreto del Presidente sono nominati 14 garanti uno per ognuna delle aggregazioni disciplinari di cui all'
-							<rif xlink:href="#ann4" xlink:type="simple">allegato D</rif>
+							<rif xlink:href="~ann4" xlink:type="simple">allegato D</rif>
 							che costituisce parte integrante del presente decreto. I Garanti possono operare singolarmente o per gruppi;
 						</corpo>
 					</comma>
@@ -126,7 +126,7 @@
 						<num>5.</num>
 						<corpo>
 							le commissioni di concorso sono nominate dal Presidente mila base di rose proposte dai garanti e nel rispetto di quanto previsto dal
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
 							;
 						</corpo>
 					</comma>
@@ -134,7 +134,7 @@
 						<num>6.</num>
 						<corpo>
 							ai fini della nomina delle Commissioni di concorso, le aree scientifiche sono quelle deliberate nel Piano preliminare di attività per il 2004 con indicazioni relative al triennio 2004-2006 e i settori tecnologici sono quelli identificati nella determinazione commissariale prot. n. 1950569 del 5 maggio 2004, entrambi riportati nella tabella I dell'
-							<rif xlink:href="#ann2" xlink:type="simple">allegato B</rif>
+							<rif xlink:href="~ann2" xlink:type="simple">allegato B</rif>
 							, che costituisce parte integrante del presente decreto;
 						</corpo>
 					</comma>
@@ -142,7 +142,7 @@
 						<num>7.</num>
 						<corpo>
 							le disposizioni previste dal
-							<rif xlink:href="#artunico-com5" xlink:type="simple">comma 5</rif>
+							<rif xlink:href="~artunico-com5" xlink:type="simple">comma 5</rif>
 							si applicano, in quanto compatibili con le disposizioni speciali contenute nei bandi, alle selezioni per le progressioni di carriera di ricercatori e tecnologi previste dai CCNL;
 						</corpo>
 					</comma>
@@ -150,9 +150,9 @@
 						<num>8</num>
 						<corpo>
 							ai fini della nomina delle commissioni si applicano le disposizioni in materia di pari opportunità di cui all'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art57" xlink:type="simple">articolo 57 del decreto legislativo 30 marzo 2001, n.165</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art57" xlink:type="simple">articolo 57 del decreto legislativo 30 marzo 2001, n.165</rif>
 							e dall'
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1994-05-09;487#art9-com2" xlink:type="simple">articolo 9 comma 2 del decreto del Presidente della Repubblica 9 maggio 1994, n.487</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1994-05-09;487~art9-com2" xlink:type="simple">articolo 9 comma 2 del decreto del Presidente della Repubblica 9 maggio 1994, n.487</rif>
 							.
 						</corpo>
 					</comma>

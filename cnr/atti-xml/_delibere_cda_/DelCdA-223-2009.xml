@@ -39,7 +39,7 @@
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
 							<dsp:termine da="#t3" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="1bis" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -60,7 +60,7 @@
 							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
 							<dsp:termine da="#t4" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4bis" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4bis" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod2-vir1" xlink:type="simple" />
@@ -106,7 +106,7 @@
 						VISTA la
 						<rif xlink:href="urn:nir:stato:legge:2009-06-18;69" xlink:type="simple">legge 18 giugno 2009, n. 69</rif>
 						recante "Disposizioni per lo sviluppo economico, la semplificazione, la competitività nonché in materia di processo civile", pubblicata nel supplemento ordinario n. 95/L della G.U.R.I n. 140 del 19 giugno 2009, ed in particolare l'
-						<rif xlink:href="urn:nir:stato:legge:2009-06-18;69#art22-com2" xlink:type="simple">art. 22, comma 2</rif>
+						<rif xlink:href="urn:nir:stato:legge:2009-06-18;69~art22-com2" xlink:type="simple">art. 22, comma 2</rif>
 						;
 					</h:p>
 					<h:p>
@@ -115,7 +115,7 @@
 						, recante "Provvedimenti anticrisi, nonché proroga di termini e della partecipazione italiana a missioni internazionali" pubblicato in GURI serie generale n. 150 del 1 luglio 2009 e convertito con modificazioni in
 						<rif xlink:href="urn:nir:stato:legge:2009-08-03;102" xlink:type="simple">Legge 3 agosto 2009, n. 102</rif>
 						pubblicata nel supplemento ordinario n. 140 della G.U.R.I n. 179 del 4 agosto 2009 ed in particolare l'
-						<rif xlink:href="urn:nir:stato:legge:2009-08-03;102#art17-com30" xlink:type="simple">art. 17 comma 30</rif>
+						<rif xlink:href="urn:nir:stato:legge:2009-08-03;102~art17-com30" xlink:type="simple">art. 17 comma 30</rif>
 						;
 					</h:p>
 					<h:p>
@@ -167,7 +167,7 @@
 						<corpo>
 							<mod id="mod1">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple">art. 3</rif>
 								il comma 1-bis. viene sostituito dal seguente:
 								<virgolette id="mod1-vir1" tipo="struttura">
 									<comma id="mod1-vir1-com1bis">
@@ -220,7 +220,7 @@
 						<corpo>
 							<mod id="mod2">
 								L'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4bis" xlink:type="simple">art. 4 bis</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4bis" xlink:type="simple">art. 4 bis</rif>
 								viene sostituito integralmente dal seguente:
 								<virgolette id="mod2-vir1" tipo="struttura">
 									<articolo id="mod2-vir1-art4bis">
@@ -230,7 +230,7 @@
 											<num>1.</num>
 											<corpo>
 												L'efficacia dei contratti è sospesa fino all'esito del controllo preventivo di legittimità della Corte dei Conti previsto dall'
-												<rif xlink:href="urn:nir:stato:legge:1994-01-14;20#art3-com1-letfbis" xlink:type="simple">art. 3, comma 1, lettera f bis) della legge 14 gennaio 1994, n. 20</rif>
+												<rif xlink:href="urn:nir:stato:legge:1994-01-14;20~art3-com1-letfbis" xlink:type="simple">art. 3, comma 1, lettera f bis) della legge 14 gennaio 1994, n. 20</rif>
 												.
 											</corpo>
 										</comma>

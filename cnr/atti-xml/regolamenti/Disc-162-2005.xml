@@ -88,7 +88,7 @@
 								<num>a)</num>
 								<corpo>
 									Assunzioni di cui all'
-									<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art36" xlink:type="simple">art. 36 della Legge 20 marzo 1975 n. 70</rif>
+									<rif xlink:href="urn:nir:stato:legge:1975-03-20;70~art36" xlink:type="simple">art. 36 della Legge 20 marzo 1975 n. 70</rif>
 									;
 								</corpo>
 							</el>
@@ -96,7 +96,7 @@
 								<num>b)</num>
 								<corpo>
 									Assunzioni di cui all'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art23" xlink:type="simple">art. 23 del D.P.R. 12 febbraio 1991 n. 171</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171~art23" xlink:type="simple">art. 23 del D.P.R. 12 febbraio 1991 n. 171</rif>
 									;
 								</corpo>
 							</el>
@@ -104,7 +104,7 @@
 								<num>c)</num>
 								<corpo>
 									Assunzioni di cui all'
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art9-com3-letc" xlink:type="simple">art. 9 comma 3, lettera c) del Regolamento del Personale</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art9-com3-letc" xlink:type="simple">art. 9 comma 3, lettera c) del Regolamento del Personale</rif>
 									;
 								</corpo>
 							</el>
@@ -116,7 +116,7 @@
 								<num>e)</num>
 								<corpo>
 									Assunzioni di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">art. 20 comma 3° del D.Lgs. 4 giugno 2003 n. 127</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com3" xlink:type="simple">art. 20 comma 3° del D.Lgs. 4 giugno 2003 n. 127</rif>
 									;
 								</corpo>
 							</el>
@@ -124,7 +124,7 @@
 								<num>f)</num>
 								<corpo>
 									Assunzioni di cui all'
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art4-com2" xlink:type="simple">art. 4 comma 2 del Regolamento del Personale</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art4-com2" xlink:type="simple">art. 4 comma 2 del Regolamento del Personale</rif>
 									;
 								</corpo>
 							</el>
@@ -167,9 +167,9 @@
 								Al personale assunto con contratto a termine, sia per chiamata nominativa che per selezione, di cui alle
 								<mrif>
 									Parte
-									<rif xlink:href="#prt2" xlink:type="simple">II</rif>
+									<rif xlink:href="~prt2" xlink:type="simple">II</rif>
 									e
-									<rif xlink:href="#prt3" xlink:type="simple">III</rif>
+									<rif xlink:href="~prt3" xlink:type="simple">III</rif>
 								</mrif>
 								del presente disciplinare, si applica la normativa giuridico ed economico prevista dal vigente C.C.N.L. per il personale assunto con contratto di lavoro a tempo indeterminato.
 							</corpo>
@@ -183,7 +183,7 @@
 						<num>Art. 7</num>
 						<rubrica>
 							(
-							<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art36" xlink:type="simple">Art. 36 della Legge 20 marzo 1975 n. 70</rif>
+							<rif xlink:href="urn:nir:stato:legge:1975-03-20;70~art36" xlink:type="simple">Art. 36 della Legge 20 marzo 1975 n. 70</rif>
 							)
 						</rubrica>
 						<comma id="art7-com1">
@@ -214,7 +214,7 @@
 							<num>4.</num>
 							<corpo>
 								Il Presidente, ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art26-com1-leth" xlink:type="simple">articolo 26 comma 1 lett.h) del Regolamento organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art26-com1-leth" xlink:type="simple">articolo 26 comma 1 lett.h) del Regolamento organizzazione e funzionamento</rif>
 								, può delegare il Direttore/Dirigente della struttura interessata all'emanazione del bando e all'espletamento delle connesse procedure.
 							</corpo>
 						</comma>
@@ -222,7 +222,7 @@
 							<num>5.</num>
 							<corpo>
 								Le commissioni sono composte da tre esperti nella materia, scelti dal Presidente o suo delegato, nell'albo istituito ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art5-com1-letb" xlink:type="simple">art.5 comma 1 lett.b)</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art5-com1-letb" xlink:type="simple">art.5 comma 1 lett.b)</rif>
 								e tenuto dal competente Ufficio della Direzione Centrale Supporto alla Gestione delle Risorse, dei quali almeno uno esterno all'Ente con livello pari a quello di professore universitario di ruolo, o con livello almeno pari a quello per il quale la selezione è stata bandita.
 							</corpo>
 						</comma>
@@ -235,7 +235,7 @@
 						<num>Art. 8</num>
 						<rubrica>
 							(
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art23" xlink:type="simple">Art. 23 del D.P.R. 12 febbraio 1991, n. 171</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171~art23" xlink:type="simple">Art. 23 del D.P.R. 12 febbraio 1991, n. 171</rif>
 							)
 						</rubrica>
 						<comma id="art8-com1">
@@ -266,7 +266,7 @@
 							<num>4.</num>
 							<corpo>
 								Nel caso di selezione pubblica i Direttori/Dirigenti delle strutture acquisito il parere favorevole, pongono in essere gli atti necessari all'emanazione del bando di selezione, sulla base dei modelli all'uopo predisposti e costantemente aggiornati dal competente Ufficio della Direzione Centrale Supporto alla Gestione delle Risorse. Il Direttore/Dirigente provvede all'espletamento delle procedure concorsuali ivi compresa la nomina della commissione esaminatrice con le stesse modalità di cui all'
-								<rif xlink:href="#art7" xlink:type="simple">art. 7</rif>
+								<rif xlink:href="~art7" xlink:type="simple">art. 7</rif>
 								.
 							</corpo>
 						</comma>
@@ -274,7 +274,7 @@
 							<num>5.</num>
 							<corpo>
 								Nel caso di chiamata diretta, fermo restando la procedura di cui al
-								<rif xlink:href="#art8-com3" xlink:type="simple">comma 3</rif>
+								<rif xlink:href="~art8-com3" xlink:type="simple">comma 3</rif>
 								, la proposta avanzata dal Direttore/Dirigente della struttura deve contenere la motivazione del ricorso alla chiamata diretta e l'attestazione del possesso dei requisiti necessari per la chiamata diretta nonché la congruenza con il profilo richiesto.
 							</corpo>
 						</comma>
@@ -283,7 +283,7 @@
 						<num>Art. 9</num>
 						<rubrica>
 							(
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art9-com3-letc" xlink:type="simple">Art. 9 comma 3 lettera c) del Regolamento del Personale</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art9-com3-letc" xlink:type="simple">Art. 9 comma 3 lettera c) del Regolamento del Personale</rif>
 							)
 						</rubrica>
 						<comma id="art9-com1">
@@ -298,7 +298,7 @@
 							<num>3.</num>
 							<corpo>
 								Per le procedure selettive delle assunzioni in parola, si rinvia a quanto previsto nel
-								<rif xlink:href="#art8" xlink:type="simple">precedente articolo 8</rif>
+								<rif xlink:href="~art8" xlink:type="simple">precedente articolo 8</rif>
 								.
 							</corpo>
 						</comma>
@@ -326,7 +326,7 @@
 							<num>2.</num>
 							<corpo>
 								Detto personale è assunto esclusivamente attraverso procedura selettiva secondo il dispositivo di cui all'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art13" xlink:type="simple">art. 13 del Regolamento del Personale</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art13" xlink:type="simple">art. 13 del Regolamento del Personale</rif>
 								, allo stesso è attribuito il trattamento economico previsto per il corrispondente livello dal IX al IV del profilo interessato per il quale è bandita la selezione.
 							</corpo>
 						</comma>
@@ -346,13 +346,13 @@
 							<num>4.</num>
 							<corpo>
 								Nell'ipotesi di cui al
-								<rif xlink:href="#art10-com3-leta" xlink:type="simple">punto a)</rif>
+								<rif xlink:href="~art10-com3-leta" xlink:type="simple">punto a)</rif>
 								dovranno applicarsi le procedure previste all'
-								<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+								<rif xlink:href="~art7" xlink:type="simple">articolo 7</rif>
 								; nell'ipotesi di cui al
-								<rif xlink:href="#art10-com3-letb" xlink:type="simple">punto b)</rif>
+								<rif xlink:href="~art10-com3-letb" xlink:type="simple">punto b)</rif>
 								dovranno applicarsi le procedure previste dall'
-								<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+								<rif xlink:href="~art8" xlink:type="simple">articolo 8</rif>
 								.
 							</corpo>
 						</comma>
@@ -360,9 +360,9 @@
 							<num>5.</num>
 							<corpo>
 								Le commissioni sono composte da tre esperti nella materia scelti e nominati dal Presidente o suo delegato nell'
-								<rif xlink:href="#art10-com3-leta" xlink:type="simple">ipotesi a)</rif>
+								<rif xlink:href="~art10-com3-leta" xlink:type="simple">ipotesi a)</rif>
 								e dal Direttore/Dirigente della struttura nell'
-								<rif xlink:href="#art10-com3-letb" xlink:type="simple">ipotesi b)</rif>
+								<rif xlink:href="~art10-com3-letb" xlink:type="simple">ipotesi b)</rif>
 								.
 							</corpo>
 						</comma>
@@ -375,7 +375,7 @@
 						<num>Art. 11</num>
 						<rubrica>
 							(
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">Art. 20 comma 3° del D.Lgs 4 giugno 2003 n. 127</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com3" xlink:type="simple">Art. 20 comma 3° del D.Lgs 4 giugno 2003 n. 127</rif>
 							)
 						</rubrica>
 						<comma id="art11-com1">
@@ -395,7 +395,7 @@
 						<num>Art. 12</num>
 						<rubrica>
 							(
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art4-com2" xlink:type="simple">Art. 4 comma 2 del Regolamento del Personale</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035~art4-com2" xlink:type="simple">Art. 4 comma 2 del Regolamento del Personale</rif>
 							)
 						</rubrica>
 						<comma id="art12-com1">
@@ -421,9 +421,9 @@
 								<num>a)</num>
 								<corpo>
 									per le selezioni di cui all'
-									<rif xlink:href="#art7" xlink:type="simple">articolo 7</rif>
+									<rif xlink:href="~art7" xlink:type="simple">articolo 7</rif>
 									ed all'
-									<rif xlink:href="#art10-com3-leta" xlink:type="simple">articolo 10 lett.a)</rif>
+									<rif xlink:href="~art10-com3-leta" xlink:type="simple">articolo 10 lett.a)</rif>
 									, dal Presidente ovvero dal Direttore/Dirigente della struttura interessata, qualora delegato all'emanazione del bando ed all'espletamento delle connesse procedure;
 								</corpo>
 							</el>
@@ -431,7 +431,7 @@
 								<num>b)</num>
 								<corpo>
 									per le selezioni di cui all'
-									<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+									<rif xlink:href="~art8" xlink:type="simple">articolo 8</rif>
 									dal Direttore/Dirigente della struttura interessata.
 								</corpo>
 							</el>

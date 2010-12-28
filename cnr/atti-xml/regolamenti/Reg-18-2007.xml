@@ -67,13 +67,13 @@
 						<corpo>
 							In attuazione delle disposizioni di cui agli
 							<mrif>
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art20-com2" xlink:type="simple">articolo 20, comma 2</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art20-com2" xlink:type="simple">articolo 20, comma 2</rif>
 								e
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
 								del decreto legislativo 30 giugno 2003, n. 196
 							</mrif>
 							, l'indice dei trattamenti di cui all'
-							<rif xlink:href="#ann1" xlink:type="simple">allegato A</rif>
+							<rif xlink:href="~ann1" xlink:type="simple">allegato A</rif>
 							e gli allegati contraddistinti dai numeri da 1 a 9, che formano parte integrante del presente Regolamento, identificano i tipi di dati sensibili e giudiziari per cui è consentito il relativo trattamento, nonché le operazioni eseguibili in riferimento alle specifiche finalità di rilevante interesse pubblico previste dalla legge e individuate nei predetti allegati.
 						</corpo>
 					</comma>
@@ -85,12 +85,12 @@
 						<num>3.</num>
 						<corpo>
 							Le operazioni di interconnessione, raffronto, comunicazione individuate nel presente regolamento sono ammesse soltanto se indispensabili allo svolgimento degli obblighi o compiti di volta in volta indicati, per il perseguimento delle rilevanti finalità di interesse pubblico specificate e nel rispetto delle disposizioni in materia di protezione dei dati personali, nonché degli altri limiti stabiliti dalla legge e dai regolamenti. I raffronti e le interconnessioni con altre informazioni sensibili e giudiziarie detenute dall'Ente sono consentite soltanto previa verifica della loro stretta indispensabilità nei singoli casi ed indicazione scritta dei motivi che ne giustificano l'effettuazione. Le predette operazioni, se effettuate utilizzando banche di dati di diversi titolari del trattamento, sono ammesse esclusivamente previa verifica della loro stretta indispensabilità nei singoli casi e nel rispetto dei limiti e con le modalità stabiliti dalle disposizioni legislative che le prevedono (
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art22" xlink:type="simple">art.22 del d.lgs. n.196/2003</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art22" xlink:type="simple">art.22 del d.lgs. n.196/2003</rif>
 							). Sono inutilizzabili i dati trattati in violazione della disciplina rilevante in materia di trattamento dei dati personali (
 							<mrif>
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art11" xlink:type="simple">articolo 11</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art11" xlink:type="simple">articolo 11</rif>
 								e
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art22-com5" xlink:type="simple">articolo 22, comma 5</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art22-com5" xlink:type="simple">articolo 22, comma 5</rif>
 								del d.lgs. n. 196/2003
 							</mrif>
 							).
@@ -256,9 +256,9 @@
 								</h:p>
 								<h:p>
 									Instaurazione e gestione dei rapporti di lavoro dipendente di qualunque tipo, anche a tempo parziale o temporaneo, e di altre forme di impiego che non comportano la costituzione di un rapporto di lavoro subordinato (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112" xlink:type="simple">art. 112, D.lgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art112" xlink:type="simple">art. 112, D.lgs. n. 196/2003</rif>
 									), attività di formazione (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art95" xlink:type="simple">art.95 D.lgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art95" xlink:type="simple">art.95 D.lgs. n. 196/2003</rif>
 									).
 								</h:p>
 								<h:p />
@@ -276,7 +276,7 @@
 									(soltanto in caso di rettificazione di attribuzione di sesso);
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) d.lgs. n.196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) d.lgs. n.196/2003</rif>
 									).
 								</h:p>
 								<h:p />
@@ -304,18 +304,18 @@
 									<h:li>uffici competenti per il collocamento mirato, relativamente ai dati anagrafici degli assunti appartenenti alle "categorie protette";</h:li>
 									<h:li>
 										strutture sanitarie competenti per le visite fiscali (
-										<rif xlink:href="urn:nir:stato:legge:1970;300#art5" xlink:type="simple">art. 5, l. n. 300/1970</rif>
+										<rif xlink:href="urn:nir:stato:legge:1970;300~art5" xlink:type="simple">art. 5, l. n. 300/1970</rif>
 										e CCNL);
 									</h:li>
 									<h:li>enti di appartenenza dei lavoratori comandati in entrata (per definire il trattamento retributivo del dipendente);</h:li>
 									<h:li>
 										all'lSPESL (ax
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:1994;626#art70" xlink:type="simple">art. 70 dlgs. n. 626/1994</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1994;626~art70" xlink:type="simple">art. 70 dlgs. n. 626/1994</rif>
 										) o altri Enti o organismi preposti alla vigilanza in materia di igiene e sicurezza nei luoghi di lavoro.
 									</h:li>
 									<h:li>
 										Presidenza del Consiglio dei Ministri - Dipartimento della Funzione Pubblica, in relazione alla gestione ed alla rilevazione annuale dei permessi per cariche sindacali (
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art53" xlink:type="simple">art. 53 del D.lgs n. 165/2001</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165~art53" xlink:type="simple">art. 53 del D.lgs n. 165/2001</rif>
 										, CCNQ in data 7 agosto 1998);
 									</h:li>
 									<h:li>ARAN, per la verifica della rappresentatività sindacale con indicazione numerica del personale amministrativo iscritto alle organizzazioni sindacali, per ogni sede istituzionale;</h:li>
@@ -328,13 +328,13 @@
 								</h:p>
 								<h:p>
 									ll trattamento concerne i dati indispensabili all'instaurazione ed alla gestione del rapporto di lavoro, avviato a qualunque titolo (compreso quelli a tempo determinato, part-time, dl consulenza, co.co.co, ecc.) a partire dai procedimenti concorsuali o da altre procedure di selezione. I dati sono oggetto di trattamento presso le competenti strutture del CNR per quanto riguarda la gestione dell'orario di servizio, le certificazioni di malattie ed altri giustificativi delle assenze; vengono inoltre effettuali trattamenti a fini statistici e di controllo di gestione e l'accertamento dei requisiti per la fruizione di borse di studio o altre agevolazioni. I dati sulle convinzioni religiose possono rendersi necessari per lo concessione di permessi per quelle festività la cui fruizione è connessa all'appartenza a determinate confessioni religiose o in relazione a particolari preferenze alimentari la dove sia previsto un servizio di mensa; quelli sulle opinioni filosofiche o di altro genere possono venire in evidenza dalla documentazione connessa allo svolgimento del servizio di leva come obiettore di coscienza, le informazioni sulla vita sessuale possono desumersi unicamente in caso di rettificazione di attribuzione di sesso. Possono essere raccolti anche dati sulla salute relativi ai familiari del dipendente ai fini della concessione di benefici nei soli casi previsti dalla legge. I dati pervengono su iniziativa dei dipendenti e/o previa richiesta da parte dell'Ente. I dati vengono trattati ai fini dell'applicazione dei vari istituti contrattuali discriminati dalla legge e dal CCNL (gestione giuridica, economica, previdenziale, pensionistica, attività di aggiornamento e formazione). Vengono effettuati raffronti con amministrazioni e gestori di pubblici servizi: tale operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445~art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
 									. L'Amministrazione nell'ambito delle attività connesse all'esercizio dei diritti sindacali provvede a comunicare all'ARAN I'elettorato attivo e a raccogliere gli elenchi dell'elettorato passivo degli iscritti delle varie OO.SS. maggiomnente rappresentative (
 									<mrif>
 										Art.
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art42" xlink:type="simple">42</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art42" xlink:type="simple">42</rif>
 										e
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art43" xlink:type="simple">43</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art43" xlink:type="simple">43</rif>
 										del d lgs. 30.3.2001, n. 165
 									</mrif>
 									)
@@ -394,7 +394,7 @@
 								</h:p>
 								<h:p>
 									Concessione, liquidazione, modifica e revoca di benefici economici, agevolazioni, elargizioni, emolumenti (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art68" xlink:type="simple">art. 68 d.lgs. n 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art68" xlink:type="simple">art. 68 d.lgs. n 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -455,11 +455,11 @@
 								</h:p>
 								<h:p>
 									I dati vengono acquisiti dall'interessato e da terzi previa richiesta dell'interessato, (in particolare dalla Commissione medico ospedaliera territorialmente competente per l'accertamento delle condizioni di idoneità al servizio e dal Comitato di verifica per le cause di servizio in caso di richiesta di riconoscimento di invalidità dipendente da causa di servizio e/o equo indennizzo). In caso di richiesta di pensione privilegiata, i dati vengono trasmessi all'INPDAP per l'erogazione del trattamento pensionistico. Uguale trasmissione si ha nell'ipotesi di richiesta di riconoscimento alla contribuzione figurativa di cui all'
-									<rif xlink:href="urn:nir:stato:legge:2000;388#art80" xlink:type="simple">art. 80, l. n. 388/2000</rif>
+									<rif xlink:href="urn:nir:stato:legge:2000;388~art80" xlink:type="simple">art. 80, l. n. 388/2000</rif>
 									. Esperita l'istruttoria, la determinazione dirigenziale relativa al riconoscimento dell'invalidità viene comunicata all'INAIL per gli accertamenti connessi alla liquidazione ai sensi dell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art130" xlink:type="simple">art. 130 d.lgs. n. 112/1998</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112~art130" xlink:type="simple">art. 130 d.lgs. n. 112/1998</rif>
 									). Vengono effettuati raffronti con amministrazioni e gestori di pubblci servizi: tale tipo di operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445~art43" xlink:type="simple">art. 43 del d.P.R. n. 445/2000</rif>
 									. I dati sull'origine etnica sono trattati soltanto ove indispensabili per l'acquisizione di benefici in favore di profughi e internati in campi di sterminio.
 								</h:p>
 							</contenitore>
@@ -494,9 +494,9 @@
 								<h:p>
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1992-12-16;495" xlink:type="simple">D.P.R. 16.12.1992, n. 495</rif>
 									;
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1988-08-23;395#art6" xlink:type="simple">D.P.R. 23/08/1988, n. 395 art.6</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1988-08-23;395~art6" xlink:type="simple">D.P.R. 23/08/1988, n. 395 art.6</rif>
 									;
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art9" xlink:type="simple">D.P.R. 12/2/1991, n. 171 art. 9</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171~art9" xlink:type="simple">D.P.R. 12/2/1991, n. 171 art. 9</rif>
 									; CCNL Comparto Istituzionied Enti di ricerca.
 								</h:p>
 								<h:p />
@@ -509,9 +509,9 @@
 									Attività relativa all'infortunistica stradale (
 									<mrif>
 										articolo
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art71" xlink:type="simple">71</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art71" xlink:type="simple">71</rif>
 										e
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112-com2-letc" xlink:type="simple">112, comma 2, lettera c)</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art112-com2-letc" xlink:type="simple">112, comma 2, lettera c)</rif>
 										D.lg. n. 196/2003
 									</mrif>
 									)
@@ -527,7 +527,7 @@
 									patologie attuali / terapie in corso;
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -607,9 +607,9 @@
 								</h:p>
 								<h:p>
 									Finalità volte a fare valere il diritto di difesa in sede amministrativa o giudiziaria (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art71" xlink:type="simple">art. 71 del d.lgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art71" xlink:type="simple">art. 71 del d.lgs. n. 196/2003</rif>
 									) e correlate alla gestione del rapporto di lavoro (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art112" xlink:type="simple">art. 112 del d.lgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art112" xlink:type="simple">art. 112 del d.lgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -629,7 +629,7 @@
 									;
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -674,7 +674,7 @@
 								</h:p>
 								<h:p>
 									Il trattamento dei dati giudiziari e sensibili è effettuato per quanto strettamente indispensabile in relazione ad ogni fattispecie che possa dar luogo ad un contenzioso, in particolare nell'ambito di pareri resi all'Amministrazione di scritti difensivi prodotti in giudizio, così come nell'ambito delle richieste di indennizzo e/o danni inerenti la responsabilità civile verso terzi dell'Amministrazione. Vengono effettuati eventuali raffronti con amministrazioni e gestori di pubblici servizi: tale tipo di operazioni sono finalizzate esclusivamente all'accertamento d'ufficio di stati, qualità e fatti ovvero al controllo sulle dichiarazioni sostitutive ai sensi dell'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art43" xlink:type="simple">art. 43 del d.P.R n. 445/2000</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445~art43" xlink:type="simple">art. 43 del d.P.R n. 445/2000</rif>
 									. Gli stessi possono essere comunicati agli uffici competenti per la relativa trattazione amministrativa, all'Autorità giudiziaria (che può anche comunicarli all'ente), al professionista per un'eventuale attribuzione di incarico; all'avvocatura generale dello Stato per acquisire pareri e/o fornire elementi per la difesa in giudizio, all'Ufficio provinciale del lavoro per il tentativo di conciliazione, agli Enti previdenziali (INAIL, INPS INPDAP), agli enti di patronato ed ai sindacati (incaricati di indagini difensive proprie e altrui); nonché al consulente della controparte e al consulente nominato dall'autorità giudiziaria (per le finalità di corrispondenza sia in fase pregiudiziale, sia in corso di causa, nonché per la gestione dei sinistri causati direttamente o indirettamente a terzi). I dati riguardano ogni fattispecie che possa dare luogo ad un contenzioso.
 								</h:p>
 							</contenitore>
@@ -731,11 +731,11 @@
 									Attività di controllo, di indirizzo politico e documentazione dell'attività istituzionale degli organi dell'Ente (
 									<mrif>
 										artt.
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art65" xlink:type="simple">65</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art65" xlink:type="simple">65</rif>
 										,
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art67" xlink:type="simple">67</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art67" xlink:type="simple">67</rif>
 										e
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art69" xlink:type="simple">69</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art69" xlink:type="simple">69</rif>
 										del decreto legislativo n. 196/2003
 									</mrif>
 									).
@@ -755,7 +755,7 @@
 									patologie attuali / patologie pregresse / terapie in corso;
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -833,9 +833,9 @@
 								</h:p>
 								<h:p>
 									Attività di promozione della cultura scientifica (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art73-com2-letc" xlink:type="simple">art. 73, comma 2, lett. c</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art73-com2-letc" xlink:type="simple">art. 73, comma 2, lett. c</rif>
 									) e attività di assistenza, integrazione sociale e tutela dei diritti delle persone handicappate (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art86-com1-letc" xlink:type="simple">86 comma 1 lettera c</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art86-com1-letc" xlink:type="simple">86 comma 1 lettera c</rif>
 									)
 								</h:p>
 								<h:p />
@@ -906,9 +906,9 @@
 									);
 									<mrif>
 										decreto legislativo n. 196/2003 artt.
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art107" xlink:type="simple">107</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art107" xlink:type="simple">107</rif>
 										e
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art110" xlink:type="simple">110</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art110" xlink:type="simple">110</rif>
 									</mrif>
 									; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004.
 								</h:p>
@@ -920,7 +920,7 @@
 								</h:p>
 								<h:p>
 									Sono le finalità contenute nell'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-letc" xlink:type="simple">art. 98 comma 1 lettera c) del decreto legislativo n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art98-com1-letc" xlink:type="simple">art. 98 comma 1 lettera c) del decreto legislativo n. 196/2003</rif>
 								</h:p>
 								<h:p />
 							</contenitore>
@@ -1021,11 +1021,11 @@
 								<h:p>
 									Sono le finalità contenute nell'
 									<mrif>
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art95" xlink:type="simple">art. 95</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art95" xlink:type="simple">art. 95</rif>
 										e nell'art. 98 comma 1 lettere
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-leta" xlink:type="simple">a)</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art98-com1-leta" xlink:type="simple">a)</rif>
 										e
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art98-com1-letc" xlink:type="simple">c)</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art98-com1-letc" xlink:type="simple">c)</rif>
 										del decreto legislativo n. 196/2003
 									</mrif>
 								</h:p>
@@ -1045,7 +1045,7 @@
 									<h:b>vita sessuale;</h:b>
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -1124,7 +1124,7 @@
 									"Istituzione del servizio sanitario nazionale",
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502" xlink:type="simple">decreto legislativo 30 dicembre 1992, n. 502</rif>
 									(Riordino della disciplina in materia sanitaria, a norma dell'
-									<rif xlink:href="urn:nir:stato:legge:1992-10-23;421#art1" xlink:type="simple">articolo 1 della legge 23 ottobre 1992, n. 421</rif>
+									<rif xlink:href="urn:nir:stato:legge:1992-10-23;421~art1" xlink:type="simple">articolo 1 della legge 23 ottobre 1992, n. 421</rif>
 									)
 								</h:p>
 								<h:p />
@@ -1135,7 +1135,7 @@
 								</h:p>
 								<h:p>
 									Attività amministrative correlate alla prevenzione, diagnosi, cura e riabilitazione nell'ambito del Servizio sanitario nazionale (
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art85" xlink:type="simple">art. 85 D.lgs n.196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art85" xlink:type="simple">art. 85 D.lgs n.196/2003</rif>
 									)
 								</h:p>
 								<h:p />
@@ -1154,7 +1154,7 @@
 									<h:b>vita sessuale;</h:b>
 									<h:b>dati a carattere giudiziario</h:b>
 									(
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196~art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
 									)
 								</h:p>
 								<h:p />

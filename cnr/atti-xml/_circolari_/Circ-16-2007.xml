@@ -57,7 +57,7 @@
 				<contenitore id="con3" nome="">
 					<h:p>
 						Si trasmette in allegato, per conoscenza e norma, la
-						<rif xlink:href="#ann1" xlink:type="simple">lettera pos. 600010, prot. 1023/07, del 22/5/2007</rif>
+						<rif xlink:href="~ann1" xlink:type="simple">lettera pos. 600010, prot. 1023/07, del 22/5/2007</rif>
 						, del Dirigente dell'Ufficio del Consigliere Giuridico della Direzione Generale scrivente, riguardante la pubblicazione sulla Gazzetta Ufficiale del
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple">Regolamento del CNR per il trattamento dei dati sensibili e giudiziari</rif>
 						.

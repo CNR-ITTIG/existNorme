@@ -39,7 +39,7 @@
 				<numDoc>159</numDoc>
 				<titoloDoc>
 					Disposizioni organizzative interne per il funzionamento del Consiglio di amministrazione del CNR ai sensi dell'
-					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art4-com9" xlink:type="simple">art. 4 comma 9 del Regolamento di Organizzazione e Funzionamento</rif>
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art4-com9" xlink:type="simple">art. 4 comma 9 del Regolamento di Organizzazione e Funzionamento</rif>
 				</titoloDoc>
 			</intestazione>
 			<articolato>
@@ -50,7 +50,7 @@
 						<num>1.</num>
 						<corpo>
 							Il Consiglio di amministrazione, d'ora innanzi Consiglio, si riunisce di regola due volta al mese e, comunque ogni qualvolta il Presidente lo ritenga necessario oppure quando ne facciano richiesta almeno 5 consiglieri ai sensi del
-							<rif xlink:href="#art1-com4" xlink:type="simple">comma 4</rif>
+							<rif xlink:href="~art1-com4" xlink:type="simple">comma 4</rif>
 							.
 						</corpo>
 					</comma>
@@ -74,9 +74,9 @@
 						<num>6.</num>
 						<corpo>
 							L'avviso di convocazione è altresì inviato ai componenti del Collegio dei Revisori dei Conti, che possono assistere alle sedute del Consiglio, al Magistrato che esercita le funzioni di delegato al controllo della Corte dei Conti presso il CNR a norma dell'
-							<rif xlink:href="urn:nir:stato:legge:1958-03-21;259#art12" xlink:type="simple">articolo 12 della legge 21 marzo 1958, n. 259</rif>
+							<rif xlink:href="urn:nir:stato:legge:1958-03-21;259~art12" xlink:type="simple">articolo 12 della legge 21 marzo 1958, n. 259</rif>
 							ed al Direttore Generale, che partecipa alle riunioni a norma dell'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art4-com5" xlink:type="simple">articolo 4 comma 5 del Regolamento di organizzazione e funzionamento</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art4-com5" xlink:type="simple">articolo 4 comma 5 del Regolamento di organizzazione e funzionamento</rif>
 							.
 						</corpo>
 					</comma>
@@ -100,7 +100,7 @@
 						<num>2.</num>
 						<corpo>
 							Il termine di cui al
-							<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="~art2-com1" xlink:type="simple">comma 1</rif>
 							può essere dimezzato in presenza di particolari esigenze che devono essere previamente autorizzate dal Presidente e da questi illustrate nel corso della riunione.
 						</corpo>
 					</comma>

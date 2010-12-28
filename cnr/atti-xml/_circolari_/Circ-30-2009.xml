@@ -57,19 +57,19 @@
 				<contenitore id="con3" nome="">
 					<h:p>
 						In attuazione di quanto disposto dall'
-						<rif xlink:href="urn:nir:stato:legge:2009;69#art22-com2" xlink:type="simple">art. 22, comma 2 della Legge 69/2009</rif>
+						<rif xlink:href="urn:nir:stato:legge:2009;69~art22-com2" xlink:type="simple">art. 22, comma 2 della Legge 69/2009</rif>
 						e dall'
-						<rif xlink:href="urn:nir:stato:decreto.legge:2009;78#art17-com30" xlink:type="simple">art. 17, comma 30 del Decreto Legge 78/2009</rif>
+						<rif xlink:href="urn:nir:stato:decreto.legge:2009;78~art17-com30" xlink:type="simple">art. 17, comma 30 del Decreto Legge 78/2009</rif>
 						, convertito in
 						<rif xlink:href="urn:nir:stato:legge:2009;102" xlink:type="simple">Legge 102/2009</rif>
 						ed a seguito della proposta formulata dal Gruppo di lavoro appositamente costituito, il Consiglio di Amministrazione nella riunione del 4 novembre 2009, con
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple">deliberazione 223/2009</rif>
 						- Verb. n. 116, ha approvato le modifiche al "Disciplinare per il conferimento di incarichi di collaborazione" (
-						<rif xlink:href="#ann1" xlink:type="simple">allegato 1</rif>
+						<rif xlink:href="~ann1" xlink:type="simple">allegato 1</rif>
 						). Con la presente si trasmette, inoltre, la direttiva della Ragioneria della SAC n. Reg. RagSac 679/2009 del 30 novembre 2009 (
-						<rif xlink:href="#ann2" xlink:type="simple">allegato 2</rif>
+						<rif xlink:href="~ann2" xlink:type="simple">allegato 2</rif>
 						) ed il Manuale operativo opportunamente aggiornato (
-						<rif xlink:href="#ann3" xlink:type="simple">allegato 3</rif>
+						<rif xlink:href="~ann3" xlink:type="simple">allegato 3</rif>
 						).
 					</h:p>
 					<h:p />

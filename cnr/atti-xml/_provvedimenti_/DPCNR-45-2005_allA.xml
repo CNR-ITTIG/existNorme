@@ -44,7 +44,7 @@
 				)
 				<titoloDoc>
 					ATTUAZIONE DELL'
-					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art5" xlink:type="simple">ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE</rif>
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27~art5" xlink:type="simple">ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE</rif>
 					.
 					<h:br />
 					Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato
@@ -71,9 +71,9 @@
 								il Presidente, scelto tra i componenti di cui alle
 								<mrif>
 									lettere
-									<rif xlink:href="#art1-com1-leta" xlink:type="simple">a</rif>
+									<rif xlink:href="~art1-com1-leta" xlink:type="simple">a</rif>
 									e
-									<rif xlink:href="#art1-com1-letb" xlink:type="simple">b</rif>
+									<rif xlink:href="~art1-com1-letb" xlink:type="simple">b</rif>
 								</mrif>
 								, è individuato tra dirigenti di ricerca dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
 							</corpo>
@@ -100,9 +100,9 @@
 								il Presidente, scelto tra i componenti di cui alle
 								<mrif>
 									lettere
-									<rif xlink:href="#art2-com1-leta" xlink:type="simple">a</rif>
+									<rif xlink:href="~art2-com1-leta" xlink:type="simple">a</rif>
 									e
-									<rif xlink:href="#art2-com1-letb" xlink:type="simple">b</rif>
+									<rif xlink:href="~art2-com1-letb" xlink:type="simple">b</rif>
 								</mrif>
 								, è individuato tra i dirigenti di ricerca dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
 							</corpo>
@@ -129,9 +129,9 @@
 								il Presidente, scelto tra i componenti di cui alle
 								<mrif>
 									lettere
-									<rif xlink:href="#art3-com1-leta" xlink:type="simple">a</rif>
+									<rif xlink:href="~art3-com1-leta" xlink:type="simple">a</rif>
 									e
-									<rif xlink:href="#art3-com1-letb" xlink:type="simple">b</rif>
+									<rif xlink:href="~art3-com1-letb" xlink:type="simple">b</rif>
 								</mrif>
 								, è individuato tra dirigenti di ricerca o tecnologi dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
 							</corpo>
@@ -158,9 +158,9 @@
 								il Presidente, scelto tra i componenti di cui alle
 								<mrif>
 									lettere
-									<rif xlink:href="#art4-com1-leta" xlink:type="simple">a</rif>
+									<rif xlink:href="~art4-com1-leta" xlink:type="simple">a</rif>
 									e
-									<rif xlink:href="#art4-com1-letb" xlink:type="simple">b</rif>
+									<rif xlink:href="~art4-com1-letb" xlink:type="simple">b</rif>
 								</mrif>
 								, è individuato tra dirigenti di ricerca o tecnologi dell'Ente o dipendenti di altro ente del comparto ovvero professori universitari ordinari con comprovata esperienza internazionale.
 							</corpo>
@@ -184,9 +184,9 @@
 							Per i concorsi per l'assunzione al livello iniziale del profilo di ricercatore occorre essere in possesso del titolo di dottore di ricerca o equivalente attinente all'attività richiesta dal bando, ovvero essere in possesso del diploma di laurea conseguito secondo la normativa in vigore anteriormente alla riforma di cui al
 							<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1999-11-03;509" xlink:type="simple">DM n. 509/1999</rif>
 							oppure della laurea specialistica o magistrale, e aver svolto per un triennio attività di ricerca presso università o qualificati enti, organismi o centro di ricerca pubblici o privati ovvero nell'ambito dei contratti a tempo determinato di cui al
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">comma 3 dell'articolo 20 del decreto di riordino</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com3" xlink:type="simple">comma 3 dell'articolo 20 del decreto di riordino</rif>
 							o di assegni di ricerca banditi dall'ente ai sensi dell'
-							<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
+							<rif xlink:href="urn:nir:stato:legge:1997-12-27;449~art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
 							, con valutazione finale delle attività.
 						</corpo>
 					</comma>
@@ -194,7 +194,7 @@
 						<num>4.</num>
 						<corpo>
 							Per i concorsi di cui al
-							<rif xlink:href="#art5-com3" xlink:type="simple">comma 3</rif>
+							<rif xlink:href="~art5-com3" xlink:type="simple">comma 3</rif>
 							il bando prevede e disciplina i criteri di valutazione dei titoli scientifici e lo svolgimento di tre prove: due prove scritte, a carattere teorico e a carattere applicativo, e una prova orale.
 						</corpo>
 					</comma>
@@ -234,7 +234,7 @@
 						<num>3.</num>
 						<corpo>
 							Il numero delle commissioni è stabilito in base al numero delle aree scientifiche o dei settori tecnologici individuati nel bando. La sede di cui al
-							<rif xlink:href="#art6-com2" xlink:type="simple">comma 2</rif>
+							<rif xlink:href="~art6-com2" xlink:type="simple">comma 2</rif>
 							è di norma stabilita nella regione con il maggior numero di domande pervenute.
 						</corpo>
 					</comma>

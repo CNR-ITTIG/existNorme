@@ -79,7 +79,7 @@
 								Il presente regolamento è adottato in attuazione del
 								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">decreto legislativo 4 giugno 2003, n. 127</rif>
 								, e successive modificazioni, di seguito denominato "decreto di riordino", nell'ambito dell'autonomia organizzativa degli enti pubblici di ricerca sancita dall'
-								<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com1" xlink:type="simple">articolo 8, comma 1 della legge 9 maggio 1989 n. 168</rif>
+								<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8-com1" xlink:type="simple">articolo 8, comma 1 della legge 9 maggio 1989 n. 168</rif>
 								, e nel rispetto dei contratti collettivi nonchè delle vigenti norme in materia di pubblico impiego; definisce le procedure di reclutamento per l'assunzione del personale a tempo determinato e a tempo indeterminato, nonché le modalità per la gestione e l'amministrazione del personale.
 							</corpo>
 						</comma>
@@ -105,13 +105,13 @@
 							<num>2.</num>
 							<corpo>
 								La dotazione organica del Consiglio Nazionale delle Ricerche, risultante dalle tabelle numeri uno, due, tre e cinque, allegate al decreto di riordino, è aggiornata, con la procedura di cui al
-								<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art2-com1" xlink:type="simple">comma 1</rif>
 								, ai sensi degli
 								<mrif>
 									articoli
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art2" xlink:type="simple">2</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art2" xlink:type="simple">2</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art6" xlink:type="simple">6</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art6" xlink:type="simple">6</rif>
 									del decreto legislativo 30 marzo 2001, n. 165
 								</mrif>
 								.
@@ -125,7 +125,7 @@
 							<num>4.</num>
 							<corpo>
 								Nel definire il fabbisogno del personale dei profili di ricercatore e tecnologo il Consiglio di amministrazione tiene conto delle aree scientifiche e settori tecnologici in applicazione dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-09-29;381#art12" xlink:type="simple">articolo 12 del decreto legislativo 29 settembre 1999, n. 381</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-09-29;381~art12" xlink:type="simple">articolo 12 del decreto legislativo 29 settembre 1999, n. 381</rif>
 								. L'elenco di dette aree e settori è aggiornato periodicamente sentito il Consiglio scientifico generale.
 							</corpo>
 						</comma>
@@ -137,9 +137,9 @@
 							<num>1.</num>
 							<corpo>
 								I bandi di concorso sono emanati dal Presidente, in base ai piani di assunzione di cui al
-								<rif xlink:href="#art2-com3" xlink:type="simple">comma 3 dell'articolo 2</rif>
+								<rif xlink:href="~art2-com3" xlink:type="simple">comma 3 dell'articolo 2</rif>
 								e nel rispetto dei criteri generali di cui all'
-								<rif xlink:href="#art6" xlink:type="simple">articolo 6</rif>
+								<rif xlink:href="~art6" xlink:type="simple">articolo 6</rif>
 								.
 							</corpo>
 						</comma>
@@ -147,7 +147,7 @@
 							<num>2.</num>
 							<corpo>
 								Ai fini di cui al
-								<rif xlink:href="#art3-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art3-com1" xlink:type="simple">comma 1</rif>
 								, nell'ambito delle procedure di pianificazione, i direttori dei dipartimenti e degli istituti e i responsabili degli uffici dell'amministrazione predispongono le proprie richieste distinte per profilo e, ove necessario, per livello.
 							</corpo>
 						</comma>
@@ -170,7 +170,7 @@
 								<num>b)</num>
 								<corpo>
 									per chiamata diretta nei limiti fissati dall'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple">articolo20 comma 2 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com2" xlink:type="simple">articolo20 comma 2 del decreto di riordino</rif>
 									;
 								</corpo>
 							</el>
@@ -187,11 +187,11 @@
 							<num>2.</num>
 							<corpo>
 								Con riferimento al personale dipendente, l'Amministrazione può applicare ai vincitori di concorso a tempo determinato indetto e svolto nel rispetto dei vincoli posti dalla legge per i concorsi a tempo indeterminato, in coerenza anche con la salvaguardia delle specificità dei rapporti di lavoro di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com2" xlink:type="simple">articolo 23 comma 2 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art23-com2" xlink:type="simple">articolo 23 comma 2 del decreto di riordino</rif>
 								, nei limiti stabiliti annualmente all'interno del fabbisogno di personale oggetto della programmazione di cui al
-								<rif xlink:href="#art2-com1" xlink:type="simple">comma 1 dell'articolo 2</rif>
+								<rif xlink:href="~art2-com1" xlink:type="simple">comma 1 dell'articolo 2</rif>
 								, le modalità di assunzione di cui alla
-								<rif xlink:href="#art4-com1-letd" xlink:type="simple">lettera d) del comma 1</rif>
+								<rif xlink:href="~art4-com1-letd" xlink:type="simple">lettera d) del comma 1</rif>
 								, con il vincolo del superamento di un'ulteriore verifica sull'attività svolta e sulla qualificazione conseguita, da effettuare prima della conclusione del contratto a termine.
 							</corpo>
 						</comma>
@@ -206,7 +206,7 @@
 								<num>b)</num>
 								<corpo>
 									per chiamata diretta nei limiti fissati dall'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">articolo 20 comma 3 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com3" xlink:type="simple">articolo 20 comma 3 del decreto di riordino</rif>
 									.
 								</corpo>
 							</el>
@@ -226,9 +226,9 @@
 								<num>1.</num>
 								<alinea>
 									Il Consiglio di amministrazione, nel rispetto dei principi dettati dal
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
 									e in conformità con i principi generali contenuti nel
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap3" xlink:type="simple">titolo II, capo III, del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~tit2-cap3" xlink:type="simple">titolo II, capo III, del decreto legislativo 30 marzo 2001, n.165</rif>
 									, previa consultazione delle organizzazioni sindacali ammesse alla contrattazione collettiva ai sensi della normativa vigente, definisce con propria delibera:
 								</alinea>
 								<el id="art5-com1-leta">
@@ -284,7 +284,7 @@
 								<num>1.</num>
 								<corpo>
 									Il bando precisa il grado di decentramento delle procedure in applicazione della delibera del Consiglio di amministrazione di cui all'
-									<rif xlink:href="#art5-com1" xlink:type="simple">articolo 5 comma 1</rif>
+									<rif xlink:href="~art5-com1" xlink:type="simple">articolo 5 comma 1</rif>
 									.
 								</corpo>
 							</comma>
@@ -308,7 +308,7 @@
 								<num>1.</num>
 								<corpo>
 									Il Consiglio di amministrazione, coerentemente con quanto stabilito nel piano di fabbisogno annuale di personale e nei limiti stabiliti dal
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple">comma 2 dell'articolo 20 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com2" xlink:type="simple">comma 2 dell'articolo 20 del decreto di riordino</rif>
 									, su proposta del Presidente, sentito il Consiglio scientifico generale, autorizza l'assunzione a tempo indeterminato al massimo livello di inquadramento previsto dal contratto del personale di ricerca, di soggetti italiani o stranieri dotati di altissima qualificazione scientifica ovvero che siano stati insigniti di alti riconoscimenti scientifici in ambito internazionale. La delibera specifica altresì la fascia retributiva riconosciuta.
 								</corpo>
 							</comma>
@@ -335,7 +335,7 @@
 									<num>a)</num>
 									<corpo>
 										assunzioni di cui all'
-										<rif xlink:href="urn:nir:stato:legge:1975-03-20;70#art36" xlink:type="simple">articolo 36 della legge 20 marzo 1975, n.70</rif>
+										<rif xlink:href="urn:nir:stato:legge:1975-03-20;70~art36" xlink:type="simple">articolo 36 della legge 20 marzo 1975, n.70</rif>
 										;
 									</corpo>
 								</el>
@@ -343,7 +343,7 @@
 									<num>b)</num>
 									<corpo>
 										assunzioni di cui all'
-										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art23" xlink:type="simple">articolo 23 del decreto del Presidente della Repubblica 12 febbraio 1991, n.171</rif>
+										<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171~art23" xlink:type="simple">articolo 23 del decreto del Presidente della Repubblica 12 febbraio 1991, n.171</rif>
 										;
 									</corpo>
 								</el>
@@ -355,7 +355,7 @@
 									<num>d)</num>
 									<corpo>
 										assunzioni di cui all'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com3" xlink:type="simple">articolo 20 comma 3 del decreto di riordino</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com3" xlink:type="simple">articolo 20 comma 3 del decreto di riordino</rif>
 										;
 									</corpo>
 								</el>
@@ -364,7 +364,7 @@
 								<num>4.</num>
 								<corpo>
 									Il Consiglio di amministrazione, nel rispetto dei principi dettati dal comma 4 dell'articolo 20 del decreto di riordino e in conformità con i principi generali contenuti nel
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap3" xlink:type="simple">Titolo II, capo III, del decreto legislativo 30 marzo 2001, n.165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~tit2-cap3" xlink:type="simple">Titolo II, capo III, del decreto legislativo 30 marzo 2001, n.165</rif>
 									, e della contrattazione collettiva, definisce con propria delibera le modalità generali per l'assunzione ai diversi livelli e i riferimenti per la formulazione dei bandi, ivi inclusa la definizione delle soglie di idoneità, nonché i criteri per stabilire il grado di decentramento dello svolgimento dei concorsi.
 								</corpo>
 							</comma>
@@ -374,11 +374,11 @@
 									I contratti sono stipulati previa selezione pubblica o, limitatamente ai
 									<mrif>
 										casi
-										<rif xlink:href="#art9-com3-leta" xlink:type="simple">a)</rif>
+										<rif xlink:href="~art9-com3-leta" xlink:type="simple">a)</rif>
 										,
-										<rif xlink:href="#art9-com3-letb" xlink:type="simple">b)</rif>
+										<rif xlink:href="~art9-com3-letb" xlink:type="simple">b)</rif>
 										e
-										<rif xlink:href="#art9-com3-letd" xlink:type="simple">d)</rif>
+										<rif xlink:href="~art9-com3-letd" xlink:type="simple">d)</rif>
 									</mrif>
 									, qualora sia consentito dalla legge o dai contratti, anche per chiamata diretta.
 								</corpo>
@@ -396,13 +396,13 @@
 										relativamente alle
 										<mrif>
 											tipologie
-											<rif xlink:href="#art9-com3-leta" xlink:type="simple">a)</rif>
+											<rif xlink:href="~art9-com3-leta" xlink:type="simple">a)</rif>
 											e
-											<rif xlink:href="#art9-com3-letb" xlink:type="simple">b)</rif>
+											<rif xlink:href="~art9-com3-letb" xlink:type="simple">b)</rif>
 											dell'articolo 9 comma 3
 										</mrif>
 										, da tre esperti scelti nell'albo di cui all'
-										<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+										<rif xlink:href="~art5" xlink:type="simple">articolo 5</rif>
 										, dei quali almeno uno esterno all'Ente, di livello almeno pari a quello per il quale la selezione è bandita, se l'esperto é interno all'Ente, o a professore universitario di ruolo, se esterno all'Ente;
 									</corpo>
 								</el>
@@ -410,9 +410,9 @@
 									<num>b)</num>
 									<corpo>
 										relativamente alla
-										<rif xlink:href="#art9-com3-letc" xlink:type="simple">tipologia c) dell'articolo 9, comma 3</rif>
+										<rif xlink:href="~art9-com3-letc" xlink:type="simple">tipologia c) dell'articolo 9, comma 3</rif>
 										, il reclutamento è limitato al livello III del profilo di ricercatore o tecnologo e la commissione è composta da personale dei diversi livelli del profilo di ricercatore o tecnologo scelti, in numero di tre, nell'albo di cui all'
-										<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+										<rif xlink:href="~art5" xlink:type="simple">articolo 5</rif>
 										dei quali almeno uno esterno all'unità di previsto inserimento.
 									</corpo>
 								</el>
@@ -437,9 +437,9 @@
 								<num>2.</num>
 								<corpo>
 									Il Consiglio di amministrazione, previa consultazione delle organizzazioni sindacali ammesse alla contrattazione collettiva ai sensi della normativa vigente, nel rispetto dei principi dettati dal
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com1" xlink:type="simple">comma 1 dell'articolo 20 del decreto di riordino</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com1" xlink:type="simple">comma 1 dell'articolo 20 del decreto di riordino</rif>
 									e in conformità con i principi generali contenuti nel
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap3" xlink:type="simple">Titolo II, capo III, del decreto legislativo 30 marzo 2001, n. 165</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~tit2-cap3" xlink:type="simple">Titolo II, capo III, del decreto legislativo 30 marzo 2001, n. 165</rif>
 									, e della contrattazione collettiva, definisce con propria delibera le modalità generali per l'assunzione ai diversi livelli e i criteri per la formulazione dei bandi, ivi inclusa la definizione delle soglie di idoneità, e per stabilire il grado di decentramento delle procedure.
 								</corpo>
 							</comma>
@@ -457,9 +457,9 @@
 									Si applicano i criteri di cui all'
 									<mrif>
 										articolo 9, commi
-										<rif xlink:href="#art9-com1" xlink:type="simple">1</rif>
+										<rif xlink:href="~art9-com1" xlink:type="simple">1</rif>
 										e
-										<rif xlink:href="#art9-com2" xlink:type="simple">2</rif>
+										<rif xlink:href="~art9-com2" xlink:type="simple">2</rif>
 									</mrif>
 									.
 								</corpo>
@@ -482,9 +482,9 @@
 									Le assunzioni a tempo determinato di personale di cui ai
 									<mrif>
 										commi
-										<rif xlink:href="#art12-com1" xlink:type="simple">1</rif>
+										<rif xlink:href="~art12-com1" xlink:type="simple">1</rif>
 										e
-										<rif xlink:href="#art12-com2" xlink:type="simple">2</rif>
+										<rif xlink:href="~art12-com2" xlink:type="simple">2</rif>
 										dell'articolo 12
 									</mrif>
 									, avvengono previa selezione pubblica fermo restando quanto previsto dai contratti collettivi e dalla normativa vigente.
@@ -503,7 +503,7 @@
 							<num>1.</num>
 							<corpo>
 								L'accesso alla qualifica di dirigente avviene nel rispetto delle disposizioni previste dal
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit3-cap2" xlink:type="simple">Capo II del Titolo III del decreto legislativo 30 marzo 2001 n.165</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~tit3-cap2" xlink:type="simple">Capo II del Titolo III del decreto legislativo 30 marzo 2001 n.165</rif>
 								e successive modificazioni.
 							</corpo>
 						</comma>
@@ -511,7 +511,7 @@
 							<num>2.</num>
 							<corpo>
 								Le funzioni dei dirigenti sono disciplinate dall'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art38" xlink:type="simple">articolo 38 del regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art38" xlink:type="simple">articolo 38 del regolamento di organizzazione e funzionamento</rif>
 								.
 							</corpo>
 						</comma>
@@ -523,7 +523,7 @@
 							<num>1.</num>
 							<corpo>
 								Gli uffici dirigenziali possono essere ricoperti da dirigenti amministrativi, ricercatori o tecnologi del CNR; si applica, per quanto compatibile l'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19" xlink:type="simple">articolo 19 del decreto legislativo 30 marzo 2001, n.165</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19" xlink:type="simple">articolo 19 del decreto legislativo 30 marzo 2001, n.165</rif>
 								e successive modificazioni.
 							</corpo>
 						</comma>
@@ -533,9 +533,9 @@
 								Con riferimento all'utilizzazione in posizioni dirigenziali di esterni all'amministrazione si applicano le disposizioni dei
 								<mrif>
 									commi
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com4" xlink:type="simple">4</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com4" xlink:type="simple">4</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">6</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6" xlink:type="simple">6</rif>
 									dell'articolo19 del decreto legislativo 30 marzo 2001, n. 165
 								</mrif>
 								, e successive modificazioni, nelle percentuali ivi previste delle posizioni di livello dirigenziale. Il contratto è stipulato dal direttore generale previa delibera del Consiglio di amministrazione.
@@ -557,7 +557,7 @@
 							<num>1.</num>
 							<corpo>
 								I dirigenti sono sottoposti ad una valutazione delle proprie prestazioni e competenze organizzative nel rispetto dei principi di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286#art5" xlink:type="simple">articolo 5 del decreto legislativo 30 luglio 1999, n.286</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286~art5" xlink:type="simple">articolo 5 del decreto legislativo 30 luglio 1999, n.286</rif>
 								, e successive modificazioni per quanto applicabile.
 							</corpo>
 						</comma>
@@ -569,9 +569,9 @@
 							<num>3.</num>
 							<corpo>
 								La valutazione di cui al comma precedente costituisce presupposto per le misure di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art21" xlink:type="simple">articolo 21 del decreto legislativo 30 marzo 2001, n.165</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art21" xlink:type="simple">articolo 21 del decreto legislativo 30 marzo 2001, n.165</rif>
 								, e successive modificazioni, e all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286#art5-com4" xlink:type="simple">articolo 5 comma 4, del decreto legislativo 30 luglio 1999, n.286</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286~art5-com4" xlink:type="simple">articolo 5 comma 4, del decreto legislativo 30 luglio 1999, n.286</rif>
 								e successive modificazioni.
 							</corpo>
 						</comma>
@@ -611,7 +611,7 @@
 							<num>4.</num>
 							<corpo>
 								Il personale associato ha accesso all'uso dei servizi, degli strumenti e delle apparecchiature del CNR, nell'ambito e per le finalità dei programmi e dei progetti ai quali collabora, partecipando a pieno titolo alle attività della struttura di ricerca cui afferisce con le modalità stabilite dalla delibera del Consiglio di amministrazione di cui al
-								<rif xlink:href="#art17-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art17-com1" xlink:type="simple">comma 1</rif>
 								. Al personale associato può essere corrisposto il trattamento di missione. Il direttore di istituto deve provvedere a verificare, e se necessario realizzare, la copertura assicurativa del personale associato che svolge la propria attività nell'ambito del CNR.
 							</corpo>
 						</comma>
@@ -619,7 +619,7 @@
 							<num>5.</num>
 							<corpo>
 								Qualora l'associato contribuisca a una commessa con risorse determinanti il direttore di istituto può proporne la nomina a responsabile di commessa con le procedure di cui all'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art29" xlink:type="simple">articolo 29 del Regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art29" xlink:type="simple">articolo 29 del Regolamento di organizzazione e funzionamento</rif>
 								.
 							</corpo>
 						</comma>
@@ -649,7 +649,7 @@
 							<num>3.</num>
 							<corpo>
 								La gestione del rapporto di lavoro spetta al direttore della struttura scientifica o al dirigente dell'ufficio amministrativo, che opera, ai fini dell'applicazione delle norme in materia di prevenzione degli infortuni e di igiene sul lavoro, con le capacità e i poteri del datore di lavoro privato. Gli uffici dell' amministrazione centrale forniscono al direttore, ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art33-com2" xlink:type="simple">articolo 33 comma 2 del regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art33-com2" xlink:type="simple">articolo 33 comma 2 del regolamento di organizzazione e funzionamento</rif>
 								, il necessario supporto.
 							</corpo>
 						</comma>
@@ -658,11 +658,11 @@
 							<corpo>
 								Il personale di ciascun istituto può prestare la propria attività su specifici progetti e programmi dell'Ente anche collaborando con il personale dei dipartimenti e di altri istituti e rispondendo funzionalmente, per quanto concerne l'organizzazione delle specifiche attività e il raggiungimento degli obiettivi interni, al responsabile del singolo progetto o commessa secondo le modalità stabilite dagli
 								<mrif>
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art20" xlink:type="simple">articoli 20</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art20" xlink:type="simple">articoli 20</rif>
 									,
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art26" xlink:type="simple">26</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art26" xlink:type="simple">26</rif>
 									e
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art44" xlink:type="simple">44</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art44" xlink:type="simple">44</rif>
 									del regolamento di organizzazione e funzionamento
 								</mrif>
 								.
@@ -700,7 +700,7 @@
 							<num>1.</num>
 							<corpo>
 								Ai sensi e nei limiti stabiliti dall'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21-com1" xlink:type="simple">articolo 21 comma 1 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art21-com1" xlink:type="simple">articolo 21 comma 1 del decreto di riordino</rif>
 								, il personale del CNR, previa autorizzazione dell'Ente, può assumere incarichi di insegnamento a contratto presso le Università, in materie pertinenti all'attività svolta nonché assumere incarichi di direzione di dipartimenti o centri di ricerca presso l'Università per periodi determinati.
 							</corpo>
 						</comma>
@@ -712,9 +712,9 @@
 							<num>3.</num>
 							<corpo>
 								Il personale del CNR, nei limiti definiti dall'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21" xlink:type="simple">articolo 21 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art21" xlink:type="simple">articolo 21 del decreto di riordino</rif>
 								, è altresì autorizzato, nell'ambito delle convenzioni stipulate ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
 								, a svolgere attività di ricerca presso le università per periodi determinati.
 							</corpo>
 						</comma>
@@ -726,9 +726,9 @@
 							<num>1.</num>
 							<corpo>
 								Ai sensi dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21" xlink:type="simple">articolo 21 del decreto di riordino</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art21" xlink:type="simple">articolo 21 del decreto di riordino</rif>
 								e con apposite convenzioni, stipulate ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
 								, sulla base di specifici criteri stabiliti con delibera del Consiglio di amministrazione che tengano conto della particolarità delle attività da svolgere, è autorizzata l'assunzione di incarichi di direzione e l'espletamento di attività di ricerca presso gli istituti di ricovero e cura a carattere scientifico (I.R.C.C.S.) di diritto pubblico. Con le stesse modalità si provvede all'associazione del personale dell'area della ricerca degli I.R.C.C.S. ad istituti del CNR per lo svolgimento di specifici programmi o progetti di ricerca.
 							</corpo>
 						</comma>
@@ -744,9 +744,9 @@
 							<num>1.</num>
 							<corpo>
 								Il Direttore della struttura interessata, nell'ambito dei Protocolli di intesa stipulati ai sensi dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art23bis" xlink:type="simple">articolo 23-bis del decreto legislativo 30 marzo 2001, n.165</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art23bis" xlink:type="simple">articolo 23-bis del decreto legislativo 30 marzo 2001, n.165</rif>
 								e dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art49" xlink:type="simple">articolo 49 del regolamento di organizzazione e funzionamento</rif>
 								, per singoli progetti, può disporre, previo consenso dell'interessato, l'assegnazione temporanea di un dipendente ad un'impresa.
 							</corpo>
 						</comma>
@@ -790,7 +790,7 @@
 							<num>2.</num>
 							<corpo>
 								Le disposizioni di cui al
-								<rif xlink:href="#art27-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art27-com1" xlink:type="simple">comma 1</rif>
 								per quanto applicabili, si estendono al personale associato e a chiunque, a qualsiasi titolo operi all'interno nell'ambito degli uffici e delle strutture dell'Ente.
 							</corpo>
 						</comma>
@@ -798,7 +798,7 @@
 							<num>3.</num>
 							<corpo>
 								I codici di comportamento e le disposizioni di cui al
-								<rif xlink:href="#art27-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art27-com1" xlink:type="simple">comma 1</rif>
 								sono affisse nelle sedi dell'Ente in luogo idoneo accessibile e visibile a tutti i dipendenti.
 							</corpo>
 						</comma>
@@ -811,9 +811,9 @@
 							<corpo>
 								In base alle disposizioni vigenti e a quanto previsto dalla contrattazione collettiva, ai responsabili di progetto e di commessa, individuati con le modalità e le procedure stabilite dal regolamento di organizzazione e funzionamento, possono essere riconosciute indennità in misura proporzionale alle dimensioni ed alla complessità del progetto o della commessa e alle relative responsabilità. L'indennità è stabilita all'atto del conferimento dell'incarico ai sensi dell'
 								<mrif>
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art20-com3" xlink:type="simple">articolo 20, comma 3</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art20-com3" xlink:type="simple">articolo 20, comma 3</rif>
 									e dell'
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art29-com2" xlink:type="simple">articolo 29, comma 2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033~art29-com2" xlink:type="simple">articolo 29, comma 2</rif>
 									del regolamento di organizzazione e funzionamento
 								</mrif>
 								.
@@ -833,15 +833,15 @@
 								Il personale degli enti di cui alle
 								<mrif>
 									lettere
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1-leta" xlink:type="simple">a)</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art23-com1-leta" xlink:type="simple">a)</rif>
 									,
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1-letb" xlink:type="simple">b)</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art23-com1-letb" xlink:type="simple">b)</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1-letc" xlink:type="simple">c)</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art23-com1-letc" xlink:type="simple">c)</rif>
 									del comma 1 dell'articolo 23 del decreto di riordino
 								</mrif>
 								è trasferito al CNR mantenendo il proprio stato giuridico ed economico, compresa la posizione previdenziale ed assicurativa ed il trattamento di fine rapporto. Il livello retributivo eventualmente più favorevole è assicurato mediante "assegno ad personam". L'esperienza professionale maturata a titolo di lavoro dipendente nell'ambito degli enti di cui al
-								<rif xlink:href="#art29-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art29-com1" xlink:type="simple">comma 1</rif>
 								dal personale che confluisce nel CNR viene riconosciuta a tutti gli effetti consentiti dalla legge.
 							</corpo>
 						</comma>

@@ -37,7 +37,7 @@
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
 							<dsp:termine da="#t3" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art6-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -49,7 +49,7 @@
 							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
 							<dsp:termine da="#t4" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -61,7 +61,7 @@
 							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
 							<dsp:termine da="#t5" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128~art19-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -73,7 +73,7 @@
 							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
 							<dsp:termine da="#t6" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128~art19-com4" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -85,7 +85,7 @@
 							<dsp:pos xlink:href="#mod5" xlink:type="simple" />
 							<dsp:termine da="#t7" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38#art19-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38~art19-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -97,7 +97,7 @@
 							<dsp:pos xlink:href="#mod6" xlink:type="simple" />
 							<dsp:termine da="#t8" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286#art3-com1" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286~art3-com1" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:subarg>
@@ -115,7 +115,7 @@
 				<numDoc>213</numDoc>
 				<titoloDoc>
 					Riordino degli enti di ricerca in attuazione dell'
-					<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1" xlink:type="simple">articolo 1 della legge 27 settembre 2007, n. 165</rif>
+					<rif xlink:href="urn:nir:stato:legge:2007-09-27;165~art1" xlink:type="simple">articolo 1 della legge 27 settembre 2007, n. 165</rif>
 					.
 				</titoloDoc>
 				pubblicato nella Gazzetta Ufficiale del 1 febbraio 2010, n. 25
@@ -126,13 +126,13 @@
 					<h:p>
 						Visti gli
 						<mrif>
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art9" xlink:type="simple">articoli 9</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art9" xlink:type="simple">articoli 9</rif>
 							,
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art33" xlink:type="simple">33</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art33" xlink:type="simple">33</rif>
 							,
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art76" xlink:type="simple">76</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art76" xlink:type="simple">76</rif>
 							e
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art87" xlink:type="simple">87</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art87" xlink:type="simple">87</rif>
 							della Costituzione
 						</mrif>
 						;
@@ -157,9 +157,9 @@
 						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419" xlink:type="simple">decreto legislativo 29 ottobre 1999, n. 419</rif>
 						, concernente il riordino del sistema degli enti pubblici nazionali, a norma degli
 						<mrif>
-							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art11" xlink:type="simple">articoli 11</rif>
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59~art11" xlink:type="simple">articoli 11</rif>
 							e
-							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art14" xlink:type="simple">14</rif>
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59~art14" xlink:type="simple">14</rif>
 							della legge 15 marzo 1997, n. 59
 						</mrif>
 						;
@@ -169,9 +169,9 @@
 						<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286" xlink:type="simple">decreto legislativo 19 novembre 2004, n. 286</rif>
 						, concernente l'istituzione del Servizio nazionale di valutazione del sistema educativo di istruzione e di formazione, nonché il riordino dell'omonimo istituto a norma degli
 						<mrif>
-							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53#art1" xlink:type="simple">articoli 1</rif>
+							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53~art1" xlink:type="simple">articoli 1</rif>
 							e
-							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53#art3" xlink:type="simple">3</rif>
+							<rif xlink:href="urn:nir:stato:legge:2003-03-28;53~art3" xlink:type="simple">3</rif>
 							della legge 28 marzo 2003, n. 53
 						</mrif>
 						;
@@ -180,13 +180,13 @@
 						Visto l'
 						<mrif>
 							articolo 1, commi
-							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com612" xlink:type="simple">612</rif>
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296~art1-com612" xlink:type="simple">612</rif>
 							,
-							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com613" xlink:type="simple">613</rif>
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296~art1-com613" xlink:type="simple">613</rif>
 							,
-							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com614" xlink:type="simple">614</rif>
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296~art1-com614" xlink:type="simple">614</rif>
 							e
-							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com615" xlink:type="simple">615</rif>
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296~art1-com615" xlink:type="simple">615</rif>
 							della legge 27 dicembre 2006, n. 296
 						</mrif>
 						;
@@ -205,7 +205,7 @@
 					</h:p>
 					<h:p>
 						Visto l'
-						<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78#art17" xlink:type="simple">articolo 17 del decreto-legge 1 luglio 2009, n. 78</rif>
+						<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78~art17" xlink:type="simple">articolo 17 del decreto-legge 1 luglio 2009, n. 78</rif>
 						, convertito, con modificazioni, dalla
 						<rif xlink:href="urn:nir:stato:legge:2009-08-03;102" xlink:type="simple">legge 3 agosto 2009, n. 102</rif>
 						;
@@ -237,11 +237,11 @@
 							<num>1.</num>
 							<corpo>
 								Allo scopo di promuovere, sostenere, rilanciare e razionalizzare le attività nel settore della ricerca, di garantire autonomia, trasparenza ed efficienza nella gestione e di provvedere al riordino della disciplina relativa agli statuti e agli organi degli enti pubblici nazionali di ricerca, vigilati dal Ministero dell'istruzione, dell'università e della ricerca, è emanato il presente decreto legislativo, nel rispetto dei principi e criteri direttivi indicati nell'
-								<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art18" xlink:type="simple">articolo 18 della legge 15 marzo 1997, n. 59</rif>
+								<rif xlink:href="urn:nir:stato:legge:1997-03-15;59~art18" xlink:type="simple">articolo 18 della legge 15 marzo 1997, n. 59</rif>
 								e di quelli fissati dalla
 								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple">legge delega 27 settembre 2007, n. 165</rif>
 								, così come modificata dalla
-								<rif xlink:href="urn:nir:stato:legge:2009-06-18;69#art27-com1-leta" xlink:type="simple">lettera a) del comma 1 dell'articolo 27 della legge 18 giugno 2009, n. 69</rif>
+								<rif xlink:href="urn:nir:stato:legge:2009-06-18;69~art27-com1-leta" xlink:type="simple">lettera a) del comma 1 dell'articolo 27 della legge 18 giugno 2009, n. 69</rif>
 								.
 							</corpo>
 						</comma>
@@ -260,7 +260,7 @@
 								<num>c)</num>
 								<corpo>
 									per PNR: il Programma nazionale della ricerca, di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
 									;
 								</corpo>
 							</el>
@@ -268,7 +268,7 @@
 								<num>d)</num>
 								<corpo>
 									per PTA: Piano triennale di attività, di cui all'
-									<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+									<rif xlink:href="~art5" xlink:type="simple">articolo 5</rif>
 									;
 								</corpo>
 							</el>
@@ -276,7 +276,7 @@
 								<num>e)</num>
 								<corpo>
 									per DVS: il Documento di visione strategica decennale degli enti di ricerca, di cui all'
-									<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+									<rif xlink:href="~art5" xlink:type="simple">articolo 5</rif>
 									.
 								</corpo>
 							</el>
@@ -289,7 +289,7 @@
 							<num>1.</num>
 							<corpo>
 								Agli enti di ricerca è riconosciuta autonomia statutaria nel rispetto dell'
-								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art33-com6" xlink:type="simple">articolo 33, sesto comma, della Costituzione</rif>
+								<rif xlink:href="urn:nir:stato:costituzione:1947-12-27~art33-com6" xlink:type="simple">articolo 33, sesto comma, della Costituzione</rif>
 								, ed in coerenza con i principi della Carta europea dei ricercatori, allegata alla raccomandazione n. 2005/251/CE della commissione, dell'11 marzo 2005. Gli enti di ricerca adottano o adeguano i propri statuti in conformità alle disposizioni della
 								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165" xlink:type="simple">legge 27 settembre 2007, n. 165</rif>
 								, e del presente decreto legislativo, nonché con quelli compatibili dei rispettivi ordinamenti vigenti, prevedendo forme di sinergia tra gli enti di ricerca, le strutture universitarie ed il mondo dell'impresa, nonché modelli organizzativi tendenti alla valorizzazione, partecipazione e rappresentanza dell'intera comunità scientifica nazionale di riferimento.
@@ -311,7 +311,7 @@
 							<num>2.</num>
 							<corpo>
 								Gli statuti devono prevedere la riduzione del numero dei componenti degli organi di direzione, amministrazione, consulenza e controllo, nonché l'adozione di forme organizzative atte a garantire trasparenza ed efficienza della gestione. Le specifiche misure di snellimento devono comunque garantire l'alto profilo scientifico e professionale, le competenze tecnico-organizzative e la rappresentatività dei componenti, secondo i criteri previsti dall'
-								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com1-letf" xlink:type="simple">articolo 1, comma 1, lettera f) della legge 27 settembre 2007, n. 165</rif>
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165~art1-com1-letf" xlink:type="simple">articolo 1, comma 1, lettera f) della legge 27 settembre 2007, n. 165</rif>
 								.
 							</corpo>
 						</comma>
@@ -319,9 +319,9 @@
 							<num>3.</num>
 							<corpo>
 								In sede di prima attuazione, la formulazione e deliberazione degli statuti e dei regolamenti, cui all'
-								<rif xlink:href="#art6" xlink:type="simple">articolo 6</rif>
+								<rif xlink:href="~art6" xlink:type="simple">articolo 6</rif>
 								, è attribuita ai consigli di amministrazione in carica alla data di emanazione del presente decreto, integrati da cinque esperti dotati di specifiche competenze in relazione alle finalità dell'ente ed al particolare compito conferito, nominati, senza nuovi o maggiori oneri per la finanza pubblica, dal Ministro. Agli esperti non è riconosciuto alcun compenso o indennità. I predetti statuti sono deliberati previo parere dei consigli scientifici, entro sei mesi dalla data di entrata in vigore del presente decreto legislativo. In caso di inottemperanza della disposizione del presente comma, può provvedere il Ministero in via sostitutiva, fatta salva la possibilità di applicazione dell'
-								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165~art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
 								.
 							</corpo>
 						</comma>
@@ -333,9 +333,9 @@
 							<num>1.</num>
 							<corpo>
 								La ripartizione del fondo ordinario per gli enti di ricerca finanziati dal Ministero, di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art7" xlink:type="simple">articolo 7 del decreto legislativo 5 giugno 1998, n. 204</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art7" xlink:type="simple">articolo 7 del decreto legislativo 5 giugno 1998, n. 204</rif>
 								, e successive modificazioni, è effettuata sulla base della programmazione strategica preventiva, di cui all'
-								<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+								<rif xlink:href="~art5" xlink:type="simple">articolo 5</rif>
 								, nonché tenendo conto della valutazione della qualità dei risultati della ricerca, effettuata dall'Agenzia nazionale di valutazione dell'università e della ricerca (ANVUR).
 							</corpo>
 						</comma>
@@ -343,7 +343,7 @@
 							<num>2.</num>
 							<corpo>
 								A decorrere dall'anno 2011, al fine di promuovere e sostenere l'incremento qualitativo dell'attività scientifica degli enti di ricerca e migliorare l'efficacia e l'efficienza nell'utilizzo delle risorse, una quota non inferiore al 7 per cento del fondo di cui al
-								<rif xlink:href="#art4-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art4-com1" xlink:type="simple">comma 1</rif>
 								, con progressivi incrementi negli anni successivi, è destinata al finanziamento premiale di specifici programmi e progetti, anche congiunti, proposti dagli enti. I criteri e le motivazioni di assegnazione della predetta quota sono disciplinate con decreto avente natura non regolamentare del Ministro.
 							</corpo>
 						</comma>
@@ -363,7 +363,7 @@
 							<num>3.</num>
 							<corpo>
 								Per il perseguimento delle finalità di coordinamento ed armonizzazione di cui al
-								<rif xlink:href="#art5-com2" xlink:type="simple">comma 2</rif>
+								<rif xlink:href="~art5-com2" xlink:type="simple">comma 2</rif>
 								, il Ministero, tenuto conto degli obiettivi del Programma nazionale della ricerca ed in funzione della elaborazione di nuovi indirizzi, svolge una specifica funzione di preventiva valutazione comparativa e di indirizzo strategico. Tale funzione è prevalentemente esercitata sulla base dei PTA e dei DVS ovvero anche impartendo dirette indicazioni volte a favorire il perseguimento di obiettivi di sistema o esperendo iniziative basate su modalità di carattere selettivo atte a sollecitare la collaborazione tra i diversi enti in funzione della promozione e realizzazione di progetti congiunti. A tale fine il Ministero può avvalersi del supporto, anche individuale, di dipendenti di enti di ricerca e università, anche in forma di comando, sulla base di apposite intese con le amministrazioni di appartenenza.
 							</corpo>
 						</comma>
@@ -425,7 +425,7 @@
 							<num>2.</num>
 							<corpo>
 								I componenti del consiglio di amministrazione, compreso il presidente, sono nominati con decreto del Ministro, durano in carica quattro anni, e possono essere confermati una sola volta. Agli stessi si applica quanto previsto nel quarto periodo dell'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
 								, anche con riferimento ai mandati già espletati prima dell'entrata in vigore del presente decreto legislativo.
 							</corpo>
 						</comma>
@@ -437,7 +437,7 @@
 							<num>1.</num>
 							<corpo>
 								Il consiglio di amministrazione del Consiglio nazionale delle ricerche (CNR) è composto da sette componenti scelti tra personalità di alta qualificazione tecnico-scientifica nel campo della ricerca, di comprovata esperienza gestionale di enti ed istituzioni pubbliche o private, di cui: quattro, tra i quali il presidente, designati dal Ministro, di cui uno su indicazione del presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome; gli altri tre designati uno dalla Conferenza dei rettori delle università italiane, uno dalla Confindustria ed uno espressione delle comunità scientifica di riferimento. Il relativo consiglio scientifico di cui all'
-								<rif xlink:href="#art10" xlink:type="simple">articolo 10</rif>
+								<rif xlink:href="~art10" xlink:type="simple">articolo 10</rif>
 								può essere costituito fino ad un massimo di dieci componenti.
 							</corpo>
 						</comma>
@@ -493,7 +493,7 @@
 							<num>4.</num>
 							<corpo>
 								Nei consigli di amministrazione composti da cinque consiglieri, tre componenti e tra questi il presidente, sono individuati dal Ministro. Gli altri due componenti sono scelti direttamente dalla comunità scientifica o disciplinare di riferimento sulla base di una forma di consultazione definita negli statuti, fatto salvo quanto specificamente disposto all'
-								<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+								<rif xlink:href="~art9" xlink:type="simple">articolo 9</rif>
 								.
 							</corpo>
 						</comma>
@@ -510,9 +510,9 @@
 							<corpo>
 								Gli enti di ricerca, nell'esercizio della propria potestà statutaria e regolamentare, adeguano i propri ordinamenti ai principi dell'
 								<mrif>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art4" xlink:type="simple">articolo 4</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art4" xlink:type="simple">articolo 4</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap2" xlink:type="simple">capo II del titolo II</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~tit2-cap2" xlink:type="simple">capo II del titolo II</rif>
 									del decreto legislativo 30 marzo 2001, n. 165
 								</mrif>
 								, nonché della
@@ -548,7 +548,7 @@
 							<num>1.</num>
 							<corpo>
 								Le misure di razionalizzazione di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419#art12" xlink:type="simple">articolo 12 del decreto legislativo 29 ottobre 1999, n. 419</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419~art12" xlink:type="simple">articolo 12 del decreto legislativo 29 ottobre 1999, n. 419</rif>
 								, si applicano agli enti di ricerca vigilati dal Ministero che, entro il 31 dicembre 2010, con le modalità ivi previste, predispongono un piano volto alla razionalizzazione della localizzazione degli uffici, anche tra diversi enti, nonché alla realizzazione di economie di spesa.
 							</corpo>
 						</comma>
@@ -564,7 +564,7 @@
 							<num>2.</num>
 							<corpo>
 								Le infrastrutture nazionali di ricerca, dichiarate strategiche e di preminente interesse nazionale, sono realizzate con le modalità di cui alla
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163#prt2-tit3-cap4" xlink:type="simple">parte II del titolo III del capo IV del decreto legislativo 12 aprile 2006, n. 163</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163~prt2-tit3-cap4" xlink:type="simple">parte II del titolo III del capo IV del decreto legislativo 12 aprile 2006, n. 163</rif>
 								.
 							</corpo>
 						</comma>
@@ -572,7 +572,7 @@
 							<num>3.</num>
 							<corpo>
 								Ai fini dell'attuazione del presente articolo e per l'accrescimento del livello di eccellenza delle infrastrutture di ricerca si fa ricorso alle risorse rese disponibili, in particolare, dall'
-								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art17-com4" xlink:type="simple">articolo 17 comma 4, del decreto-legge 25 giugno 2008, n. 112</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art17-com4" xlink:type="simple">articolo 17 comma 4, del decreto-legge 25 giugno 2008, n. 112</rif>
 								, convertito, con modificazioni, dalla
 								<rif xlink:href="urn:nir:stato:legge:2008-08-06;133" xlink:type="simple">legge 6 agosto 2008, n. 133</rif>
 								.
@@ -586,7 +586,7 @@
 							<num>1.</num>
 							<corpo>
 								Il Ministero e, previa valutazione di legittimità e di merito da parte dello stesso, gli stessi enti di ricerca, senza nuovi o maggiori oneri a carico della finanza pubblica e senza garanzie da parte loro, possono promuovere, concorrere alla costituzione o partecipare a fondi di investimento con la partecipazione di investitori pubblici e privati, articolati in un sistema integrato tra fondi di livello nazionale e rete di fondi locali, ai sensi dell'
-								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art4" xlink:type="simple">articolo 4 del decreto-legge 25 giugno 2008, n. 112</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art4" xlink:type="simple">articolo 4 del decreto-legge 25 giugno 2008, n. 112</rif>
 								, convertito, con modificazioni, dalla
 								<rif xlink:href="urn:nir:stato:legge:2008-08-06;133" xlink:type="simple">legge 6 agosto 2008, n. 133</rif>
 								.
@@ -602,11 +602,11 @@
 								Gli enti di ricerca nell'articolazione dei rispettivi statuti e nell'enumerazione delle attività da svolgere tengono conto di quanto previsto agli
 								<mrif>
 									articoli
-									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art4" xlink:type="simple">4</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art4" xlink:type="simple">4</rif>
 									,
-									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art6" xlink:type="simple">6</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art6" xlink:type="simple">6</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art17" xlink:type="simple">17</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art17" xlink:type="simple">17</rif>
 									del decreto-legge 25 giugno 2008, n. 112
 								</mrif>
 								, convertito, con modificazioni, dalla
@@ -688,7 +688,7 @@
 								<corpo>
 									<mod id="mod1">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, primo periodo, del decreto legislativo 5 giugno 1998, n. 204</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art6-com2" xlink:type="simple">articolo 6, comma 2, primo periodo, del decreto legislativo 5 giugno 1998, n. 204</rif>
 <!-- frammento periodo:ord=1; -->
 										;
 									</mod>
@@ -699,7 +699,7 @@
 								<corpo>
 									<mod id="mod2">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com2" xlink:type="simple">articolo 20, comma 2, del decreto legislativo 4 giugno 2003, n. 127</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127~art20-com2" xlink:type="simple">articolo 20, comma 2, del decreto legislativo 4 giugno 2003, n. 127</rif>
 										;
 									</mod>
 								</corpo>
@@ -709,7 +709,7 @@
 								<corpo>
 									<mod id="mod3">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 4 giugno 2003, n. 128</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128~art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 4 giugno 2003, n. 128</rif>
 										;
 									</mod>
 								</corpo>
@@ -719,7 +719,7 @@
 								<corpo>
 									<mod id="mod4">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128#art19-com4" xlink:type="simple">articolo 19, comma 4, del decreto legislativo 4 giugno 2003, n. 128</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;128~art19-com4" xlink:type="simple">articolo 19, comma 4, del decreto legislativo 4 giugno 2003, n. 128</rif>
 										;
 									</mod>
 								</corpo>
@@ -729,7 +729,7 @@
 								<corpo>
 									<mod id="mod5">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38#art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 21 gennaio 2004, n. 38</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-21;38~art19-com2" xlink:type="simple">articolo 19, comma 2, del decreto legislativo 21 gennaio 2004, n. 38</rif>
 										;
 									</mod>
 								</corpo>
@@ -739,7 +739,7 @@
 								<corpo>
 									<mod id="mod6">
 										l'
-										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286#art3-com1" xlink:type="simple">articolo 3, comma 1, del decreto legislativo 19 novembre 2004, n. 286</rif>
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-11-19;286~art3-com1" xlink:type="simple">articolo 3, comma 1, del decreto legislativo 19 novembre 2004, n. 286</rif>
 										.
 									</mod>
 								</corpo>
@@ -753,7 +753,7 @@
 							<num>3.</num>
 							<corpo>
 								Rimane salvo quanto disposto all'
-								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165#art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
+								<rif xlink:href="urn:nir:stato:legge:2007-09-27;165~art1-com5" xlink:type="simple">articolo 1, comma 5, della legge 27 settembre 2007, n. 165</rif>
 								.
 							</corpo>
 						</comma>

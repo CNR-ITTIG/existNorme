@@ -47,7 +47,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art1-com1" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29~art2" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 2 deliberazione Consiglio Nazionale delle Ricerche 6 febbraio 2008, n. 29" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -59,7 +59,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art3-com7" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 3 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt2" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -74,7 +74,7 @@
 						<dsp:abrogazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art3-com7" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 3 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt3" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -86,7 +86,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art4-com2bis" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art4" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 4 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt4" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -110,7 +110,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art5-com2-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art6" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art6" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 6 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt6" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -125,7 +125,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art5-com2bis" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art6" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art6" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 6 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt7" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -137,7 +137,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art5-com2ter" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art6" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art6" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 6 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt8" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -149,7 +149,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art7-com1" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art8" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art8" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 8 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt9" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -161,7 +161,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art13-com2" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art9" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art9" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 9 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt10" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -173,7 +173,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art13-com3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art9" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art9" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 9 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt11" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -185,7 +185,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art14-com3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art10" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art10" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="Articolo 10 deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt12" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -212,7 +212,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29~art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo3, deliberazione Consiglio Nazionale delle Ricerche 6 febbraio 2008, n. 29" id="itt14" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -224,7 +224,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art2" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo2, deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt15" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -239,7 +239,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art3-com1bis-t5" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223#art2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223~art2" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo2, deliberazione Consiglio Nazionale delle Ricerche 4 novembre 2009, n. 223" id="itt16" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -254,7 +254,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art14-com1-t6" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29~art4" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo4, deliberazione Consiglio Nazionale delle Ricerche 6 febbraio 2008, n. 29" id="itt17" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -269,7 +269,7 @@
 						<dsp:abrogazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art14-com3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art5" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29~art5" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo5, deliberazione Consiglio Nazionale delle Ricerche 6 febbraio 2008, n. 29" id="itt18" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -281,7 +281,7 @@
 						<dsp:sostituzione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art6-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art7" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198~art7" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo7, deliberazione Consiglio Nazionale delle Ricerche 30 luglio 2008, n. 198" id="itt19" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -321,19 +321,19 @@
 								Le norme contenute nel presente disciplinare si applicano a tutti gli incarichi di collaborazione sia di natura coordinata e continuativa che di natura occasionale (non abituale o professionale),
 								<h:span id="h1" iniziovigore="t5">
 									di cui all'
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art7-com6" xlink:type="simple">art. 7 comma 6 del D.lgs. 165/2001</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165~art7-com6" xlink:type="simple">art. 7 comma 6 del D.lgs. 165/2001</rif>
 									,
 								</h:span>
 								conferiti sulla base delle disposizioni di cui agli
 								<mrif>
 									artt.
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2222" xlink:type="simple">2222</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2222" xlink:type="simple">2222</rif>
 									-
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2228" xlink:type="simple">2228</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2228" xlink:type="simple">2228</rif>
 									e
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2229" xlink:type="simple">2229</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2229" xlink:type="simple">2229</rif>
 									-
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2238" xlink:type="simple">2238</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2238" xlink:type="simple">2238</rif>
 									del Codice Civile
 								</mrif>
 								, a prescindere dalla fonte di finanziamento e, comunque, nel rispetto di eventuali limiti di spesa previsti dalla normativa vigente al momento del conferimento dell'incarico.
@@ -351,9 +351,9 @@
 								" deve intendersi la prestazione d'opera, svolta senza assunzione di rischio economico ed organizzazione tipiche dell'impresa, ai sensi degli
 								<mrif>
 									artt.
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2222" xlink:type="simple">2222</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2222" xlink:type="simple">2222</rif>
 									-
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2228" xlink:type="simple">2228</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2228" xlink:type="simple">2228</rif>
 									del Codice Civile
 								</mrif>
 								, mediante una pluralità di prestazioni ripetute in modo continuativo nel tempo e collegate funzionalmente all'attività esercitata dal committente, in assenza di una subordinazione ed in un ambito prestabilito dal committente stesso per il perseguimento di un determinato obiettivo.
@@ -367,9 +367,9 @@
 								" deve intendersi la prestazione d'opera, svolta senza assunzione di rischio economico ed organizzazione tipiche dell'impresa, ai sensi degli
 								<mrif>
 									artt.
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2222" xlink:type="simple">2222</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2222" xlink:type="simple">2222</rif>
 									e
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2228" xlink:type="simple">2228</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2228" xlink:type="simple">2228</rif>
 									del Codice Civile
 								</mrif>
 								, in modo saltuario o con l'esecuzione di una o più prestazioni occasionali.
@@ -383,9 +383,9 @@
 								" deve intendersi la prestazione intellettuale svolta senza assunzione di rischio economico ed organizzazione tipiche dell'impresa, ai sensi degli
 								<mrif>
 									artt.
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2229" xlink:type="simple">2229</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2229" xlink:type="simple">2229</rif>
 									e
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2238" xlink:type="simple">2238</rif>
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2238" xlink:type="simple">2238</rif>
 									del Codice Civile
 								</mrif>
 								, per l'esercizio della quale è necessaria l'iscrizione in appositi albi od elenchi professionali.
@@ -420,7 +420,7 @@
 								<corpo>
 									<h:b>altri incarichi</h:b>
 									: consistono in prestazioni con oggetto non corrispondente alla classificazione suddetta, quali ad esempio le attività inerenti il supporto "...ai servizi amministrativi o tecnici dell'ente..." (cfr.
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;26#art89-com2" xlink:type="simple">art. 89 comma 2 del Regolamento di amministrazione, contabilità e finanza del CNR</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;26~art89-com2" xlink:type="simple">art. 89 comma 2 del Regolamento di amministrazione, contabilità e finanza del CNR</rif>
 									).
 								</corpo>
 							</ep>
@@ -514,7 +514,7 @@
 							<num>6.</num>
 							<corpo>
 								La necessità di ricorrere ad incarichi esterni viene resa nota attraverso pubblico avviso da pubblicarsi sul sito web del CNR secondo lo schema in allegato al manuale di cui all'
-								<rif xlink:href="#art14-com4" xlink:type="simple">art. 14 comma 4</rif>
+								<rif xlink:href="~art14-com4" xlink:type="simple">art. 14 comma 4</rif>
 								.
 							</corpo>
 						</comma>
@@ -547,7 +547,7 @@
 							<num>2.</num>
 							<corpo>
 								Il conferimento dell'incarico deve essere preceduto dalla decisione a contrattare, ai sensi dell'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25034#art59" xlink:type="simple">art. 59 del Regolamento di amministrazione, contabilità e finanza</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25034~art59" xlink:type="simple">art. 59 del Regolamento di amministrazione, contabilità e finanza</rif>
 								del CNR, nella quale vengono espresse in particolare le motivazioni inerenti l'affidamento dell'incarico ed il procedimento amministrativo seguito per il conferimento del medesimo nel rispetto dei presupposti di legittimità.
 							</corpo>
 						</comma>
@@ -583,7 +583,7 @@
 							<num>1.</num>
 							<corpo>
 								L'efficacia dei contratti è sospesa fino all'esito del controllo preventivo di legittimità della Corte dei Conti previsto dall'
-								<rif xlink:href="urn:nir:stato:legge:1994-01-14;20#art3-com1-letfbis" xlink:type="simple">art. 3, comma 1, lettera f bis) della legge 14 gennaio 1994, n. 20</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994-01-14;20~art3-com1-letfbis" xlink:type="simple">art. 3, comma 1, lettera f bis) della legge 14 gennaio 1994, n. 20</rif>
 								.
 							</corpo>
 						</comma>
@@ -591,7 +591,7 @@
 							<num>2.</num>
 							<corpo>
 								L'efficiacia dei contratti relativi ad attività di consulenza, è sospesa, anche in caso di esito positivo del controllo di cui al
-								<rif xlink:href="#art4bis-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="~art4bis-com1" xlink:type="simple">comma 1</rif>
 								, fino alla pubblicazione dei medesimi sul sito internet del CNR. Gli stessi spiegheranno i propri effetti dalla data di pubblicazione del suddetto sito internet.
 							</corpo>
 						</comma>
@@ -607,7 +607,7 @@
 							<num>2.</num>
 							<corpo>
 								Al personale CNR cessato dal servizio per dimissioni volontarie l'incarico può essere conferito solo decorso un quinquennio dalla cessazione del rapporto di lavoro, secondo quanto disposto dall'
-								<rif xlink:href="urn:nir:stato:legge:1994;724#art25" xlink:type="simple">art. 25 della L. 724/1994</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994;724~art25" xlink:type="simple">art. 25 della L. 724/1994</rif>
 								.
 							</corpo>
 						</comma>
@@ -631,7 +631,7 @@
 							<num>4.</num>
 							<corpo>
 								La persona individuata per lo svolgimento dell'incarico attraverso la procedura comparativa, deve presentare una dichiarazione attestante la professione e/o il suo stato di dipendente pubblico al fine di appurare l'inesistenza di incompatibilità e altre eventuali cause ostative al conferimento dell'incarico. Nel caso in cui il soggetto individuato per lo svolgimento dell'incarico sia un pubblico dipendente, deve essere preventivamente acquisita l'autorizzazione da parte dell'amministrazione di appartenenza secondo le disposizioni di cui all'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art53" xlink:type="simple">art. 53 del D.lgs 165/2001</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165~art53" xlink:type="simple">art. 53 del D.lgs 165/2001</rif>
 								.
 							</corpo>
 						</comma>
@@ -751,7 +751,7 @@
 							<num>1.</num>
 							<corpo>
 								L'incarico conferito in violazione dei presupposti di legittimità di cui all'
-								<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+								<rif xlink:href="~art3" xlink:type="simple">art. 3</rif>
 								del presente disciplinare costituisce illecito disciplinare e determina responsabilità per danno erariale.
 							</corpo>
 						</comma>
@@ -771,7 +771,7 @@
 							<num>1.</num>
 							<corpo>
 								L'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25034#art89" xlink:type="simple">art. 89 del Regolamento di amministrazione, contabilità e finanza</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25034~art89" xlink:type="simple">art. 89 del Regolamento di amministrazione, contabilità e finanza</rif>
 								resta in vigore per le parti non diversamente disciplinate dal presente disciplinare.
 							</corpo>
 						</comma>
@@ -779,7 +779,7 @@
 							<num>1.</num>
 							<corpo>
 								L'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26#art89" xlink:type="simple">art. 89 del Regolamento di amministrazione, contabilità e finanza</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26~art89" xlink:type="simple">art. 89 del Regolamento di amministrazione, contabilità e finanza</rif>
 								è da ritenersi applicabile limitatamente alle parti non diversamente regolate dal presente disciplinare.
 							</corpo>
 						</comma>
@@ -789,12 +789,12 @@
 								Le disposizioni di cui agli
 								<mrif>
 									artt.
-									<rif xlink:href="#art3-com6" xlink:type="simple">3, comma 6</rif>
+									<rif xlink:href="~art3-com6" xlink:type="simple">3, comma 6</rif>
 									e
-									<rif xlink:href="#art4" xlink:type="simple">4</rif>
+									<rif xlink:href="~art4" xlink:type="simple">4</rif>
 								</mrif>
 								del presente disciplinare trovano applicazione anche per il conferimento di collaborazioni derivanti da fonti diverse dall'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art7-com6" xlink:type="simple">art. 7, comma 6 del D.lgs 165/2001</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165~art7-com6" xlink:type="simple">art. 7, comma 6 del D.lgs 165/2001</rif>
 								, qualora per il conferimento delle stesse non sia prevista una adeguata forma di pubblicità.
 							</corpo>
 						</comma>
@@ -802,7 +802,7 @@
 							<num>3.</num>
 							<corpo>
 								I contratti d'opera di cui all'
-								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">art. 51, comma 6 della L 27/12/1997 n. 449</rif>
+								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449~art51-com6" xlink:type="simple">art. 51, comma 6 della L 27/12/1997 n. 449</rif>
 								, conferiti dagli Enti di ricerca esclusivamente per selezione, continuano ad essere regolati
 								<h:span finevigore="t5" id="h6" iniziovigore="t1" status="abrogato">, per le parti compatibili,</h:span>
 								dal disciplinare CNR del 23/12/1998

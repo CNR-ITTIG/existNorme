@@ -38,7 +38,7 @@
 						<dsp:integrazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art2-com3bis" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73#art1" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73~art1" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo1, decreto del 18 novembre 2005, n. 73" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -351,7 +351,7 @@
 						<num>2.</num>
 						<corpo>
 							I componenti contraddistinti nell'elenco di cui al
-							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="~art1-com1" xlink:type="simple">comma 1</rif>
 							con il carattere asterisco erano stati già inclusi nei Comitati ordinatori nominali con
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:provvedimento:2004-02-19;16630" xlink:type="simple">provvedimento del Presidente n. 16630 del 19 febbraio 2004</rif>
 							e successive modificazioni.
@@ -364,7 +364,7 @@
 						<num>1.</num>
 						<corpo>
 							Compito dei Comitati ordinatori è quello di fornire supporto al Presidente nella fase transitoria prevista dall'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art56" xlink:type="simple">articolo 56 del Regolamento di organizzazione e funzionamento</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25~art56" xlink:type="simple">articolo 56 del Regolamento di organizzazione e funzionamento</rif>
 							con riferimento particolare alle attribuzioni relative al processo di programmazione delle attività che il Regolamento affida a regime ai direttori di dipartimento.
 						</corpo>
 					</comma>
@@ -372,7 +372,7 @@
 						<num>2.</num>
 						<corpo>
 							Indicazioni più puntuali sulle modalità di svolgimento dei compiti affidati alle Commissioni di cui al
-							<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="~art2-com1" xlink:type="simple">comma 1</rif>
 							saranno fornite dal Presidente.
 						</corpo>
 					</comma>

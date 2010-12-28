@@ -86,7 +86,7 @@
 				)
 				<titoloDoc>
 					Aggiornamenti disciplinari relativi agli assegni di collaborazione ad attività di ricerca e ai contratti di prestazione d'opera (
-					<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
+					<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
 					). Trasmissione nuovi schemi di bando e di contratto.
 				</titoloDoc>
 			</intestazione>
@@ -103,7 +103,7 @@
 						Con riferimento alla
 						<rif xlink:href="urn:nir:stato:legge:2000-11-21;342" xlink:type="simple">Legge 21 novembre 2000, n. 342</rif>
 						"Misure in materia fiscale (cosiddetto "collegato fiscale 2000") ed in particolare all'
-						<rif xlink:href="urn:nir:stato:legge:2000-11-21;342#art34" xlink:type="simple">art. 34</rif>
+						<rif xlink:href="urn:nir:stato:legge:2000-11-21;342~art34" xlink:type="simple">art. 34</rif>
 						, l'Ente ha fornito apposite istruzioni operative sia con la
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2001-02-09;7" xlink:type="simple">circolare n. 7/2001, prot. n. 1798123 del 9 febbraio 2001</rif>
 						, relativa al "Trattamento di missione per i titolari di rapporti di collaborazione coordinata e continuativa", sia con la nota dell'Ufficio Contabilità Fiscale, Patrimoniale e Spese Delegate del Dipartimento Bilancio e Ragioneria, prot. n. 30/2001 dell'8 marzo 2001, riguardante la "Nuova disciplina delle collaborazioni coordinate e continuative. Aggiornamenti fiscali".
@@ -111,7 +111,7 @@
 					<h:p />
 					<h:p>
 						Alla luce delle predette disposizioni, i compensi corrisposti ai titolari di contratti di prestazione d'opera (
-						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
+						<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
 						) sono riconducibili, solo ai fini fiscali, alla categoria dei redditi assimilati a quelli di lavoro dipendente.
 					</h:p>
 					<h:p />
@@ -123,7 +123,7 @@
 					<h:p />
 					<h:p>
 						Sulla base di quanto sopra riferito, si fa presente che, a decorrere dal 1° gennaio 2001, ai titolari di assegni di collaborazione ad attività di ricerca (
-						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
+						<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51, comma 6, della Legge n. 449/1997</rif>
 						), può essere corrisposto, in caso di trasferte in Italia o all'estero debitamente autorizzate, il trattamento economico di missione. Per quanto concerne i titolari di contratti di prestazione d'opera, resta per il momento fermo quanto disposto dall'art. 7 del relativo disciplinare.
 					</h:p>
 					<h:p />
@@ -137,26 +137,26 @@
 						(
 						<mrif>
 							Allegati
-							<rif xlink:href="#ann1" xlink:type="simple">1</rif>
+							<rif xlink:href="~ann1" xlink:type="simple">1</rif>
 							,
-							<rif xlink:href="#ann2" xlink:type="simple">2</rif>
+							<rif xlink:href="~ann2" xlink:type="simple">2</rif>
 							,
-							<rif xlink:href="#ann3" xlink:type="simple">3</rif>
+							<rif xlink:href="~ann3" xlink:type="simple">3</rif>
 							,
-							<rif xlink:href="#ann4" xlink:type="simple">4</rif>
+							<rif xlink:href="~ann4" xlink:type="simple">4</rif>
 							,
-							<rif xlink:href="#ann5" xlink:type="simple">5</rif>
+							<rif xlink:href="~ann5" xlink:type="simple">5</rif>
 							e
-							<rif xlink:href="#ann6" xlink:type="simple">6</rif>
+							<rif xlink:href="~ann6" xlink:type="simple">6</rif>
 						</mrif>
 						).
 					</h:p>
 					<h:p />
 					<h:p>
 						Si fa presente che i bandi relativi alle selezioni per il conferimento di assegni di ricerca e di contratti di prestazione d'opera dovranno essere affissi all'albo ufficiale della Struttura che ha indetto la selezione. Inoltre, i bandi dovranno essere trasmessi per la pubblicazione sul sito internet dell'Ente, unitamente ad una sintesi degli elementi essenziali del bando indicati nel modulo allegato
-						<rif xlink:href="#ann7" xlink:type="simple">n. 7</rif>
+						<rif xlink:href="~ann7" xlink:type="simple">n. 7</rif>
 						(per quanto riguarda gli assegni di ricerca) e
-						<rif xlink:href="#ann8" xlink:type="simple">n. 8</rif>
+						<rif xlink:href="~ann8" xlink:type="simple">n. 8</rif>
 						(per quanto riguarda i contratti d'opera), all'Ufficio Relazioni con il Pubblico (U.R.P.) secondo una delle seguenti due modalità:
 					</h:p>
 					<h:ol>
