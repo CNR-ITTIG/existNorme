@@ -36,7 +36,7 @@
 							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art6-com4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art6-com4" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod2-vir2" xlink:type="simple" />
@@ -55,7 +55,7 @@
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art6-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art6-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod1-vir1" xlink:type="simple" />
@@ -68,7 +68,7 @@
 							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art10-com1-letd" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art10-com1-letd" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod3-vir1" xlink:type="simple" />
@@ -81,7 +81,7 @@
 							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com2-letb" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com2-letb" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novellando>
 								<dsp:pos xlink:href="#mod4-vir1" xlink:type="simple" />
@@ -94,7 +94,7 @@
 							<dsp:pos xlink:href="#mod5" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com2-letb" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com2-letb" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod5-vir2" xlink:type="simple" />
@@ -113,7 +113,7 @@
 							<dsp:pos xlink:href="#mod6" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod6-vir1" xlink:type="simple" />
@@ -126,7 +126,7 @@
 							<dsp:pos xlink:href="#mod7" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com3" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:posizione>
 								<dsp:pos dove="dopo" xlink:href="#mod7-vir1" xlink:type="simple" />
@@ -142,7 +142,7 @@
 							<dsp:pos xlink:href="#mod8" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com3" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod8-vir2" xlink:type="simple" />
@@ -161,7 +161,7 @@
 							<dsp:pos xlink:href="#mod9" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com3" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod9-vir1" xlink:type="simple" />
@@ -174,7 +174,7 @@
 							<dsp:pos xlink:href="#mod10" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art12-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art12-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod10-vir1" xlink:type="simple" />
@@ -187,7 +187,7 @@
 							<dsp:pos xlink:href="#mod11" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art12-com3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art12-com3" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod11-vir1" xlink:type="simple" />
@@ -200,7 +200,7 @@
 							<dsp:pos xlink:href="#mod12" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art13-com1" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art13-com1" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod12-vir1" xlink:type="simple" />
@@ -213,7 +213,7 @@
 							<dsp:pos xlink:href="#mod13" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art13-com2" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art13-com2" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod13-vir1" xlink:type="simple" />
@@ -282,9 +282,9 @@
 					<h:p>
 						- Considerata la necessità di adottare, in applicazione dell'
 						<mrif>
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184~art1-com2" xlink:type="simple">art. 1, comma 2</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art1-com2" xlink:type="simple">art. 1, comma 2</rif>
 							, e
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184~art8" xlink:type="simple">dell'art. 8</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2006;184#art8" xlink:type="simple">dell'art. 8</rif>
 							del D.P.R. n. 184/2006
 						</mrif>
 						citato, i provvedimenti organizzatori generali del CNR per garantire l'esercizio del diritto di accesso ai documenti, apportando, in conformità alla legge, le opportune innovazioni alla normativa interna già esistente in materia;
@@ -343,7 +343,7 @@
 						<num />
 						<alinea>
 							All'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art6" xlink:type="simple">art. 6</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art6" xlink:type="simple">art. 6</rif>
 							:
 						</alinea>
 						<en id="art2-com1-num1">
@@ -351,20 +351,20 @@
 							<corpo>
 								<mod id="mod1">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art6-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art6-com2" xlink:type="simple">comma 2</rif>
 									, è inserito il seguente: "
 									<virgolette id="mod1-vir1" tipo="struttura">
 										<comma id="mod1-vir1-com2bis">
 											<num>2 bis.</num>
 											<corpo>
 												Le modalità di invio delle domande e le relative sottoscrizioni, inviate per via telematica, sono disciplinate dall'
-												<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445~art38" xlink:type="simple">art. 38 del DPR 28.12.2000 n. 445</rif>
+												<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445#art38" xlink:type="simple">art. 38 del DPR 28.12.2000 n. 445</rif>
 												e successive modificazioni, dagli
 												<mrif>
 													artt.
-													<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68~art4" xlink:type="simple">4</rif>
+													<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68#art4" xlink:type="simple">4</rif>
 													e
-													<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68~art5" xlink:type="simple">5</rif>
+													<rif xlink:href="urn:nir:presidente.repubblica:decreto:2005-02-11;68#art5" xlink:type="simple">5</rif>
 													del DPR 11 febbraio 2005 n. 68
 												</mrif>
 												e dal
@@ -382,7 +382,7 @@
 							<corpo>
 								<mod id="mod2">
 									al
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art6-com4" xlink:type="simple">comma 4</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art6-com4" xlink:type="simple">comma 4</rif>
 									le parole "
 									<virgolette id="mod2-vir1" tipo="parola">rimane sospeso per il periodo compreso tra la comunicazione e la regolarizzazione</virgolette>
 									" sono sostituite dalle parole "
@@ -400,7 +400,7 @@
 						<num />
 						<alinea>
 							All'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art10" xlink:type="simple">art. 10</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art10" xlink:type="simple">art. 10</rif>
 							:
 						</alinea>
 						<en id="art3-com1-num1">
@@ -408,7 +408,7 @@
 							<corpo>
 								<mod id="mod3">
 									dopo la
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art10-com1-letd" xlink:type="simple">lettera d)</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art10-com1-letd" xlink:type="simple">lettera d)</rif>
 									è aggiunta la seguente: "
 									<virgolette id="mod3-vir1" tipo="struttura">
 										<el id="mod3-vir1-lete">
@@ -429,7 +429,7 @@
 						<num />
 						<alinea>
 							All'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11" xlink:type="simple">art. 11</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11" xlink:type="simple">art. 11</rif>
 							:
 						</alinea>
 						<en id="art4-com1-num1">
@@ -437,7 +437,7 @@
 							<corpo>
 								<mmod id="mmo1">
 									al
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com2-letb" xlink:type="simple">comma 2, lettera b</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com2-letb" xlink:type="simple">comma 2, lettera b</rif>
 									,
 									<mod id="mod4">
 										le parole "
@@ -461,7 +461,7 @@
 							<corpo>
 								<mod id="mod6">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com2" xlink:type="simple">comma 2</rif>
 									, viene aggiunto il seguente: "
 									<virgolette id="mod6-vir1" tipo="struttura">
 										<comma id="mod6-vir1-com2bis">
@@ -478,7 +478,7 @@
 							<corpo>
 								<mmod id="mmo2">
 									al
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com3" xlink:type="simple">comma 3</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com3" xlink:type="simple">comma 3</rif>
 									<mod id="mod7">
 										, dopo le parole "
 										<virgolette id="mod7-vir1" tipo="parola">Il versamento delle somme,</virgolette>
@@ -496,7 +496,7 @@
 									infine
 									<mod id="mod9">
 										dopo il
-										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art11-com3" xlink:type="simple">comma 3</rif>
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art11-com3" xlink:type="simple">comma 3</rif>
 										, viene aggiunto il seguente: "
 										<virgolette id="mod9-vir1" tipo="struttura">
 											<comma id="mod9-vir1-com4">
@@ -519,7 +519,7 @@
 						<num />
 						<alinea>
 							All'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art12" xlink:type="simple">art. 12</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art12" xlink:type="simple">art. 12</rif>
 							:
 						</alinea>
 						<en id="art5-com1-num1">
@@ -527,7 +527,7 @@
 							<corpo>
 								<mod id="mod10">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art12-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art12-com2" xlink:type="simple">comma 2</rif>
 									, è inserito il seguente: "
 									<virgolette id="mod10-vir1" tipo="struttura">
 										<comma id="mod10-vir1-com2bis">
@@ -544,14 +544,14 @@
 							<corpo>
 								<mod id="mod11">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art12-com3" xlink:type="simple">comma 3</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art12-com3" xlink:type="simple">comma 3</rif>
 									è inserito il seguente: "
 									<virgolette id="mod11-vir1" tipo="struttura">
 										<comma id="mod11-vir1-com4">
 											<num>4.</num>
 											<corpo>
 												Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
-												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;185~art11" xlink:type="simple">art. 11 della deliberazione del CNR 1 luglio 1999 n. 185</rif>
+												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;185#art11" xlink:type="simple">art. 11 della deliberazione del CNR 1 luglio 1999 n. 185</rif>
 												citata nelle premesse
 											</corpo>
 										</comma>
@@ -569,7 +569,7 @@
 						<num />
 						<alinea>
 							All'
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art13" xlink:type="simple">art. 13</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art13" xlink:type="simple">art. 13</rif>
 							:
 						</alinea>
 						<en id="art6-com1-num1">
@@ -577,7 +577,7 @@
 							<corpo>
 								<mod id="mod12">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art13-com1" xlink:type="simple">comma 1</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art13-com1" xlink:type="simple">comma 1</rif>
 									, sono inseriti i seguenti: "
 									<virgolette id="mod12-vir1" tipo="struttura">
 										<comma id="mod12-vir1-com1bis">
@@ -594,14 +594,14 @@
 							<corpo>
 								<mod id="mod13">
 									dopo il
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22~art13-com2" xlink:type="simple">comma 2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-18;22#art13-com2" xlink:type="simple">comma 2</rif>
 									, è inserito il seguente: "
 									<virgolette id="mod13-vir1" tipo="struttura">
 										<comma id="mod13-vir1-com3">
 											<num>3.</num>
 											<corpo>
 												Per quanto non espressamente previsto dal presente articolo valgono le disposizioni di cui all'
-												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;184~art2" xlink:type="simple">art. 2 della deliberazione CNR 1 luglio 1999 n. 184</rif>
+												<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:1999-07-01;184#art2" xlink:type="simple">art. 2 della deliberazione CNR 1 luglio 1999 n. 184</rif>
 												citata nelle premesse
 											</corpo>
 										</comma>

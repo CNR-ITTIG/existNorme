@@ -24,9 +24,9 @@
 					<nota id="n1">
 						<h:p>
 							Il Comitato di valutazione è stato soppresso ai sensi dell'
-							<rif xlink:href="urn:nir:stato:decreto.legge:2006;262~art2-com141" xlink:type="simple">art. 2, comma 141, del D.L. 262/2006</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legge:2006;262#art2-com141" xlink:type="simple">art. 2, comma 141, del D.L. 262/2006</rif>
 							come modificato dalla relativa legge di conversione. Si veda altresì l'
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2008-02-21;64~art14-com1" xlink:type="simple">art. 14, comma 1, del DPR 21 febbraio 2008, n. 64</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:2008-02-21;64#art14-com1" xlink:type="simple">art. 14, comma 1, del DPR 21 febbraio 2008, n. 64</rif>
 							.
 						</h:p>
 					</nota>
@@ -36,7 +36,7 @@
 						<dsp:abrogazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#art20-com2" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213~art18-com1-letb" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:stato:decreto.legislativo:2009-12-31;213#art18-com1-letb" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:notavigenza auto="articolo 18, comma 1, lettera b) del decreto legislativo 31 dicembre 2009, n. 213" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -62,9 +62,9 @@
 						Visti gli
 						<mrif>
 							articoli
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art76" xlink:type="simple">76</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art76" xlink:type="simple">76</rif>
 							e
-							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1~art87" xlink:type="simple">87</rif>
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27;nir-1#art87" xlink:type="simple">87</rif>
 							della Costituzione
 						</mrif>
 						;
@@ -108,7 +108,7 @@
 					<h:p>Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 gennaio 2003;</h:p>
 					<h:p>
 						Acquisito il parere della Commissione parlamentare di cui all'
-						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59~art5" xlink:type="simple">articolo 5 della legge 15 marzo 1997, n. 59</rif>
+						<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art5" xlink:type="simple">articolo 5 della legge 15 marzo 1997, n. 59</rif>
 						;
 					</h:p>
 					<h:p>Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 maggio 2003;</h:p>
@@ -177,7 +177,7 @@
 						<num>3.</num>
 						<corpo>
 							Il Ministero dell'istruzione, dell'università e della ricerca esercita nei confronti del C.N.R. le competenze attribuitegli dalle disposizioni di cui al
-							<rif xlink:href="~art2-com2" xlink:type="simple">comma 2</rif>
+							<rif xlink:href="#art2-com2" xlink:type="simple">comma 2</rif>
 							.
 						</corpo>
 					</comma>
@@ -196,7 +196,7 @@
 							<num>b)</num>
 							<corpo>
 								nell'ambito del piano triennale delle attività di cui all'
-								<rif xlink:href="~art16" xlink:type="simple">articolo 16</rif>
+								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
 								, definisce e realizza programmi autonomi e partecipa a programmi internazionali di ricerca, sostenendo altresì attività scientifiche e di ricerca di rilevante interesse per il sistema nazionale;
 							</corpo>
 						</el>
@@ -342,9 +342,9 @@
 								attribuisce gli incarichi di direzione al direttore generale, ai responsabili dei servizi generali, ai direttori dei dipartimenti ed ai direttori di istituto previamente deliberati dal consiglio di amministrazione, come previsto all'
 								<mrif>
 									articolo 7, comma 1, lettere
-									<rif xlink:href="~art7-com1-letg" xlink:type="simple">g)</rif>
+									<rif xlink:href="#art7-com1-letg" xlink:type="simple">g)</rif>
 									ed
-									<rif xlink:href="~art7-com1-leth" xlink:type="simple">h)</rif>
+									<rif xlink:href="#art7-com1-leth" xlink:type="simple">h)</rif>
 								</mrif>
 								;
 							</corpo>
@@ -358,7 +358,7 @@
 						<num>2.</num>
 						<corpo>
 							Il presidente é scelto tra persone di alta qualificazione scientifica e manageriale, con una profonda conoscenza del sistema della ricerca in Italia e all'estero e con pluriennale esperienza nella gestione di enti o organismi pubblici o privati, operanti nel settore della ricerca. É nominato con le procedure di cui all'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
 							, dura in carica quattro anni e può essere confermato una sola volta.
 						</corpo>
 					</comma>
@@ -413,7 +413,7 @@
 							<num>l)</num>
 							<corpo>
 								affida ai dipartimenti i compiti di cui all'
-								<rif xlink:href="~art12-com2-letd" xlink:type="simple">articolo 12, comma 2, lettera d)</rif>
+								<rif xlink:href="#art12-com2-letd" xlink:type="simple">articolo 12, comma 2, lettera d)</rif>
 								;
 							</corpo>
 						</el>
@@ -425,7 +425,7 @@
 							<num>n)</num>
 							<corpo>
 								ripartisce le risorse finanziarie, strumentali e di personale tra i dipartimenti, tenendo conto delle proposte da essi formulate, assicurando prioritariamente il cofinanziamento dei progetti finanziati dall'Unione europea, da università e da imprese, nonché riservando una quota non inferiore al 2 per cento ai dottorati di ricerca di cui all'
-								<rif xlink:href="~art3-com1-letn" xlink:type="simple">articolo 3, comma 1, lettera n)</rif>
+								<rif xlink:href="#art3-com1-letn" xlink:type="simple">articolo 3, comma 1, lettera n)</rif>
 								;
 							</corpo>
 						</el>
@@ -478,7 +478,7 @@
 						<num>1.</num>
 						<corpo>
 							Il collegio dei revisori dei conti é l'organo di controllo della regolarità amministrativa e contabile dell'ente e svolge i compiti previsti dall'
-							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262~art2403" xlink:type="simple">articolo 2403 del codice civile</rif>
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2403" xlink:type="simple">articolo 2403 del codice civile</rif>
 							, per quanto applicabile.
 						</corpo>
 					</comma>
@@ -501,7 +501,7 @@
 						<num>1.</num>
 						<corpo>
 							Il comitato di valutazione valuta periodicamente i risultati dell'attività di ricerca dell'ente, anche in relazione agli obiettivi definiti nel piano triennale, sulla base dei criteri di valutazione e dei parametri di qualità definiti, in deroga a quanto previsto dall'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art5-com1-letb" xlink:type="simple">articolo 5, comma 1, lettera b), del decreto legislativo 5 giugno 1998, n. 204</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art5-com1-letb" xlink:type="simple">articolo 5, comma 1, lettera b), del decreto legislativo 5 giugno 1998, n. 204</rif>
 							, dal Ministro dell'istruzione, dell'università e della ricerca, previo parere del Comitato di indirizzo per la valutazione della ricerca (CIVR).
 						</corpo>
 					</comma>
@@ -553,7 +553,7 @@
 						<num>1.</num>
 						<corpo>
 							I dipartimenti sono le unità organizzative, istituite in ragione di uno per ciascuna delle macro aree di ricerca scientifica e tecnologica di cui all'
-							<rif xlink:href="~art3-com2" xlink:type="simple">articolo 3, comma 2</rif>
+							<rif xlink:href="#art3-com2" xlink:type="simple">articolo 3, comma 2</rif>
 							, con compiti di programmazione, coordinamento e controllo. Ai dipartimenti afferiscono gli istituti, raggruppati secondo affinità disciplinari e tematiche, al fine di massimizzare le sinergie inter e intradipartimentali. I dipartimenti promuovono lo sviluppo di grandi progetti e programmi sulle materie di competenza, anche a livello europeo e internazionale, e l'integrazione con il territorio, con le università e le imprese.
 						</corpo>
 					</comma>
@@ -641,7 +641,7 @@
 						<num>2.</num>
 						<corpo>
 							Gli istituti realizzano i programmi ed i progetti di ricerca loro affidati come previsto dall'
-							<rif xlink:href="~art12" xlink:type="simple">articolo 12</rif>
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
 							, interagendo con il sistema produttivo, con le università e le altre istituzioni di ricerca e con gli enti locali. Essi hanno autonomia scientifica, nonché autonomia finanziaria e gestionale nei limiti definiti dal regolamento di amministrazione, contabilità e finanza dell'ente.
 						</corpo>
 					</comma>
@@ -656,7 +656,7 @@
 							<num>b)</num>
 							<corpo>
 								gestiscono i programmi e progetti di ricerca loro affidati come previsto dall'
-								<rif xlink:href="~art12-com2-letb" xlink:type="simple">articolo 12, comma 2, lettera b)</rif>
+								<rif xlink:href="#art12-com2-letb" xlink:type="simple">articolo 12, comma 2, lettera b)</rif>
 								, nei limiti delle risorse loro assegnate ovvero acquisite autonomamente, intrattenendo le relative relazioni anche a livello internazionale;
 							</corpo>
 						</el>
@@ -685,7 +685,7 @@
 						<num>2.</num>
 						<corpo>
 							Il presidente, se professore o ricercatore universitario, può essere collocato in aspettativa ai sensi dell'
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13" xlink:type="simple">articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art13" xlink:type="simple">articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 							; se dipendente di pubbliche amministrazioni é collocato in aspettativa senza assegni.
 						</corpo>
 					</comma>
@@ -693,9 +693,9 @@
 						<num>3.</num>
 						<corpo>
 							Il direttore generale, i direttori di dipartimento e i direttori di istituto, se professori o ricercatori universitari, sono collocati in aspettativa ai sensi dell'
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art12" xlink:type="simple">articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 							; se ricercatori o tecnologi o dipendenti di pubbliche amministrazioni sono collocati in aspettativa senza assegni ai sensi dell'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6" xlink:type="simple">articolo 19, comma 6, del decreto legislativo 30 marzo 2001, n. 165</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art19-com6" xlink:type="simple">articolo 19, comma 6, del decreto legislativo 30 marzo 2001, n. 165</rif>
 							.
 						</corpo>
 					</comma>
@@ -707,7 +707,7 @@
 						<num>5.</num>
 						<corpo>
 							I compensi dei direttori di dipartimento, dei direttori di istituto, del direttore generale sono determinati dal consiglio di amministrazione, su proposta del presidente dell'ente, con riferimento al decreto di cui al
-							<rif xlink:href="~art15-com4" xlink:type="simple">comma 4</rif>
+							<rif xlink:href="#art15-com4" xlink:type="simple">comma 4</rif>
 							.
 						</corpo>
 					</comma>
@@ -727,7 +727,7 @@
 						<num>1.</num>
 						<corpo>
 							Il C.N.R. opera sulla base di un piano triennale di attività, aggiornato annualmente. Il piano triennale definisce gli obiettivi, i programmi di ricerca, i risultati socio-economici attesi, nonché le correlate risorse, in coerenza con il programma nazionale per la ricerca di cui all'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
 							. Il piano comprende la programmazione triennale del fabbisogno del personale, sia a tempo indeterminato sia a tempo determinato.
 						</corpo>
 					</comma>
@@ -743,7 +743,7 @@
 						<num>3.</num>
 						<corpo>
 							Il C.N.R., previo confronto con le organizzazioni sindacali maggiormente rappresentative, ai sensi dell'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165~art9" xlink:type="simple">articolo 9 del decreto legislativo 30 marzo 2001, n. 165</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art9" xlink:type="simple">articolo 9 del decreto legislativo 30 marzo 2001, n. 165</rif>
 							, determina in autonomia gli organici del personale e le assunzioni nelle diverse tipologie contrattuali, nei limiti stabiliti dai piani di cui al presente articolo, dandone comunicazione al Ministero dell'economia e delle finanze ai fini del monitoraggio della spesa pubblica.
 						</corpo>
 					</comma>
@@ -758,7 +758,7 @@
 							<num>a)</num>
 							<corpo>
 								dal contributo a carico del fondo ordinario per il finanziamento degli enti pubblici di ricerca, di cui all'
-								<rif xlink:href="~art7" xlink:type="simple">articolo 7 commi 1 e 2 del decreto legislativo 5 giugno 1998, n. 204,</rif>
+								<rif xlink:href="#art7" xlink:type="simple">articolo 7 commi 1 e 2 del decreto legislativo 5 giugno 1998, n. 204,</rif>
 								determinato sulla base delle attività previste dal piano triennale e dai relativi aggiornamenti annuali dell'ente, ove approvati;
 							</corpo>
 						</el>
@@ -799,7 +799,7 @@
 						<num>1.</num>
 						<alinea>
 							Il C.N.R. per lo svolgimento delle attività di cui all'
-							<rif xlink:href="~art3" xlink:type="simple">articolo 3</rif>
+							<rif xlink:href="#art3" xlink:type="simple">articolo 3</rif>
 							e di ogni altra attività connessa, ivi compreso l'utilizzo economico dei risultati della ricerca propria e di quella commissionata, secondo criteri e modalità determinati con il regolamento di organizzazione e funzionamento, può:
 						</alinea>
 						<el id="art18-com1-leta">
@@ -827,7 +827,7 @@
 						<num>2.</num>
 						<corpo>
 							Il C.N.R. riferisce sui programmi, sugli obiettivi, sulle attività e sui risultati dei soggetti di cui al
-							<rif xlink:href="~art18-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="#art18-com1" xlink:type="simple">comma 1</rif>
 							in apposita sezione del piano triennale dell'ente e dei relativi aggiornamenti.
 						</corpo>
 					</comma>
@@ -839,7 +839,7 @@
 						<num>1.</num>
 						<corpo>
 							Il C.N.R. si dota del regolamento di organizzazione e funzionamento, del regolamento di amministrazione contabilità e finanza e del regolamento del personale, nonché di altri regolamenti interni disciplinanti specifiche materie, in coerenza con le procedure e modalità di cui all'
-							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8" xlink:type="simple">articolo 8 della legge 9 maggio 1989, n. 168</rif>
+							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">articolo 8 della legge 9 maggio 1989, n. 168</rif>
 							. Il regolamento sul personale é inoltre sottoposto al parere del Ministro per la funzione pubblica che si esprime nel termine di 30 giorni, decorsi i quali si prescinde dal parere. Sui regolamenti, prima dell'adozione, sono sentite le organizzazioni sindacali maggiormente rappresentative.
 						</corpo>
 					</comma>
@@ -850,7 +850,7 @@
 							<num>a)</num>
 							<corpo>
 								definisce i dipartimenti, in ragione di uno per ciascuno delle macro aree di ricerca scientifica e tecnologica di cui all'
-								<rif xlink:href="~art3-com2" xlink:type="simple">articolo 3 comma 2</rif>
+								<rif xlink:href="#art3-com2" xlink:type="simple">articolo 3 comma 2</rif>
 								, raggruppando gli istituti ad essi afferenti secondo affinità disciplinari e tematiche, al fine di massimizzare le sinergie inter e intradipartimentali;
 							</corpo>
 						</el>
@@ -934,13 +934,13 @@
 							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">decreto legislativo 30 marzo 2001, n. 165</rif>
 							, agli articoli
 							<mrif>
-								<rif xlink:href="urn:nir:stato:legge:1997-06-24;196~art14" xlink:type="simple">14 e 15</rif>
+								<rif xlink:href="urn:nir:stato:legge:1997-06-24;196#art14" xlink:type="simple">14 e 15</rif>
 								della legge 24giugno 1997, n.196
 							</mrif>
 							, al
 							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297" xlink:type="simple">decreto legislativo 27 luglio 1999, n. 297</rif>
 							, e all'
-							<rif xlink:href="urn:nir:stato:legge:1997-12-27;449~art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449.</rif>
+							<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449.</rif>
 							Alle selezioni pubbliche per le assunzioni possono partecipare, se in possesso dei requisiti richiesti, anche cittadini stranieri.
 						</corpo>
 					</comma>
@@ -959,9 +959,9 @@
 							<num>a)</num>
 							<corpo>
 								il rapporto di lavoro a tempo indeterminato come ricercatore o tecnologo dell'ente si instaura, per i livelli di ricercatore, primo ricercatore, dirigente di ricerca, tecnologo, primo tecnologo e dirigente tecnologo, previo l'espletamento di concorsi pubblici per aree scientifiche o settori tecnologici, idonei a valutare competenze e attitudini finalizzate all'attività richiesta, mediante il ricorso a specifiche commissioni giudicatrici costituite in maggioranza da componenti esterni all'ente e presiedute da dirigenti di ricerca o tecnologi dell'ente o dipendenti da un ente del comparto ricerca ovvero ancora da professori universitari ordinari, con comprovata esperienza internazionale. Per accedere alla selezione per il livello iniziale occorre essere in possesso del titolo di dottore di ricerca attinente all'attività richiesta dal bando ovvero aver svolto per un triennio attività di ricerca presso università o qualificati enti, organismi o centri di ricerca pubblici o privati ovvero nell'ambito dei contratti di cui al
-								<rif xlink:href="~art20-com3" xlink:type="simple">comma 3</rif>
+								<rif xlink:href="#art20-com3" xlink:type="simple">comma 3</rif>
 								, ovvero di assegni di ricerca banditi dall'ente ai sensi dell'
-								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449~art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
+								<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">articolo 51, comma 6, della legge 27 dicembre 1997, n. 449</rif>
 								, con valutazione finale delle attività;
 							</corpo>
 						</el>
@@ -990,13 +990,13 @@
 						<num>4.</num>
 						<corpo>
 							I contratti di cui al
-							<rif xlink:href="~art21-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="#art21-com1" xlink:type="simple">comma 1</rif>
 							e le attività di cui ai
-							<rif xlink:href="~art21-com4" xlink:type="simple">commi 2 e 3</rif>
+							<rif xlink:href="#art21-com4" xlink:type="simple">commi 2 e 3</rif>
 							sono compatibili con il mantenimento dei rapporti di lavoro con le amministrazioni di appartenenza. Per i professori ed i ricercatori universitari l'attività di ricerca di cui al
-							<rif xlink:href="~art21-com2" xlink:type="simple">comma 2</rif>
+							<rif xlink:href="#art21-com2" xlink:type="simple">comma 2</rif>
 							non rientra nell'attività prevista dall'
-							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382~art17-com1" xlink:type="simple">articolo 17, comma 1, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-11;382#art17-com1" xlink:type="simple">articolo 17, comma 1, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382</rif>
 							. Lo svolgimento di attività di ricerca presso il C.N.R. può comportare per i ricercatori ed i professori universitari l'esonero, totale o parziale, dai carichi didattici.
 						</corpo>
 					</comma>
@@ -1020,7 +1020,7 @@
 						<num>2.</num>
 						<corpo>
 							Il C.N.R. é soggetto al controllo previsto dall'
-							<rif xlink:href="urn:nir:stato:legge:1994-01-14;20~art3-com7" xlink:type="simple">articolo 3, comma 7, della legge 14 gennaio 1994, n. 20</rif>
+							<rif xlink:href="urn:nir:stato:legge:1994-01-14;20#art3-com7" xlink:type="simple">articolo 3, comma 7, della legge 14 gennaio 1994, n. 20</rif>
 							da parte della Corte dei conti.
 						</corpo>
 					</comma>
@@ -1032,7 +1032,7 @@
 						<num>1.</num>
 						<alinea>
 							I seguenti enti di ricerca confluiscono nel C.N.R. secondo le modalità di cui ai
-							<rif xlink:href="~art23-com1" xlink:type="simple">commi 2 e 3</rif>
+							<rif xlink:href="#art23-com1" xlink:type="simple">commi 2 e 3</rif>
 							:
 						</alinea>
 						<el id="art23-com1-leta">
@@ -1056,19 +1056,19 @@
 						<num>2.</num>
 						<corpo>
 							A decorrere dalla data di entrata in vigore del presente decreto legislativo il presidente e il consiglio direttivo del C.N.R. ed i presidenti ed i consigli di amministrazione degli enti di ricerca di cui al
-							<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 							decadono, ed é nominato con la procedura di cui all'
-							<rif xlink:href="~art15-com6" xlink:type="simple">articolo 15, comma 6</rif>
+							<rif xlink:href="#art15-com6" xlink:type="simple">articolo 15, comma 6</rif>
 							, un commissario straordinario con il compito di assicurare la funzionalità del C.N.R. e degli enti predetti nella fase transitoria fino alla data di insediamento del presidente e del consiglio di amministrazione nominati con le modalità di cui agli
-							<rif xlink:href="~art23-com2" xlink:type="simple">articoli 6 e 7</rif>
+							<rif xlink:href="#art23-com2" xlink:type="simple">articoli 6 e 7</rif>
 							. I collegi dei revisori, nominati secondo il previgente ordinamento, esercitano le loro funzioni fino all'insediamento del nuovo collegio dei revisori del C.N.R., nominato con le modalità di cui all'
-							<rif xlink:href="~art9" xlink:type="simple">articolo 9</rif>
+							<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
 							. Il commissario nomina tre sub-commissari cui può delegare le funzioni per specifici settori di attività e provvede altresì, entro quattro mesi, alla stesura dei regolamenti di cui all'
-							<rif xlink:href="~art19" xlink:type="simple">articolo 19</rif>
+							<rif xlink:href="#art19" xlink:type="simple">articolo 19</rif>
 							, da sottoporre al Ministro dell'istruzione, dell'università e della ricerca per il controllo ai sensi dell'
-							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8-com4" xlink:type="simple">articolo 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
+							<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">articolo 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
 							. I regolamenti stabiliscono anche le modalità per l'accorpamento nel C.N.R. degli enti di cui al
-							<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 							, lettere a), b) e c), assicurando ad essi il mantenimento della denominazione e della sede quali strutture scientifiche del C.N.R. In particolare, per l'I.N.F.M., vanno salvaguardate le forme innovative di collaborazione con le università e le imprese, la specificità dei rapporti di lavoro e le forme di autonomia gestionale delle strutture interne.
 						</corpo>
 					</comma>
@@ -1078,7 +1078,7 @@
 							Spetta al commissario straordinario l'espletamento, entro 90 giorni dalla sua nomina, dell'istruttoria finalizzata alla trasformazione dell'Istituto papirologico "Girolamo Vitelli", in struttura scientifica dell'Università di Firenze, salvaguardandone la denominazione e la sede, secondo le procedure previste dal
 							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;419" xlink:type="simple">decreto legislativo 29 ottobre 1999, n. 419</rif>
 							. Decorso tale termine, ove risulti non realizzabile tale soluzione, l'Istituto "Vitelli" sarà accorpato al C.N.R., mantenendo denominazione e sede quale struttura scientifica dello stesso ente, secondo le stesse modalità previste dai citati regolamenti per gli enti di cui al
-							<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+							<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 							.
 						</corpo>
 					</comma>
@@ -1086,14 +1086,14 @@
 						<num>4.</num>
 						<alinea>
 							Dalla data di entrata in vigore dei regolamenti di cui al
-							<rif xlink:href="~art23-com2" xlink:type="simple">comma 2</rif>
+							<rif xlink:href="#art23-com2" xlink:type="simple">comma 2</rif>
 							:
 						</alinea>
 						<el id="art23-com4-leta">
 							<num>a)</num>
 							<corpo>
 								sono soppressi gli enti di ricerca di cui al
-								<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 								, e sono abrogati i rispettivi regolamenti;
 							</corpo>
 						</el>
@@ -1101,7 +1101,7 @@
 							<num>b)</num>
 							<corpo>
 								il patrimonio, i beni mobili, i beni immobili e le attrezzature degli enti indicati al
-								<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 								confluiscono nel patrimonio del C.N.R.;
 							</corpo>
 						</el>
@@ -1113,7 +1113,7 @@
 							<num>d)</num>
 							<corpo>
 								il C.N.R. subentra in tutti i rapporti attivi e passivi degli enti di cui al
-								<rif xlink:href="~art23-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="#art23-com1" xlink:type="simple">comma 1</rif>
 								, ivi compresi tutti i rapporti di lavoro a tempo determinato ed indeterminato.
 							</corpo>
 						</el>
@@ -1126,11 +1126,11 @@
 						<num>6.</num>
 						<corpo>
 							In sede di prima attuazione del presente decreto legislativo il mandato del presidente decaduto e quello del commissario straordinario nominato ai sensi del
-							<rif xlink:href="~art23-com2" xlink:type="simple">comma 2</rif>
+							<rif xlink:href="#art23-com2" xlink:type="simple">comma 2</rif>
 							, non rilevano ai fini dell'applicazione dell'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art6-com2" xlink:type="simple">articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204</rif>
 							, in ordine al limite massimo dei due mandati per i presidenti di enti di ricerca. Le indennità spettanti al commissario straordinario ed ai sub-commissari sono stabilite con le modalità di cui all'
-							<rif xlink:href="~art15-com4" xlink:type="simple">articolo 15, comma 4</rif>
+							<rif xlink:href="#art15-com4" xlink:type="simple">articolo 15, comma 4</rif>
 							.
 						</corpo>
 					</comma>
@@ -1140,9 +1140,9 @@
 							Le dotazioni organiche del C.N.R. sono ridefinite ai sensi dell'
 							<mrif>
 								articolo 34,
-								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289~art34-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289#art34-com1" xlink:type="simple">comma 1</rif>
 								,
-								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289~art34-com2" xlink:type="simple">2</rif>
+								<rif xlink:href="urn:nir:stato:legge:2002-12-27;289#art34-com2" xlink:type="simple">2</rif>
 								della legge 27 dicembre 2002, n. 289
 							</mrif>
 							, come indicato nelle tabelle 1, 2, 3, 4 e 5.
@@ -1154,35 +1154,35 @@
 							Le disposizioni previste dall'
 							<mrif>
 								articolo 3, comma 1, lettere
-								<rif xlink:href="~art3-com1-leti" xlink:type="simple">i)</rif>
+								<rif xlink:href="#art3-com1-leti" xlink:type="simple">i)</rif>
 								,
-								<rif xlink:href="~art3-com1-letn" xlink:type="simple">n)</rif>
+								<rif xlink:href="#art3-com1-letn" xlink:type="simple">n)</rif>
 								,
-								<rif xlink:href="~art3-com1-leto" xlink:type="simple">o)</rif>
+								<rif xlink:href="#art3-com1-leto" xlink:type="simple">o)</rif>
 								,
-								<rif xlink:href="~art3-com1-letp" xlink:type="simple">p)</rif>
+								<rif xlink:href="#art3-com1-letp" xlink:type="simple">p)</rif>
 							</mrif>
 							, e degli
 							<mrif>
 								articoli
-								<rif xlink:href="~art16" xlink:type="simple">16</rif>
+								<rif xlink:href="#art16" xlink:type="simple">16</rif>
 								,
-								<rif xlink:href="~art18" xlink:type="simple">18</rif>
+								<rif xlink:href="#art18" xlink:type="simple">18</rif>
 								e
-								<rif xlink:href="~art19-com3-letf" xlink:type="simple">19, comma 3, lettera f)</rif>
+								<rif xlink:href="#art19-com3-letf" xlink:type="simple">19, comma 3, lettera f)</rif>
 								,
-								<rif xlink:href="~art20" xlink:type="simple">20</rif>
+								<rif xlink:href="#art20" xlink:type="simple">20</rif>
 								,
-								<rif xlink:href="~art21" xlink:type="simple">21</rif>
+								<rif xlink:href="#art21" xlink:type="simple">21</rif>
 								e
-								<rif xlink:href="~art22-com1" xlink:type="simple">22, comma 1</rif>
+								<rif xlink:href="#art22-com1" xlink:type="simple">22, comma 1</rif>
 							</mrif>
 							, si applicano a tutti gli enti ricompresi nel comparto delle istituzioni e degli enti di ricerca e sperimentazione, vigilati dal Ministero dell'istruzione, dell'università e della ricerca di cui alla tabella 6. Le disposizioni previste dall'
 							<mrif>
 								articolo 20, commi
-								<rif xlink:href="~art20-com3" xlink:type="simple">3</rif>
+								<rif xlink:href="#art20-com3" xlink:type="simple">3</rif>
 								e
-								<rif xlink:href="~art20-com4" xlink:type="simple">4</rif>
+								<rif xlink:href="#art20-com4" xlink:type="simple">4</rif>
 							</mrif>
 							, si applicano anche agli istituti di ricovero e cura a carattere scientifico.
 						</corpo>
@@ -1196,13 +1196,13 @@
 								, ad eccezione dei
 								<mrif>
 									commi
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19~art13-com3-leta" xlink:type="simple">3, lettera a)</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art13-com3-leta" xlink:type="simple">3, lettera a)</rif>
 									e
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19~art13-com6" xlink:type="simple">6</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art13-com6" xlink:type="simple">6</rif>
 									dell'articolo 13
 								</mrif>
 								, nonché l'
-								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204~art4" xlink:type="simple">articolo 4 del decreto legislativo 5 giugno 1998, n. 204</rif>
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-06-05;204#art4" xlink:type="simple">articolo 4 del decreto legislativo 5 giugno 1998, n. 204</rif>
 								.
 							</mod>
 						</corpo>

@@ -53,9 +53,9 @@
 						<num />
 						<corpo>
 							Il Consiglio Nazionale delle Ricerche (di seguito CNR) ha tra i propri fini istituzionali la valorizzazione a fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca svolta o coordinata dalla propria rete scientifica, anche a mezzo della partecipazione di proprio personale a società, ivi comprese quelle previste dalI'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297~art2-com1-lete" xlink:type="simple">art. 2, comma 1, lett. e, del decreto legislativo 27 luglio 1999, n. 297</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297#art2-com1-lete" xlink:type="simple">art. 2, comma 1, lett. e, del decreto legislativo 27 luglio 1999, n. 297</rif>
 							e dalI'
-							<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593~art11" xlink:type="simple">art. 11 del decreto del Ministero 8 agosto 2000, n. 593</rif>
+							<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593#art11" xlink:type="simple">art. 11 del decreto del Ministero 8 agosto 2000, n. 593</rif>
 							.
 						</corpo>
 					</comma>
@@ -103,7 +103,7 @@
 						<num>1.</num>
 						<alinea>
 							Oltre alle persone fisiche di cui all'
-							<rif xlink:href="~art2" xlink:type="simple">Art. 2</rif>
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
 							, possono partecipare al capitale sociale della società spin-off:
 						</alinea>
 						<el id="art4-com1-leta">
@@ -127,9 +127,9 @@
 						<num>3.</num>
 						<corpo>
 							ll personale CNR di cui all'
-							<rif xlink:href="~art2" xlink:type="simple">Art. 2</rif>
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
 							deve richiedere al Consiglio di Amministrazione apposita autorizzazione allo svolgimento di attività a favore di società spin-off secondo le modalità definite al
-							<rif xlink:href="~art5" xlink:type="simple">successivo art. 5</rif>
+							<rif xlink:href="#art5" xlink:type="simple">successivo art. 5</rif>
 							.
 						</corpo>
 					</comma>
@@ -141,7 +141,7 @@
 						<num>1.</num>
 						<corpo>
 							Il Consiglio di Amministrazione del CNR delibera l'autorizzazione allo svolgimento di attività a favore di società spin-off da parte del personale dipendente o di titolari di borse di studio o assegni di ricerca del CNR secondo le diverse modalità elencate nel
-							<rif xlink:href="~art6" xlink:type="simple">successivo art. 6</rif>
+							<rif xlink:href="#art6" xlink:type="simple">successivo art. 6</rif>
 							e proposte dal personale stesso, acquisito il parere del Direttore della Struttura Scientifica o della Direzione Centrale presso cui opera, del Tutor di borsa di studio o assegno di ricerca e del Direttore del Dipartimento di competenza.
 						</corpo>
 					</comma>
@@ -177,9 +177,9 @@
 						<num>3.</num>
 						<corpo>
 							La documentazione di cui al
-							<rif xlink:href="~art5-com2" xlink:type="simple">precedente comma 2</rif>
+							<rif xlink:href="#art5-com2" xlink:type="simple">precedente comma 2</rif>
 							deve essere, inoltre, accompagnata dalla sottoscrizione da parte del personale CNR coinvolto di apposita dichiarazione volta ad escludere ogni ipotesi di conflitto di interessi della costituenda società spin-off verso il CNR. In qualunque momento, il personale si impegna comunque ad informare tempestivamente il CNR di ogni nuova circostanza che possa risultare lesiva degli interessi dell'Ente. Le norme di cui al presente paragrafo si applicano anche dopo i periodi di cui all'
-							<rif xlink:href="~art6-com2" xlink:type="simple">art. 6, comma 2</rif>
+							<rif xlink:href="#art6-com2" xlink:type="simple">art. 6, comma 2</rif>
 							, in caso di persistenza di rapporti, anche di sola partecipazione, con la società.
 							<h:br />
 							La verifica del rispetto delle suddette norme e dell'andamento della società spin-off è affidata ai Direttori delle Strutture scientifiche o delle Direzioni Centrali di appartenenza.
@@ -189,7 +189,7 @@
 						<num>4.</num>
 						<corpo>
 							Una volta costituita, la nuova società è iscritta all'Albo delle società spin-off tenuto dall'Ente. Gli spin off così costituiti, sia partecipati che sostenuti, possono aggiungere alla denominazione societaria il termine "Spin off del Consiglio Nazionale delle Ricerche" sino a quando permangono all'interno della compagine sociale il CNR e/o personale di cui all'
-							<rif xlink:href="~art2" xlink:type="simple">Art. 2</rif>
+							<rif xlink:href="#art2" xlink:type="simple">Art. 2</rif>
 							o l'Ente ne ravvisi comunque l'opportunità per ragioni strategiche.
 						</corpo>
 					</comma>
@@ -234,7 +234,7 @@
 						<num>5.</num>
 						<corpo>
 							Il personale che intenda partecipare alla compagine sociale svolgendo attività a favore di uno spin-off successivamente alla sua costituzione, deve chiedere l'autorizzazione ai sensi del
-							<rif xlink:href="~art5" xlink:type="simple">precedente articolo 5</rif>
+							<rif xlink:href="#art5" xlink:type="simple">precedente articolo 5</rif>
 							.
 						</corpo>
 					</comma>
@@ -242,7 +242,7 @@
 						<num>6.</num>
 						<corpo>
 							I titolari di assegni di ricerca o di borse di studio del CNR, previa autorizzazione ai sensi del
-							<rif xlink:href="~art5" xlink:type="simple">precedente articolo 5</rif>
+							<rif xlink:href="#art5" xlink:type="simple">precedente articolo 5</rif>
 							e sotto la supervisione di un Tutor indicato dal CNR, potranno prendere parte alla compagine sociale di società spin-off; anche ricoprendo cariche amministrative, purché tali attività non interferiscano con lo svolgimento delle attività oggetto dell'assegno di ricerca o della borsa di studio.
 						</corpo>
 					</comma>
@@ -274,7 +274,7 @@
 						<num>1.</num>
 						<corpo>
 							Il personale del CNR autorizzato ai sensi dell'
-							<rif xlink:href="~art6" xlink:type="simple">art. 6</rif>
+							<rif xlink:href="#art6" xlink:type="simple">art. 6</rif>
 							del presente Regolamento può in ogni momento chiedere ed ottenere di essere reinserito nella condizione originaria.
 						</corpo>
 					</comma>
@@ -282,7 +282,7 @@
 						<num>2.</num>
 						<corpo>
 							In tal caso, o in caso di mancato rinnovo dell'autorizzazione di cui all'
-							<rif xlink:href="~art7" xlink:type="simple">art. 7</rif>
+							<rif xlink:href="#art7" xlink:type="simple">art. 7</rif>
 							, il CNR non è responsabile di eventuali obblighi contratti dal personale verso terzi.
 						</corpo>
 					</comma>
@@ -290,9 +290,9 @@
 						<num>3.</num>
 						<corpo>
 							L'autorizzazione all'uso della denominazione "Spin-off del Consiglio Nazionale delle Ricerche" si intende revocata, a meno di specifici accordi con il CNR, qualora il CNR e/o il personale di cui all'
-							<rif xlink:href="~art2" xlink:type="simple">art. 2</rif>
+							<rif xlink:href="#art2" xlink:type="simple">art. 2</rif>
 							non permangano all'interno della compagine sociale, ovvero le circostanze rendano non più attuale la definizione di società "Spin-off sostenuta" di cui all'
-							<rif xlink:href="~art3" xlink:type="simple">art. 3</rif>
+							<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
 							.
 						</corpo>
 					</comma>
@@ -332,7 +332,7 @@
 						<num>3.</num>
 						<corpo>
 							Per i brevetti di proprietà del personale del CNR, depositati ai sensi dell'
-							<rif xlink:href="urn:nir:stato:legge:2001;383~art7" xlink:type="simple">art. 7 della legge 383/2001</rif>
+							<rif xlink:href="urn:nir:stato:legge:2001;383#art7" xlink:type="simple">art. 7 della legge 383/2001</rif>
 							e utilizzati dalla società spin-off; una percentuale dei proventi generati dal brevetto sara destinata al CNR, sulla base degli accordi tra CNR e spin-off.
 						</corpo>
 					</comma>

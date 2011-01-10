@@ -37,7 +37,7 @@
 				<dataDoc norm="20060404">4 aprile 2006</dataDoc>
 				<titoloDoc>
 					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
-					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>.
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>.
 				</titoloDoc>
 			</intestazione>
 			<formulainiziale>
@@ -45,20 +45,20 @@
 				<preambolo>
 					<h:p>
 						Visto l'
-						<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
+						<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
 						, e successive modificazioni e integrazioni, concernente incentivi da ripartire tra il personale dipendente titolare di particolari incarichi in relazione alla realizzazione di opere e lavori;
 					</h:p>
 					<h:p>
 						Visto l'
-						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127~art19" xlink:type="simple">art. 19 del decreto legislativo n. 127/2003</rif>
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127#art19" xlink:type="simple">art. 19 del decreto legislativo n. 127/2003</rif>
 						che prevede che i regolamenti interni dell'ente disciplinanti specifiche materie vengano adottati in coerenza con le procedure e modalità di cui all'
-						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8" xlink:type="simple">art. 8 della legge 9 maggio 1989, n. 168</rif>
+						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">art. 8 della legge 9 maggio 1989, n. 168</rif>
 						;
 					</h:p>
 					<h:p>Vista la delibera del Consiglio di amministrazione n. 116 in data 13 luglio 2005 mediante la quale, dopo apposita contrattazione integrativa con le organizzazioni sindacali, è stato approvato il regolamento relativo a modalità e criteri di ripartizione degli incentivi in argomento;</h:p>
 					<h:p>
 						Vista la nota n. 11 del 4 gennaio 2006 con la quale il Ministero dell'università e della ricerca scientifica ha approvato il predetto regolamento , ai sensi del citato
-						<rif xlink:href="urn:nir:stato:legge:1989;168~art8" xlink:type="simple">art. 8 della legge n. 168/1989</rif>
+						<rif xlink:href="urn:nir:stato:legge:1989;168#art8" xlink:type="simple">art. 8 della legge n. 168/1989</rif>
 						, e che tale disposizione ha rilevato che occorre provvedere all'emanazione dello stesso ed alla sua pubblicazione nella Gazzetta Ufficiale;
 					</h:p>
 				</preambolo>
@@ -73,7 +73,7 @@
 			</contenitore>
 			<formulafinale>
 				Il presente decreto sarà pubblicato nella Gazzetta Ufficiale della Repubblica italiana ai sensi dell'
-				<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8-com4" xlink:type="simple">art. 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
+				<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">art. 8, comma 4, della legge 9 maggio 1989, n. 168</rif>
 				.
 			</formulafinale>
 			<conclusione>

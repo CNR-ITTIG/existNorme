@@ -47,7 +47,7 @@
 							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod4-vir1" xlink:type="simple" />
@@ -60,7 +60,7 @@
 							<dsp:pos xlink:href="#mod7" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art6" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art6" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod7-vir1" xlink:type="simple" />
@@ -78,7 +78,7 @@
 							<dsp:pos xlink:href="#mod8" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art7" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art7" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod8-vir1" xlink:type="simple" />
@@ -91,7 +91,7 @@
 							<dsp:pos xlink:href="#mod10" xlink:type="simple" />
 							<dsp:termine da="#t2" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art14" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="3" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -107,7 +107,7 @@
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
 							<dsp:termine da="#t3" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="1bis" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -128,7 +128,7 @@
 							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
 							<dsp:termine da="#t4" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="7" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -150,7 +150,7 @@
 							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
 							<dsp:termine da="#t5" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
 								<dsp:subarg>
 									<ittig:bordo num="7" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
 								</dsp:subarg>
@@ -166,7 +166,7 @@
 							<dsp:pos xlink:href="#mod5" xlink:type="simple" />
 							<dsp:termine da="#t6" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod5-vir1" xlink:type="simple" />
@@ -179,7 +179,7 @@
 							<dsp:pos xlink:href="#mod6" xlink:type="simple" />
 							<dsp:termine da="#t7" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art5" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod6-vir1" xlink:type="simple" />
@@ -197,7 +197,7 @@
 							<dsp:pos xlink:href="#mod9" xlink:type="simple" />
 							<dsp:termine da="#t8" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
-								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art13" xlink:type="simple" />
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art13" xlink:type="simple" />
 							</dsp:norma>
 							<dsp:novella>
 								<dsp:pos xlink:href="#mod9-vir1" xlink:type="simple" />
@@ -234,7 +234,7 @@
 					</h:p>
 					<h:p>
 						VISTO il "Disciplinare per la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
-						<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
 						) con oneri a carico di finanziamenti esterni" deliberato dal Consiglio Direttivo del CNR del 23/12/1998 e successive modifiche ed integrazioni ed allegato alla
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2001;16" xlink:type="simple">circolare CNR 16/2001</rif>
 						;
@@ -250,7 +250,7 @@
 						VISTO il
 						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112" xlink:type="simple">D.L. n. 112 del 25 giugno 2008</rif>
 						, recante "Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria" ed in particolare l'
-						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112~art46-com1" xlink:type="simple">art. 46 comma 1</rif>
+						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art46-com1" xlink:type="simple">art. 46 comma 1</rif>
 						;
 					</h:p>
 					<h:p>
@@ -266,7 +266,7 @@
 						CONSIDERATA la necessità di modificare il "
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
 						" ed il "Disciplinare per la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
-						<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
 						) con oneri a carico di finanziamenti esterni" al fine di consentire ai Centri di Responsabilità dell' Ente di conferire legittimamente gli incarichi di collaborazione;
 					</h:p>
 					<h:p>VISTA la nota del Direttore Generale f.f. prot. AMMCNT-CNR n. 0057315 del 21 luglio 2008;</h:p>
@@ -300,7 +300,7 @@
 						<corpo>
 							<mod id="mod1">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple">art. 3</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
 								il comma 1-bis. viene sostituito dal seguente:
 								<virgolette id="mod1-vir1" tipo="struttura">
 									<comma id="mod1-vir1-com1bis">
@@ -332,7 +332,7 @@
 						<corpo>
 							<mmod id="mmo1">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art3" xlink:type="simple">art. 3</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
 								al comma 7
 								<mod id="mod2">
 									la parola "
@@ -360,7 +360,7 @@
 						<corpo>
 							<mod id="mod4">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4" xlink:type="simple">art. 4</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple">art. 4</rif>
 								è aggiunto il seguente comma:
 								<virgolette id="mod4-vir1" tipo="struttura">
 									<comma id="mod4-vir1-com2bis">
@@ -380,7 +380,7 @@
 						<corpo>
 							<mod id="mod5">
 								Dopo l'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art4" xlink:type="simple">art. 4</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple">art. 4</rif>
 								è aggiunto il seguente articolo:
 								<virgolette id="mod5-vir1" tipo="struttura">
 									<articolo id="mod5-vir1-art4bis">
@@ -404,7 +404,7 @@
 						<corpo>
 							<mod id="mod6">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art5" xlink:type="simple">art. 5</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5" xlink:type="simple">art. 5</rif>
 								il comma 2 è sostituito dal seguente ed integrato dal comma 2-bis e 2-ter:
 								<virgolette id="mod6-vir1" tipo="struttura">
 									<comma id="mod6-vir1-com2">
@@ -432,7 +432,7 @@
 						<corpo>
 							<mod id="mod7">
 								L'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art6" xlink:type="simple">art. 6</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art6" xlink:type="simple">art. 6</rif>
 								è sostituito dal seguente:
 								<virgolette id="mod7-vir1" tipo="struttura">
 									<articolo id="mod7-vir1-art6">
@@ -468,7 +468,7 @@
 						<corpo>
 							<mod id="mod8">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art7" xlink:type="simple">art.7</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art7" xlink:type="simple">art.7</rif>
 								sono aggiunte le seguenti parole: "
 								<virgolette id="mod8-vir1" tipo="parola">, anche con riferimento ai valori di mercato. Il compenso annuo non può superare la retribuzione annua del primo presidente della Corte di Cassazione.</virgolette>
 								"
@@ -484,7 +484,7 @@
 						<corpo>
 							<mod id="mod9">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art13" xlink:type="simple">art. 13</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art13" xlink:type="simple">art. 13</rif>
 								dopo il comma 1 sono aggiunti i seguenti:
 								<virgolette id="mod9-vir1" tipo="struttura">
 									<comma id="mod9-vir1-com2">
@@ -508,7 +508,7 @@
 						<corpo>
 							<mod id="mod10">
 								All'
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64~art14" xlink:type="simple">art. 14</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple">art. 14</rif>
 								al comma 3 sono aggiunte le seguenti parole: "
 								<virgolette id="mod10-vir1" tipo="parola">e successive modifiche ed integrazioni.</virgolette>
 								"
@@ -535,7 +535,7 @@
 						<num />
 						<corpo>
 							Al "Disciplinare concernente la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
-							<rif xlink:href="urn:nir:stato:legge:1997;449~art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+							<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
 							) con oneri a carico di finanziamenti esterni" deliberato dal Consiglio Direttivo del CNR del 23/12/1998 e successive modifiche ed integrazioni ed allegato alla
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2001;16" xlink:type="simple">circolare CNR 16/2001</rif>
 							, sono apportate le modifiche ed integrazioni di cui agli articoli seguenti.

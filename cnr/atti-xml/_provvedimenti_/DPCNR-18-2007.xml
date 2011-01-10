@@ -62,9 +62,9 @@
 					<h:p>
 						- VISTO l'
 						<mrif>
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art20-com2" xlink:type="simple">articolo 20, comma 2</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art20-com2" xlink:type="simple">articolo 20, comma 2</rif>
 							e l'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196~art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
 							, del decreto legislativo 30 giugno 2003, n. 196
 						</mrif>
 						(Codice in materia di protezione dei dati personali);
@@ -78,7 +78,7 @@
 					</h:p>
 					<h:p>
 						- VISTA la nota prot. PRESID-CNR n. 1907 del 13 marzo 2007 con la quale il Regolamento per il trattamento dei dati sensibili e giudiziari del CNR è stato trasmesso, ai sensi e per gli effetti dell'
-						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8-com4" xlink:type="simple">articolo 8, comma 4, della L. 9 maggio del 1989 n. 168</rif>
+						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">articolo 8, comma 4, della L. 9 maggio del 1989 n. 168</rif>
 						, al Direttore Generale della direzione generale per il coordinamento e per lo sviluppo della ricerca del MUR;
 					</h:p>
 					<h:p>- VISTA la nota prot. n. 264 del 23 marzo 2007 del Direttore Generale della direzione generale per il coordinamento e per lo sviluppo della ricerca del MUR, con la quale è stato approvato il regolamento di cui trattasi;</h:p>
@@ -95,7 +95,7 @@
 			</contenitore>
 			<formulafinale>
 				- il predetto regolamento sarà pubblicato nella Gazzetta Ufficiale della Repubblica Italiana ai sensi dell'
-				<rif xlink:href="urn:nir:stato:legge:1989-05-09;168~art8-com4" xlink:type="simple">articolo 8, comma 4, della L. 9 maggio 1989, n. 168</rif>
+				<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8-com4" xlink:type="simple">articolo 8, comma 4, della L. 9 maggio 1989, n. 168</rif>
 				.
 			</formulafinale>
 			<conclusione>

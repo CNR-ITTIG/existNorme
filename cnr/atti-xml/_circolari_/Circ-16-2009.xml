@@ -97,17 +97,17 @@
 					<h:p />
 					<h:p>
 						In particolare l'
-						<rif xlink:href="urn:nir:stato:legge:2009-06-18;69~art22-com2" xlink:type="simple">art. 22 comma 2 della legge 18 giugno 2009 n. 69</rif>
+						<rif xlink:href="urn:nir:stato:legge:2009-06-18;69#art22-com2" xlink:type="simple">art. 22 comma 2 della legge 18 giugno 2009 n. 69</rif>
 						e l'
 						<mrif>
 							art. 17
-							<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78~art17-com27" xlink:type="simple">comma 27</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78#art17-com27" xlink:type="simple">comma 27</rif>
 							e
-							<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78~art17-com30" xlink:type="simple">comma 30</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legge:2009-07-01;78#art17-com30" xlink:type="simple">comma 30</rif>
 							del Decreto legge 1 luglio 2009 n. 78
 						</mrif>
 						. Le novità di rilievo per i Centri di responsabilità del CNR sono illustrate nel dettaglio dalla Direttiva della Ragioneria della SAC (
-						<rif xlink:href="~ann1" xlink:type="simple">All. 1</rif>
+						<rif xlink:href="#ann1" xlink:type="simple">All. 1</rif>
 						).
 					</h:p>
 					<h:p />

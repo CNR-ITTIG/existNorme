@@ -38,7 +38,7 @@
 				<dataDoc norm="20060404">4 aprile 2006</dataDoc>
 				<titoloDoc>
 					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
-					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>
 					.
 				</titoloDoc>
 			</intestazione>
@@ -54,7 +54,7 @@
 								Il presente Regolamento si applica nei casi di partecipazione del personale dipendente alle attività relative alla realizzazione di opere e di lavori previsti dal «piano triennale dei lavori pubblici dell'Ente» secondo quanto previsto dalla
 								<rif xlink:href="urn:nir:stato:legge:1994;109" xlink:type="simple">legge n. 109/1994</rif>
 								e successive modifiche ed integrazioni. L'attribuzione dell'incentivo di cui all'
-								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18" xlink:type="simple">art. 18 della legge medesima</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">art. 18 della legge medesima</rif>
 								è finalizzata alla valorizzazione delle professionalità interne e all'incremento della produttività. In caso di appalti misti l'incentivo è corrisposto per le attività connesse alla componente lavori.
 							</corpo>
 						</comma>
@@ -62,9 +62,9 @@
 							<num>2.</num>
 							<corpo>
 								Il personale destinatario del compenso è individuato in base all'
-								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">art. 18, comma 1, della legge 11 febbraio 1994, n. 109</rif>
 								, come da ultimo sostituito dall'
-								<rif xlink:href="urn:nir:stato:legge:1999-05-11;144~art13-com4" xlink:type="simple">art. 13, comma 4 della legge 11 maggio 1999, n. 144</rif>
+								<rif xlink:href="urn:nir:stato:legge:1999-05-11;144#art13-com4" xlink:type="simple">art. 13, comma 4 della legge 11 maggio 1999, n. 144</rif>
 								, tra il responsabile unico del procedimento, gli incaricati della redazione del progetto, del piano della sicurezza, della direzione dei lavori e del collaudo, nonché' tra i loro collaboratori.
 							</corpo>
 						</comma>
@@ -72,7 +72,7 @@
 							<num>3.</num>
 							<corpo>
 								Nell'importo dei lavori sui quali è calcolato l'incentivo non rientrano le spese concernenti le attività propedeutiche, di supporto o integrative alla progettazione, necessarie all'approvazione dei progetti. Gli incentivi sono riconosciuti soltanto quando le opere ed i lavori oggetto di progettazione di cui al
-								<rif xlink:href="~art1-com1" xlink:type="simple">punto 1)</rif>
+								<rif xlink:href="#art1-com1" xlink:type="simple">punto 1)</rif>
 								, sono posti a base di gara e si perviene alla pubblicazione della gara medesima, attraverso l'emanazione del bando o attraverso l'inoltro delle lettere d'invito.
 							</corpo>
 						</comma>
@@ -87,9 +87,9 @@
 							<num>1.</num>
 							<corpo>
 								Per i progetti di cui all'
-								<rif xlink:href="~art1" xlink:type="simple">art. 1</rif>
+								<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
 								, il fondo è calcolato nel limite massimo dell'1,50% dell'importo dei lavori posti a base di gara al netto dell'IVA, secondo quanto più dettagliatamente specificato al
-								<rif xlink:href="~art3" xlink:type="simple">successivo art. 3</rif>
+								<rif xlink:href="#art3" xlink:type="simple">successivo art. 3</rif>
 								.
 							</corpo>
 						</comma>
@@ -172,7 +172,7 @@
 							<num>3.</num>
 							<corpo>
 								Il fondo è comunque costituito, per qualsiasi importo, in ragione dell'1,50% per lavori di particolare rilevanza e complessità, rilevabili in base alla necessità di utilizzare molteplici specializzazioni per la redazione del progetta (impiantistica, strutturistica, architettonica). In tal caso, in presenza di almeno tre progettisti di specializzazione diversa per ciascuna tipologia progettuale di cui al
-								<rif xlink:href="~art3-com2" xlink:type="simple">punto 2)</rif>
+								<rif xlink:href="#art3-com2" xlink:type="simple">punto 2)</rif>
 								e qualora venga redatto il solo progetto preliminare o il progetto preliminare e quello definitivo, le rispettive aliquote sopra determinate devono intendersi incrementate affinché ad ogni progettista sia corrisposta un'aliquota del 5%, nel caso di redazione del solo progetto preliminare e del 6%, nel caso del progetto preliminare e definitivo. Nelle ipotesi suddette, il totale degli incentivi corrisposti ai progettisti non potrà eccedere il totale delle aliquote relative alle diverse fasi della progettazione, di cui alla tabella precedente.
 							</corpo>
 						</comma>
@@ -180,9 +180,9 @@
 							<num>4.</num>
 							<corpo>
 								Resta fermo che sulle disponibilità del fondo, come costituito ai sensi del presente articolo, faranno carico le spese di assicurazione dei progettisti, ai sensi dell'
-								<rif xlink:href="urn:nir:stato:legge:1994;109~art30" xlink:type="simple">art. 30 della legge n. 109/1994</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994;109#art30" xlink:type="simple">art. 30 della legge n. 109/1994</rif>
 								e successive modificazioni e integrazioni e comunque ogni altro onere assicurativo relativo al personale di cui al
-								<rif xlink:href="~art3-com2" xlink:type="simple">punto 2)</rif>
+								<rif xlink:href="#art3-com2" xlink:type="simple">punto 2)</rif>
 								. Agli adempimenti corrispondenti provvederà il Dirigente dell'ufficio attuatore dell'intervento.
 							</corpo>
 						</comma>
@@ -202,9 +202,9 @@
 									per quanto riguarda la progettazione, alla verifica dei contenuti indicata all'
 									<mrif>
 										articolo 16, commi
-										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art16-com1" xlink:type="simple">1</rif>
+										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com1" xlink:type="simple">1</rif>
 										e
-										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art16-com2" xlink:type="simple">2</rif>
+										<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com2" xlink:type="simple">2</rif>
 										della legge n. 109/1994
 									</mrif>
 									e relativo regolamento di attuazione emanato con
@@ -234,7 +234,7 @@
 								L'assegnazione degli incarichi riguardanti i lavori e le opere disciplinate dalla
 								<rif xlink:href="urn:nir:stato:legge:1994;109" xlink:type="simple">legge n. 109/1994</rif>
 								deve garantire il pieno impiego della professionalità in servizio nonché l'equa ripartizione degli stessi, anche al fine della distribuzione degli incentivi previsti dall'
-								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art18-com1" xlink:type="simple">articolo 18, comma 1, della legge medesima</rif>
+								<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18-com1" xlink:type="simple">articolo 18, comma 1, della legge medesima</rif>
 								.
 							</corpo>
 						</comma>
@@ -242,7 +242,7 @@
 							<num>2.</num>
 							<corpo>
 								Il conferimento degli incarichi è disposto, in conformità a quanto previsto al
-								<rif xlink:href="~art5-com1" xlink:type="simple">comma 1</rif>
+								<rif xlink:href="#art5-com1" xlink:type="simple">comma 1</rif>
 								, dal dirigente dell'ufficio attuatore dell'intervento, tenuto conto dell'esigenza di un uniforme affidamento degli stessi, del carico di lavoro dei soggetti aventi diritto e della complessità dell'opera.
 							</corpo>
 						</comma>
@@ -267,9 +267,9 @@
 								L'incentivo per gli incaricati della progettazione e i loro collaboratori non è conferito quando nel corso dei lavori si renda necessario apportare al progetto varianti dovute al manifestarsi di errori o di omissioni del progetto esecutivo, secondo quanto previsto dall'
 								<mrif>
 									articolo 25,
-									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art25-com1-letd" xlink:type="simple">comma 1, lettera d)</rif>
+									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art25-com1-letd" xlink:type="simple">comma 1, lettera d)</rif>
 									e
-									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109~art25-com4" xlink:type="simple">comma 4</rif>
+									<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art25-com4" xlink:type="simple">comma 4</rif>
 									della legge n. 109/1994
 								</mrif>
 								.
@@ -290,7 +290,7 @@
 							<num>2.</num>
 							<corpo>
 								Nel caso di elaborati progettuali redatti congiuntamente da più soggetti o di attività professionali svolte congiuntamente da più soggetti, la ripartizione della quota dell'incentivo da attribuire al singolo dipendente è effettuata dal dirigente dell'ufficio attuatore dell'intervento, con riferimento alla effettiva prestazione fornita da ciascun soggetto e alla responsabilità legata all'attività espletata, fermo restando quanto disciplinato dall'
-								<rif xlink:href="~art3-com3" xlink:type="simple">art. 3, punto 3</rif>
+								<rif xlink:href="#art3-com3" xlink:type="simple">art. 3, punto 3</rif>
 								, ultimo capoverso.
 							</corpo>
 						</comma>
@@ -309,7 +309,7 @@
 							<num>1.</num>
 							<corpo>
 								Fermo restando quanto previsto dal
-								<rif xlink:href="~art4-com2" xlink:type="simple">comma 2 dell'art. 4</rif>
+								<rif xlink:href="#art4-com2" xlink:type="simple">comma 2 dell'art. 4</rif>
 								, la liquidazione dei compensi è effettuata dal dirigente dell'ufficio sentito il responsabile del procedimento che segnala le attività per le quali è possibile procedere al pagamento.
 							</corpo>
 						</comma>
@@ -336,7 +336,7 @@
 							<num>2.</num>
 							<corpo>
 								In sede di prima applicazione del presente Regolamento, la liquidazione delle quote di incentivo già maturate avverrà entro 90 giorni dalla data di entrata in vigore dello stesso e sulla base di quanto previsto dall'
-								<rif xlink:href="~art8-com1" xlink:type="simple">art. 8 comma 1</rif>
+								<rif xlink:href="#art8-com1" xlink:type="simple">art. 8 comma 1</rif>
 								, fatti salvi i tempi tecnici correlati all'espletamento degli adempimenti connessi alla risoluzione di problemi di carattere finanziario e contabile.
 							</corpo>
 						</comma>

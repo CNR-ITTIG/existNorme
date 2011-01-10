@@ -59,7 +59,7 @@
 				)
 				<titoloDoc>
 					Pensionati ex-dipendenti CNR con pensione di anzianità -
-					<rif xlink:href="urn:nir:stato:legge:1994-12-23;724~art25" xlink:type="simple">art. 25 Legge 23 dicembre 1994, n. 724</rif>
+					<rif xlink:href="urn:nir:stato:legge:1994-12-23;724#art25" xlink:type="simple">art. 25 Legge 23 dicembre 1994, n. 724</rif>
 					. Divieto di attivare rapporti di lavoro autonomo che diano luogo a compenso.
 				</titoloDoc>
 			</intestazione>
@@ -74,14 +74,14 @@
 				<contenitore id="con3" nome="">
 					<h:p>
 						In seguito alle richieste di chiarimenti provenienti dalle Direzioni di alcune strutture periferiche dell'Ente, si ricorda che è tuttora in vigore la disposizione prevista dall'
-						<rif xlink:href="urn:nir:stato:legge:1994-12-23;724~art25-com1" xlink:type="simple">art. 25, comma 1, della Legge 23 dicembre 1994, n. 724</rif>
+						<rif xlink:href="urn:nir:stato:legge:1994-12-23;724#art25-com1" xlink:type="simple">art. 25, comma 1, della Legge 23 dicembre 1994, n. 724</rif>
 						(legge finanziaria 1995), pubblicata sul supplemento ufficiale n. 174 alla Gazzetta Ufficiale della Repubblica Italiana n. 304 del 30 dicembre 1994, che recita testualmente:
 					</h:p>
 					<h:p />
 					<h:p>
 						<h:i>
 							"...Al fine di garantire la piena ed effettiva trasparenza e imparzialità dell'azione amministrativa, al personale delle amministrazioni di cui all'
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29~art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29</rif>
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29</rif>
 							, che cessa volontariamente dal servizio pur non avendo il requisito previsto per il pensionamento di vecchiaia dai rispettivi ordinamenti previdenziali ma che ha tuttavia il requisito contributivo per l'ottenimento della pensione anticipata di anzianità previsto dai rispettivi ordinamenti, non possono essere conferiti incarichi di consulenza, collaborazione, studio e ricerca da parte dell'amministrazione di provenienza o di amministrazioni con le quali ha avuto rapporti di lavoro o impiego nei cinque anni precedenti a quello della cessazione dal servizio...".
 						</h:i>
 					</h:p>
