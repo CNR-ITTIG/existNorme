@@ -11,8 +11,8 @@
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25:allegato" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033:allegato" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;25:allegato" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;25033:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;25:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;25033:allegato" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -31,7 +31,7 @@
 						<attiva id="ra3" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15451" xlink:type="simple" />
 						<attiva id="ra4" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15452" xlink:type="simple" />
 						<attiva id="ra5" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15449" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;25" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;25" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
