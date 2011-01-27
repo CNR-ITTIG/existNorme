@@ -23,7 +23,6 @@
 						<evento data="20050601" fonte="ra4" id="t5" tipo="modifica" />
 						<evento data="20050601" fonte="ra5" id="t6" tipo="modifica" />
 						<evento data="20050601" fonte="all1" id="t7" tipo="allegato" />
-						<evento data="20050601" fonte="all2" id="t8" tipo="allegato" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple" />
@@ -32,11 +31,10 @@
 						<attiva id="ra3" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15451" xlink:type="simple" />
 						<attiva id="ra4" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15452" xlink:type="simple" />
 						<attiva id="ra5" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15449" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25" xlink:type="simple" />
-						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;provvedimento:2005-05-04;25" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
-<proprietario xlink:type="simple">
+				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
 						<cnr:strutturaEmanante valore="Presidenza" />
 						<cnr:autoritaEmanante valore="Presidente" />
@@ -520,11 +518,19 @@
 							</comma>
 							<comma id="art6-com2">
 								<num>2.</num>
-								<corpo>Il Collegio dei revisori dei conti vigila sull'osservanza della legge e sul rispetto dei principi di corretta amministrazione e svolge le funzioni di controllo contabile secondo quanto previsto dal regolamento di amministrazione, contabilità e finanza, di seguito "regolamento di contabilità".</corpo>
+								<corpo>
+									Il Collegio dei revisori dei conti vigila sull'osservanza della legge e sul rispetto dei principi di corretta amministrazione e svolge le funzioni di controllo contabile secondo quanto previsto dal
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di amministrazione, contabilità e finanza</rif>
+									, di seguito "regolamento di contabilità".
+								</corpo>
 							</comma>
 							<comma id="art6-com3">
 								<num>3.</num>
-								<corpo>I documenti relativi agli atti su cui il Collegio dei revisori deve esprimere un parere, secondo quanto previsto dal regolamento di contabilità, sono inviati almeno dieci giorni prima del giorno fissato per l'adozione degli atti medesimi.</corpo>
+								<corpo>
+									I documenti relativi agli atti su cui il Collegio dei revisori deve esprimere un parere, secondo quanto previsto dal
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									, sono inviati almeno dieci giorni prima del giorno fissato per l'adozione degli atti medesimi.
+								</corpo>
 							</comma>
 							<comma id="art6-com4">
 								<num>4.</num>
@@ -608,7 +614,11 @@
 							</comma>
 							<comma id="art8-com3">
 								<num>3.</num>
-								<corpo>Gli uffici di diretta collaborazione costituiscono un unico centro di responsabilità ai sensi del regolamento di contabilità. Il Presidente, con proprio decreto e previa delibera del Consiglio di amministrazione, determina quali uffici sono a livello dirigenziale.</corpo>
+								<corpo>
+									Gli uffici di diretta collaborazione costituiscono un unico centro di responsabilità ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									. Il Presidente, con proprio decreto e previa delibera del Consiglio di amministrazione, determina quali uffici sono a livello dirigenziale.
+								</corpo>
 							</comma>
 							<comma id="art8-com4">
 								<num>4.</num>
@@ -911,7 +921,11 @@
 								</comma>
 								<comma id="art15-com5">
 									<num>5.</num>
-									<corpo>I dipartimenti costituiscono centri di responsabilità ai sensi del regolamento di contabilità.</corpo>
+									<corpo>
+										I dipartimenti costituiscono centri di responsabilità ai sensi del
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+										.
+									</corpo>
 								</comma>
 								<comma id="art15-com6">
 									<num>6.</num>
@@ -980,7 +994,11 @@
 									</el>
 									<el id="art17-com1-letd">
 										<num>d)</num>
-										<corpo>gestisce le risorse umane finanziarie e strumentali assegnate al dipartimento per il suo funzionamento esercitando le funzioni definite al riguardo nel regolamento del personale ed esercitando coerenti poteri anche di spesa nell'ambito del piano di gestione;</corpo>
+										<corpo>
+											gestisce le risorse umane finanziarie e strumentali assegnate al dipartimento per il suo funzionamento esercitando le funzioni definite al riguardo nel
+											<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+											ed esercitando coerenti poteri anche di spesa nell'ambito del piano di gestione;
+										</corpo>
 									</el>
 									<el id="art17-com1-lete">
 										<num>e)</num>
@@ -1307,11 +1325,19 @@
 								</comma>
 								<comma id="art24-com5">
 									<num>5.</num>
-									<corpo>Negli istituti opera personale ricercatore e tecnologo, tecnico e amministrativo dipendente del CNR e personale associato alle attività degli Istituti proveniente da università, da enti di ricerca, nonché da altri enti, pubblici e privati, secondo quanto definito dal Regolamento del personale.</corpo>
+									<corpo>
+										Negli istituti opera personale ricercatore e tecnologo, tecnico e amministrativo dipendente del CNR e personale associato alle attività degli Istituti proveniente da università, da enti di ricerca, nonché da altri enti, pubblici e privati, secondo quanto definito dal
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">Regolamento del personale</rif>
+										.
+									</corpo>
 								</comma>
 								<comma id="art24-com6">
 									<num>6.</num>
-									<corpo>Ogni Istituto costituisce centro di responsabilità ai sensi del regolamento di contabilità.</corpo>
+									<corpo>
+										Ogni Istituto costituisce centro di responsabilità ai sensi del
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+										.
+									</corpo>
 								</comma>
 							</articolo>
 							<articolo id="art25">
@@ -1358,7 +1384,11 @@
 									</el>
 									<el id="art26-com1-letc">
 										<num>c)</num>
-										<corpo>gestisce le risorse umane finanziarie e strumentali assegnate all'istituto esercitando le funzioni definite al riguardo nel regolamento del personale ed esercitando conseguenti poteri anche di spesa nell'ambito del piano di gestione;</corpo>
+										<corpo>
+											gestisce le risorse umane finanziarie e strumentali assegnate all'istituto esercitando le funzioni definite al riguardo nel
+											<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+											ed esercitando conseguenti poteri anche di spesa nell'ambito del piano di gestione;
+										</corpo>
 									</el>
 									<el id="art26-com1-letd">
 										<num>d)</num>
@@ -1568,7 +1598,9 @@
 								<comma id="art30-com2">
 									<num>2.</num>
 									<corpo>
-										Per lo svolgimento dei compiti di ragioneria, nonché dei compiti di acquisizione delle entrate e di erogazione delle spese ai sensi del regolamento di contabilità, presso l'istituto è costituito un ufficio di supporto amministrativo e contabile, denominato "segreteria amministrativa" composto da personale assegnato all'istituto e da personale in servizio presso unità decentrate dell'amministrazione dell'Ente distaccato presso l'istituto. La segreteria amministrativa è coordinata, nel rispetto delle direttive del direttore, da un segretario amministrativo nominato dal direttore tra il personale di adeguato livello professionale assegnato o distaccato presso l'istituto. Allo scopo di aumentare l'efficienza nello svolgimento delle funzioni di supporto tecnico amministrativo possono essere costituite unità aventi tali compiti che operano simultaneamente per dare supporto a più istituti, riportando dal punto di vista gerarchico ad uno degli istituti stessi o, in alternativa, a una delle unità di cui all'
+										Per lo svolgimento dei compiti di ragioneria, nonché dei compiti di acquisizione delle entrate e di erogazione delle spese ai sensi del
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+										, presso l'istituto è costituito un ufficio di supporto amministrativo e contabile, denominato "segreteria amministrativa" composto da personale assegnato all'istituto e da personale in servizio presso unità decentrate dell'amministrazione dell'Ente distaccato presso l'istituto. La segreteria amministrativa è coordinata, nel rispetto delle direttive del direttore, da un segretario amministrativo nominato dal direttore tra il personale di adeguato livello professionale assegnato o distaccato presso l'istituto. Allo scopo di aumentare l'efficienza nello svolgimento delle funzioni di supporto tecnico amministrativo possono essere costituite unità aventi tali compiti che operano simultaneamente per dare supporto a più istituti, riportando dal punto di vista gerarchico ad uno degli istituti stessi o, in alternativa, a una delle unità di cui all'
 										<rif xlink:href="#art36-com1" xlink:type="simple">articolo 36 comma 1</rif>
 										del presente regolamento.
 									</corpo>
@@ -1692,7 +1724,11 @@
 							<rubrica>(Uffici della direzione generale)</rubrica>
 							<comma id="art34-com1">
 								<num>1.</num>
-								<corpo>La Direzione generale costituisce centro di responsabilità ai sensi del regolamento di contabilità.</corpo>
+								<corpo>
+									La Direzione generale costituisce centro di responsabilità ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
+								</corpo>
 							</comma>
 							<comma id="art34-com2">
 								<num>2.</num>
@@ -1708,7 +1744,11 @@
 							</comma>
 							<comma id="art34-com4">
 								<num>4.</num>
-								<corpo>Gli uffici della Direzione generale sono centri di responsabilità, all'interno del centro di responsabilità costituito dalla Direzione generale, ai sensi del regolamento di contabilità.</corpo>
+								<corpo>
+									Gli uffici della Direzione generale sono centri di responsabilità, all'interno del centro di responsabilità costituito dalla Direzione generale, ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
+								</corpo>
 							</comma>
 						</articolo>
 						<articolo id="art35">
@@ -1780,7 +1820,11 @@
 							</comma>
 							<comma id="art35-com4">
 								<num>4.</num>
-								<corpo>Ciascuna delle direzioni centrali costituisce centro di responsabilità ai sensi del regolamento di contabilità.</corpo>
+								<corpo>
+									Ciascuna delle direzioni centrali costituisce centro di responsabilità ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
+								</corpo>
 							</comma>
 							<comma id="art35-com5">
 								<num>5.</num>
@@ -1788,7 +1832,11 @@
 							</comma>
 							<comma id="art35-com6">
 								<num>6.</num>
-								<corpo>Gli uffici interni delle direzioni centrali sono centri di responsabilità all'interno del centro di responsabilità costituito della Direzione centrale di appartenenza, ai sensi del regolamento di contabilità.</corpo>
+								<corpo>
+									Gli uffici interni delle direzioni centrali sono centri di responsabilità all'interno del centro di responsabilità costituito della Direzione centrale di appartenenza, ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
+								</corpo>
 							</comma>
 						</articolo>
 						<articolo id="art36">
@@ -1867,7 +1915,9 @@
 								<corpo>
 									Le direzioni centrali sono affidate alla responsabilità di dirigenti generali che dirigono, coordinano e controllano l'attività dei dirigenti preposti agli uffici interni alle stesse, esercitando le funzioni di cui all'
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art16" xlink:type="simple">articolo 16 del decreto legislativo 30 marzo 2001, n.165</rif>
-									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel regolamento del personale e esercitano coerenti poteri anche di spesa nell'ambito del piano di gestione.
+									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+									e esercitano coerenti poteri anche di spesa nell'ambito del piano di gestione.
 								</corpo>
 							</comma>
 							<comma id="art38-com2">
@@ -1875,7 +1925,9 @@
 								<corpo>
 									I dirigenti responsabili degli uffici dirigenziali esercitano le funzioni di cui all'
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art17" xlink:type="simple">articolo 17 del decreto legislativo 30 marzo 2001, n.165</rif>
-									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel regolamento del personale esercitando coerenti poteri anche di spesa nell'ambito del piano di gestione.
+									e successive modificazioni, per quanto applicabile. In particolare svolgono le funzioni definite al riguardo nel
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+									esercitando coerenti poteri anche di spesa nell'ambito del piano di gestione.
 								</corpo>
 							</comma>
 							<comma id="art38-com3">
@@ -1963,7 +2015,9 @@
 								<corpo>
 									Le informazioni specifiche relative all'anno in corso di cui al
 									<rif xlink:href="#art41-com5" xlink:type="simple">comma 5</rif>
-									, sono aggiornate trimestralmente attraverso una nota integrativa predisposta dal direttore generale che illustra le risultanze dell'utilizzo del piano di gestione come modificato nel frattempo ai sensi del regolamento di contabilità.
+									, sono aggiornate trimestralmente attraverso una nota integrativa predisposta dal direttore generale che illustra le risultanze dell'utilizzo del piano di gestione come modificato nel frattempo ai sensi del
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
 								</corpo>
 							</comma>
 						</articolo>
@@ -1999,7 +2053,11 @@
 								</el>
 								<el id="art42-com4-letd">
 									<num>d)</num>
-									<corpo>capacità di gestire la mobilità del personale di ricerca in entrata e in uscita, secondo le disposizioni del regolamento del personale, nonché di attrarre ricercatori qualificati di diversa esperienza;</corpo>
+									<corpo>
+										capacità di gestire la mobilità del personale di ricerca in entrata e in uscita, secondo le disposizioni del
+										<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+										, nonché di attrarre ricercatori qualificati di diversa esperienza;
+									</corpo>
 								</el>
 								<el id="art42-com4-lete">
 									<num>e)</num>
@@ -2036,7 +2094,11 @@
 							</comma>
 							<comma id="art42-com10">
 								<num>10.</num>
-								<corpo>Gli istituti, i dipartimenti e le unità dell'amministrazione redigono conseguentemente il piano di gestione secondo le modalità previste dal regolamento di contabilità.</corpo>
+								<corpo>
+									Gli istituti, i dipartimenti e le unità dell'amministrazione redigono conseguentemente il piano di gestione secondo le modalità previste dal
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">regolamento di contabilità</rif>
+									.
+								</corpo>
 							</comma>
 							<comma id="art42-com11">
 								<num>11.</num>
@@ -2284,7 +2346,9 @@
 							<comma id="art49-com6">
 								<num>6.</num>
 								<corpo>
-									La definizione dei contratti avviene sulla base dei criteri approvati dal Consiglio di amministrazione; i predetti criteri tengono conto, nella distribuzione dei ricavi, delle attività svolte dai singoli ricercatori, secondo quanto stabilito dalla normativa vigente e dal regolamento del personale e devono indicare le modalità per assicurare l'espletamento delle attività del CNR, secondo quanto stabilito dall'
+									La definizione dei contratti avviene sulla base dei criteri approvati dal Consiglio di amministrazione; i predetti criteri tengono conto, nella distribuzione dei ricavi, delle attività svolte dai singoli ricercatori, secondo quanto stabilito dalla normativa vigente e dal
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">regolamento del personale</rif>
+									e devono indicare le modalità per assicurare l'espletamento delle attività del CNR, secondo quanto stabilito dall'
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art3-com1" xlink:type="simple">articolo 3 comma 1 del decreto di riordino</rif>
 									, e in particolare le attività in collaborazione con università, imprese e altri soggetti pubblici e privati.
 								</corpo>
@@ -2447,9 +2511,9 @@
 								</mrif>
 								, che consentono di assicurare l'autonomia gestionale delle strutture interne degli Enti che confluiscono nel CNR, nonché di quelle previste dal regolamento del personale, e in particolare il
 								<mrif>
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a#art4-com2" xlink:type="simple">comma 2 dell'articolo 4</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art4-com2" xlink:type="simple">comma 2 dell'articolo 4</rif>
 									e
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27:allegato.a#art17" xlink:type="simple">l'articolo 17</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">l'articolo 17</rif>
 								</mrif>
 								, che assicurano la salvaguardia della specificità del rapporto di lavoro e della presente parte del regolamento, che disciplina la fase transitoria, il Consiglio di amministrazione curerà che la riorganizzazione della rete scientifica avvenga assicurando agli enti di cui al
 								<rif xlink:href="#art54-com1" xlink:type="simple">comma 1</rif>
@@ -2559,7 +2623,9 @@
 								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
 								del presente Regolamento, provvede contestualmente alla istituzione dei dipartimenti e agli adempimenti di cui all'
 								<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
-								sulla base delle proposte formulate dal Presidente. Il Presidente per le attività istruttorie può avvalersi dei risultati del lavoro di Commissioni di studio per l'attivazione dei dipartimenti quali quelle nominate con Provvedimento ordinamentale n.16630 del 17 settembre 2004.
+								sulla base delle proposte formulate dal Presidente. Il Presidente per le attività istruttorie può avvalersi dei risultati del lavoro di Commissioni di studio per l'attivazione dei dipartimenti quali quelle nominate con
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2004-09-17;16630" xlink:type="simple">Provvedimento ordinamentale n.16630 del 17 settembre 2004</rif>
+								.
 							</corpo>
 						</comma>
 						<comma id="art56-com2">
@@ -2585,7 +2651,9 @@
 							<corpo>
 								Le disposizioni previste dall'
 								<rif xlink:href="#art28-com6" xlink:type="simple">articolo 28 comma 6</rif>
-								non si applicano ai direttori di istituto in carica al momento dell'entrata in vigore del presente regolamento che abbiano fruito della deroga ai sensi del comma 5 dell'articolo 9 del regolamento sull'istituzione ed il funzionamento degli istituti, adottato con
+								non si applicano ai direttori di istituto in carica al momento dell'entrata in vigore del presente regolamento che abbiano fruito della deroga ai sensi del
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15446#art9-com5" xlink:type="simple">comma 5 dell'articolo 9 del regolamento sull'istituzione ed il funzionamento degli istituti</rif>
+								, adottato con
 								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15446" xlink:type="simple">Decreto del Presidente del CNR n. 15446 del 14 gennaio 2000</rif>
 								, fino al termine del loro mandato.
 							</corpo>
