@@ -18,7 +18,7 @@
 						<evento data="20050504" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;25" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
