@@ -7,10 +7,10 @@
 					<pubblicazione norm="" num="2/2007" tipo="BUCNR" />
 					<entratainvigore norm="20070413" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;18" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;2676" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-04-12;18" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-04-12;2676" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;18" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;2676" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -18,7 +18,7 @@
 						<evento data="20070413" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;18" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-04-12;18" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -35,7 +35,8 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<emanante />
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20070412">12 aprile 2007</dataDoc>
 				, n.
 				<numDoc>18</numDoc>
@@ -70,7 +71,7 @@
 						(Codice in materia di protezione dei dati personali);
 					</h:p>
 					<h:p>- VISTO lo schema di regolamento trasmesso con nota prot. PRESID-CNR n. 1302 del 22 febbraio 2007 all'Autorità garante per la protezione dei dati personali;</h:p>
-					<h:p>- VISTO il parere favorevole reso sullo schema di regolamento dal'Autorità garante per la protezione dei dati personali del 28 febbraio 2007;</h:p>
+					<h:p>- VISTO il parere favorevole reso sullo schema di regolamento dall'Autorità garante per la protezione dei dati personali del 28 febbraio 2007;</h:p>
 					<h:p>
 						- VISTO il
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-03-13;13" xlink:type="simple">DPCNR n. 13 del 13 marzo 2007</rif>
