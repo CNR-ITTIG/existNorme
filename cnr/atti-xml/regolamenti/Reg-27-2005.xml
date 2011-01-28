@@ -18,17 +18,15 @@
 					<eventi>
 						<evento data="20050601" fonte="ro1" id="t1" tipo="entrata in vigore" />
 						<evento data="20050601" fonte="all1" id="t2" tipo="allegato" />
-						<evento data="20050601" fonte="all2" id="t3" tipo="allegato" />
-						<evento data="20050601" fonte="ra1" id="t4" tipo="modifica" />
+						<evento data="20050601" fonte="ra1" id="t3" tipo="modifica" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple" />
 						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15450" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;27" xlink:type="simple" />
-						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;27" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
-<proprietario xlink:type="simple">
+				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
 						<cnr:strutturaEmanante valore="Presidenza" />
 						<cnr:autoritaEmanante valore="Presidente" />
@@ -42,7 +40,7 @@
 					<modificheattive>
 						<dsp:abrogazione completa="si" implicita="no">
 							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
-							<dsp:termine da="#t4" />
+							<dsp:termine da="#t3" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15450" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15450" xlink:type="simple" />
 							</dsp:norma>
@@ -99,12 +97,18 @@
 						<rubrica>(Dotazione organica e piani di fabbisogno)</rubrica>
 						<comma id="art2-com1">
 							<num>1.</num>
-							<corpo>Il Consiglio di amministrazione definisce, nell'ambito del piano triennale di attività ai sensi dell'articolo 16 comma 1 del decreto di riordino, la programmazione annuale e triennale del fabbisogno di personale sia a tempo indeterminato sia a tempo determinato in funzione del perseguimento delle finalità dell'Ente.</corpo>
+							<corpo>
+								Il Consiglio di amministrazione definisce, nell'ambito del piano triennale di attività ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art16-com1" xlink:type="simple">articolo 16 comma 1 del decreto di riordino</rif>
+								, la programmazione annuale e triennale del fabbisogno di personale sia a tempo indeterminato sia a tempo determinato in funzione del perseguimento delle finalità dell'Ente.
+							</corpo>
 						</comma>
 						<comma id="art2-com2">
 							<num>2.</num>
 							<corpo>
-								La dotazione organica del Consiglio Nazionale delle Ricerche, risultante dalle tabelle numeri uno, due, tre e cinque, allegate al decreto di riordino, è aggiornata, con la procedura di cui al
+								La dotazione organica del Consiglio Nazionale delle Ricerche, risultante dalle tabelle numeri uno, due, tre e cinque, allegate al
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">decreto di riordino</rif>
+								, è aggiornata, con la procedura di cui al
 								<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
 								, ai sensi degli
 								<mrif>
@@ -363,7 +367,9 @@
 							<comma id="art9-com4">
 								<num>4.</num>
 								<corpo>
-									Il Consiglio di amministrazione, nel rispetto dei principi dettati dal comma 4 dell'articolo 20 del decreto di riordino e in conformità con i principi generali contenuti nel
+									Il Consiglio di amministrazione, nel rispetto dei principi dettati dal
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art20-com4" xlink:type="simple">comma 4 dell'articolo 20 del decreto di riordino</rif>
+									e in conformità con i principi generali contenuti nel
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#tit2-cap3" xlink:type="simple">Titolo II, capo III, del decreto legislativo 30 marzo 2001, n.165</rif>
 									, e della contrattazione collettiva, definisce con propria delibera le modalità generali per l'assunzione ai diversi livelli e i riferimenti per la formulazione dei bandi, ivi inclusa la definizione delle soglie di idoneità, nonché i criteri per stabilire il grado di decentramento dello svolgimento dei concorsi.
 								</corpo>
@@ -658,7 +664,8 @@
 							<corpo>
 								Il personale di ciascun istituto può prestare la propria attività su specifici progetti e programmi dell'Ente anche collaborando con il personale dei dipartimenti e di altri istituti e rispondendo funzionalmente, per quanto concerne l'organizzazione delle specifiche attività e il raggiungimento degli obiettivi interni, al responsabile del singolo progetto o commessa secondo le modalità stabilite dagli
 								<mrif>
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art20" xlink:type="simple">articoli 20</rif>
+									articoli
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art20" xlink:type="simple">20</rif>
 									,
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art26" xlink:type="simple">26</rif>
 									e
@@ -760,7 +767,11 @@
 						<rubrica>(Diritti)</rubrica>
 						<comma id="art24-com1">
 							<num>1.</num>
-							<corpo>Il personale dipendente CNR ha diritto alle prerogative previste dal vigente contratto collettivo nazionale di lavoro, secondo le modalità in esso precisate. Il personale di ricerca contribuisce alla programmazione delle attività con le modalità indicate nel regolamento di organizzazione e funzionamento.</corpo>
+							<corpo>
+								Il personale dipendente CNR ha diritto alle prerogative previste dal vigente contratto collettivo nazionale di lavoro, secondo le modalità in esso precisate. Il personale di ricerca contribuisce alla programmazione delle attività con le modalità indicate nel
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+								.
+							</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art25">
@@ -809,7 +820,11 @@
 						<comma id="art28-com1">
 							<num>1.</num>
 							<corpo>
-								In base alle disposizioni vigenti e a quanto previsto dalla contrattazione collettiva, ai responsabili di progetto e di commessa, individuati con le modalità e le procedure stabilite dal regolamento di organizzazione e funzionamento, possono essere riconosciute indennità in misura proporzionale alle dimensioni ed alla complessità del progetto o della commessa e alle relative responsabilità. L'indennità è stabilita all'atto del conferimento dell'incarico ai sensi dell'
+								In base alle disposizioni vigenti e a quanto previsto dalla contrattazione collettiva, ai responsabili di progetto e di commessa, individuati con le modalità e le procedure stabil
+								<rif xlink:href="urn:nir:stato:legge:2000-11-11;11" xlink:type="simple">legge 11 novembre 2000, n. 11</rif>
+								ite dal
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+								, possono essere riconosciute indennità in misura proporzionale alle dimensioni ed alla complessità del progetto o della commessa e alle relative responsabilità. L'indennità è stabilita all'atto del conferimento dell'incarico ai sensi dell'
 								<mrif>
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art20-com3" xlink:type="simple">articolo 20, comma 3</rif>
 									e dell'
