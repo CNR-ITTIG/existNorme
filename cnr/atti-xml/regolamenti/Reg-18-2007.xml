@@ -21,7 +21,7 @@
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-04-12;18" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-04-12;18" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -219,32 +219,49 @@
 									<h:b>Fonti normative:</h:b>
 								</h:p>
 								<h:p>
-									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262" xlink:type="simple">Codice civile</rif>
-									(artt. 2094-2134);
+									<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2094" xlink:type="simple">Codice civile (artt. 2094-2134)</rif>
+									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1965-06-30;1124" xlink:type="simple">D.P.R. 30.06.1965, n. 1124</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1970-05-20;300" xlink:type="simple">L. 20.05.1970, n. 300</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1990-02-07;19" xlink:type="simple">L. 7.02.1990, n. 19</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:1994-09-19;626" xlink:type="simple">D.lg. 19.09.1994, n. 626</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1999-03-12;68" xlink:type="simple">L. 12.03.1999, n. 68</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:2000-03-08;53" xlink:type="simple">L. 8.03.2000, n. 53</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.lg. 30.03.2001 n. 165</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-26;151" xlink:type="simple">D.lg. 26.03.2001, n. 151</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445" xlink:type="simple">D.P.R. 28.12.2000, n. 445</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:1991-08-15;277" xlink:type="simple">D.lg. 15.08.1991, n. 277</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1982-04-14;164" xlink:type="simple">L. 14.04.1982, n. 164</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lg 04.06.2003, n. 127</rif>
-									; CCNL; Contratti collettivi decentrati;
+									;
+									<h:br />
+									CCNL;
+									<h:br />
+									Contratti collettivi decentrati;
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005).
 								</h:p>
@@ -270,10 +287,13 @@
 								<h:p>
 									<h:b>Convinzioni:</h:b>
 									religiose / filosofiche / politiche / sindacali / d'altro genere;
+									<h:br />
 									<h:b>Stato di salute:</h:b>
 									patologie attuali / patologie pregresse, terapie in corso / relativi ai familiari del dipendente;
+									<h:br />
 									<h:b>Vita sessuale</h:b>
 									(soltanto in caso di rettificazione di attribuzione di sesso);
+									<h:br />
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) d.lgs. n.196/2003</rif>
@@ -371,18 +391,25 @@
 								<h:p>
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1965-06-30;1124" xlink:type="simple">D.P.R. 30.06.1965, n. 1124</rif>
 									;
-									<rif xlink:href="urn:nir:stato:legge:1970-05-24;336" xlink:type="simple">l. 24.05.1970, n. 336</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:legge:1970-05-24;336" xlink:type="simple">L. 24.05.1970, n. 336</rif>
 									;
-									<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">l. 5.02.1992, n. 104</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">L. 5.02.1992, n. 104</rif>
 									;
-									<rif xlink:href="urn:nir:stato:legge:1999-03-12;68" xlink:type="simple">l. 12.03.1999, n. 68</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:legge:1999-03-12;68" xlink:type="simple">L. 12.03.1999, n. 68</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">D.P.R. 29.10.2001, n. 461</rif>
 									;
-									<rif xlink:href="urn:nir:stato:legge:1995-08-08;335" xlink:type="simple">l. 8.08.1995, n. 335</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:legge:1995-08-08;335" xlink:type="simple">L. 8.08.1995, n. 335</rif>
 									;
-									<rif xlink:href="urn:nir:stato:legge:2000-12-23;388" xlink:type="simple">l. 23.12.2000, n. 388</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:legge:2000-12-23;388" xlink:type="simple">L. 23.12.2000, n. 388</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005).
 								</h:p>
@@ -406,6 +433,7 @@
 								<h:p>
 									<h:b>Convinzioni:</h:b>
 									etnica;
+									<h:br />
 									<h:b>Stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso;
 								</h:p>
@@ -494,10 +522,14 @@
 								<h:p>
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1992-12-16;495" xlink:type="simple">D.P.R. 16.12.1992, n. 495</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1988-08-23;395#art6" xlink:type="simple">D.P.R. 23/08/1988, n. 395 art.6</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1991-02-12;171#art9" xlink:type="simple">D.P.R. 12/2/1991, n. 171 art. 9</rif>
-									; CCNL Comparto Istituzionied Enti di ricerca.
+									;
+									<h:br />
+									CCNL Comparto Istituzionied Enti di ricerca.
 								</h:p>
 								<h:p />
 							</contenitore>
@@ -525,6 +557,7 @@
 								<h:p>
 									<h:b>Stato di salute:</h:b>
 									patologie attuali / terapie in corso;
+									<h:br />
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
@@ -582,21 +615,29 @@
 									<h:b>Fonti normative:</h:b>
 								</h:p>
 								<h:p>
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">decreto legislativo 127/2003</rif>
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
 									,
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
-									(
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza</rif>
-									(
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">D.P.CNR prot. n. 25034 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del Personale</rif>
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">D.P.CNR prot. n. 25035 del 4 maggio 2005</rif>
-									(G.U. n. 124 del 30 maggio 2005); Leggi sulla giustizia amministrativa;
+									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
+									Leggi sulla giustizia amministrativa;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">D.lg, 30.03.2001, n. 165</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-10-29;461" xlink:type="simple">DPR. 29.10.2001, n. 461</rif>
 								</h:p>
 								<h:p />
@@ -621,12 +662,16 @@
 								<h:p>
 									<h:b>Origine:</h:b>
 									razziale / etnica;
+									<h:br />
 									<h:b>convinzioni:</h:b>
 									religiose / filosoliche / politiche / sindacali / d'altro genere;
+									<h:br />
 									<h:b>stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso / relativi anche ai familiari dell'interessato;
+									<h:br />
 									<h:b>vita sessuale</h:b>
 									;
+									<h:br />
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
@@ -709,17 +754,21 @@
 								<h:p>
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
 									,
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
-									(
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza</rif>
-									(
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">D.P.CNR prot. n. 25034 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">D.lg 30.06.2003, n. 196</rif>
 									;
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286" xlink:type="simple">decreto legislativo 30-7-1999 n. 286</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;286" xlink:type="simple">Decreto legislativo 30-7-1999 n. 286</rif>
 								</h:p>
 								<h:p />
 							</contenitore>
@@ -749,10 +798,13 @@
 								<h:p>
 									<h:b>Origine:</h:b>
 									razziale / etnica;
+									<h:br />
 									<h:b>convinzioni:</h:b>
 									religiose / filosoliche / politiche / sindacali / di altro genere;
+									<h:br />
 									<h:b>stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso;
+									<h:br />
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
@@ -813,16 +865,21 @@
 								<h:p>
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127" xlink:type="simple">Decreto legislativo 127/2003</rif>
 									,
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di Organizzazione e Funzionamento</rif>
-									(
+									-
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">D.P.CNR prot. n. 25033 del 4 maggio 2005</rif>
 									(G.U. n. 124 del 30 maggio 2005);
+									<h:br />
 									<rif xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1987-10-07;475" xlink:type="simple">DPCM 7.10.1987 n. 475</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:ministero.beni.attivita.culturali:decreto:2001-05-10;nir-1" xlink:type="simple">D.M. 10/5/2001</rif>
 									;
+									<h:br />
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42" xlink:type="simple">D.lg. 22.01.2004, n. 42</rif>
 									,
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1992-02-05;104" xlink:type="simple">L 5/2/1992, n. 104</rif>
 								</h:p>
 								<h:p />
@@ -900,17 +957,21 @@
 								<h:p>
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n.127</rif>
 									(Riordino del CNR);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
 									);
+									<h:br />
 									<mrif>
-										decreto legislativo n. 196/2003 artt.
+										Decreto legislativo n. 196/2003 artt.
 										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art107" xlink:type="simple">107</rif>
 										e
 										<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art110" xlink:type="simple">110</rif>
 									</mrif>
-									; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004.
+									;
+									<h:br />
+									Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientifici del 16.6.2004.
 								</h:p>
 								<h:p />
 							</contenitore>
@@ -931,8 +992,10 @@
 								<h:p>
 									<h:b>Origine:</h:b>
 									razziale / etnica;
+									<h:br />
 									<h:b>stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso anche relativi ai familiari;
+									<h:br />
 									<h:b>vita sessuale</h:b>
 								</h:p>
 								<h:p />
@@ -999,18 +1062,25 @@
 								<h:p>
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n. 127</rif>
 									(Riordino del CNR);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
 									);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanziaria del CNR</rif>
 									);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del personale del CNR</rif>
-									); Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi storici del 14.3.2001; Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientilici del 16.6.2004.
+									);
+									<h:br />
+									Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi storici del 14.3.2001;
+									<h:br />
+									Codice di deontologia e buona condotta per i trattamenti dei dati personali per scopi statistici e scientilici del 16.6.2004.
 								</h:p>
 								<h:p />
 							</contenitore>
@@ -1038,11 +1108,17 @@
 								<h:p>
 									<h:b>Origine:</h:b>
 									razziale / etnica;
+									<h:br />
 									<h:b>convinzioni:</h:b>
 									religiose / filosofiche / politiche / sindacali /d'altro genere;
+									<h:br />
 									<h:b>stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso;
-									<h:b>vita sessuale;</h:b>
+									<h:br />
+									<h:b>
+										vita sessuale;
+										<h:br />
+									</h:b>
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
@@ -1108,21 +1184,26 @@
 								<h:p>
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">D.lgs 4.06.2003, n.127</rif>
 									(Riordino del CNR);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del CNR</rif>
 									);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;25034" xlink:type="simple">Regolamento di amministrazione, contabilità e finanziaria del CNR</rif>
 									);
+									<h:br />
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">DPCNR 4.05.2005</rif>
 									(
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;25035" xlink:type="simple">Regolamento del personale del CNR</rif>
 									);
+									<h:br />
 									<rif xlink:href="urn:nir:stato:legge:1978;833" xlink:type="simple">L. 833/1978</rif>
 									"Istituzione del servizio sanitario nazionale",
-									<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502" xlink:type="simple">decreto legislativo 30 dicembre 1992, n. 502</rif>
+									<h:br />
+									<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502" xlink:type="simple">Decreto legislativo 30 dicembre 1992, n. 502</rif>
 									(Riordino della disciplina in materia sanitaria, a norma dell'
 									<rif xlink:href="urn:nir:stato:legge:1992-10-23;421#art1" xlink:type="simple">articolo 1 della legge 23 ottobre 1992, n. 421</rif>
 									)
@@ -1147,11 +1228,17 @@
 								<h:p>
 									<h:b>Origine:</h:b>
 									razziale / etnica;
+									<h:br />
 									<h:b>convinzioni:</h:b>
 									religiose;
+									<h:br />
 									<h:b>stato di salute:</h:b>
 									patologie attuali / patologie pregresse / terapie in corso anche relativi ai familiari;
-									<h:b>vita sessuale;</h:b>
+									<h:br />
+									<h:b>
+										vita sessuale;
+										<h:br />
+									</h:b>
 									<h:b>dati a carattere giudiziario</h:b>
 									(
 									<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196#art4-com1-lete" xlink:type="simple">art. 4 comma 1 lettera e) dlgs. n. 196/2003</rif>
@@ -1205,7 +1292,7 @@
 									</h:p>
 									<h:p>
 										Le unità di sangue e di emo componenti vengono raccolti in sacche etichettate conformemente al
-										<rif xlink:href="urn:nir:ministero.salute:decreto:2005-01-25;nir-1" xlink:type="simple">DM 25 gennaio 2001</rif>
+										<rif xlink:href="urn:nir:ministero.sanita:decreto:2005-01-25;nir-1" xlink:type="simple">DM 25 gennaio 2001</rif>
 										che in particolare recano il numero identificativo della donazione attraverso il quale è possibile risalire al donatore ove ciò risulti necessario. I dati relativi al ricevente sono trattati e conservati sia dalla struttura immuno ematologia e trasfusionale, sia dalla struttura di degenza presso la quale il paziente è sottoposto al trattamento trasfusionale.
 									</h:p>
 									<h:p />
