@@ -7,8 +7,8 @@
 					<pubblicazione norm="20060503" num="101" tipo="GU" />
 					<entratainvigore norm="20050504" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-04-04;nir-1" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -16,7 +16,7 @@
 						<evento data="20050504" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2006-04-04;nir-1" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2006-04-04;nir-1" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -33,12 +33,15 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<emanante />
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20060404">4 aprile 2006</dataDoc>
 				<titoloDoc>
 					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
-					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>.
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n. 109</rif>
+					.
 				</titoloDoc>
+				<numDoc>nir-1</numDoc>
 			</intestazione>
 			<formulainiziale>
 				<h:p>IL PRESIDENTE</h:p>
@@ -55,7 +58,11 @@
 						<rif xlink:href="urn:nir:stato:legge:1989-05-09;168#art8" xlink:type="simple">art. 8 della legge 9 maggio 1989, n. 168</rif>
 						;
 					</h:p>
-					<h:p>Vista la delibera del Consiglio di amministrazione n. 116 in data 13 luglio 2005 mediante la quale, dopo apposita contrattazione integrativa con le organizzazioni sindacali, è stato approvato il regolamento relativo a modalità e criteri di ripartizione degli incentivi in argomento;</h:p>
+					<h:p>
+						Vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-13;116" xlink:type="simple">delibera del Consiglio di amministrazione n. 116 in data 13 luglio 2005</rif>
+						mediante la quale, dopo apposita contrattazione integrativa con le organizzazioni sindacali, è stato approvato il regolamento relativo a modalità e criteri di ripartizione degli incentivi in argomento;
+					</h:p>
 					<h:p>
 						Vista la nota n. 11 del 4 gennaio 2006 con la quale il Ministero dell'università e della ricerca scientifica ha approvato il predetto regolamento , ai sensi del citato
 						<rif xlink:href="urn:nir:stato:legge:1989;168#art8" xlink:type="simple">art. 8 della legge n. 168/1989</rif>
