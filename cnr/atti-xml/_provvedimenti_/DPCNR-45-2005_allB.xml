@@ -7,6 +7,8 @@
 					<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
 					<entratainvigore norm="20050622" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;33238" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.b" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.b" />
@@ -18,8 +20,8 @@
 						<evento data="20050622" fonte="all1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">

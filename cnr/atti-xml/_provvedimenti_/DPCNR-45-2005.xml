@@ -7,17 +7,17 @@
 					<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
 					<entratainvigore norm="20050622" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20050622" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -174,21 +174,10 @@
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="" tipo="" />
-								<entratainvigore norm="20050622" />
+								<entratainvigore norm="" />
 								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.a" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.a" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.a" />
+								<urn valore="" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="20050622" fonte="ro2" id="t2" tipo="entrata in vigore" />
-								</eventi>
-								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
@@ -200,7 +189,7 @@
 							<numDoc nome="protocollo">33238</numDoc>
 							)
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.a" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.ricercatore.tecnologo:2005-06-22;45" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale ricercatore e tecnologo a tempo indeterminato</rif>
 								<h:br />
 							</titoloDoc>
 						</intestazione>
@@ -219,19 +208,8 @@
 								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20050622" />
 								<redazione contributo="" id="red3" nome="Urp-Cnr" norm="" url="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.b" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.b" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.b" />
+								<urn valore="" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="20050622" fonte="ro3" id="t3" tipo="entrata in vigore" />
-								</eventi>
-								<relazioni>
-									<originale id="ro3" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
 						</meta>
 						<intestazione>
 							<emanante>Consiglio Nazionale delle Ricerche</emanante>
@@ -243,7 +221,7 @@
 							<numDoc nome="protocollo">33238</numDoc>
 							)
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" xlink:type="simple">ATTUAZIONE DELL'ARTICOLO 5 DEL REGOLAMENTO DEL PERSONALE. Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con2" nome="">
@@ -268,10 +246,10 @@
 							</descrittori>
 							<ciclodivita>
 								<eventi>
-									<evento data="20050622" fonte="ro4" id="t4" tipo="entrata in vigore" />
+									<evento data="20050622" fonte="ro2" id="t2" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
-									<originale id="ro4" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" xlink:type="simple" />
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
 						</meta>
@@ -947,7 +925,8 @@
 									<h:p>SPS/12 Sociologia giuridica, della devianza e mutamento sociale</h:p>
 									<h:p />
 								</contenitore>
-						</contenitore></contenitore>
+							</contenitore>
+						</contenitore>
 					</DocumentoNIR>
 				</annesso>
 				<annesso id="ann4">
@@ -967,10 +946,10 @@
 							</descrittori>
 							<ciclodivita>
 								<eventi>
-									<evento data="20050622" fonte="ro5" id="t5" tipo="entrata in vigore" />
+									<evento data="20050622" fonte="ro3" id="t3" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
-									<originale id="ro5" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" xlink:type="simple" />
+									<originale id="ro3" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
 						</meta>
