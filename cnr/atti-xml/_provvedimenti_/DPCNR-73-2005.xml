@@ -7,8 +7,8 @@
 					<pubblicazione norm="" num="3/2005" tipo="BUCNR" />
 					<entratainvigore norm="20051118" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -16,7 +16,7 @@
 						<evento data="20051118" fonte="ra1" id="t2" tipo="modifica" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" xlink:type="simple" />
 						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -51,8 +51,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<emanante />
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20051118">18 novembre 2005</dataDoc>
 				, n.
 				<numDoc>73</numDoc>
@@ -99,10 +98,11 @@
 				<h:p>DECRETA</h:p>
 			</formulainiziale>
 			<articolato>
-				<articolo id="artdeetounico">
-					<num>DECRETO UNICO</num>
-					<comma id="artdeetounico-com2">
-						<num>2.</num>
+				<articolo id="art1">
+					<num />
+					<rubrica>DECRETO UNICO</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
 						<corpo>
 							<mod id="mod1">
 								All'
