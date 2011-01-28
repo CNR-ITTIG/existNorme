@@ -19,16 +19,14 @@
 						<evento data="20050601" fonte="ro1" id="t1" tipo="entrata in vigore" />
 						<evento data="20050601" fonte="ra1" id="t2" tipo="modifica" />
 						<evento data="20050601" fonte="all1" id="t3" tipo="allegato" />
-						<evento data="20050601" fonte="all2" id="t4" tipo="allegato" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple" />
 						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;26" xlink:type="simple" />
-						<allegatodi id="all2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-05-04;26" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
-<proprietario xlink:type="simple">
+				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
 						<cnr:strutturaEmanante valore="Presidenza" />
 						<cnr:autoritaEmanante valore="Presidente" />
@@ -1773,7 +1771,11 @@
 							<rubrica>(Collegio dei revisori dei conti)</rubrica>
 							<comma id="art55-com1">
 								<num>1.</num>
-								<corpo>Il Collegio dei revisori dei conti, in coerenza con quanto previsto dal regolamento di organizzazione e funzionamento, effettua almeno ogni trimestre controlli e riscontri sulla consistenza della cassa e sulla esistenza dei valori, dei titoli di proprietà, e sui depositi e i titoli a custodia.</corpo>
+								<corpo>
+									Il Collegio dei revisori dei conti, in coerenza con quanto previsto dal
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+									, effettua almeno ogni trimestre controlli e riscontri sulla consistenza della cassa e sulla esistenza dei valori, dei titoli di proprietà, e sui depositi e i titoli a custodia.
+								</corpo>
 							</comma>
 							<comma id="art55-com2">
 								<num>2.</num>
@@ -2134,7 +2136,7 @@
 								</comma>
 								<comma id="art66-com2">
 									<num>2.</num>
-									<corpo>E' consentita la conclusione di contratti nei quali il corrispettivo sia determinato con indicazione del ribasso, fisso ed invariabile, rispetto a prezzi di listini ufficiali.</corpo>
+									<corpo>È consentita la conclusione di contratti nei quali il corrispettivo sia determinato con indicazione del ribasso, fisso ed invariabile, rispetto a prezzi di listini ufficiali.</corpo>
 								</comma>
 								<comma id="art66-com3">
 									<num>3.</num>
@@ -2174,7 +2176,7 @@
 								<rubrica>(Contratti aperti)</rubrica>
 								<comma id="art69-com1">
 									<num>1.</num>
-									<corpo>E' consentita la conclusione di contratti in cui sia lasciata all'amministrazione la successiva determinazione quantitativa delle prestazioni entro un intervallo predeterminato.</corpo>
+									<corpo>È consentita la conclusione di contratti in cui sia lasciata all'amministrazione la successiva determinazione quantitativa delle prestazioni entro un intervallo predeterminato.</corpo>
 								</comma>
 								<comma id="art69-com2">
 									<num>2.</num>
@@ -2389,8 +2391,14 @@
 								<comma id="art80-com3">
 									<num>3.</num>
 									<corpo>
-										Nel caso di utilizzazione dei criteri di cui alle lettere a) e b) del
-										<rif xlink:href="#art80-com1" xlink:type="simple">precedente comma 1</rif>
+										Nel caso di utilizzazione dei criteri di cui alle
+										<mrif>
+											lettere
+											<rif xlink:href="#art80-com1-leta" xlink:type="simple">a)</rif>
+											e
+											<rif xlink:href="#art80-com1-letb" xlink:type="simple">b)</rif>
+											del precedente comma 1
+										</mrif>
 										, sono considerate offerte anomale quelle che risultino più favorevoli all'amministrazione in misura superiore per oltre il cinquanta percento alla media delle offerte pervenute. A tal fine la media delle offerte viene calcolata escludendo l'offerta più vantaggiosa e quella più svantaggiosa ovvero, nel caso siano pervenute più di sei offerte, escludendo dal calcolo le due più favorevoli e le due meno favorevoli.
 									</corpo>
 								</comma>
@@ -2457,8 +2465,8 @@
 										<mrif>
 											commi
 											<rif xlink:href="#art82-com3" xlink:type="simple">3</rif>
-											<rif xlink:href="#art82-com4" xlink:type="simple">4</rif>
 											e
+											<rif xlink:href="#art82-com4" xlink:type="simple">4</rif>
 										</mrif>
 										. In tal caso, sono invitati a partecipare i soggetti che forniscano la maggior affidabilità da valutare in relazione agli elementi di cui al
 										<rif xlink:href="#art82-com3" xlink:type="simple">comma 3</rif>
@@ -2531,8 +2539,14 @@
 								<comma id="art85-com1">
 									<num>1.</num>
 									<corpo>
-										Quando l'Ente provvede mediante procedure aperte e procedure ristrette, i concorrenti devono presentare le loro offerte in relazione al capitolato speciale dettagliatamente definito dalla decisione di contrattare. La scelta del contraente avviene in base ai criteri di cui alle lettere a) o b) del
-										<rif xlink:href="#art80-com1" xlink:type="simple">comma 1 dell'articolo 80</rif>
+										Quando l'Ente provvede mediante procedure aperte e procedure ristrette, i concorrenti devono presentare le loro offerte in relazione al capitolato speciale dettagliatamente definito dalla decisione di contrattare. La scelta del contraente avviene in base ai criteri di cui alle
+										<mrif>
+											lettere
+											<rif xlink:href="#art80-com1-leta" xlink:type="simple">a)</rif>
+											o
+											<rif xlink:href="#art80-com1-letb" xlink:type="simple">b)</rif>
+											del comma 1 dell'articolo 80
+										</mrif>
 										, secondo quanto stabilito dalla decisione di contrattare.
 									</corpo>
 								</comma>
@@ -2690,9 +2704,7 @@
 								<mod id="mod1">
 									Fatto salvo quanto previsto dalla presente parte sono abrogate le disposizioni incompatibili con il presente regolamento ed in particolare il
 									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15448" xlink:type="simple">Decreto del Presidente del CNR n.15448 del 14 gennaio 2000</rif>
-									recante "
-									<virgolette id="mod1-vir1" tipo="parola">Approvazione del regolamento per l'amministrazione e la contabilità del Consiglio nazionale delle ricerche</virgolette>
-									" e successive modificazioni.
+									recante "Approvazione del regolamento per l'amministrazione e la contabilità del Consiglio nazionale delle ricerche" e successive modificazioni.
 								</mod>
 							</corpo>
 						</comma>
