@@ -7,21 +7,19 @@
 					<pubblicazione norm="" num="4/2007" tipo="BUCNR" />
 					<entratainvigore norm="20071114" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;64" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;64" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;6498" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;64" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20071114" fonte="ro1" id="t1" tipo="entrata in vigore" />
 						<evento data="20071114" fonte="haa1" id="t2" tipo="allegato" />
-						<evento data="20071114" fonte="haa2" id="t3" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;64" xlink:type="simple" />
-						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
-						<haallegato id="haa2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;6498" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;64" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -38,7 +36,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20071114">14 novembre 2007</dataDoc>
 				, n.
 				<numDoc>64</numDoc>
@@ -152,7 +150,11 @@
 					<num>ARTICOLO UNICO</num>
 					<comma id="artunico-com1">
 						<num>1.</num>
-						<corpo>Di approvare il nuovo disciplinare per il conferimento di incarichi di collaborazione in allegato, che costituisce parte integrante del presente decreto.</corpo>
+						<corpo>
+							Di approvare il nuovo
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">disciplinare per il conferimento di incarichi di collaborazione</rif>
+							in allegato, che costituisce parte integrante del presente decreto.
+						</corpo>
 					</comma>
 					<comma id="artunico-com2">
 						<num>2.</num>
@@ -173,7 +175,7 @@
 					<testata>
 						<denAnnesso>Allegato</denAnnesso>
 					</testata>
-					<DocumentoNIR nome="Allegato">
+					<DocumentoNIR nome="Diciplinare">
 						<meta>
 							<descrittori>
 								<pubblicazione norm="" num="4/2007" tipo="BUCNR" />
@@ -184,6 +186,7 @@
 						</meta>
 						<intestazione>
 							<emanante />
+							<emanante />
 							<tipoDoc>Disciplinare</tipoDoc>
 							<dataDoc norm="20071114">14 novembre 2007</dataDoc>
 							, n.
@@ -192,7 +195,7 @@
 							<numDoc nome="protocollo">6498</numDoc>
 							)
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con1" nome="corpo">
