@@ -21,12 +21,12 @@
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-						<cnr:strutturaEmanante valore="Presidenza"/>
+						<cnr:strutturaEmanante valore="Presidenza" />
 						<cnr:autoritaEmanante valore="Presidente" />
 						<cnr:tipoDestinatario valore="Organi di Ricerca" />
 						<cnr:strutturaDestinataria valore="tutti" />
@@ -37,6 +37,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
 				<tipoDoc>Disciplinare</tipoDoc>
 				<dataDoc norm="20070202">2 febbraio 2007</dataDoc>
 				, n.
@@ -73,7 +74,7 @@
 					</comma>
 					<comma id="art1-com5">
 						<num>5.</num>
-						<corpo>E' responsabilità dell'associato acquisire e trasmettere al direttore di istituto le autorizzazioni della struttura di appartenenza che dovessero essere prescritte.</corpo>
+						<corpo>È responsabilità dell'associato acquisire e trasmettere al direttore di istituto le autorizzazioni della struttura di appartenenza che dovessero essere prescritte.</corpo>
 					</comma>
 				</articolo>
 				<articolo id="art2">
@@ -173,7 +174,11 @@
 					<rubrica>(Sede)</rubrica>
 					<comma id="art6-com1">
 						<num>1.</num>
-						<corpo>L'associato presta la sua attività presso la sede dell'Istituto CNR per il quale è stata disposta l'associatura, ivi incluse le articolazioni previste dal regolamento di organizzazione e funzionamento.</corpo>
+						<corpo>
+							L'associato presta la sua attività presso la sede dell'Istituto CNR per il quale è stata disposta l'associatura, ivi incluse le articolazioni previste dal
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">regolamento di organizzazione e funzionamento</rif>
+							.
+						</corpo>
 					</comma>
 				</articolo>
 				<articolo id="art7">

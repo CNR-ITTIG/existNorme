@@ -7,10 +7,10 @@
 					<pubblicazione norm="" num="" tipo="BUCNR" />
 					<entratainvigore norm="20070202" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;628" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;628" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;628" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -18,13 +18,13 @@
 						<evento data="20070202" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-02-02;6" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-02-02;6" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
 					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-						<cnr:strutturaEmanante valore="Presidenza"/>
+						<cnr:strutturaEmanante valore="Presidenza" />
 						<cnr:autoritaEmanante valore="Presidente" />
 						<cnr:tipoDestinatario valore="Organi di Ricerca" />
 						<cnr:strutturaDestinataria valore="tutti" />
@@ -35,7 +35,8 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<emanante />
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20070202">2 febbraio 2007</dataDoc>
 				, n.
 				<numDoc>6</numDoc>
@@ -57,8 +58,8 @@
 						, recante "Riordino del Consiglio Nazionale delle Ricerche" ed in particolare l'
 						<mrif>
 							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
-							e
-							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1" xlink:type="simple">l'articolo 23, comma 1</rif>
+							e l'articolo 23, comma
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com1" xlink:type="simple">1</rif>
 							,
 							<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23-com2" xlink:type="simple">2</rif>
 							e
@@ -90,7 +91,8 @@
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art17" xlink:type="simple">art. 17</rif>
 						che detta i principi che regolano l'istituto dell'associatura, gli
 						<mrif>
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art22" xlink:type="simple">articoli 22</rif>
+							articoli
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art22" xlink:type="simple">22</rif>
 							(mobilità con gli istituti di ricovero e cura a carattere scientifico),
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art27" xlink:type="simple">27</rif>
 							(Obblighi del personale)
