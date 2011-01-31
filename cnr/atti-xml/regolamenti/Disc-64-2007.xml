@@ -11,6 +11,8 @@
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;6498" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;64:allegato" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;6498:allegato" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;64:allegato" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64@2008-02-06" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64@2008-07-30" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64@2009-11-04" />
@@ -28,7 +30,7 @@
 						<passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple" />
 						<passiva id="rp2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple" />
 						<passiva id="rp3" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple" />
-						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;64" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;64" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -96,7 +98,7 @@
 							</dsp:novella>
 						</dsp:integrazione>
 						<dsp:integrazione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art4bis-t5" xlink:type="simple" />
+							<dsp:pos xlink:href="#art4bis-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple" />
 								<dsp:subarg>
@@ -104,11 +106,11 @@
 								</dsp:subarg>
 							</dsp:norma>
 							<dsp:novella>
-								<dsp:pos xlink:href="#art4bis-t5" xlink:type="simple" />
+								<dsp:pos xlink:href="#art4bis-t4" xlink:type="simple" />
 							</dsp:novella>
 						</dsp:integrazione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art5-com2-t4" xlink:type="simple" />
+							<dsp:pos xlink:href="#art5-com2-t3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art6" xlink:type="simple" />
 								<dsp:subarg>
@@ -119,7 +121,7 @@
 								<dsp:pos xlink:href="#art5-com2" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art5-com2-t4" xlink:type="simple" />
+								<dsp:pos xlink:href="#art5-com2-t3" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 						<dsp:integrazione completa="si" implicita="no">
@@ -195,7 +197,7 @@
 							</dsp:novella>
 						</dsp:integrazione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art4bis-t5" xlink:type="simple" />
+							<dsp:pos xlink:href="#art4bis-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple" />
 								<dsp:subarg>
@@ -206,11 +208,11 @@
 								<dsp:pos xlink:href="#art4bis" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art4bis-t5" xlink:type="simple" />
+								<dsp:pos xlink:href="#art4bis-t4" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 						<dsp:integrazione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
+							<dsp:pos xlink:href="#art3-com1bis-t3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art3" xlink:type="simple" />
 								<dsp:subarg>
@@ -218,11 +220,11 @@
 								</dsp:subarg>
 							</dsp:norma>
 							<dsp:novella>
-								<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
+								<dsp:pos xlink:href="#art3-com1bis-t3" xlink:type="simple" />
 							</dsp:novella>
 						</dsp:integrazione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
+							<dsp:pos xlink:href="#art3-com1bis-t3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art2" xlink:type="simple" />
 								<dsp:subarg>
@@ -230,14 +232,14 @@
 								</dsp:subarg>
 							</dsp:norma>
 							<dsp:novella>
-								<dsp:pos xlink:href="#art3-com1bis-t5" xlink:type="simple" />
+								<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
+								<dsp:pos xlink:href="#art3-com1bis-t3" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art3-com1bis-t5" xlink:type="simple" />
+							<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223#art2" xlink:type="simple" />
 								<dsp:subarg>
@@ -248,11 +250,11 @@
 								<dsp:pos xlink:href="#art3-com1bis" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art3-com1bis-t5" xlink:type="simple" />
+								<dsp:pos xlink:href="#art3-com1bis-t4" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art14-com1-t6" xlink:type="simple" />
+							<dsp:pos xlink:href="#art14-com1-t5" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29#art4" xlink:type="simple" />
 								<dsp:subarg>
@@ -263,7 +265,7 @@
 								<dsp:pos xlink:href="#art14-com1" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art14-com1-t6" xlink:type="simple" />
+								<dsp:pos xlink:href="#art14-com1-t5" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 						<dsp:abrogazione completa="si" implicita="no">
@@ -279,7 +281,7 @@
 							</dsp:novellando>
 						</dsp:abrogazione>
 						<dsp:sostituzione completa="si" implicita="no">
-							<dsp:pos xlink:href="#art6-t4" xlink:type="simple" />
+							<dsp:pos xlink:href="#art6-t3" xlink:type="simple" />
 							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">
 								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198#art7" xlink:type="simple" />
 								<dsp:subarg>
@@ -290,7 +292,7 @@
 								<dsp:pos xlink:href="#art6" xlink:type="simple" />
 							</dsp:novella>
 							<dsp:novellando>
-								<dsp:pos xlink:href="#art6-t4" xlink:type="simple" />
+								<dsp:pos xlink:href="#art6-t3" xlink:type="simple" />
 							</dsp:novellando>
 						</dsp:sostituzione>
 					</modifichepassive>
@@ -298,6 +300,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
 				<tipoDoc>Disciplinare</tipoDoc>
 				<dataDoc norm="20071114">14 novembre 2007</dataDoc>
 				, n.
@@ -433,22 +436,22 @@
 							<num>1.</num>
 							<corpo>L'affidamento dell'incarico è consentito per lo svolgimento di prestazioni di natura temporanea e altamente qualificata e, comunque, solo in presenza di motivi eccezionali e straordinari. Il contraente dovrà essere persona di provata competenza nella materia oggetto dell'incarico.</corpo>
 						</comma>
-						<comma finevigore="t3" id="art3-com1bis-t4" iniziovigore="t5" status="abrogato">
+						<comma finevigore="t3" id="art3-com1bis-t3" iniziovigore="t5" status="abrogato">
 							<num>1-bis.</num>
 							<corpo>Il contraente dovrà essere esperto di particolare e comprovata specializzazione universitaria.</corpo>
 						</comma>
-						<comma finevigore="t4" id="art3-com1bis-t5" iniziovigore="t3" status="abrogato">
+						<comma finevigore="t4" id="art3-com1bis-t4" iniziovigore="t3" status="abrogato">
 							<num>1-bis</num>
 							<alinea>Il contraente dovrà essere un esperto di particolare e comprovata specializzazione universitaria. Si prescinde dal requisito della comprovata specializzazione universitaria per attività che debbano essere svolte da:</alinea>
-							<ep id="art3-com1bis-t5-pun1">
+							<ep id="art3-com1bis-t4-pun1">
 								<num>-</num>
 								<corpo>professionisti iscritti in ordini e albi;</corpo>
 							</ep>
-							<ep id="art3-com1bis-t5-pun2">
+							<ep id="art3-com1bis-t4-pun2">
 								<num>-</num>
 								<corpo>soggetti che operino nel campo dell'arte e dello spettacolo;</corpo>
 							</ep>
-							<ep id="art3-com1bis-t5-pun3">
+							<ep id="art3-com1bis-t4-pun3">
 								<num>-</num>
 								<corpo>soggetti che operino nel campo dei mestieri artigianali.</corpo>
 							</ep>
@@ -568,10 +571,10 @@
 							</corpo>
 						</comma>
 					</articolo>
-					<articolo finevigore="t4" id="art4bis-t5" iniziovigore="t3" status="abrogato">
+					<articolo finevigore="t4" id="art4bis-t4" iniziovigore="t3" status="abrogato">
 						<num>Art. 4 bis</num>
 						<rubrica>(Efficacia dei contratti di consulenza)</rubrica>
-						<comma id="art4bis-t5-com1">
+						<comma id="art4bis-t4-com1">
 							<num>1.</num>
 							<corpo>Gli incarichi di collaborazione relativi alle attività di consulenza sono efficaci a decorrere dalla data di pubblicazione sul sito internet del CNR.</corpo>
 						</comma>
@@ -603,7 +606,7 @@
 							<num>1.</num>
 							<corpo>Gli incarichi di collaborazione nella forma di lavoro autonomo, non possono essere conferiti a dipendenti in servizio presso il CNR anche in regime di part-time.</corpo>
 						</comma>
-						<comma finevigore="t3" id="art5-com2-t4" iniziovigore="t1" status="abrogato">
+						<comma finevigore="t3" id="art5-com2-t3" iniziovigore="t1" status="abrogato">
 							<num>2.</num>
 							<corpo>
 								Al personale CNR cessato dal servizio per dimissioni volontarie l'incarico può essere conferito solo decorso un quinquennio dalla cessazione del rapporto di lavoro, secondo quanto disposto dall'
@@ -636,14 +639,14 @@
 							</corpo>
 						</comma>
 					</articolo>
-					<articolo finevigore="t3" id="art6-t4" iniziovigore="t1" status="abrogato">
+					<articolo finevigore="t3" id="art6-t3" iniziovigore="t1" status="abrogato">
 						<num>Art. 6</num>
 						<rubrica>(Durata e rinnovo dei contratti)</rubrica>
-						<comma id="art6-t4-com1">
+						<comma id="art6-t3-com1">
 							<num>1.</num>
 							<corpo>La durata dell'incarico, considerati i presupposti di straordinarietà che lo legittimano, deve essere puntualmente determinata.</corpo>
 						</comma>
-						<comma id="art6-t4-com2">
+						<comma id="art6-t3-com2">
 							<num>2.</num>
 							<corpo>Gli incarichi conferiti per lo svolgimento di una collaborazione coordinata e continuativa non possono eccedere la durata di 12 mesi. Per esigenze straordinarie ed imprevedibili è ammissibile un solo rinnovo del contratto, sempre che lo stesso sia necessario e funzionale al raggiungimento dell'obiettivo per il quale l'incarico è stato affidato.</corpo>
 						</comma>
@@ -767,7 +770,7 @@
 					<articolo id="art14">
 						<num>Art. 14</num>
 						<rubrica>(Disposizioni finali)</rubrica>
-						<comma finevigore="t5" id="art14-com1-t6" iniziovigore="t1" status="abrogato">
+						<comma finevigore="t5" id="art14-com1-t5" iniziovigore="t1" status="abrogato">
 							<num>1.</num>
 							<corpo>
 								L'
