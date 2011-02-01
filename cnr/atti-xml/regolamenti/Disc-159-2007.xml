@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Allegato">
+		<DocumentoNIR nome="Disciplinare">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
@@ -130,7 +130,11 @@
 					<rubrica>(Costituzione del Consiglio)</rubrica>
 					<comma id="art3-com1">
 						<num>1.</num>
-						<corpo>Il Presidente, verificata la presenza del quorum costitutivo stabilito dal Regolamento di organizzazione e funzionamento dichiara aperta la seduta. Decorsi inutilmente trenta minuti dall'ora indicata nell'avviso di convocazione il Presidente, verificata la regolarità della convocazione, dichiara deserta la seduta, salvo che i presenti decidano diversamente.</corpo>
+						<corpo>
+							Il Presidente, verificata la presenza del quorum costitutivo stabilito dal
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento</rif>
+							dichiara aperta la seduta. Decorsi inutilmente trenta minuti dall'ora indicata nell'avviso di convocazione il Presidente, verificata la regolarità della convocazione, dichiara deserta la seduta, salvo che i presenti decidano diversamente.
+						</corpo>
 					</comma>
 					<comma id="art3-com2">
 						<num>2.</num>
