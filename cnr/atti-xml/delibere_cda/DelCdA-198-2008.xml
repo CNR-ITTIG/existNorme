@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20080730" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080730" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080730" fonte="ra1" id="t2" tipo="modifica" />
+						<evento data="20080730" fonte="ra2" id="t3" tipo="modifica" />
+						<evento data="20080730" fonte="ra3" id="t4" tipo="modifica" />
+						<evento data="20080730" fonte="ra4" id="t5" tipo="modifica" />
+						<evento data="20080730" fonte="ra5" id="t6" tipo="modifica" />
+						<evento data="20080730" fonte="ra6" id="t7" tipo="modifica" />
+						<evento data="20080730" fonte="ra7" id="t8" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra2" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra3" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra4" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra5" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra6" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+						<attiva id="ra7" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod4" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod4-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod7" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art6" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod7-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="articolo" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="articolo" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod8" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art7" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod8-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="parole" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod10" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="3" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod10-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="parole" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
+							<dsp:termine da="#t3" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="1bis" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod1-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
+							<dsp:termine da="#t4" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="7" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod2-vir2" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#mod2-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="parole" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:abrogazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod3" xlink:type="simple" />
+							<dsp:termine da="#t5" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="7" tipo="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novellando>
+								<dsp:pos xlink:href="#mod3-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="parole" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:abrogazione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod5" xlink:type="simple" />
+							<dsp:termine da="#t6" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod5-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="articolo" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod6" xlink:type="simple" />
+							<dsp:termine da="#t7" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod6-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod9" xlink:type="simple" />
+							<dsp:termine da="#t8" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art13" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod9-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+					</modificheattive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20080730">30 luglio 2008</dataDoc>
+				, n.
+				<numDoc>198</numDoc>
+				<titoloDoc>Approvazione modifiche al "Disciplinare per il conferimento di incarichi di collaborazione" ed al "Disciplinare concernente la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (art. 51 comma 6 della legge 449/97) con oneri a carico di finanziamenti esterni" in applicazione del decreto legge 112/2008 e della circolare della Presidenza del Consiglio dei Ministri n. 2/2008</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 30 luglio 2008, ha adottato all'unanimità la seguente deliberazione n. 198/2008 - Verb. 85</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il "
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare concernente il conferimento di incarichi di collaborazione</rif>
+						" approvato con provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
+						e approvato a ratifica dal Consiglio di Amministrazione del CNR con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
+						verb. 71 del 28 novembre 2007 e modificato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008</rif>
+						verb. 74 del 6 febbraio 2008;
+					</h:p>
+					<h:p>
+						VISTO il "Disciplinare per la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
+						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+						) con oneri a carico di finanziamenti esterni" deliberato dal Consiglio Direttivo del CNR del 23/12/1998 e successive modifiche ed integrazioni ed allegato alla
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2001;16" xlink:type="simple">circolare CNR 16/2001</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:presidente.consiglio.ministri:circolare:2008-03-11;2" xlink:type="simple">circolare della Presidenza del Consiglio dei Ministri n. 2/2008 del 11 marzo 2008</rif>
+						, pubblicata in G.U.R.I serie generale n. 143 del 20 giugno 2008, concernente "
+						<rif xlink:href="urn:nir:stato:legge:2007-12-24;244" xlink:type="simple">Legge 24 dicembre 2007, n. 244</rif>
+						, disposizioni in tema di collaborazioni esterne";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112" xlink:type="simple">D.L. n. 112 del 25 giugno 2008</rif>
+						, recante "Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria" ed in particolare l'
+						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art46-com1" xlink:type="simple">art. 46 comma 1</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la proposta di modifica al disciplinare presentata dal "Gruppo di lavoro per lo studio, l'organizzazione, la programmazione e l'avvio delle attività di pubblicizzazione dei contratti riguardanti gli incarichi esterni e di monitoraggio della relativa spesa" nominato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-11;38833" xlink:type="simple">provvedimento del Direttore Generale prot. AMMCNT - CNR n. 038833 del 11 maggio 2007</rif>
+						a seguito delle modifiche apportate dal
+						<rif xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112" xlink:type="simple">D.L. 112/2008</rif>
+						e della
+						<rif xlink:href="urn:nir:presidente.consiglio.ministri:circolare:2008-03-11;2" xlink:type="simple">circolare della Presidenza del Consiglio dei Ministri n. 2/2008</rif>
+						;
+					</h:p>
+					<h:p>
+						CONSIDERATA la necessità di modificare il "
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+						" ed il "Disciplinare per la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
+						<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+						) con oneri a carico di finanziamenti esterni" al fine di consentire ai Centri di Responsabilità dell' Ente di conferire legittimamente gli incarichi di collaborazione;
+					</h:p>
+					<h:p>VISTA la nota del Direttore Generale f.f. prot. AMMCNT-CNR n. 0057315 del 21 luglio 2008;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							Al "
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+							" approvato coni provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
+							e approvato a ratifica dal Consiglio di Amministrazione del CNR con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
+							verb. 71 del 28 novembre 2007 e modificato con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008</rif>
+							verb. 74 del 6 febbraio 2008, sono apportate le modifiche ed integrazioni di cui agli articoli seguenti.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica />
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
+								il comma 1-bis. viene sostituito dal seguente:
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com1bis">
+										<num>1-bis.</num>
+										<alinea>Il contraente dovrà essere un esperto di particolare e comprovata specializzazione universitaria. Si prescinde dal requisito della comprovata specializzazione universitaria per attività che debbano essere svolte da:</alinea>
+										<ep id="mod1-vir1-com1bis-pun1">
+											<num>-</num>
+											<corpo>professionisti iscritti in ordini o albi;</corpo>
+										</ep>
+										<ep id="mod1-vir1-com1bis-pun2">
+											<num>-</num>
+											<corpo>soggetti che operino nel campo dell'arte e dello spettacolo;</corpo>
+										</ep>
+										<ep id="mod1-vir1-com1bis-pun3">
+											<num>-</num>
+											<corpo>soggetti che operino nel campo dei mestieri artigianali.</corpo>
+										</ep>
+									</comma>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica />
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							<mmod id="mmo1">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art3" xlink:type="simple">art. 3</rif>
+								al comma 7
+								<mod id="mod2">
+									la parola "
+									<virgolette id="mod2-vir1" tipo="parola">consulenza</virgolette>
+									" viene sostituita da "
+									<virgolette id="mod2-vir2" tipo="parola">collaborazione</virgolette>
+									"
+								</mod>
+								;
+								<mod id="mod3">
+									le parole "
+									<virgolette id="mod3-vir1" tipo="parola">e in corso di espletamento</virgolette>
+									" sono soppresse
+								</mod>
+								.
+							</mmod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica />
+					<comma id="art4-com1">
+						<num />
+						<corpo>
+							<mod id="mod4">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple">art. 4</rif>
+								è aggiunto il seguente comma:
+								<virgolette id="mod4-vir1" tipo="struttura">
+									<comma id="mod4-vir1-com2bis">
+										<num>2-bis.</num>
+										<corpo>Sono esclusi dalle procedure comparative e dagli obblighi di pubblicità le sole prestazioni meramente occasionali che si esauriscono in una prestazione episodica che il collaboratore svolge in maniera saltuaria per un compenso di modica entità fissato in euro mille. Tale importo potrà essere aggiornato periodicamente dal Direttore Generale del CNR.</corpo>
+									</comma>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica />
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							<mod id="mod5">
+								Dopo l'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art4" xlink:type="simple">art. 4</rif>
+								è aggiunto il seguente articolo:
+								<virgolette id="mod5-vir1" tipo="struttura">
+									<articolo id="mod5-vir1-art4bis">
+										<num>Art. 4 bis</num>
+										<rubrica>(Efficacia dei contratti di consulenza)</rubrica>
+										<comma id="mod5-vir1-art4bis-com1">
+											<num>1.</num>
+											<corpo>Gli incarichi di collaborazione relativi alle attività di consulenza sono efficaci a decorrere dalla data di pubblicazione sul sito internet del CNR.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica />
+					<comma id="art6-com1">
+						<num />
+						<corpo>
+							<mod id="mod6">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5" xlink:type="simple">art. 5</rif>
+								il comma 2 è sostituito dal seguente ed integrato dal comma 2-bis e 2-ter:
+								<virgolette id="mod6-vir1" tipo="struttura">
+									<comma id="mod6-vir1-com2">
+										<num>2.</num>
+										<corpo>Gli incarichi di collaborazione non possono essere conferiti a personale CNR cessato dal servizio che abbia conseguito il requisito previsto per il pensionamento di anzianità.</corpo>
+									</comma>
+									<comma id="mod6-vir1-com2bis">
+										<num>2-bis.</num>
+										<corpo>Gli incarichi di collaborazione possono essere conferiti, nel rispetto delle disposizioni di cui al presente disciplinare, a personale cessato dal servizio che abbia conseguito il requisito previsto per il pensionamento di anzianità presso amministrazioni diverse dal CNR, solo nel caso in cui nei cinque anni precedenti la data della cessazione dal servizio, il soggetto cessato non abbia avuto rapporti di lavoro con il CNR.</corpo>
+									</comma>
+									<comma id="mod6-vir1-com2ter">
+										<num>2-ter.</num>
+										<corpo>Gli incarichi di collaborazione possono essere conferiti, nel rispetto delle disposizioni di cui al presente disciplinare, a personale cessato dal servizio che abbia conseguito il requisito previsto per il pensionamento di vecchiaia presso qualsiasi amministrazione, compreso il CNR.</corpo>
+									</comma>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica />
+					<comma id="art7-com1">
+						<num />
+						<corpo>
+							<mod id="mod7">
+								L'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art6" xlink:type="simple">art. 6</rif>
+								è sostituito dal seguente:
+								<virgolette id="mod7-vir1" tipo="struttura">
+									<articolo id="mod7-vir1-art6">
+										<num>Art.6</num>
+										<rubrica>(Durata dei contratti)</rubrica>
+										<comma id="mod7-vir1-art6-com1">
+											<num>1.</num>
+											<corpo>La durata dell'incarico, considerati i presupposti di straordinarietà che lo legittimano, deve essere puntualmente determinata</corpo>
+										</comma>
+										<comma id="mod7-vir1-art6-com2">
+											<num>2.</num>
+											<corpo>Non è ammesso il rinnovo dell'incarico a qualsiasi titolo conferito.</corpo>
+										</comma>
+										<comma id="mod7-vir1-art6-com3">
+											<num>3.</num>
+											<corpo>Gli incarichi conferiti per lo svolgimento di una collaborazione coordinata e continuativa non possono eccedere la durata del programma o del progetto o fasi di essi, alla cui attuazione l'incarico è finalizzato.</corpo>
+										</comma>
+										<comma id="mod7-vir1-art6-com4">
+											<num>4.</num>
+											<corpo>E' ammissibile una proroga dell'incarico qualora la stessa sia funzionale al completamento del programma o del progetto alla cui attuazione l'incarico è finalizzato, fermo restando il compenso pattuito.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica />
+					<comma id="art8-com1">
+						<num />
+						<corpo>
+							<mod id="mod8">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art7" xlink:type="simple">art.7</rif>
+								sono aggiunte le seguenti parole: "
+								<virgolette id="mod8-vir1" tipo="parola">, anche con riferimento ai valori di mercato. Il compenso annuo non può superare la retribuzione annua del primo presidente della Corte di Cassazione.</virgolette>
+								"
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica />
+					<comma id="art9-com1">
+						<num />
+						<corpo>
+							<mod id="mod9">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art13" xlink:type="simple">art. 13</rif>
+								dopo il comma 1 sono aggiunti i seguenti:
+								<virgolette id="mod9-vir1" tipo="struttura">
+									<comma id="mod9-vir1-com2">
+										<num>2.</num>
+										<corpo>Il ricorso a contratti di collaborazione coordinata e continuativa per lo svolgimento di funzioni ordinarie ovvero l'utilizzo dei collaboratori come lavoratori subordinati è causa di responsabilità amministrativa per il Dirigente/Direttore che ha stipulato il contratto.</corpo>
+									</comma>
+									<comma id="mod9-vir1-com3">
+										<num>3.</num>
+										<corpo>Si intendono ordinarie tutte quelle funzioni il cui svolgimento non necessita di una particolare competenza specialistica tipica delle attività di studio, ricerca e consulenza.</corpo>
+									</comma>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica />
+					<comma id="art10-com1">
+						<num />
+						<corpo>
+							<mod id="mod10">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art14" xlink:type="simple">art. 14</rif>
+								al comma 3 sono aggiunte le seguenti parole: "
+								<virgolette id="mod10-vir1" tipo="parola">e successive modifiche ed integrazioni.</virgolette>
+								"
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica />
+					<comma id="art11-com1">
+						<num />
+						<corpo>
+							Il "Gruppo di lavoro per lo studio, l'organizzazione, la programmazione e l'avvio delle attività di pubblicizzazione dei contratti riguardanti gli incarichi esterni e di monitoraggio della relativa spesa" provvederà ad aggiornare il manuale operativo di supporto allegato alla
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2008;7" xlink:type="simple">circolare CNR 7/2008</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica />
+					<comma id="art12-com1">
+						<num />
+						<corpo>
+							Al "Disciplinare concernente la stipulazione di contratti d'opera per specifiche prestazioni previste da programmi di ricerca (
+							<rif xlink:href="urn:nir:stato:legge:1997;449#art51-com6" xlink:type="simple">art. 51 comma 6 della legge 449/97</rif>
+							) con oneri a carico di finanziamenti esterni" deliberato dal Consiglio Direttivo del CNR del 23/12/1998 e successive modifiche ed integrazioni ed allegato alla
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2001;16" xlink:type="simple">circolare CNR 16/2001</rif>
+							, sono apportate le modifiche ed integrazioni di cui agli articoli seguenti.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica />
+					<comma id="art13-com1">
+						<num />
+						<corpo>
+							<mod id="mod11">
+								All'art. 1 al comma 2 sono aggiunte le seguenti parole: "
+								<virgolette id="mod11-vir1" tipo="parola">ad eccezione di quelle previste dal programma di ricerca e strettamente strumentali all'attuazione del medesimo</virgolette>
+								"
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art.14</num>
+					<rubrica />
+					<comma id="art14-com1">
+						<num />
+						<corpo>
+							<mod id="mod12">
+								All'art. 7 le parole "
+								<virgolette id="mod12-vir1" tipo="parola">Il corrispettivo comprensivo anche di eventuali rimborsi spese.</virgolette>
+								" sono sostituite dalle seguenti "
+								<virgolette id="mod12-vir2" tipo="parola">Il medesimo, per motivate esigenze connesse alla esecuzione del programma di ricerca, può autorizzare il contraente allo svolgimento di trasferte con oneri a carico dei fondi del programma medesimo</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL PRESIDENTE</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

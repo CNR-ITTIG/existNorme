@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20071128" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-28;206" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20071128" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20071128">28 novembre 2007</dataDoc>
+				, n.
+				<numDoc>206</numDoc>
+				<titoloDoc>Approvazione disciplinare per il conferimento di incarichi di collaborazione - Ratifica</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 28 novembre 2007 ha adottato all'unanimità la seguente deliberazione n. 206/2007 - Verb. 71</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26" xlink:type="simple">Regolamento di amministrazione, contabilità e finanza del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25034" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25034</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, ed in particolare la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26#prt2-tit1" xlink:type="simple">Parte II - Titolo I</rif>
+						che disciplina l'attività contrattuale e l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;amministrazione.contabilita.finanza:2005-05-04;26#art89" xlink:type="simple">art. 89</rif>
+						titolato "Prestazioni di lavoro autonomo";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art3-com2-letf" xlink:type="simple">art. 3, comma 2 lettera f)</rif>
+						che prevede, in caso di urgenza, che il Presidente possa adottare provvedimenti di competenza del Consiglio di Amministrazione, da sottoporre a ratifica nella prima riunione successiva del Consiglio stesso;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-07-30;149" xlink:type="simple">deliberazione del Consiglio di amministrazione del CNR del 30 luglio 2007 n. 149</rif>
+						con la quale il Prof. Federico Rossi è stato nominato Vice-Presidente del CNR;
+					</h:p>
+					<h:p>VISTA la nota del Ministero dell'Università e della Ricerca del 2 agosto 2007 prot. n. 103/SEGR.RIC con cui, preso atto della richiamata delibera del Consiglio di amministrazione del CNR di nomina del Vice-Presidente e delle dimissioni del Presidente, il Prof. Federico Rossi è stato invitato, a svolgere le funzioni di Presidente del Consiglio Nazionale delle Ricerche nelle more dell'espletamento e del completamento delle procedure per la nomina del nuovo Presidente;</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165" xlink:type="simple">Decreto Legislativo n. 165 del 30 marzo 2001</rif>
+						e s.m.i. recante "Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche", ed in particolare l'
+						<mrif>
+							art. 7 commi
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art7-com6" xlink:type="simple">6</rif>
+							e
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art7-com6bis" xlink:type="simple">6-bis</rif>
+							, l'art. 53 commi
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art53-com14" xlink:type="simple">14</rif>
+							e
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art53-com15" xlink:type="simple">15</rif>
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:2005-12-23;266" xlink:type="simple">Legge n. 266 del 23 dicembre 2005</rif>
+						recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2006)" ed in particolare l'
+						<mrif>
+							art. 1,
+							<rif xlink:href="urn:nir:stato:legge:2005-12-23;266#art1-com56" xlink:type="simple">comma 56</rif>
+							,
+							<rif xlink:href="urn:nir:stato:legge:2005-12-23;266#art1-com57" xlink:type="simple">57</rif>
+							,
+							<rif xlink:href="urn:nir:stato:legge:2005-12-23;266#art1-com187" xlink:type="simple">187</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:2005-12-23;266#art1-com188" xlink:type="simple">188</rif>
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:2006-12-27;296" xlink:type="simple">Legge n. 296 del 27 dicembre 2006</rif>
+						, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2007)" ed in particolare l'
+						<mrif>
+							art. 1
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com538" xlink:type="simple">comma 538</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:2006-12-27;296#art1-com593" xlink:type="simple">593</rif>
+						</mrif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:1997-12-27;449" xlink:type="simple">Legge n. 449 del 27 dicembre 1997</rif>
+						, recante "Misure per la stabilizzazione della finanza pubblica" ed in particolare l'
+						<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">art. 51 comma 6</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:1994-12-23;724" xlink:type="simple">Legge n. 724 del 23 dicembre 1994</rif>
+						, recante "Misure di razionalizzazione della finanza pubblica" ed in particolare l'
+						<rif xlink:href="urn:nir:stato:legge:1994-12-23;724#art25" xlink:type="simple">art 25</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTE le "Linee di indirizzo e criteri interpretativi sulle disposizioni della
+						<rif xlink:href="urn:nir:stato:legge:2004-12-30;311" xlink:type="simple">legge 30 dicembre 2004, n. 311</rif>
+						(Finanziaria 2005) in materia di affidamento d'incarichi di studio o di ricerca ovvero di consulenza (
+						<mrif>
+							art. 1, commi
+							<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com11" xlink:type="simple">11</rif>
+							e
+							<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com42" xlink:type="simple">42</rif>
+						</mrif>
+						)" espresse dalla Corte dei Conti sezioni riunite in sede di controllo, nell'adunanza del 15 febbraio 2005;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:ministro.funzione.pubblica:circolare:2006-12-21;5" xlink:type="simple">circolare del Dipartimento della Funzione Pubblica Ufficio per il personale delle Pubbliche Amministrazioni n. 5/2006 del 21 dicembre 2006</rif>
+						concernente le linee di indirizzo in materia di affidamento di incarichi esterni e di collaborazioni coordinate e continuative;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:ministro.funzione.pubblica:direttiva:2007-02-01;1" xlink:type="simple">direttiva del Dipartimento della Funzione Pubblica n. 1/07 del 1 febbraio 2007</rif>
+						su trasparenza e legalità in materia di conferimento degli incarichi dirigenziali;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:ministro.funzione.pubblica:direttiva:2007-02-22;3" xlink:type="simple">direttiva del Dipartimento della Funzione Pubblica n. 3/07 del 22 febbraio 2007</rif>
+						, in materia di limiti massimi a retribuzioni e compensi;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2007;28" xlink:type="simple">circolare CNR 28/2007</rif>
+						con la quale si disponeva il divieto di conferire nuovi incarichi di collaborazione fino all'emanazione del Disciplinare per il conferimento di incarichi di collaborazione;
+					</h:p>
+					<h:p>
+						VISTO il decreto del Vice Presidente nelle funzioni del Presidente prot.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID-CNR n. 0006498 del 14 novembre 2007</rif>
+						, di approvazione del Disciplinare per il conferimento di incarichi di collaborazione, adottato con urgenza dal Vice Presidente con Funzioni di Presidente al fine di avviare immediatamente il nuovo procedimento amministrativo riguardante l'affidamento degli incarichi di collaborazione e consentire ai Centri di Responsabilità dell'Ente di conferire legittimamente gli stessi;
+					</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2007;32" xlink:type="simple">circolare CNR 32/2007</rif>
+						concernente l'avvio delle procedure per il conferimento di incarichi secondo le nuove disposizioni legislative e con la quale si trasmetteva il Disciplinare per il conferimento di incarichi di collaborazione di cui sopra;
+					</h:p>
+					<h:p>
+						CONSIDERATA la necessità di ratificare il decreto del Vice Presidente nelle funzioni del Presidente prot.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID-CNR n. 0006498 del 14 novembre 2007</rif>
+						, di approvazione del Disciplinare per il conferimento di incarichi di collaborazione;
+					</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>
+					1. di ratificare il decreto del Vice Presidente nelle funzioni del Presidente prot.
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID-CNR n. 0006498 del 14 novembre 2007</rif>
+					.
+				</h:p>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL VICE PRESIDENTE</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

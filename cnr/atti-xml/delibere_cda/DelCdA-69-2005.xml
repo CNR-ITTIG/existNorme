@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20050608" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;69" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-08;69" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050608" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;69" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Direzione Generale" />
+						<cnr:tipoDestinatario valore="Organi del CNR" />
+						<cnr:strutturaDestinataria valore="" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20050608">8 giugno 2005</dataDoc>
+				, n.
+				<numDoc>69</numDoc>
+				<titoloDoc>
+					Istituzione delle direzioni centrali ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033#art35" xlink:type="simple">articolo 35</rif>
+					e avvio del riassetto organizzativo ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033#art57" xlink:type="simple">articolo 57</rif>
+					del regolamento di organizzazione e funzionamento del CNR.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di amministrazione nella riunione in data 8 giugno 2005, ha adottato all'unanimità la segeunte deliberazione n. 69/2005 - Verb. 20.</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n.127 del 4 giugno 2003</rif>
+						, recante "Riordino del Consiglio Nazionale delle Ricerche" di seguito "decreto di riordino";
+					</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000-04-06;116" xlink:type="simple">deliberazione del Consiglio Direttivo del CNR n. 116/2000 del 6 aprile 2000</rif>
+						con la quale si provvedeva all'individuazione degli uffici di diretta collaborazione e alla costituzione del Dipartimento per le Attività Scientifiche e Tecnologiche, del Dipartimento per le Attività Internazionali e del Dipartimento per i Servizi Tecnici e di Supporto ai sensi degli
+						<mrif>
+							articoli
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15447#art5-com1" xlink:type="simple">5 comma 1</rif>
+							e
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2000-01-14;15447#art8-com1-leta" xlink:type="simple">8 comma 1 lettera a)</rif>
+							del regolamento sull'organizzazione degli uffici dell'amministrazione centrale e sulla dirigenza del CNR
+						</mrif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15447" xlink:type="simple">decreto del Presidente del CNR n. 015447 del 14 gennaio 2000</rif>
+						;
+					</h:p>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						(CNR), emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, di seguito "Regolamento di organizzazione e funzionamento";
+					</h:p>
+					<h:p>
+						- visto in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art60" xlink:type="simple">articolo 60</rif>
+						che abroga il regolamento sull'organizzazione degli uffici dell'amministrazione centrale e sulla dirigenza del CNR, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2000-01-14;15447" xlink:type="simple">decreto del Presidente del CNR n.15447 del 14 gennaio 2000</rif>
+						;
+					</h:p>
+					<h:p>
+						- visto l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art57" xlink:type="simple">articolo 57</rif>
+						delle disposizioni transitorie e finali del regolamento di organizzazione e funzionamento concernente la revisione della normativa operativa e delle funzioni amministrative ed in particolare il
+						<mrif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art57-com3" xlink:type="simple">comma 3</rif>
+						</mrif>
+						che disciplinando le modalità per la ridefinizione degli uffici e delle relative assegnazioni prevede un piano complessivo di riassetto comprensivo delle assegnazioni di personale;
+					</h:p>
+					<h:p>
+						- visto l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art35" xlink:type="simple">articolo 35</rif>
+						del regolamento di organizzazione e funzionamento che prevede l'istituzione di due Direzioni centrali "supporto alla gestione delle risorse" e "supporto alla programmazione e alle infrastrutture" indicando le materie di rispettiva competenza e demandando l'individuazione degli uffici interni di livello dirigenziale a successiva deliberazione del Consiglio di amministrazione da adottarsi su proposta del Dirigente Generale responsabile della Direzione centrale interessata nell'ambito del complessivo piano di riassetto di cui al precedente alinea;
+					</h:p>
+					<h:p>- vista la relazione del direttore generale prot. S/DG/564 del 8 giugno 2005;</h:p>
+					<h:p>- considerata l'esigenza di dare avvio alla riorganizzazione iniziando con l'istituzione delle Direzioni centrali anche al fine di rendere coerente l'assetto organizzativo previsto dal decreto di riordino, come precisato nel regolamento di organizzazione e funzionamento, con le principali strutture;</h:p>
+					<h:p>
+						- considerata in particolare l'esigenza di assicurare che non permangano strutture incompatibili con l'assetto organizzativo derivante dal nuovo quadro normativo tali da creare problemi applicativi e ravvisata conseguentemente l'inopportunità di individuare fra le strutture previgenti da confermare temporaneamente i dipartimenti costituiti con la citata
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2000;116" xlink:type="simple">deliberazione n. 116/2000</rif>
+						;
+					</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005;68" xlink:type="simple">deliberazione n. 68/2005</rif>
+						assunta in data odierna con la quale il Dott. Angelo Guerrini, già Direttore Generale f.f., è stato nominato Direttore Generale del CNR sulla base del nuovo regolamento di organizzazione e funzionamento;
+					</h:p>
+					<h:p>
+						- ritenuto opportuno istituire le Direzioni centrali previste dal nuovo assetto organizzativo e regolamentare conferendo mandato al Direttore Generale di predisporre, intrattenendo allo scopo le relazioni sindacali previste dalla vigente normativa, un piano di ridefinizione degli uffici e delle relative assegnazioni di personale come previsto dall'ultimo periodo del
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art57-com3" xlink:type="simple">comma 3 del citato articolo 57</rif>
+						;
+					</h:p>
+					<h:p>
+						- ravvisata l'opportunità di assicurare durante l'attuale fase di progressiva realizzazione del cambiamento organizzativo che i servizi dei soppressi dipartimenti continuino, in applicazione dell'articolo
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art57-com2" xlink:type="simple">articolo 57, comma 2</rif>
+						, a svolgere le proprie funzioni in via transitoria, assicurandone l'operatività dopo la ricollocazione nell'ambito del nuovo assetto organizzativo in relazione alle rispettive competenze;
+					</h:p>
+					<h:p>
+						- considerata l'esistenza di una serie di adempimenti direttamente prescritti da leggi e regolamenti (
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445" xlink:type="simple">DPR n. 445/2000</rif>
+						e
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127#art23" xlink:type="simple">art. 23 D. Lgs. n. 127/2003</rif>
+						, in materia di introduzione del Protocollo informatico e accorpamento degli Enti) e non più rinviabili dopo l'entrata in vigore dei nuovi regolamenti di attuazione del decreto di riordino;
+					</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-04-06;39" xlink:type="simple">deliberazione n. 39/2005 del 6 aprile 2005</rif>
+						con la quale è stato approvato il titolario per la classificazione degli atti dando, contestualmente, mandato al Presidente di istituire con proprio decreto il servizio per la gestione informatica dei documenti, dei flussi documentali e degli archivi ai sensi dell'
+						<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000;445#art61" xlink:type="simple">art. 61 del DPR 445/2000</rif>
+						e ravvisata l'esigenza di collocare un apposito ufficio di coordinamento presso la direzione generale;
+					</h:p>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-31;35" xlink:type="simple">decreto del Presidente n. 35/2005 del 31 maggio 2005</rif>
+						"Entrata in vigore dei regolamenti del CNR: conferma temporanea di normative previgenti; variazioni al bilancio di previsione del CNR per l'esercizio finanziario 2005; modalità di gestione finanziaria, fiscale e del personale e nomina dei responsabili per la fase transitoria" ed in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:decreto:2005-05-31;35#art6" xlink:type="simple">articolo 6</rif>
+						che prevede l'istituzione di un ufficio speciale presso la direzione centrale "Supporto alla programmazione e alle infrastrutture" ai sensi del
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25033#art54-com3" xlink:type="simple">comma 3 dell'articolo 54 del regolamento di organizzazione e funzionamento</rif>
+						;
+					</h:p>
+					<h:p>
+						- considerato che, in base all'articolo
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art23" xlink:type="simple">articolo 23 del decreto di riordino</rif>
+						, il CNR è subentrato in tutti i rapporti attivi e passivi degli enti accorpati e che, per tali ragioni, il CNR è parte di un contratto a tempo determinato per funzioni dirigenziali al massimo livello sottoscritto dall'INFM con la Dott.ssa Manuela Arata;
+					</h:p>
+					<h:p>- atteso che sussiste una obbligazione contrattuale che necessita di una ridefinizione per le funzioni da attribuire alla Dott.ssa Arata nell'ambito del nuovo assetto organizzativo del CNR per il periodo restante del contratto ferme restando le condizioni relative allo stato giuridico e al trattamento economico riconosciuto dal contratto;</h:p>
+					<h:p>- considerata la positiva esperienza nel coinvolgimento della Dott.ssa Arata nel processo di riorganizzazione del CNR;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<rubrica>(Istituzione delle direzioni centrali)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Ai sensi dell'articolo
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art35" xlink:type="simple">articolo 35 del regolamento di organizzazione e funzionamento</rif>
+							sono istituite le Direzioni centrali "supporto alla gestione delle risorse" e "supporto alla programmazione e alle infrastrutture".
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<alinea>La Direzione centrale Supporto alla gestione delle risorse svolge attività tecnico-amministrative nell'ambito delle seguenti materie:</alinea>
+						<el id="art1-com2-leta">
+							<num>a)</num>
+							<corpo>strumenti per la gestione delle risorse finanziarie dell'Ente e relativa attività operativa anche attraverso la costituzione di unità decentrate;</corpo>
+						</el>
+						<el id="art1-com2-letb">
+							<num>b)</num>
+							<corpo>sviluppo organizzativo, ivi inclusa la definizione di metodologie orientate alla promozione della carriera dei ricercatori e al loro sviluppo professionale;</corpo>
+						</el>
+						<el id="art1-com2-letc">
+							<num>c)</num>
+							<corpo>predisposizione di modalità e procedure per la realizzazione di attività post lauream rivolte all'esterno;</corpo>
+						</el>
+						<el id="art1-com2-letd">
+							<num>d)</num>
+							<corpo>predisposizione di modalità e procedure nonché attività operativa di carattere generale in materia di gestione del personale e rapporti con i sindacati in attuazione del contratto di lavoro;</corpo>
+						</el>
+						<el id="art1-com2-lete">
+							<num>e)</num>
+							<corpo>ufficio legale.</corpo>
+						</el>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<alinea>La Direzione centrale "supporto alla programmazione e alle infrastrutture" svolge attività tecnico - amministrative nelle seguenti materie:</alinea>
+						<el id="art1-com3-leta">
+							<num>a)</num>
+							<corpo>predisposizione di modalità e procedure relative ai rapporti tra dipartimenti, istituti e amministrazione dell'Ente;</corpo>
+						</el>
+						<el id="art1-com3-letb">
+							<num>b)</num>
+							<corpo>gestione e sviluppo del patrimonio immobiliare e relative infrastrutture;</corpo>
+						</el>
+						<el id="art1-com3-letc">
+							<num>c)</num>
+							<corpo>realizzazione di grandi infrastrutture o grandi attrezzature scientifiche e tecnologiche ed esercizio della gestione, come attività di servizio, nei casi in cui tale attività non venga assegnata ad uno specifico istituto;</corpo>
+						</el>
+						<el id="art1-com3-letd">
+							<num>d)</num>
+							<corpo>sviluppo delle reti e dei servizi di comunicazione, gestione dei sistemi informatici e ufficio di statistica;</corpo>
+						</el>
+						<el id="art1-com3-lete">
+							<num>e)</num>
+							<corpo>servizi generali della sede centrale;</corpo>
+						</el>
+						<el id="art1-com3-letf">
+							<num>f)</num>
+							<corpo>gestione del servizio di sicurezza e supporto ai direttori delle strutture scientifiche o ai dirigenti degli uffici amministrativi per gli adempimenti inerenti la prevenzione e la protezione dei lavoratori sul luogo di lavoro;</corpo>
+						</el>
+						<el id="art1-com3-letg">
+							<num>g)</num>
+							<corpo>servizi di documentazione;</corpo>
+						</el>
+						<el id="art1-com3-leth">
+							<num>h)</num>
+							<corpo>normazione e certificazione.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<rubrica>(Disposizioni transitorie per il riassetto organizzativo dell'amministrazione)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							In fase di prima applicazione gli uffici dell'amministrazione centrale in applicazione diretta delle disposizioni del nuovo regolamento di organizzazione e funzionamento, sono temporaneamente ricollocati, in attesa dell'espletamento degli adempimenti di cui all'
+							<rif xlink:href="#art3" xlink:type="simple">articolo 3</rif>
+							e senza modifiche nei compiti e nella composizione, secondo quanto stabilito dal presente articolo.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<alinea>Nell'ambito degli uffici di diretta collaborazione sono transitoriamente collocati:</alinea>
+						<el id="art2-com2-leta">
+							<num>a)</num>
+							<corpo>Segreteria particolare del Presidente;</corpo>
+						</el>
+						<el id="art2-com2-letb">
+							<num>b)</num>
+							<corpo>Ufficio del Presidente;</corpo>
+						</el>
+						<el id="art2-com2-letc">
+							<num>c)</num>
+							<corpo>Ufficio stampa;</corpo>
+						</el>
+						<el id="art2-com2-letd">
+							<num>d)</num>
+							<corpo>Ufficio del Collegio dei revisori dei conti;</corpo>
+						</el>
+						<el id="art2-com2-lete">
+							<num>e)</num>
+							<corpo>Programmazione strategica ex Ufficio III - DG;</corpo>
+						</el>
+						<el id="art2-com2-letf">
+							<num>f)</num>
+							<alinea>Servizi afferenti al Dipartimento per le attività internazionali:</alinea>
+							<en id="art2-com2-letf-num1">
+								<num>1.</num>
+								<corpo>Paesi industrializzati - organismi internazionali - ex Servizio I del DAI;</corpo>
+							</en>
+							<en id="art2-com2-letf-num2">
+								<num>2.</num>
+								<corpo>Paesi emergenti e in transizione - ex Servizio II del DAI;</corpo>
+							</en>
+							<en id="art2-com2-letf-num3">
+								<num>3.</num>
+								<corpo>Mediterraneo e Medio-Oriente - ex Servizio III del DAI;</corpo>
+							</en>
+							<en id="art2-com2-letf-num4">
+								<num>4.</num>
+								<corpo>Promozione e rapporti con l'Unione europea - ex Servizio IV del DAI.</corpo>
+							</en>
+						</el>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<alinea>Nell'ambito della Direzione generale sono transitoriamente collocati:</alinea>
+						<el id="art2-com3-leta">
+							<num>a)</num>
+							<corpo>Contabilità generale e bilancio - ex Ufficio I della Direzione generale;</corpo>
+						</el>
+						<el id="art2-com3-letb">
+							<num>b)</num>
+							<corpo>Sviluppo ed applicazione dei sistemi informativi territoriali - ex Ufficio II della Direzione generale;</corpo>
+						</el>
+						<el id="art2-com3-letc">
+							<num>c)</num>
+							<corpo>Ufficio del Consigliere Giuridico del Direttore Generale - ex Ufficio IV della Direzione generale;</corpo>
+						</el>
+						<el id="art2-com3-letd">
+							<num>d)</num>
+							<corpo>Servizio per la gestione informatica dei documenti, dei flussi documentali e degli archivi.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<alinea>Nell'ambito della Direzione Centrale Supporto alla Gestione delle Risorse sono transitoriamente collocati:</alinea>
+						<el id="art2-com4-leta">
+							<num>a)</num>
+							<corpo>Formazione del personale - ex Servizio I del DSTS;</corpo>
+						</el>
+						<el id="art2-com4-letb">
+							<num>b)</num>
+							<corpo>Concorsi e borse di studio - ex Servizio II del DSTS;</corpo>
+						</el>
+						<el id="art2-com4-letc">
+							<num>c)</num>
+							<corpo>Stato giuridico e trattamento economico del personale - ex Servizio III DSTS;</corpo>
+						</el>
+						<el id="art2-com4-letd">
+							<num>d)</num>
+							<corpo>Trattamento previdenziale e di fine rapporto del personale - ex Servizio IV del DSTS;</corpo>
+						</el>
+						<el id="art2-com4-lete">
+							<num>e)</num>
+							<corpo>Provveditorato - ex Servizio VI del DSTS;</corpo>
+						</el>
+						<el id="art2-com4-letf">
+							<num>f)</num>
+							<corpo>Ragioneria della struttura amministrativa centrale - ex Servizio VII del DSTS;</corpo>
+						</el>
+						<el id="art2-com4-letg">
+							<num>g)</num>
+							<corpo>affari giuridici - legali ed ordinamento - ex Servizio VIII del DSTS.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com5">
+						<num>5.</num>
+						<alinea>Nell'ambito della Direzione Centrale supporto alla Programmazione e alle Infrastrutture sono transitoriamente collocati:</alinea>
+						<el id="art2-com5-leta">
+							<num>a)</num>
+							<corpo>Programmazione operativa - ex Servizio I del DAST;</corpo>
+						</el>
+						<el id="art2-com5-letb">
+							<num>b)</num>
+							<corpo>Organi di ricerca e attività di agenzia - ex Servizio II del DAST;</corpo>
+						</el>
+						<el id="art2-com5-letc">
+							<num>c)</num>
+							<corpo>Programmi di formazione cofinanziati - ex Servizio III del DAST;</corpo>
+						</el>
+						<el id="art2-com5-letd">
+							<num>d)</num>
+							<corpo>Rapporti con l'industria e i servizi - ex Servizio IV del DAST;</corpo>
+						</el>
+						<el id="art2-com5-lete">
+							<num>e)</num>
+							<corpo>Programmi di ricerca cofinanziati - ex Servizio V del DAST;</corpo>
+						</el>
+						<el id="art2-com5-letf">
+							<num>f)</num>
+							<corpo>Coordinamento tecnico-amministrativo - ex Servizio VI del DAST;</corpo>
+						</el>
+						<el id="art2-com5-letg">
+							<num>g)</num>
+							<corpo>Nuove iniziative societarie e consortili - ex Servizio VII del DAST;</corpo>
+						</el>
+						<el id="art2-com5-leth">
+							<num>h)</num>
+							<corpo>Locazione immobili e logistica - ex Servizio V del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-leti">
+							<num>i)</num>
+							<corpo>Sviluppo edilizio - ex Servizio X del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letl">
+							<num>l)</num>
+							<corpo>Sistemi informativi - del ex Servizio XII - DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letm">
+							<num>m)</num>
+							<corpo>Reti e telecomunicazioni - ex Servizio XIII del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letn">
+							<num>n)</num>
+							<corpo>Pubblicazioni e informazioni scientifiche - ex Servizio V del DAI</corpo>
+						</el>
+						<el id="art2-com5-leto">
+							<num>o)</num>
+							<corpo>Biblioteca centrale - ex Servizio XV del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letp">
+							<num>p)</num>
+							<corpo>Prevenzione e protezione - ex Servizio XIV del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letq">
+							<num>q)</num>
+							<corpo>Relazioni con il pubblico - ex Servizio IX del DSTS;</corpo>
+						</el>
+						<el id="art2-com5-letr">
+							<num>r)</num>
+							<corpo>Ufficio temporaneo adempimenti enti accorpati.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>(Disciplina della riorganizzazione)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Il Direttore Generale entro 20 giorni dalla data di approvazione della presente deliberazione, predispone in collaborazione con i dirigenti preposti alle direzioni centrali di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							e intrattenendo allo scopo i rapporti con le organizzazioni sindacali, secondo quanto previsto dalle vigenti disposizioni normative e contrattuali, un piano di ridefinizione degli uffici e delle relative assegnazioni di personale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>(Nomina dei dirigenti)</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Il Dott. Andrea Lapiccirella, già direttore del Dipartimento per le attività scientifiche e tecnologiche, e il Dott. Angelo Guerrini, già Direttore Generale f.f., ed attualmente Direttore Generale del CNR, sono rispettivamente nominati Direttore della Direzione centrale supporto alla programmazione e alle infrastrutture e direttore ad interim della Direzione centrale supporto alla gestione delle risorse, fino al completamento della fase di riorganizzazione e comunque non oltre sei mesi dalla data della presente deliberazione.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>Presso la Direzione generale è istituito l'Ufficio Promozione e sviluppo collaborazioni che svolge le funzioni descritte nell'allegato A che costituisce parte integrante della presente deliberazione.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Alla Dott.ssa Manuela Arata è attribuito l'incarico di dirigente dell'Ufficio Promozione e sviluppo collaborazioni per il restante periodo del contratto attualmente in essere.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Il Presidente provvederà agli atti conseguenti per la riconfigurazione giuridica del rapporto mantenendo stato giuridico e trattamento economico contrattualmente riconosciuto alla Dott.ssa Arata.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione>
+				<firma tipo="sottoscrizione">IL PRESIDENTE</firma>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

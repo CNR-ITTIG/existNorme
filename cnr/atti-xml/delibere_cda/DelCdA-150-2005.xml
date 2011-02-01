@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20051109" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-09;150" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20051109" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-11-09;150" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20051109">9 novembre 2005</dataDoc>
+				, n.
+				<numDoc>150</numDoc>
+				<titoloDoc>
+					Criteri generali per l'associazione ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">articolo 17 del regolamento del personale</rif>
+					- Approvazione
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 9 novembre 2005, ha adottato all'unanimità la seguente deliberazione n. 150/2005 - Verb. 25</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						, recante "Riordino del Consiglio Nazionale delle Ricerche" ed in particolare l'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127#art21-com2" xlink:type="simple">articolo 21, comma 2</rif>
+						;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, ed in particolare gli articoli
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art24" xlink:type="simple">24</rif>
+						(Missione e operatività degli istituti),
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art26" xlink:type="simple">26</rif>
+						(Funzioni del direttore di istituto) e
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25033#art29" xlink:type="simple">29</rif>
+						(Responsabile di commessa) contenenti disposizioni relative al regime applicabile agli associati alle attività di ricerca;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035" xlink:type="simple">Regolamento del personale del Consiglio Nazionale delle Ricerche</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25035</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare l'art.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">17</rif>
+						che detta i princìpi che regolano l'istituto dell'associatura, gli articoli
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art22" xlink:type="simple">22</rif>
+						(Mobilità con gli istituti di ricovero e cura a carattere scientifico),
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art27" xlink:type="simple">27</rif>
+						(Obblighi del personale), che dettano disposizioni applicabili agli associati e l'articolo
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art31" xlink:type="simple">31</rif>
+						(Norme transitorie), che dispone la prosecuzione delle attività degli associati che operano presso le strutture di ricerca sulla base degli atti emanati nel previgente quadro regolamentare fino al 31 dicembre 2005;
+					</h:p>
+					<h:p>
+						VISTA la relazione predisposta dall'Ufficio Organi di Ricerca e Attività di Agenzia della Direzione Centrale Supporto alla Programmazione e alle Infrastrutture, prot.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-09-29;47885" xlink:type="simple">AMMCNT-CNR n. 0047885 del 29 settembre 2005</rif>
+						;
+					</h:p>
+					<h:p>
+						RITENUTO opportuno in base al richiamato articolo
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">17 del regolamento del personale</rif>
+						provvedere a definire i criteri generali assicurando nell'attuale fase continuità delle attività scientifiche in coerenza con il vigente Piano Triennale di Attività 2005-2007 prevedendo la graduale applicazione dei criteri introdotti con il disciplinare;
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-31;35" xlink:type="simple">decreto del Presidente provv. n.35 del 31 maggio 2005</rif>
+						, ratificato dal Consiglio di amministrazione con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;65" xlink:type="simple">delibera n.65 del 8 giugno 2005</rif>
+						che, tra l'altro, istituisce in via transitoria tre Centri di Responsabilità scientifica di primo livello uno per ciascun Ente accorpato e nomina i relativi responsabili;
+					</h:p>
+					<h:p>
+						VISTI i decreti del Presidente provv. nn.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-30;48" xlink:type="simple">48</rif>
+						e
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-30;50" xlink:type="simple">50</rif>
+						del 30 giugno 2005, ratificati dal Consiglio di Amministrazione rispettivamente con le deliberazioni nn.
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-13;88" xlink:type="simple">88</rif>
+						e
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-13;89" xlink:type="simple">89</rif>
+						del 13 luglio 2005 con i quali è stata disposta la transitoria configurazione di due istituti sperimentali quali Centri di responsabilità scientifica di primo livello e sono stati nominati i relativi responsabili;
+					</h:p>
+					<h:p>CONSIDERATO che nelle more del processo di riorganizzazione i Responsabili dei Centri di responsabilità di attività scientifica di primo livello, di cui ai provvedimenti richiamati, esercitano le funzioni corrispondenti a quelle dei direttori di istituto;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>
+					- di approvare i criteri generali per l'associazione ai sensi dell'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art17" xlink:type="simple">articolo 17 del regolamento del Personale</rif>
+					contenuti nel disciplinare allegato che costituisce parte integrante della presente delibera.
+				</h:p>
+			</contenitore>
+			<conclusione>
+				<firma tipo="sottoscrizione">Il Presidente</firma>
+				<firma tipo="sottoscrizione">Il Segretario</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

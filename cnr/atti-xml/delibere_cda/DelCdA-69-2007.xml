@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20070417" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-04-17;69" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070417" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20070417" fonte="haa1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:tipoDestinatario valore="Direzione Generale" />
+						<cnr:tipoDestinatario valore="Dipartimenti" />
+						<cnr:strutturaDestinataria valore="" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20070417">17 aprile 2007</dataDoc>
+				, n.
+				<numDoc>69</numDoc>
+				<titoloDoc>Criteri generali per la valutazione da parte del Consiglio di amministrazione delle richieste di autorizzazione alla istituzione di unità di ricerca presso terzi - Approvazione</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 17 aprile 2007, ha adottato all'unanimità la seguente deliberazione n. 69/2007 - Verb. 58</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art32" xlink:type="simple">art. 32</rif>
+						;
+					</h:p>
+					<h:p>
+						CONSIDERATO che il richiamato
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art32" xlink:type="simple">articolo 32</rif>
+						stabilisce che i dipartimenti, anche su proposta di istituti afferenti e previa autorizzazione del Consiglio di amministrazione, possono istituire unità di ricerca presso strutture pubbliche o private sulla base di specifiche convenzioni che devono precisare l'oggetto, la durata, i diritti e gli obblighi delle diverse parti coinvolte;
+					</h:p>
+					<h:p>CONSIDERATA l'esigenza di fomire criteri generali sia per identificare le condizioni che debbono verificarsi per accogliere, dal punto di vista strategico, proposte di istituzione di unità di ricerca, sia per l'impostazione dei rapporti da instaurare con i terzi per regolare il funzionamento di dette unità;</h:p>
+					<h:p>
+						CONSIDERATO che il Consiglio di amministrazione, ha già disposto in merito ai criteri per la regolamentazione dei rapporti convenzionali per la costituzione delle unità di ricerca presso terzi, con la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2006-09-06;147-2006" xlink:type="simple">delibera n. 147/2006 del 6 settembre 2006</rif>
+						che individua due schemi di Convenzione tipo, uno per la costituzione di unità di ricerca che riporta a un istituto e uno per la costituzione di unità di ricerca che riporta a un dipartimento, e conferisce mandato al Presidente di approvare in via definitiva i testi di riferimento per le convenzioni con proprio decreto;
+					</h:p>
+					<h:p>RAVVISATA altresi l'esigenza, di provvedere a definire con un atto di indirizzo criteri predeterminati e trasparenti cui attenersi per l'assunzione nel merito programmatico di decisioni in materia di nuove unità di ricerca presso terzi, indicando anche elementi utili per rendere conformi e complete le relazioni istruttorie da redigere per motivare le proposte di istruttoria;</h:p>
+					<h:p>VISTI i criteri proposti dal Presidente di cui all'allegato previamente discussi nella riunione del 16 aprile 2007 dal Consiglio dei Direttori di Dipartimento;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p></formulainiziale>
+				<contenitore id="con1" nome="">
+					<h:p>1. di approvare come atto di indirizzo in materia di unità di ricerca presso terzi i criteri generali ivi relativi alle modalità di redazione delle richieste di autorizzazione alla loro costituzione e alle conseguenti valutazioni del Consiglio di amministrazione in merito, contenuti nel testo di cui all'allegato che costituisce parte integrante della presente deliberazione.</h:p>
+					<h:p>
+						2. al Direttore Generale è dato mandato di procedere ad un approfondimento riguardante:
+						<h:br />
+						a) l'attuazione delle norme riguardanti la
+						<rif xlink:href="urn:nir:stato:legge:1994;626" xlink:type="simple">Legge 626</rif>
+						e sue successive modificazioni e integrazioni (sicurezza); in particolare occorre chiarire che la responsabilità riguarda il soggetto che dispone delle risorse finanziarie e delle competenza sugli spazi di lavoro e sugli impianti;
+						<h:br />
+						b) l'introduzione di clausole relative all'eventuale trattamento dei dati personali ai sensi del
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;196" xlink:type="simple">D.Lgs. 196/2003</rif>
+						.
+					</h:p>
+				</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL PRESIDENTE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20070417" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" />
+				</descrittori>
+						</meta>
+						<intestazione>
+				<tipoDoc>Allegato 1 alla Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20070417">17 aprile 2007</dataDoc>
+				, n.
+				<numDoc>69</numDoc>
+				<titoloDoc><rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple">Criteri generali per la valutazione da parte del Consiglio di amministrazione delle richieste di autorizzazione alla istituzione di unità di ricerca presso terzi</rif></titoloDoc>
+			</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

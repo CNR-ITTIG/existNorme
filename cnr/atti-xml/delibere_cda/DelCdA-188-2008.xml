@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Delibera CdA">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20080730" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-07-30;188" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080730" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080730" fonte="haa1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+						<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
+				<dataDoc norm="20080730">30 luglio 2008</dataDoc>
+				, n.
+				<numDoc>188</numDoc>
+				<titoloDoc>Nuovo schema del Disciplinare per la partecipazione del personale CNR ad imprese spin-off</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio di Amministrazione nella riunione in data 30 luglio 2008, ha adottato all'unanimità la seguente deliberazione n. 188/2008 - Verb. 85</h:p>
+				<h:p>IL CONSIGLIO DI AMMINISTRAZIONE</h:p>
+				<preambolo>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						"Riordino del Consiglio Nazionale delle Ricerche";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005;
+					</h:p>
+					<h:p>VISTA la nota del Direttore Generale f.f. AMMCNT-CNR n.0059165 del 30 luglio 2008 con la quale si trasmette la relazione predisposta dall'Ufficio Supporto alle Partecipazioni Societarie della Direzione Centrale Supporto alla Programmazione ed alle Infrastrutture;</h:p>
+					<h:p>VISTA la Raccomandazione della Commissione Europea C(2008)1329 del 10.4.08, ed in particolare l'Annex 1 - item 12, Art. 2;</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297" xlink:type="simple">Decreto Legislativo 27 luglio 1999, n. 297</rif>
+						"Riordino della disciplina e snellimento delle procedure per il sostegno della ricerca scientifica e tecnologica, per la diffusione delle tecnologie, per la mobilità dei ricercatori";
+					</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593" xlink:type="simple">Decreto Ministeriale 8 agosto 2000, n. 593</rif>
+						, "Modalità procedurali per la concessione delle agevolazioni previste dal
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297" xlink:type="simple">decreto legislativo 27 luglio 1999, n. 297</rif>
+						";
+					</h:p>
+					<h:p>VISTA la Disciplina Comunitaria sugli Aiuti di Stato alla Ricerca, Sviluppo ed Innovazione di cui alla Comunicazione 2006/C 323/01;</h:p>
+					<h:p>
+						VISTO il
+						<rif xlink:href="urn:nir:ministero.istruzione.universita.ricerca:decreto:2008-01-02;nir-1" xlink:type="simple">Decreto Ministeriale 2 gennaio 2008</rif>
+						prot. Gab./4, Adeguamento delle disposizioni del
+						<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593" xlink:type="simple">Decreto Ministeriale 8 agosto 2000 n. 593</rif>
+						alla Disciplina Comunitaria sugli Aiuti di Stato alla Ricerca, Sviluppo ed Innovazione di cui alla Comunicazione 2006/C 323/01;
+					</h:p>
+					<h:p>
+						VISTO il "Regolamento per la partecipazione del personale dipendente del CNR a società di cui all'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-27;297#art2-com1-lete" xlink:type="simple">art. 2, comma 1, lett. e), del decreto legislativo 27 luglio 1999 n. 297</rif>
+						, ed all'
+						<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593#art11" xlink:type="simple">art. 11 del decreto del Ministero dell'Università e della Ricerca Scientifica e Tecnologica dell'8 agosto 2000 n. 593</rif>
+						", approvato dal Consiglio Direttivo del CNR con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2001-05-03;82" xlink:type="simple">deliberazione n. 82 del 3 maggio 2001</rif>
+						, successivamente modificato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2002-04-18;160" xlink:type="simple">deliberazione n. 160 del 18 aprile 2002</rif>
+						e la cui applicazione è stata estesa con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2003-04-23;68" xlink:type="simple">deliberazione n. 68 del 23 aprile 2003</rif>
+						anche ai casi di partecipazione del personale di ricerca del CNR e del CNR stesso a imprese altamente innovative da costituire non ricadenti nell'ambito del
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;297" xlink:type="simple">D. Lgs. 297/99</rif>
+						e del
+						<rif xlink:href="urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:2000-08-08;593" xlink:type="simple">D.M. 593/00</rif>
+						;
+					</h:p>
+					<h:p>
+						CONSIDERATO che l'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003;127#art18-com1-letc" xlink:type="simple">articolo 18 comma 1 lettera c) del D. lgs. n. 127/2003</rif>
+						individua nella possibilità per il CNR di promuovere la costituzione di nuove imprese, conferendo personale proprio, anche in costanza di rapporto, nel rispetto della normativa vigente, uno degli strumenti attuativi di quanto contenuto all'art. 3 del decreto medesimo;
+					</h:p>
+					<h:p>
+						VISTO l'
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art50" xlink:type="simple">art.50 del citato Regolamento di organizzazione e funzionamento</rif>
+						che, al
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art50-com3" xlink:type="simple">comma 3</rif>
+						, individua i criteri per la costituzione di nuove imprese;
+					</h:p>
+					<h:p>CONSIDERATA la necessità di rivedere il testo del Regolamento che disciplina la partecipazione del personale CNR alle società spin-off, sinora adottato, alla luce del nuovo quadro normativo e nell'ambito di un disegno strategico di semplificazione e creazione di un ambiente favorevole alla nascita di impresa spin-off dalla ricerca, in recepimento della Raccomandazione della Commissione Europea sopra citata;</h:p>
+					<h:p>ESAMINATO il testo del "Disciplinare per la partecipazione del personale CNR ad imprese spin- off";</h:p>
+					<h:p>PRESO ATTO delle positive valutazioni espresse dal Consiglio dei Direttori di Dipartimento nella riunione del 1 luglio 2008 e dal Consiglio Scientifico Generale nella riunione del 16 luglio 2008;</h:p>
+					<h:p>VISTO il verbale del Collegio dei Revisori dei Conti n. 1289 del 29 luglio 2008 e le raccomandazioni ivi contenute;</h:p>
+					<h:p>RITENUTO che le suddette raccomandazioni ed in particolare quelle relative alle condizioni di ammissibilità delle iniziative in conformità con i presupposti di legge e alla esposizione in sede di consuntivo di esercizio dei risultati economici e patrimoniali, possano essere recepite dall'Amministrazione nella fase di esecuzione della presente deliberazione;</h:p>
+				</preambolo>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>1. È approvato, nel testo riportato in allegato, il "Disciplinare per la partecipazione del personale CNR ad imprese spin-off";</h:p>
+				<h:p>2. È dato mandato al Presidente di informare le OO. SS. e successivamente di riferire al Consiglio di Amministrazione in ordine ad eventuali proposte di modifica.</h:p>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
+				<firma tipo="sottoscrizione">IL VICE PRESIDENTE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>DISCIPLINARE</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="20080730" />
+								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="20080730" fonte="ro1" id="t3" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Amministrazione Centrale" />
+									<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<tipoDoc>Disciplinare</tipoDoc>
+							<dataDoc norm="20080730">30 luglio 2008</dataDoc>
+							, n.
+							<numDoc>188</numDoc>
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2008-07-30;188" xlink:type="simple">DISCIPLINARE PER LA PARTECIPAZIONE DEL PERSONALE CNR AD IMPRESE SPIN-OFF</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>
