@@ -15,9 +15,13 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="20050622" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20050622" fonte="haa1" id="t2" tipo="allegato" />
+						<evento data="20050622" fonte="haa2" id="t3" tipo="allegato" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.ricercatore.tecnologo:2005-06-22;45" xlink:type="simple" />
+						<haallegato id="haa2" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -246,7 +250,7 @@
 							</descrittori>
 							<ciclodivita>
 								<eventi>
-									<evento data="20050622" fonte="ro2" id="t2" tipo="entrata in vigore" />
+									<evento data="20050622" fonte="ro2" id="t4" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
 									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.c" xlink:type="simple" />
@@ -946,7 +950,7 @@
 							</descrittori>
 							<ciclodivita>
 								<eventi>
-									<evento data="20050622" fonte="ro3" id="t3" tipo="entrata in vigore" />
+									<evento data="20050622" fonte="ro3" id="t5" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
 									<originale id="ro3" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.d" xlink:type="simple" />
