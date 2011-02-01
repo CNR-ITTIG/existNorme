@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Deliberazione del Consiglio di Amministrazione">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
@@ -33,7 +33,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>Deliberazione del Consiglio di Amministrazione</tipoDoc>
+				<tipoDoc>Deliberazione CdA</tipoDoc>
 				<dataDoc norm="20051109">9 novembre 2005</dataDoc>
 				, n.
 				<numDoc>162</numDoc>
@@ -51,14 +51,19 @@
 					<h:p>
 						VISTO il
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di Organizzazione e Funzionamento del Consiglio Nazionale delle Ricerche</rif>
-						, emanati, rispettivamente, con decreti del Presidente del 4 maggio 2005, prot. n. 25033 , pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005;
+						, emanati, rispettivamente, con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreti del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						, pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005;
 					</h:p>
 					<h:p>
 						VISTO il
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27" xlink:type="simple">Regolamento del Personale del Consiglio Nazionale delle Ricerche</rif>
-						, emanato con decreto del Presidente del 4 maggio 2005, prot. n. 25035 e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare le disposizioni di cui agli
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25035</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005 ed in particolare le disposizioni di cui agli
 						<mrif>
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art9" xlink:type="simple">artt. 9</rif>
+							artt.
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art9" xlink:type="simple">9</rif>
 							,
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art10" xlink:type="simple">10</rif>
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#art11" xlink:type="simple">11</rif>
@@ -69,15 +74,16 @@
 					</h:p>
 					<h:p>SENTITA la proposta del Presidente sulla base del disciplinare predisposto dalla Direzione Centrale Supporto alla Gestione delle Risorse - Ufficio Concorsi e Borse di Studio con nota prot. AMMCNT-CNR n. 0049099 del 6 ottobre 2005;</h:p>
 				</preambolo>
-				<h:p>DELIBERA</h:p></formulainiziale>
-				<contenitore id="con1" nome="">
-					<h:p>
-						di approvare il disciplinare allegato "
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;assunzioni.personale.contratto.lavoro.tempo.determinato:2005-11-09;162" xlink:type="simple">Disciplina delle assunzioni di personale con contratto a tempo determinato del Consiglio Nazionale delle Ricerche</rif>
-						", che è parte integrante della presente delibera;
-					</h:p>
-					<h:p>di dare mandato al Presidente di informare le OO.SS., e di procedere ad eventuali integrazioni coerenti con l'impianto del testo e di adottare, in deroga al disciplinare suddetto, i provvedimenti necessari all'assunzione, entro il corrente anno, di personale con contratto di lavoro a tempo determinato mediante selezioni pubbliche e/o per chiamata diretta, nei limiti numerici programmati dal piano triennale 2005-2007 approvato dal MIUR il 4 agosto 2005.</h:p>
-				</contenitore>
+				<h:p>DELIBERA</h:p>
+			</formulainiziale>
+			<contenitore id="con1" nome="">
+				<h:p>
+					di approvare il disciplinare allegato "
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;assunzioni.personale.contratto.lavoro.tempo.determinato:2005-11-09;162" xlink:type="simple">Disciplina delle assunzioni di personale con contratto a tempo determinato del Consiglio Nazionale delle Ricerche</rif>
+					", che è parte integrante della presente delibera;
+				</h:p>
+				<h:p>di dare mandato al Presidente di informare le OO.SS., e di procedere ad eventuali integrazioni coerenti con l'impianto del testo e di adottare, in deroga al disciplinare suddetto, i provvedimenti necessari all'assunzione, entro il corrente anno, di personale con contratto di lavoro a tempo determinato mediante selezioni pubbliche e/o per chiamata diretta, nei limiti numerici programmati dal piano triennale 2005-2007 approvato dal MIUR il 4 agosto 2005.</h:p>
+			</contenitore>
 			<formulafinale />
 			<conclusione>
 				<firma tipo="sottoscrizione">IL SEGRETARIO</firma>
