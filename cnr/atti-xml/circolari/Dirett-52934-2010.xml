@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Direttiva">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20100401" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:direttiva:2010-07-13;52934" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100401" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Direttiva</tipoDoc>
+				<dataDoc norm="20100713">13 luglio 2010</dataDoc>
+				, AMMCNT - CNR n.
+				<numDoc>52934</numDoc>
+				<titoloDoc>
+					Il procedimento disciplinare novellato dal
+					<mrif>
+						D.lgs. n. 150/2009 artt.
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art68" xlink:type="simple">68</rif>
+						e
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2009;150#art69" xlink:type="simple">69</rif>
+					</mrif>
+					.
+					<h:br />
+					Direttive - Modelli - Pubblicità sul sito dell'Ufficio divulgazione e relazioni istituzionali/U.R.P. alla voce Modulistica/Dipendenti
+				</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<contenitore id="con2" nome="">
+					<h:p>Ai</h:p>
+					<h:p>Direttori/Dirigenti delle Strutture del CNR</h:p>
+					<h:p>Loro Sedi</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						Si fa seguito alla
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2010-04-01;9" xlink:type="simple">circolare n. 9/2010 Prot. AMMCNT - CNR n. 0026573 del 01.04.2010</rif>
+						concernente il procedimento disciplinare in oggetto, predisposta dall'Ufficio Procedimenti Disciplinari.
+					</h:p>
+					<h:p>
+						Rilevata la necessità di fornire il necessario supporto ai fini della corretta applicazione della predetta normativa e dell'armonizzazione degli atti inerenti alle fasi del procedimento disciplinare, il competente Ufficio Procedimenti Disciplinare ha redatto appositi modelli, consultabili "on line" sul sito
+						<h:a xlink:href="http://www.urp.cnr.it" xlink:type="simple">www.urp.cnr.it</h:a>
+						alla voce modulistica e dipendenti.
+					</h:p>
+					<h:p>Si trasmette in allegato la nota esplicativa al riguardo, con la raccomandazione, per la dirigenza dell'Ente, di una attenta lettura in particolare per quanto attiene agli atti per i quali è richiesta l'osservanza di termini perentori e della forma scritta "ad substantiam" a pena di nullità degli stessi.</h:p>
+				</contenitore>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL DIRETTORE GENERALE
+					<h:br />
+					(Fabrizio Tuzi)
+				</firma>
+				<h:hr />
+				Per informazioni in merito:
+				<h:br />
+				Dott.ssa Anna Maria Montana tel. 06.4993.3649 - annamaria.montana@cnr.it
+				<h:br />
+				Dott. Domenico Petrillo tel. 06.4993.7381 - domenico.petrillo@cnr.it
+				<h:br />
+				Dott.ssa Marina Quaranta tel. 06.4993.2521 - marina.quaranta@cnr.it
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:direttiva:2010-07-13;52934:allegato" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<titoloDoc>
+								<rif xlink:href="pdf/All_Dirett52934-2010.pdf" xlink:type="simple">
+									Il procedimento disciplinare novellato dal D.lgs. n. 150/2009 artt. 68 e 69 .
+									<h:br />
+									Direttive - Modelli - Pubblicità sul sito dell'Ufficio divulgazione e relazioni istituzionali/U.R.P. alla voce Modulistica/Dipendenti
+								</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con4" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Circolare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20060609" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2006-06-09;19" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2006-06-09;43497" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060609" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2006-06-09;19" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Circolare</tipoDoc>
+				<dataDoc norm="20060609">9 giugno 2006</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				(AMMCNT - CNR n.
+				<numDoc nome="protocollo">43497</numDoc>
+				)
+				<titoloDoc>
+					Regolamento concernente le modalità e i criteri di ripartizione degli incentivi, di cui all'
+					<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994, n.109</rif>
+					<h:br />
+					[da erogare al responsabile unico del procedimento (RUP), all'incaricato della realizzazione del progetto, del piano di sicurezza, della direzione dei lavori e loro collaboratori (ndr)].
+				</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<contenitore id="con2" nome="">
+					<h:p>Ai</h:p>
+					<h:p>Responsabili degli Uffici di diretta collaborazione</h:p>
+					<h:p>Responsabili delle Direzioni Centrali</h:p>
+					<h:p>Dirigenti degli Uffici</h:p>
+					<h:p>Direttori dei Dipartimenti</h:p>
+					<h:p>Direttori degli Istituti</h:p>
+					<h:p>Presidenti delle Aree di Ricerca</h:p>
+					<h:p />
+					<h:p>e p.c.</h:p>
+					<h:p>Presidente CNR</h:p>
+					<h:p>Vice Presidente CNR</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						Si fa presente che sulla Gazzetta Ufficiale del 3 maggio 2006 , n. 101 , è stato pubblicato il "Regolamento concernente le modalità e i criteri di ripartizione degli incentivi , di cui all'
+						<rif xlink:href="urn:nir:stato:legge:1994-02-11;109#art18" xlink:type="simple">articolo 18 della legge 11 febbraio 1994 , n. 109</rif>
+						" (cfr.
+						<rif xlink:href="#ann1" xlink:type="simple">all.1</rif>
+						).
+					</h:p>
+					<h:p />
+					<h:p>Nel raccomandare l'esatta osservanza delle disposizioni recate dal Regolamento predetto, si fa presente che eventuali chiarimenti in merito allo stesso, potranno essere richiesti all'Avv. Luciano Marini, Dirigente dell'Ufficio IV della Direzione Generale, tel. 06 49932034.</h:p>
+				</contenitore>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL DIRETTORE GENERALE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="20060609" />
+								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2006-06-09;19:allegato.1" />
+							</descrittori>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Direzione Generale" />
+									<cnr:autoritaEmanante valore="Direttore Generale" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<tipoDoc>Allegato alla Circolare</tipoDoc>
+							<dataDoc norm="20060609">9 giugno 2006</dataDoc>
+							, n.
+							<numDoc>19</numDoc>
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;modalita.criteri.ripartizione.incentivi:2006-04-04;nir-1" xlink:type="simple">Regolamento concernente le modalità e i criteri di ripartizione degli incentivi , di cui all'articolo 18 della legge 11 febbraio 1994, n. 109</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con4" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

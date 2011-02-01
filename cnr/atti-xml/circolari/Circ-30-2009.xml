@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Circolare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20091204" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;30" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;85569" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20091204" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;30" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Circolare</tipoDoc>
+				<dataDoc norm="20091204">4 dicembre 2009</dataDoc>
+				, n.
+				<numDoc>30</numDoc>
+				(AMMCNT - CNR n.
+				<numDoc nome="protocollo">85569</numDoc>
+				)
+				<titoloDoc>
+					Incarichi di collaborazione - Aggiornamenti derivanti dalla
+					<rif xlink:href="urn:nir:stato:legge:2009;69" xlink:type="simple">Legge 69/2009</rif>
+					e dal
+					<rif xlink:href="urn:nir:stato:decreto.legge:2009;78" xlink:type="simple">D.L. 78/2009</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<contenitore id="con2" nome="">
+					<h:p>Dirigenti/Direttori delle Unità Organiche e Strutture del CNR</h:p>
+					<h:p>Segretari Amministrativi delle strutture del CNR</h:p>
+					<h:p>Collegio dei Revisori dei Conti</h:p>
+					<h:p>Loro Sedi</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						In attuazione di quanto disposto dall'
+						<rif xlink:href="urn:nir:stato:legge:2009;69#art22-com2" xlink:type="simple">art. 22, comma 2 della Legge 69/2009</rif>
+						e dall'
+						<rif xlink:href="urn:nir:stato:decreto.legge:2009;78#art17-com30" xlink:type="simple">art. 17, comma 30 del Decreto Legge 78/2009</rif>
+						, convertito in
+						<rif xlink:href="urn:nir:stato:legge:2009;102" xlink:type="simple">Legge 102/2009</rif>
+						ed a seguito della proposta formulata dal Gruppo di lavoro appositamente costituito, il Consiglio di Amministrazione nella riunione del 4 novembre 2009, con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2009-11-04;223" xlink:type="simple">deliberazione 223/2009</rif>
+						- Verb. n. 116, ha approvato le modifiche al "Disciplinare per il conferimento di incarichi di collaborazione" (
+						<rif xlink:href="#ann1" xlink:type="simple">allegato 1</rif>
+						). Con la presente si trasmette, inoltre, la direttiva della Ragioneria della SAC n. Reg. RagSac 679/2009 del 30 novembre 2009 (
+						<rif xlink:href="#ann2" xlink:type="simple">allegato 2</rif>
+						) ed il Manuale operativo opportunamente aggiornato (
+						<rif xlink:href="#ann3" xlink:type="simple">allegato 3</rif>
+						).
+					</h:p>
+					<h:p />
+					<h:p>Si evidenzia, in particolare, che a seguito dei confronti intercorsi tra il Gruppo di lavoro e la Corte dei Conti, nonché della segnalazione, da parte del medesimo, di specifiche problematiche riguardanti gli Enti di Ricerca, la Sezione centrale di controllo di legittimità su atti del Governo, con delibera 20/2009 del 12 novembre 2009, recentemente pubblicata, ha chiarito che tra le fattispecie escluse dal procedimento di invio preventivo alla Corte dei Conti rientrano gli incarichi professionali consistenti nella resa di prestazioni obbligatorie per legge nonché gli incarichi di docenza.</h:p>
+					<h:p />
+					<h:p>
+						Fra le fattispecie di maggiore rilevanza sottratte al controllo preventivo di legittimità si citano gli incarichi riguardanti attività di revisione e certificazione degli stati finanziari di cui al
+						<rif xlink:href="urn:nir:comunita.europee:regolamento:2006;1906" xlink:type="simple">Regolamento CE 1906/2006</rif>
+						(audit certificate nell'ambito del VII programma quadro) e lo svolgimento di relazioni in congressi, convegni, seminari, anche se svolti da "Visiting professor".
+					</h:p>
+				</contenitore>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL DIRETTORE GENERALE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato 1</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;30:allegato.1" />
+							</descrittori>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Direzione Generale" />
+									<cnr:autoritaEmanante valore="Direttore Generale" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato 1 alla Circolare</tipoDoc>
+							<dataDoc norm="20091204">4 dicembre 2009</dataDoc>
+							, n.
+							<numDoc>30</numDoc>
+							(AMMCNT - CNR n.
+							<numDoc nome="protocollo">85569</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione nella versione vigente</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con4" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>Allegato 2</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;30:allegato.2" />
+							</descrittori>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Direzione Generale" />
+									<cnr:autoritaEmanante valore="Direttore Generale" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato 2 alla Circolare</tipoDoc>
+							<dataDoc norm="20091204">4 dicembre 2009</dataDoc>
+							, n.
+							<numDoc>30</numDoc>
+							(AMMCNT - CNR n.
+							<numDoc nome="protocollo">85569</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="pdf/c09-30a2.pdf" xlink:type="simple">Direttiva della Ragioneria della SAC n. Reg. RagSac 679/2009 del 30 novembre 2009</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con5" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann3">
+					<testata>
+						<denAnnesso>Allegato 3</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red4" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2009-12-04;30:allegato.3" />
+							</descrittori>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Direzione Generale" />
+									<cnr:autoritaEmanante valore="Direttore Generale" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato 3 alla Circolare</tipoDoc>
+							<dataDoc norm="20091204">4 dicembre 2009</dataDoc>
+							, n.
+							<numDoc>30</numDoc>
+							(AMMCNT - CNR n.
+							<numDoc nome="protocollo">85569</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="pdf/c09-30a3.pdf" xlink:type="simple">Manuale operativo di cui all'art. 14 comma 4 del "Disciplinare incarichi"</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con6" nome="corpo">
+							<h:p>e relativi allegati:</h:p>
+							<h:ul>
+								<h:li>
+									Allegato 1
+									<rif xlink:href="pdf/c09-30a3a1.pdf" xlink:type="simple">"Disciplinare concernente la stipulazione di contratti d'opera ai sensi degli articoli 2222 e seguenti del codice civile per specifiche prestazioni previste da programmi di ricerca (articolo 51, comma 6, della legge 27 dicembre 1997, n. 449) con oneri a carico di finanziamenti esterni"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 2
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;istituto.associatura:2007-02-02;6" xlink:type="simple">"Disciplinare sui criteri generali per l'associazione ai sensi dell'art. 17 del regolamento del personale"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 3
+									<rif xlink:href="pdf/c09-30a3a3.pdf" xlink:type="simple">"Disciplinare concernente il conferimento di assegni per la collaborazione ad attivita' di ricerca ai sensi dell'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449, con oneri a carico di finanziamenti esterni"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 4
+									<rif xlink:href="pdf/c09-30a3a4.pdf" xlink:type="simple">Schema dell'avviso di ricerca di professionalità interna</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 5
+									<rif xlink:href="pdf/c09-30a3a5.pdf" xlink:type="simple">Schema dell'avviso pubblico per il conferimento di incarico da pubblicare sul sito WEB del CNR</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 6
+									<rif xlink:href="pdf/c09-30a3a6.pdf" xlink:type="simple">Schema di "Decisione a contrattare"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 7
+									<rif xlink:href="pdf/c09-30a3a7.pdf" xlink:type="simple">Attestazione dell'organo di ragioneria interno di copertura finanziaria ed assunzione dell'impegno</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 8
+									<rif xlink:href="pdf/c09-30a3a8.pdf" xlink:type="simple">Schema di lettera per la trasmissione degli atti alla Corte dei Conti</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 9
+									<rif xlink:href="pdf/c09-30a3a9.pdf" xlink:type="simple">Schema di "Contratto di prestazione d'opera in regime di collaborazione coordinata e continuativa ai sensi dell'art. 51 comma 6 della Legge 449/1997"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 10
+									<rif xlink:href="pdf/c09-30a3a10.pdf" xlink:type="simple">Schema di "Contratto di prestazione d'opera in regime di collaborazione coordinata e continuativa"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 11
+									<rif xlink:href="pdf/c09-30a3a11.pdf" xlink:type="simple">Schema di "Contratto di prestazione d'opera in regime di lavoro autonomo occasionale"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 12
+									<rif xlink:href="pdf/c09-30a3a12.pdf" xlink:type="simple">Schema di "Contratto di collaborazione professionale di lavoro autonomo"</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 13
+									<rif xlink:href="pdf/c09-30a3a13.pdf" xlink:type="simple">Tabella di sintesi dei presupposti di legittimità e dei limiti di spesa</rif>
+									;
+								</h:li>
+								<h:li>
+									Allegato 14
+									<rif xlink:href="pdf/c09-30a3a14.pdf" xlink:type="simple">Schema di "Contratto occasionale" semplificato</rif>
+									.
+								</h:li>
+							</h:ul>
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>

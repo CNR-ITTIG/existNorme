@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Circolare">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="" tipo="" />
+					<entratainvigore norm="20070529" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2007-05-29;16" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2007-05-29;44250" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070529" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2007-05-29;16" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Direzione Generale" />
+						<cnr:autoritaEmanante valore="Direttore Generale" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Circolare</tipoDoc>
+				<dataDoc norm="20070529">29 maggio 2007</dataDoc>
+				, n.
+				<numDoc>16</numDoc>
+				(AMMCNT - CNR n.
+				<numDoc nome="protocollo">44250</numDoc>
+				)
+				<titoloDoc>Regolamento del CNR per il trattamento dei dati sensibili e giudiziari</titoloDoc>
+			</intestazione>
+			<contenitore id="con1" nome="">
+				<contenitore id="con2" nome="">
+					<h:p>Ai</h:p>
+					<h:p>Responsabili degli Uffici di diretta collaborazione</h:p>
+					<h:p>Responsabili delle Direzioni centrali</h:p>
+					<h:p>Dirigenti degli Uffici</h:p>
+					<h:p>Direttori dei Dipartimenti</h:p>
+					<h:p>Direttori degli Istituti</h:p>
+					<h:p>Presidenti delle Aree di ricerca</h:p>
+					<h:p>e p.c.</h:p>
+					<h:p>Presidente CNR</h:p>
+					<h:p>Vice Presidente CNR</h:p>
+					<h:p />
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p>
+						Si trasmette in allegato, per conoscenza e norma, la
+						<rif xlink:href="#ann1" xlink:type="simple">lettera pos. 600010, prot. 1023/07, del 22/5/2007</rif>
+						, del Dirigente dell'Ufficio del Consigliere Giuridico della Direzione Generale scrivente, riguardante la pubblicazione sulla Gazzetta Ufficiale del
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple">Regolamento del CNR per il trattamento dei dati sensibili e giudiziari</rif>
+						.
+					</h:p>
+					<h:p>Si raccomanda la perfetta osservanza delle disposizioni recate dal Regolamento predetto.</h:p>
+				</contenitore>
+			</contenitore>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">IL DIRETTORE GENERALE</firma>
+			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="Allegato">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="" />
+								<entratainvigore norm="20070529" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:circolare:2007-05-29;16:allegato" />
+							</descrittori>
+							<proprietario xlink:type="simple">
+								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+									<cnr:strutturaEmanante valore="Direzione Generale" />
+									<cnr:autoritaEmanante valore="Direttore Generale" />
+									<cnr:tipoDestinatario valore="Carattere generale" />
+									<cnr:strutturaDestinataria valore="tutti" />
+									<cnr:tipoProvvedimento valore="" />
+									<cnr:dipartimento valore="carattere generale" />
+								</cnr:meta>
+							</proprietario>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc>Allegato alla Circolare</tipoDoc>
+							<dataDoc norm="20070529">29 maggio 2007</dataDoc>
+							, n.
+							<numDoc>16</numDoc>
+							(AMMCNT - CNR n.
+							<numDoc nome="protocollo">44250</numDoc>
+							)
+							<titoloDoc>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;trattamento.dati.sensibili.giudiziari:2007-04-12;18" xlink:type="simple">Regolamento del CNR per il trattamento dei dati sensibili e giudiziari</rif>
+							</titoloDoc>
+						</intestazione>
+						<contenitore id="con4" nome="corpo">
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</DocumentoNIR>
+	</NIR>
