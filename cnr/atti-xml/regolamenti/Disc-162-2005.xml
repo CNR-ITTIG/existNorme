@@ -50,9 +50,15 @@
 						<comma id="art1-com1">
 							<num>1.</num>
 							<corpo>
-								Le norme contenute nel presente disciplinare si riferiscono alle assunzioni di personale con contratto di lavoro a tempo determinato, di seguito denominate a termine, di cui ai Titoli II e III Capi II del "
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035" xlink:type="simple">Regolamento del Personale</rif>
-								" approvato con
+								Le norme contenute nel presente disciplinare si riferiscono alle assunzioni di personale con contratto di lavoro a tempo determinato, di seguito denominate a termine, di cui ai
+								<mrif>
+									Titoli
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#tit2-cap2" xlink:type="simple">II</rif>
+									e
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;personale:2005-05-04;27#tit3-cap2" xlink:type="simple">III</rif>
+									Capo II del "Regolamento del Personale"
+								</mrif>
+								approvato con
 								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25035" xlink:type="simple">Decreto del Presidente del CNR prot. n. 25035 del 4 maggio 2005</rif>
 								, pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005.
 							</corpo>
