@@ -7,7 +7,7 @@
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20071231" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:allegato" />
 				</descrittori>
 				<ciclodivita>
@@ -16,7 +16,7 @@
 						<evento data="20071231" fonte="all1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198" xlink:type="simple" />
 						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -590,10 +590,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare.allegato.1" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198:allegato.1" />
 							</descrittori>
 						</meta>
 						<intestazione>
@@ -618,10 +618,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red3" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare.allegato.2" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198:allegato.2" />
 							</descrittori>
 						</meta>
 						<intestazione>
@@ -646,10 +646,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red4" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare.allegato.3" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198:allegato.3" />
 							</descrittori>
 						</meta>
 						<intestazione>
@@ -674,10 +674,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red5" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare.allegato.4" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198:allegato.4" />
 							</descrittori>
 						</meta>
 						<intestazione>
@@ -702,10 +702,10 @@
 					<DocumentoNIR nome="Allegato">
 						<meta>
 							<descrittori>
-								<pubblicazione norm="" num="" tipo="GU" />
+								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="" />
 								<redazione id="red6" nome="" norm="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare.allegato.5" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198:allegato.5" />
 							</descrittori>
 						</meta>
 						<intestazione>
