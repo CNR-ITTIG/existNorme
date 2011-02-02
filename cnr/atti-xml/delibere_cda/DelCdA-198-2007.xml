@@ -15,7 +15,7 @@
 						<evento data="20071031" fonte="haa1" id="t2" tipo="allegato" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198" xlink:type="simple" />
 						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
