@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
@@ -16,7 +16,7 @@
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
-						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare:2007-10-31;198" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -34,6 +34,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
 				<tipoDoc>Deliberazione CdA</tipoDoc>
 				<dataDoc norm="20071031">31 ottobre 2007</dataDoc>
 				, n.
@@ -90,28 +91,8 @@
 								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20071031" />
 								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:allegato" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="20071031" fonte="ro1" id="t3" tipo="entrata in vigore" />
-								</eventi>
-								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-31;198:disciplinare" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
-							<proprietario xlink:type="simple">
-								<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
-									<cnr:strutturaEmanante valore="Amministrazione Centrale" />
-									<cnr:autoritaEmanante valore="Consiglio di Amministrazione" />
-									<cnr:tipoDestinatario valore="Amministrazione Centrale" />
-									<cnr:tipoDestinatario valore="Presidenza" />
-									<cnr:tipoDestinatario valore="Organi di Ricerca" />
-									<cnr:strutturaDestinataria valore="tutti" />
-									<cnr:tipoProvvedimento valore="" />
-									<cnr:dipartimento valore="" />
-								</cnr:meta>
-							</proprietario>
 						</meta>
 						<intestazione>
 							<tipoDoc>Disciplinare</tipoDoc>
@@ -119,7 +100,7 @@
 							, n.
 							<numDoc>198</numDoc>
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2007-10-31;198" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;collaborazione.internazionale:2007-10-31;198" xlink:type="simple">PROGRAMMA SPECIALE PER LA PROMOZIONE DELLA COLLABORAZIONE INTERNAZIONALE TRA CNR, UNIVERSITÀ O ALTRE ISTITUZIONI SCIENTIFICHE PUBBLICHE ITALIANE ED ISTITUTI DI RICERCA STRANIERI ATTRAVERSO LA MOBILITÀ DI BREVE DURATA DI STUDIOSI E RICERCATORI ITALIANI E STRANIERI. (SHORT-TERM MOBILITY - ANNO 2008)</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con2" nome="corpo">
