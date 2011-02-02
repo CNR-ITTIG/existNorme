@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20071017" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-10-17;178" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20071017" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20071017" fonte="ra1" id="t2" tipo="modifica" />
+						<evento data="20071017" fonte="ra2" id="t3" tipo="modifica" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-10-17;178" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
+						<attiva id="ra2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -30,6 +33,47 @@
 						<cnr:dipartimento valore="" />
 					</cnr:meta>
 				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:sostituzione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="k" tipo="lettera" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod1-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="lettera" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+							<dsp:novellando>
+								<dsp:subarg>
+									<ittig:tipo valore="lettera" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novellando>
+						</dsp:sostituzione>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod2" xlink:type="simple" />
+							<dsp:termine da="#t3" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:bordo num="4" tipo="numero" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod2-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="numero" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+					</modificheattive>
+				</disposizioni>
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
@@ -77,33 +121,39 @@
 					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-04-17;69:allegato.1" xlink:type="simple">allegato alla delibera del Consiglio di amministrazione n. 69 del 17 aprile 2007</rif>
 					come segue:
 				</h:p>
-				<h:p>
-					<mod id="mod1">
-						a) nella sezione "Contenuti della relazione del proponente", la lettera k) è sostituita dalla seguente: "
-						<virgolette id="mod1-vir1" tipo="struttura">
-							<el id="mod1-vir1-leta">
-								<num />
-								<corpo>numero di unità, impegno di tempo e livelli del personale CNR e della parte terza che si programma possano collaborare alle attività progettuali della URT</corpo>
-							</el>
-						</virgolette>
-						";
-					</mod>
-				</h:p>
-				<h:p>
-					<mod id="mod2">
-						b) nella sezione "Criteri per la decisione del Consiglio di Amministrazione" sono aggiunti dopo il punto 4 i seguenti:
-						<virgolette id="mod2-vir1" tipo="struttura">
-							<en id="mod2-vir1-num5">
-								<num>5)</num>
-								<corpo>l'assegnazione di unità di personale del CNR all'Unità di ricerca presso terzi può essere disposta solo in casi eccezionali e motivati;</corpo>
-							</en>
-							<en id="mod2-vir1-num6">
-								<num>6)</num>
-								<corpo>i dipartimenti possono essere autorizzati a costituire Unità di ricerca presso terzi attive contemporaneamente nei limiti numerici indicati in sede di approvazione delle linee guida per l'elaborazione del Piano triennale di attività;</corpo>
-							</en>
-						</virgolette>
-					</mod>
-				</h:p>
+				<contenitore id="con2" nome="">
+					<h:p />
+					<h:p>
+						<mod id="mod1">
+							a) nella sezione "Contenuti della relazione del proponente", la lettera k) è sostituita dalla seguente:"
+							<virgolette id="mod1-vir1" tipo="struttura">
+								<el id="mod1-vir1-leta">
+									<num />
+									<corpo>numero di unità, impegno di tempo e livelli del personale CNR e della parte terza che si programma possano collaborare alle attività progettuali della URT</corpo>
+								</el>
+							</virgolette>
+							";
+						</mod>
+					</h:p>
+				</contenitore>
+				<contenitore id="con3" nome="">
+					<h:p />
+					<h:p>
+						<mod id="mod2">
+							b) nella sezione "Criteri per la decisione del Consiglio di Amministrazione" sono aggiunti dopo il punto 4 i seguenti:
+							<virgolette id="mod2-vir1" tipo="struttura">
+								<en id="mod2-vir1-num5">
+									<num>5)</num>
+									<corpo>l'assegnazione di unità di personale del CNR all'Unità di ricerca presso terzi può essere disposta solo in casi eccezionali e motivati;</corpo>
+								</en>
+								<en id="mod2-vir1-num6">
+									<num>6)</num>
+									<corpo>i dipartimenti possono essere autorizzati a costituire Unità di ricerca presso terzi attive contemporaneamente nei limiti numerici indicati in sede di approvazione delle linee guida per l'elaborazione del Piano triennale di attività;</corpo>
+								</en>
+							</virgolette>
+						</mod>
+					</h:p>
+				</contenitore>
 				<h:p>2. le attività delle Unità di ricerca presso terzi sono soggette a verifica e valutazione annuale. Le Convenzioni devono prevedere la facoltà di recesso del CNR in caso di valutazione negativa.</h:p>
 				<h:p>3. le autorizzazioni approvate con delibera del Consiglio di amministrazione che alla data della presente deliberazione non hanno portato alla formale costituzione delle Unità di ricerca o alla stipula di atti convenzionali con terzi preordinati alla costituzione devono intendersi modificate in conformità con quanto stabilito dai punti 1 e 2 della presente deliberazione. I direttori dei dipartimenti interessati procedono a conformare i conseguenti atti ai principi e alle regole sopra indicati.</h:p>
 			</contenitore>
