@@ -68,7 +68,7 @@
 					</h:p>
 					<h:ul>
 						<h:li>
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">"Disciplinare per il conferimento di incarichi di collaborazione"</rif>
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">"Disciplinare per il conferimento di incarichi di collaborazione"</rif>
 							approvato con provvedimento del Vice Presidente con funzioni di Presidente del CNR prot.
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
 							;
@@ -117,7 +117,7 @@
 							, n.
 							<numDoc>32</numDoc>
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con4" nome="corpo">

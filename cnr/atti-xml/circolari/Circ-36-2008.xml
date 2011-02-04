@@ -73,11 +73,11 @@
 								, relativa al conferimento di incarichi al personale cessato dal servizio, che viene integralmente sostituita da quanto disposto nell'
 								<mrif>
 									art. 5 commi
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art5-com2" xlink:type="simple">2</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5-com2" xlink:type="simple">2</rif>
 									,
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art5-com2bis" xlink:type="simple">2-bis</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5-com2bis" xlink:type="simple">2-bis</rif>
 									,
-									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64#art5-com2ter" xlink:type="simple">2-ter</rif>
+									<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64#art5-com2ter" xlink:type="simple">2-ter</rif>
 									del "Disciplinare incarichi"
 								</mrif>
 								;
@@ -216,7 +216,7 @@
 							(AMMCNT - CNR n.
 							<numDoc nome="protocollo">78529</numDoc>
 							)
-							<titoloDoc><rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif></titoloDoc>
+							<titoloDoc><rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif></titoloDoc>
 						</intestazione>
 						<contenitore id="con12" nome="corpo">
 							<h:p />
