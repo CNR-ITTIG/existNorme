@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="4/2001" tipo="BUCNR" />
+					<entratainvigore norm="20011012" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2001-10-12;15998" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20011012" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Organi di Ricerca" />
+						<cnr:strutturaDestinataria valore="ITTIG - Istituto di Teoria e Tecniche dell'Informazione Giuridica" />
+						<cnr:tipoProvvedimento valore="costituzione istituto" />
+						<cnr:areaScientifica />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>DPCNR</tipoDoc>
+				<dataDoc norm="20011012">12 ottobre 2001</dataDoc>
+				, n.
+				<numDoc>15998</numDoc>
+				<titoloDoc>COSTITUZIONE DELL'ISTITUTO DI TEORIA E TECNICHE DELL'INFORMAZIONE GIURIDICA</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						Visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19" xlink:type="simple">decreto legislativo 30 gennaio 1999, n.19</rif>
+						, con particolare riguardo all'
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-01-30;19#art8-com1-leta" xlink:type="simple">articolo 8, comma 1, lettera a)</rif>
+						che prevede la razionalizzazione della rete degli organi di ricerca al fine di costituire "qualificati istituti di ricerca scientifica e tecnologica, di livello internazionale e di dimensioni adeguate, tenendo anche conto delle capacità di autofinanziamento";
+					</h:p>
+					<h:p>Visto il regolamento sull'istituzione ed il funzionamento degli Istituti del Consiglio nazionale delle ricerche, di seguito denominato "regolamento istituti", che in particolare (art.2) prevede la costituzione, con decreto del Presidente, previa deliberazione del Consiglio direttivo, di Istituti in luogo dei precedenti organi di ricerca (Istituti e Centri di studio);</h:p>
+					<h:p>Visti gli articoli 26 e 27 del regolamento Istituti che fissano i criteri e le norme transitorie da applicarsi in sede di revisione della rete scientifica del CNR;</h:p>
+					<h:p>Considerato che il Consiglio direttivo, sulla base dell'attività istruttoria svolta dal Comitato di consulenza scientifica su richiesta dello stesso Consiglio direttivo, ha deliberato, in data 12 aprile 2001 (deliberazione n.72), in data 7 giugno 2001 (deliberazione n. 131) e in data 19 luglio 2001 (deliberazione n. 160), la costituzione dell'Istituto di teoria e tecniche dell'informazione giuridica, risultante dall'accorpamento dei seguenti organi di ricerca:</h:p>
+					<h:ul>
+						<h:li>Istituto per la documentazione giuridica - Firenze</h:li>
+						<h:li>
+							Centro di studio sul diritto romano e sistemi giuridici - Roma
+							<h:br />
+							e con le tematiche di attività e la sezione territorialmente distinta indicate nel disposto;
+						</h:li>
+					</h:ul>
+					<h:p>Visto lo schema tipo di decreto presidenziale di costituzione dei nuovi Istituti, approvato con deliberazione del Consiglio direttivo del 21 giugno 2000 (deliberazione n. 190);</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+				<articolato>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Denominazione e sede</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>È costituito l'Istituto di teoria e tecniche dell'informazione giuridica.</corpo>
+						</comma>
+						<comma id="art1-com2">
+							<num>2.</num>
+							<corpo>L'Istituto ha sede a Firenze.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>Compiti</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<alinea>L'Istituto svolge, ai sensi del regolamento istituti, attività di ricerca, di valorizzazione e trasferimento tecnologico e di formazione nei seguenti settori scientifici e relativamente alle seguenti tematiche:</alinea>
+							<ep id="art2-com1-pun1">
+								<num>-</num>
+								<corpo>Metodi e tecniche per la documentazione giuridica e per la progettazione di sistemi informativi giuridici e amministrativi.</corpo>
+							</ep>
+							<ep id="art2-com1-pun2">
+								<num>-</num>
+								<corpo>Metodi e tecniche per l'analisi, la produzione e valutazione con strumenti elettronici degli atti giuridici (legislativi, amministrativi, giudiziari).</corpo>
+							</ep>
+							<ep id="art2-com1-pun3">
+								<num>-</num>
+								<corpo>Modelli formali per l'organizzazione della conoscenza giuridica.</corpo>
+							</ep>
+							<ep id="art2-com1-pun4">
+								<num>-</num>
+								<corpo>Metodi e tecniche per l'analisi storica e linguistica di documenti giuridici.</corpo>
+							</ep>
+							<ep id="art2-com1-pun5">
+								<num>-</num>
+								<corpo>Tecnologie per la didattica e per la verifica dell'apprendimento del diritto.</corpo>
+							</ep>
+							<ep id="art2-com1-pun6">
+								<num>-</num>
+								<corpo>Problemi giuridici connessi all'utilizzo delle tecnologie dell'informazione e della comunicazione.</corpo>
+							</ep>
+							<ep id="art2-com1-pun7">
+								<num>-</num>
+								<corpo>Documentazione sui grandi sistemi giuridici con particolare riguardo ai diritti continentali ed al loro fondamento nel diritto romano.</corpo>
+							</ep>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>Sezioni</rubrica>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<corpo>L'Istituto può essere articolato in sezioni di ricerca e in strutture tecniche di servizio, costituite ai sensi dell'articolo 3 del regolamento istituti.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>Organi</rubrica>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<alinea>Sono organi dell'Istituto:</alinea>
+							<el id="art4-com1-leta">
+								<num>a)</num>
+								<corpo>Il Direttore</corpo>
+							</el>
+							<el id="art4-com1-letb">
+								<num>b)</num>
+								<corpo>Il Comitato di Istituto</corpo>
+							</el>
+							<el id="art4-com1-letc">
+								<num>c)</num>
+								<corpo>Il Consiglio scientifico.</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>Direttore</rubrica>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<corpo>Il Direttore è responsabile del funzionamento complessivo dell'Istituto e svolge tutti i compiti attribuitigli dai regolamenti e dagli altri atti generali dell'ente.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>Comitato di Istituto</rubrica>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>Il Comitato di Istituto svolge i compiti di cui all'articolo 11 del regolamento istituti.</corpo>
+						</comma>
+						<comma id="art6-com2">
+							<num>2.</num>
+							<alinea>Il Comitato è composto:</alinea>
+							<el id="art6-com2-leta">
+								<num>a)</num>
+								<corpo>dal Direttore, che lo presiede;</corpo>
+							</el>
+							<el id="art6-com2-letb">
+								<num>b)</num>
+								<corpo>da cinque rappresentanti eletti dai ricercatori e dai tecnologi dell'Istituto;</corpo>
+							</el>
+							<el id="art6-com2-letc">
+								<num>c)</num>
+								<corpo>
+									dai responsabili delle sezioni e delle strutture tecniche di servizio, comunque in numero non superiore ai rappresentanti di cui alla
+									<rif xlink:href="#art6-com2-letb" xlink:type="simple">lettera b)</rif>
+									;
+								</corpo>
+							</el>
+							<el id="art6-com2-letd">
+								<num>d)</num>
+								<corpo>da un rappresentante del personale tecnico-amministrativo dell'Istituto.</corpo>
+							</el>
+						</comma>
+						<comma id="art6-com3">
+							<num>3.</num>
+							<corpo>Le procedure elettive dei rappresentanti nel comitato si volgono presso l'Istituto. Spetta al Direttore adottare l'atto di nomina dei componenti del comitato.</corpo>
+						</comma>
+						<comma id="art6-com4">
+							<num>4.</num>
+							<corpo>Ai fini della individuazione dei ricercatori e dei tecnologi aventi elettorato attivo e passivo per la elezione dei rappresentanti nel Comitato di Istituto si applicano l'articolo 15 e l'articolo 27, comma 4, del regolamento Istituti.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>Consiglio scientifico</rubrica>
+						<comma id="art7-com1">
+							<num>1.</num>
+							<corpo>Il Consiglio scientifico svolge i compiti di cui all'articolo 13 del regolamento istituti.</corpo>
+						</comma>
+						<comma id="art7-com2">
+							<num>2.</num>
+							<corpo>Con l'atto di nomina del Presidente, ai sensi dell'articolo 14, comma 1, del regolamento istituti, è fissato il numero degli esperti, italiani e stranieri, che compongono il Consiglio scientifico.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>Risorse</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>n sede di piano triennale e dei suoi aggiornamenti annuali, sono definite le risorse finanziarie, umane e strumentali assicurate all'Istituto per lo svolgimento delle proprie attività.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>Norme Transitorie</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<alinea>In sede di prima applicazione è stata costituita la seguente sezione territorialmente distinta dalla sede dell'Istituto:</alinea>
+							<ep id="art9-com1-pun1">
+								<num>-</num>
+								<corpo>Sezione di Roma</corpo>
+							</ep>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>Per la costituzione di ulteriori sezioni e la modificazione e soppressione delle sezioni costituite con il presente decreto, anche territorialmente distinte dalla sede dell'Istituto, nonché per la costituzione di strutture tecniche di servizio, si procederà ai sensi dell'articolo 3 del regolamento istituti.</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<alinea>In sede di prima applicazione il Comitato di Istituto è costituito:</alinea>
+							<el id="art9-com3-leta">
+								<num>a)</num>
+								<corpo>in seguito alla nomina dei responsabili delle sezioni e delle strutture tecniche e di servizio da parte del Consiglio direttivo, su proposta del Direttore. La proposta è avanzata dal Direttore entro 30 giorni dalla data di assunzione dell'incarico;</corpo>
+							</el>
+							<el id="art9-com3-letb">
+								<num>b)</num>
+								<corpo>in seguito alla elezione dei rappresentanti dei ricercatori e dei tecnologi e delrappresentante del personale tecnico-amministrativo dell'Istituto. Le relative procedure elettive si svolgono entro 30 giorni dalla nomina dei responsabili delle sezioni e delle strutture tecniche di servizio.</corpo>
+							</el>
+						</comma>
+						<comma id="art9-com4">
+							<num>4.</num>
+							<corpo>In sede di prima applicazione il Consiglio scientifico è costituito entro 60 giorni dalla data di entrata in carica del Direttore.</corpo>
+						</comma>
+						<comma id="art9-com5">
+							<num>5.</num>
+							<alinea>Sono soppressi i seguenti organi di ricerca, costituiti ai sensi della disciplina previgente:</alinea>
+							<ep id="art9-com5-pun1">
+								<num>-</num>
+								<corpo>Istituto per la documentazione giuridica - Firenze</corpo>
+							</ep>
+							<ep id="art9-com5-pun2">
+								<num>-</num>
+								<corpo>Centro di studio sul diritto romano e sistemi giuridici - Roma</corpo>
+							</ep>
+						</comma>
+						<comma id="art9-com6">
+							<num>6.</num>
+							<corpo>L'Istituto costituito ai sensi del presente decreto è operativo dalla data di nomina del Direttore. Fino a tale data gli organi di ricerca accorpati nel nuovo Istituto continuano la propria attività con i rispettivi organi e con le risorse finanziarie, umane e strumentali in atto disponibili. Tali organi, se vengono a scadenza, sono prorogati fino allo stesso termine.</corpo>
+						</comma>
+					</articolo>
+				</articolato>
+			</formulainiziale>
+			<formulafinale />
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					(Prof. Lucio Bianco)
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

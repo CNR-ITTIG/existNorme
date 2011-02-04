@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="multivigente" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="3/2005" tipo="BUCNR" />
+					<entratainvigore norm="20050908" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn finevigore="t2" iniziovigore="t1" valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-09-08;61" />
+					<urn iniziovigore="t2" valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-09-08;61@2005-11-18" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-09-08;44435" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-09-08;61" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-09-08;44435" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050908" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20051118" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-09-08;61" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:strutturaDestinataria valore="Commissioni di studio a supporto del Presidente" />
+						<cnr:tipoProvvedimento valore="nomina commissione" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modifichepassive>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#art2-com3bis" xlink:type="simple" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73#art1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:notavigenza auto="articolo 1, provvedimento del Consiglio Nazionale delle Ricerche 18 novembre 2005, n. 73" id="itt1" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#art2-com3bis" xlink:type="simple" />
+							</dsp:novella>
+						</dsp:integrazione>
+					</modifichepassive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Provvedimento</tipoDoc>
+				<dataDoc norm="20050908">8 settembre 2005</dataDoc>
+				, n.
+				<numDoc>61</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">44435</numDoc>
+				)
+				<titoloDoc>Istituzione di Commissioni di studio a supporto del Presidente per l'attuale fase di attivazione dei dipartimenti</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						, recante "Riordino del Consiglio Nazionale delle Ricerche", di seguito anche "decreto di riordino";
+					</h:p>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, di seguito "Regolamento di organizzazione e funzionamento";
+					</h:p>
+					<h:p>
+						- visto il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:provvedimento:2004-09-17;16630" xlink:type="simple">provvedimento del Presidente n. 16630 del 17 settembre 2004</rif>
+						di istituzione di Commissioni di studio per l'attivazione dei dipartimenti prorogate con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2004-12-31;nir-1" xlink:type="simple">decreto del Presidente del 31 dicembre 2004</rif>
+						;
+					</h:p>
+					<h:p>
+						- vista la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-27;108" xlink:type="simple">deliberazione del Consiglio di amministrazione n. 108/2005 del 27 luglio 2005</rif>
+						di istituzione dei dipartimenti e le motivazioni che si intendono qui integralmente richiamate;
+					</h:p>
+					<h:p>- ravvisata la necessità di provvedere a ridefinire composizione e mandato dei Comitati ordinatori di supporto al Presidente per il completamento delle attività istruttorie con particolare riferimento alla definizione e all'aggiornamento delle proposte contenute nell'allegato al Piano triennale 2005-2007;</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>Sono costituite con l'indicazione dei rispettivi coordinatori e della posizione professionale dei componenti quando non siano parte del sistema CNR, le seguenti Commissioni di studio denominate "Comitati ordinatori":</alinea>
+						<el id="art1-com1-leta">
+							<num>A)</num>
+							<alinea>TERRA E AMBIENTE</alinea>
+							<ep id="art1-com1-leta-pun1">
+								<num />
+								<corpo>* Roberto Passino (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-leta-pun2">
+								<num />
+								<corpo>Paolo Cescon</corpo>
+							</ep>
+							<ep id="art1-com1-leta-pun3">
+								<num />
+								<corpo>* Corrado Clini (Ministero Ambiente)</corpo>
+							</ep>
+							<ep id="art1-com1-leta-pun4">
+								<num />
+								<corpo>* Antonio NAvarra (INVG)</corpo>
+							</ep>
+							<ep id="art1-com1-leta-pun5">
+								<num />
+								<corpo>Maria Rosa Vittadini (Univ. di Venezia IUAV)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letb">
+							<num>B)</num>
+							<alinea>ENERGIA E TRASPORTI</alinea>
+							<ep id="art1-com1-letb-pun1">
+								<num />
+								<corpo>* Angelo Airaghi (coordinatore - Finmeccanica)</corpo>
+							</ep>
+							<ep id="art1-com1-letb-pun2">
+								<num />
+								<corpo>* Gaetano Cacciola</corpo>
+							</ep>
+							<ep id="art1-com1-letb-pun3">
+								<num />
+								<corpo>* Guido Carpinelli (Univ. Federico II)</corpo>
+							</ep>
+							<ep id="art1-com1-letb-pun4">
+								<num />
+								<corpo>Tullio Maria Fanelli (Autorità per l'energia e il gas)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letc">
+							<num>C)</num>
+							<alinea>AGROALIMENTARE</alinea>
+							<ep id="art1-com1-letc-pun1">
+								<num />
+								<corpo>* Alcide Bertani (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-letc-pun2">
+								<num />
+								<corpo>* Ferdinando Romano (INRAN)</corpo>
+							</ep>
+							<ep id="art1-com1-letc-pun3">
+								<num />
+								<corpo>* Luigi Rossi (ENEA)</corpo>
+							</ep>
+							<ep id="art1-com1-letc-pun4">
+								<num />
+								<corpo>Enrico Porceddu (Univ. Tuscia)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letd">
+							<num>D)</num>
+							<alinea>MEDICINA</alinea>
+							<ep id="art1-com1-letd-pun1">
+								<num />
+								<corpo>* Luigi Donato (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-letd-pun2">
+								<num />
+								<corpo>* Alberto Albertini</corpo>
+							</ep>
+							<ep id="art1-com1-letd-pun3">
+								<num />
+								<corpo>Antonio Cassone (ISS)</corpo>
+							</ep>
+							<ep id="art1-com1-letd-pun4">
+								<num />
+								<corpo>Gianluigi Condorelli (Univ. Roma La Sapienza)</corpo>
+							</ep>
+							<ep id="art1-com1-letd-pun5">
+								<num />
+								<corpo>* Giuseppe Rotilio (Univ. Tor Vergata)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-lete">
+							<num>E)</num>
+							<alinea>SCIENZE DELLA VITA</alinea>
+							<ep id="art1-com1-lete-pun1">
+								<num />
+								<corpo>* Emilia Chiancone (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-lete-pun2">
+								<num />
+								<corpo>Enrico Alleva (ISIS)</corpo>
+							</ep>
+							<ep id="art1-com1-lete-pun3">
+								<num />
+								<corpo>* Michele D'Urso</corpo>
+							</ep>
+							<ep id="art1-com1-lete-pun4">
+								<num />
+								<corpo>Gennaro Melino (Univ. Roma Tor Vergata)</corpo>
+							</ep>
+							<ep id="art1-com1-lete-pun5">
+								<num />
+								<corpo>* Glauco Tacchini Valentini</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letf">
+							<num>F)</num>
+							<alinea>SCIENZE DELLA VITA</alinea>
+							<ep id="art1-com1-letf-pun1">
+								<num />
+								<corpo>Sergio Carrà (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-letf-pun2">
+								<num />
+								<corpo>Amilcare Collina (Federchimica)</corpo>
+							</ep>
+							<ep id="art1-com1-letf-pun3">
+								<num />
+								<corpo>*Giovanni Gaviraghi (Sienabiotech)</corpo>
+							</ep>
+							<ep id="art1-com1-letf-pun4">
+								<num />
+								<corpo>Luigi Nicolais</corpo>
+							</ep>
+							<ep id="art1-com1-letf-pun5">
+								<num />
+								<corpo>Carlo Scolastico (Univ. Milano)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letg">
+							<num>G)</num>
+							<alinea>MATERIALI E DISPOSITIVI</alinea>
+							<ep id="art1-com1-letg-pun1">
+								<num />
+								<corpo>* Roberto Cingolani (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-letg-pun2">
+								<num />
+								<corpo>* Enrico Albizzati (Pirelli Labs)</corpo>
+							</ep>
+							<ep id="art1-com1-letg-pun3">
+								<num />
+								<corpo>Fabio Beltram (Scuola Normale Superiore di Pisa)</corpo>
+							</ep>
+							<ep id="art1-com1-letg-pun4">
+								<num />
+								<corpo>* Emanuele Rimini</corpo>
+							</ep>
+							<ep id="art1-com1-letg-pun5">
+								<num />
+								<corpo>Benedetto Vigna (ST Microelettronics)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-leth">
+							<num>H)</num>
+							<alinea>SISTEMI DI PRODUZIONE</alinea>
+							<ep id="art1-com1-leth-pun1">
+								<num />
+								<corpo>* Francesco Jovane (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-leth-pun2">
+								<num />
+								<corpo>Oscar della Fontana (Amministratore Delegato BDF S.p.A.)</corpo>
+							</ep>
+							<ep id="art1-com1-leth-pun3">
+								<num />
+								<corpo>* Edoardo Rabino (CRF)</corpo>
+							</ep>
+							<ep id="art1-com1-leth-pun4">
+								<num />
+								<corpo>Claudio Roveda (Politecnico di Milano)</corpo>
+							</ep>
+							<ep id="art1-com1-leth-pun5">
+								<num />
+								<corpo>* Vito Svelto (Univ. di Pavia)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-leti">
+							<num>I)</num>
+							<alinea>TECNOLOGIE DELL'INFORMAZIONE E DELLE COMUNICAZIONI</alinea>
+							<ep id="art1-com1-leti-pun1">
+								<num />
+								<corpo>* Marco Ajmone Marsan (coordinatore)</corpo>
+							</ep>
+							<ep id="art1-com1-leti-pun2">
+								<num />
+								<corpo>* Nicoletta Calzolari</corpo>
+							</ep>
+							<ep id="art1-com1-leti-pun3">
+								<num />
+								<corpo>Francesco Beltrame (Univ. di Genova)</corpo>
+							</ep>
+							<ep id="art1-com1-leti-pun4">
+								<num />
+								<corpo>Ilio Galligani (Univ. di Bologna)</corpo>
+							</ep>
+							<ep id="art1-com1-leti-pun5">
+								<num />
+								<corpo>Guido Rey (Univ. di Roma Tre)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letl">
+							<num>L)</num>
+							<alinea>IDENTITÀ CULTURALE</alinea>
+							<ep id="art1-com1-letl-pun1">
+								<num />
+								<corpo>* Andrea di Porto (coordinatore - Univ. La Sapienza, Roma)</corpo>
+							</ep>
+							<ep id="art1-com1-letl-pun2">
+								<num />
+								<corpo>Maria Gioia Di Cristoforo Longo (Univ. di Roma La Sapienza)</corpo>
+							</ep>
+							<ep id="art1-com1-letl-pun3">
+								<num />
+								<corpo>* Tullio Gregory</corpo>
+							</ep>
+							<ep id="art1-com1-letl-pun4">
+								<num />
+								<corpo>* A.M. Petroni (S.S.P.A. RAI)</corpo>
+							</ep>
+						</el>
+						<el id="art1-com1-letm">
+							<num>M)</num>
+							<alinea>PATRIMONIO CULTURALE</alinea>
+							<ep id="art1-com1-letm-pun1">
+								<num />
+								<corpo>Francesco Salvatori (coordinatore Univ. di Roma Tor Vergata)</corpo>
+							</ep>
+							<ep id="art1-com1-letm-pun2">
+								<num />
+								<corpo>* Giampiero Perri (imprenditore)</corpo>
+							</ep>
+							<ep id="art1-com1-letm-pun3">
+								<num />
+								<corpo>Cristina Sabbioni</corpo>
+							</ep>
+							<ep id="art1-com1-letm-pun4">
+								<num />
+								<corpo>* Alessandro Vigato</corpo>
+							</ep>
+						</el>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							I componenti contraddistinti nell'elenco di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							con il carattere asterisco erano stati già inclusi nei Comitati ordinatori nominali con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:provvedimento:2004-02-19;16630" xlink:type="simple">provvedimento del Presidente n. 16630 del 19 febbraio 2004</rif>
+							e successive modificazioni.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							Compito dei Comitati ordinatori è quello di fornire supporto al Presidente nella fase transitoria prevista dall'
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25#art56" xlink:type="simple">articolo 56 del Regolamento di organizzazione e funzionamento</rif>
+							con riferimento particolare alle attribuzioni relative al processo di programmazione delle attività che il Regolamento affida a regime ai direttori di dipartimento.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							Indicazioni più puntuali sulle modalità di svolgimento dei compiti affidati alle Commissioni di cui al
+							<rif xlink:href="#art2-com1" xlink:type="simple">comma 1</rif>
+							saranno fornite dal Presidente.
+						</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>Il supporto dovrà essere prestato fino all'insediamento dei direttori di dipartimento e comunque non oltre il 31 gennaio 2006.</corpo>
+					</comma>
+					<comma id="art2-com3bis" iniziovigore="t2">
+						<num>3.bis.</num>
+						<corpo>
+							Rientra tra le modalità di assolvimento dei compiti affidati ai componenti dei Comitati ordinatori l'accesso alle fonti informative e ad archivi messi a tale scopo a disposizione dall'Amministrazione nel rispetto della normativa sul trattamento dei dati personali. In questa attività i Componenti assumono la qualifica di "incaricati del trattamento" e possono trattare i dati nella misura strettamente necessaria all'espletamento dell'incarico, con l'osservanza delle norme sul trattamento dei dati personali, del disciplinare del CNR approvato con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;54" xlink:type="simple">provvedimento n. 54/2005</rif>
+							del Presidente CNR citato in premessa e di ogni altra istruzione impartita per iscritto dal responsabile del trattamento o dal Direttore generale. In ogni caso l'accesso al sistema equivale ad espressa accettazione dell'incarico nei termini indicati dal presente comma
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							La direzione centrale supporto alla programmazione e alle infrastrutture provvede agli adempimenti relativi all'istituzione delle segreterie tecniche previste dal
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-27;108" xlink:type="simple">punto 2 della deliberazione del Consiglio di amministrazione n. 108/2005</rif>
+							e alla gestione degli aspetti amministrativi attinenti al funzionamento delle Commissioni e alla copertura finanziaria delle spese da sostenere.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>Il Coordinatore provvede alla convocazione, a fissare il programma di attività e ad inviare al Presidente i risultati dell'attività svolta.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>Gli oneri di missione relativi alla partecipazione dei componenti alle riunioni formalmente convocate e all'espletamento delle attività stabilite nel programma predisposto dal coordinatore saranno a carico del CNR.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					(Prof. Fabio Pistella)
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>

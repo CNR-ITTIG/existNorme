@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Allegato">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="2/2005" tipo="BUCNR" />
+					<entratainvigore norm="20050622" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;33238" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;45:allegato.b" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-06-22;33238:allegato.b" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45:allegato.b" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;33238:allegato.b" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050622" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20050622" fonte="all1" id="t2" tipo="allegato" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;criteri.generali.tempo.indeterminato.personale:2005-06-22;45" xlink:type="simple" />
+						<allegatodi id="all1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-22;45" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Carattere generale" />
+						<cnr:strutturaDestinataria valore="tutti" />
+						<cnr:tipoProvvedimento valore="" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Disciplinare</tipoDoc>
+				<dataDoc norm="20050622">22 giugno 2005</dataDoc>
+				, n.
+				<numDoc>45</numDoc>
+				(prot. n.
+				<numDoc nome="protocollo">33238</numDoc>
+				)
+				<titoloDoc>
+					ATTUAZIONE DELL'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art11" xlink:type="simple">ARTICOLO 11 DEL REGOLAMENTO DEL PERSONALE</rif>
+					.
+					<h:br />
+					Criteri generali per le procedure di reclutamento del personale dal IV al IX livello a tempo indeterminato
+				</titoloDoc>
+			</intestazione>
+			<articolato>
+				<articolo id="art1">
+					<num>Articolo 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Si applicano le modalità di reclutamento previste dalle disposizioni previste dalla legge e dai contratti collettivi nazionali vigenti in materia.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Le domande sono inoltrate di regola all'Ufficio concorsi e borse di studio salva diversa disposizione specificata nel bando. L'Ufficio provvede a verificare i requisiti di ammissione e alle eventuali esclusioni disposte dal Dirigente dell'Ufficio.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>I lavori delle commissioni e le prove di esame di regola sono svolte a livello regionale in una sede individuata nell'ambito delle Aree di ricerca del CNR, ove presenti, o presso strutture scientifiche del CNR.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							Le soglie di idoneità di cui all'
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2005-05-04;25035#art11-com2" xlink:type="simple">articolo 11 comma 2 del regolamento del personale</rif>
+							sono specificate di volta in volta nel bando.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+		</DocumentoNIR>
+	</NIR>

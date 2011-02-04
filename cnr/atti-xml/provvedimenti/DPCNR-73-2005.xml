@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<DocumentoNIR nome="Provvedimento">
+			<meta>
+				<descrittori>
+					<pubblicazione norm="" num="3/2005" tipo="BUCNR" />
+					<entratainvigore norm="20051118" />
+					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-11-18;73" />
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20051118" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20051118" fonte="ra1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-11-18;73" xlink:type="simple" />
+						<attiva id="ra1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<proprietario xlink:type="simple">
+					<cnr:meta xmlns:cnr="http://www.cnr.it/provvedimenti/2.2">
+						<cnr:strutturaEmanante valore="Presidenza" />
+						<cnr:autoritaEmanante valore="Presidente" />
+						<cnr:tipoDestinatario valore="Amministrazione Centrale" />
+						<cnr:tipoDestinatario valore="Presidenza" />
+						<cnr:strutturaDestinataria valore="Commissioni di studio a supporto del Presidente" />
+						<cnr:tipoProvvedimento valore="nomina commissione" />
+						<cnr:dipartimento valore="carattere generale" />
+					</cnr:meta>
+				</proprietario>
+				<disposizioni xlink:type="simple">
+					<modificheattive>
+						<dsp:integrazione completa="si" implicita="no">
+							<dsp:pos xlink:href="#mod1" xlink:type="simple" />
+							<dsp:termine da="#t2" />
+							<dsp:norma xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61" xlink:type="simple">
+								<dsp:pos xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61#art2" xlink:type="simple" />
+							</dsp:norma>
+							<dsp:novella>
+								<dsp:pos xlink:href="#mod1-vir1" xlink:type="simple" />
+								<dsp:subarg>
+									<ittig:tipo valore="comma" xmlns:ittig="http://www.ittig.cnr.it/provvedimenti/2.2" />
+								</dsp:subarg>
+							</dsp:novella>
+						</dsp:integrazione>
+					</modificheattive>
+				</disposizioni>
+			</meta>
+			<intestazione>
+				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<tipoDoc>Provvedimento</tipoDoc>
+				<dataDoc norm="20051118">18 novembre 2005</dataDoc>
+				, n.
+				<numDoc>73</numDoc>
+				<titoloDoc>
+					Modifica all'
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-09-08;61#art2" xlink:type="simple">articolo 2 D.P.CNR del 8 settembre 2005 n.061/2005</rif>
+					- Istituzioni di Commissioni di studio a supporto del Presidente per l'attuale fase di attivazione dei dipartimenti
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>IL PRESIDENTE</h:p>
+				<preambolo>
+					<h:p>
+						- VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-04;127" xlink:type="simple">Decreto Legislativo n. 127 del 4 giugno 2003</rif>
+						, recante disposizioni per il riordino del Consiglio Nazionale delle Ricerche (CNR), di seguito denominato decreto di riordino;
+					</h:p>
+					<h:p>
+						- VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento;organizzazione.funzionamento:2005-05-04;25" xlink:type="simple">Regolamento di organizzazione e funzionamento del Consiglio Nazionale delle Ricerche</rif>
+						, emanato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-05-04;25033" xlink:type="simple">decreto del Presidente del 4 maggio 2005, prot. n. 25033</rif>
+						e pubblicato nel Supplemento ordinario n. 101 alla Gazzetta Ufficiale della Repubblica Italiana n. 124 del 30 maggio 2005, di seguito denominato "Regolamento di organizzazione e funzionamento";
+					</h:p>
+					<h:p>
+						- VISTO il
+						<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-06-30;196" xlink:type="simple">decreto legislativo 30 giugno 2003, 196</rif>
+						, Codice in materia di protezione dei dati personali;
+					</h:p>
+					<h:p>
+						- VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;54" xlink:type="simple">provvedimento del CNR n. 54, del 1 luglio 2005</rif>
+						, con cui, al fine di permettere in concreto l'applicazione delle disposizioni sul trattamento dei dati personali è stato approvato il disciplinare sul trattamento dei dati personali successivamente ratificato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-07-27;115" xlink:type="simple">delibera del Consiglio di amministrazione n. 115/2005 del 27 luglio 2005</rif>
+						;
+					</h:p>
+					<h:p>
+						- VISTO il
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61" xlink:type="simple">provvedimento n. 61/2005</rif>
+						di istituzione di Commissioni di studio a supporto del Presidente per l'attuale fase di attivazione dei dipartimenti di seguito "Comitati ordinatori";
+					</h:p>
+					<h:p>- RAVVISATA l'esigenza di rendere disponibili, ai suddetti Comitati Ordinatori, ai fini dell'espletamento dell'incarico, informazioni contenenti dati personali;</h:p>
+				</preambolo>
+				<h:p>DECRETA</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<rubrica>DECRETO UNICO</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;61#art2" xlink:type="simple">articolo 2 del provvedimento n. 61/2005</rif>
+								è aggiunto il seguente comma: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com3bis">
+										<num>3.bis.</num>
+										<corpo>
+											Rientra tra le modalità di assolvimento dei compiti affidati ai componenti dei Comitati ordinatori l'accesso alle fonti informative e ad archivi messi a tale scopo a disposizione dall'Amministrazione nel rispetto della normativa sul trattamento dei dati personali. In questa attività i Componenti assumono la qualifica di "incaricati del trattamento" e possono trattare i dati nella misura strettamente necessaria all'espletamento dell'incarico, con l'osservanza delle norme sul trattamento dei dati personali, del disciplinare del CNR approvato con
+											<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005;54" xlink:type="simple">provvedimento n. 54/2005</rif>
+											del Presidente CNR citato in premessa e di ogni altra istruzione impartita per iscritto dal responsabile del trattamento o dal Direttore generale. In ogni caso l'accesso al sistema equivale ad espressa accettazione dell'incarico nei termini indicati dal presente comma
+										</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<conclusione>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					Prof. Fabio Pistella
+				</firma>
+			</conclusione>
+		</DocumentoNIR>
+	</NIR>
