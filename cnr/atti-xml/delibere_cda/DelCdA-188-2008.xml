@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20080730" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-07-30;188" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
@@ -17,7 +16,7 @@
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" xlink:type="simple" />
-						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+						<haallegato id="haa1" tipo="attoallegato" xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;partecipazione.spin.off:2008-07-30;188" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -107,7 +106,11 @@
 						, individua i criteri per la costituzione di nuove imprese;
 					</h:p>
 					<h:p>CONSIDERATA la necessità di rivedere il testo del Regolamento che disciplina la partecipazione del personale CNR alle società spin-off, sinora adottato, alla luce del nuovo quadro normativo e nell'ambito di un disegno strategico di semplificazione e creazione di un ambiente favorevole alla nascita di impresa spin-off dalla ricerca, in recepimento della Raccomandazione della Commissione Europea sopra citata;</h:p>
-					<h:p>ESAMINATO il testo del "Disciplinare per la partecipazione del personale CNR ad imprese spin- off";</h:p>
+					<h:p>
+						ESAMINATO il testo del "
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;partecipazione.spin.off:2008-07-30;188" xlink:type="simple">Disciplinare per la partecipazione del personale CNR ad imprese spin- off</rif>
+						";
+					</h:p>
 					<h:p>PRESO ATTO delle positive valutazioni espresse dal Consiglio dei Direttori di Dipartimento nella riunione del 1 luglio 2008 e dal Consiglio Scientifico Generale nella riunione del 16 luglio 2008;</h:p>
 					<h:p>VISTO il verbale del Collegio dei Revisori dei Conti n. 1289 del 29 luglio 2008 e le raccomandazioni ivi contenute;</h:p>
 					<h:p>RITENUTO che le suddette raccomandazioni ed in particolare quelle relative alle condizioni di ammissibilità delle iniziative in conformità con i presupposti di legge e alla esposizione in sede di consuntivo di esercizio dei risultati economici e patrimoniali, possano essere recepite dall'Amministrazione nella fase di esecuzione della presente deliberazione;</h:p>
@@ -115,7 +118,11 @@
 				<h:p>DELIBERA</h:p>
 			</formulainiziale>
 			<contenitore id="con1" nome="">
-				<h:p>1. È approvato, nel testo riportato in allegato, il "Disciplinare per la partecipazione del personale CNR ad imprese spin-off";</h:p>
+				<h:p>
+					1. È approvato, nel testo riportato in allegato, il "
+					<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;partecipazione.spin.off:2008-07-30;188" xlink:type="simple">Disciplinare per la partecipazione del personale CNR ad imprese spin-off</rif>
+					";
+				</h:p>
 				<h:p>2. È dato mandato al Presidente di informare le OO. SS. e successivamente di riferire al Consiglio di Amministrazione in ordine ad eventuali proposte di modifica.</h:p>
 			</contenitore>
 			<formulafinale />
@@ -134,14 +141,14 @@
 								<pubblicazione norm="" num="" tipo="" />
 								<entratainvigore norm="20080730" />
 								<redazione contributo="" id="red2" nome="Urp-Cnr" norm="" url="" />
-								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" />
+								<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" />
 							</descrittori>
 							<ciclodivita>
 								<eventi>
 									<evento data="20080730" fonte="ro1" id="t3" tipo="entrata in vigore" />
 								</eventi>
 								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188:disciplinare" xlink:type="simple" />
+									<originale id="ro2" xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;188" xlink:type="simple" />
 								</relazioni>
 							</ciclodivita>
 							<proprietario xlink:type="simple">
@@ -161,7 +168,7 @@
 							, n.
 							<numDoc>188</numDoc>
 							<titoloDoc>
-								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:regolamento:2008-07-30;188" xlink:type="simple">DISCIPLINARE PER LA PARTECIPAZIONE DEL PERSONALE CNR AD IMPRESE SPIN-OFF</rif>
+								<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;partecipazione.spin.off:2008-07-30;188" xlink:type="simple">DISCIPLINARE PER LA PARTECIPAZIONE DEL PERSONALE CNR AD IMPRESE SPIN-OFF</rif>
 							</titoloDoc>
 						</intestazione>
 						<contenitore id="con2" nome="corpo">
