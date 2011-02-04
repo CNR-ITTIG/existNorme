@@ -131,8 +131,8 @@
 						<rif xlink:href="urn:nir:stato:legge:2004-12-30;311" xlink:type="simple">legge 30 dicembre 2004, n. 311</rif>
 						(Finanziaria 2005) in materia di affidamento d'incarichi di studio o di ricerca ovvero di consulenza (
 						<mrif>
-							articolo 1,
-							<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com11" xlink:type="simple">comma 11</rif>
+							articolo 1, comma
+							<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com11" xlink:type="simple">11</rif>
 							e
 							<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com42" xlink:type="simple">42</rif>
 						</mrif>
@@ -140,7 +140,11 @@
 					</h:p>
 					<h:p>VISTA la circolare del Dipartimento della Funzione Pubblica Ufficio per il personale delle Pubbliche Amministrazioni n. 5/2006 del 21 dicembre 2006 concernente le linee di indirizzo in materia di affidamento di incarichi esterni e di collaborazioni coordinate e continuative;</h:p>
 					<h:p>VISTA la proposta di disciplinare presentata dal "Gruppo di lavoro per lo studio, l'organizzazione, la programmazione e l'avvio delle attività di pubblicizzazione dei contratti riguardanti gli incarichi esterni e di monitoraggio della relativa spesa" nominato con provvedimento del Direttore Generale prot. AMMCNT - CNR n. 038833 del 11 maggio 2007;</h:p>
-					<h:p>VISTA la circolare 28/2007 con la quale si disponeva il divieto di conferire nuovi incarichi di collaborazione fino all'emanazione del Disciplinare per il conferimento di incarichi di collaborazione;</h:p>
+					<h:p>
+						VISTA la
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:circolare:2007;28" xlink:type="simple">circolare 28/2007</rif>
+						con la quale si disponeva il divieto di conferire nuovi incarichi di collaborazione fino all'emanazione del Disciplinare per il conferimento di incarichi di collaborazione;
+					</h:p>
 					<h:p>CONSIDERATA la necessità di emanare con carattere di urgenza il nuovo disciplinare al fine consentire ai Centri di Responsabilità dell'Ente di conferire legittimamente gli incarichi di collaborazione;</h:p>
 				</preambolo>
 				<h:p>DECRETA</h:p>
@@ -185,6 +189,8 @@
 							</descrittori>
 						</meta>
 						<intestazione>
+							<emanante />
+							<emanante />
 							<emanante />
 							<emanante />
 							<tipoDoc>Disciplinare</tipoDoc>
