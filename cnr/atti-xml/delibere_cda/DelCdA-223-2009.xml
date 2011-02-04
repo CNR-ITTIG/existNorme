@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
@@ -92,15 +92,15 @@
 					<h:p>
 						VISTO il "
 						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare concernente il conferimento di incarichi di collaborazione</rif>
-						" approvato con provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
+						" approvato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot. PRESID - CNR n. 006498 del 14/11/2007</rif>
 						, approvato a ratifica dal Consiglio di Amministrazione del CNR con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
-						verb. 71 del 28 novembre 2007 e modificato con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008</rif>
-						verb. 74 del 6 febbraio 2008 e con
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">deliberazione 198/2008</rif>
-						verb. 85 del 30 luglio 2009;
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007 verb. 71 del 28 novembre 2007</rif>
+						e modificato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008 verb. 74 del 6 febbraio 2008</rif>
+						e con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">deliberazione 198/2008 verb. 85 del 30 luglio 2009</rif>
+						;
 					</h:p>
 					<h:p>
 						VISTA la
@@ -119,8 +119,8 @@
 						;
 					</h:p>
 					<h:p>
-						VISTA la proposta di modifica al disciplinare presentata dal "Gruppo di lavoro per lo studio, l'organizzazione, la programmazione e l'avvio delle attività di pubblicizzazione dei contratti riguardanti gli incarichi esterni e di monitoraggio della relativa spesa" nominato con provvedimento del Direttore Generale prot.
-						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-11;38833" xlink:type="simple">AMMCNT - CNR n. 038833 del 11 maggio 2007</rif>
+						VISTA la proposta di modifica al disciplinare presentata dal "Gruppo di lavoro per lo studio, l'organizzazione, la programmazione e l'avvio delle attività di pubblicizzazione dei contratti riguardanti gli incarichi esterni e di monitoraggio della relativa spesa" nominato con
+						<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2007-05-11;38833" xlink:type="simple">provvedimento del Direttore Generale prot. AMMCNT - CNR n. 038833 del 11 maggio 2007</rif>
 						, a seguito delle modifiche apportate dalla
 						<rif xlink:href="urn:nir:stato:legge:2009;69" xlink:type="simple">Legge 69/2009</rif>
 						e del
@@ -147,15 +147,15 @@
 						<corpo>
 							Al "
 							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche:disciplinare;incarichi.collaborazione:2007-11-14;64" xlink:type="simple">Disciplinare per il conferimento di incarichi di collaborazione</rif>
-							" approvato coni provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot.
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">PRESID - CNR n. 006498 del 14/11/2007</rif>
+							" approvato coni
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2007-11-14;6498" xlink:type="simple">provvedimento n. 64 del Vice Presidente con funzioni di Presidente del CNR prot. PRESID - CNR n. 006498 del 14/11/2007</rif>
 							, approvato a ratifica dal Consiglio di Amministrazione del CNR con
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007</rif>
-							verb. 71 del 28 novembre 2007 e modificato con
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008</rif>
-							verb. 74 del 6 febbraio 2008 e con
-							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">deliberazione 198/2008</rif>
-							verb. 85 del 30 luglio 2009, sono apportate le modifiche di cui agli articoli seguenti.
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2007-11-28;206" xlink:type="simple">deliberazione 206/2007 verb. 71 del 28 novembre 2007</rif>
+							e modificato con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-02-06;29" xlink:type="simple">deliberazione 29/2008 verb. 74 del 6 febbraio 2008</rif>
+							e con
+							<rif xlink:href="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2008-07-30;198" xlink:type="simple">deliberazione 198/2008 verb. 85 del 30 luglio 2009</rif>
+							, sono apportate le modifiche di cui agli articoli seguenti.
 						</corpo>
 					</comma>
 				</articolo>
@@ -203,7 +203,11 @@
 										</ep>
 										<ep id="mod1-vir1-com1bis-pun7">
 											<num>-</num>
-											<corpo>soggetti che operino nel campo dei servizi di certificazione dei contratti di lavoro di cui al decreto legislativo 10 settembre 2003, n. 276;</corpo>
+											<corpo>
+												soggetti che operino nel campo dei servizi di certificazione dei contratti di lavoro di cuial
+												<rif xlink:href="urn:nir:stato:decreto.legislativo:2003-09-10;276" xlink:type="simple">decreto legislativo 10 settembre 2003, n. 276</rif>
+												;
+											</corpo>
 										</ep>
 										<coda>purché senza nuovi o maggiori oneri a carico della finanza pubblica.</coda>
 									</comma>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
@@ -112,6 +112,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
+				<emanante />
 				<tipoDoc>Deliberazione CdA</tipoDoc>
 				<dataDoc norm="20080206">6 febbraio 2008</dataDoc>
 				, n.
@@ -206,7 +207,8 @@
 						;
 					</h:p>
 					<h:p>
-						VISTA la <rif xlink:href="urn:nir:stato:legge:1997-12-27;449" xlink:type="simple">Legge n. 449 del 27 dicembre 1997</rif>
+						VISTA la
+						<rif xlink:href="urn:nir:stato:legge:1997-12-27;449" xlink:type="simple">Legge n. 449 del 27 dicembre 1997</rif>
 						, recante "Misure per la stabilizzazione della finanza pubblica" ed in particolare l'
 						<rif xlink:href="urn:nir:stato:legge:1997-12-27;449#art51-com6" xlink:type="simple">art. 51 comma 6</rif>
 						;
