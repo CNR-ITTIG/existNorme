@@ -315,6 +315,7 @@
 								</h:tr>
 							</h:tbody>
 						</h:table>
+						<h:p />
 						<h:p>NUOVA PROCEDURA</h:p>
 						<h:table>
 							<h:tbody>
@@ -364,7 +365,9 @@
 										.
 									</h:td>
 									<h:td>
-										Per le infrazioni di minor gravità (art. 55bis 1°co)
+										Per le infrazioni di minor gravità (
+										<rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art55bis-com1" xlink:type="simple">art. 55bis 1°co</rif>
+										)
 										<h:u>non è ammessa la sospensione</h:u>
 									</h:td>
 									<h:td>
