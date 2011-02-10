@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-		<DocumentoNIR nome="Delibera CdA">
+		<DocumentoNIR nome="Deliberazione CdA">
 			<meta>
 				<descrittori>
 					<pubblicazione norm="" num="" tipo="" />
 					<entratainvigore norm="20050608" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche;consiglio.amministrazione:deliberazione:2005-06-08;69" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-06-08;69" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
