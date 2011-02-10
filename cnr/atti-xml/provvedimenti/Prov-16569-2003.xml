@@ -7,15 +7,15 @@
 					<pubblicazione norm="" num="4/2003" tipo="BUCNR" />
 					<entratainvigore norm="20031224" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche:decreto:2003-12-24;16569" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2003-12-24;16569" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche:decreto:2003-12-24;16569" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20031224" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:decreto:2003-12-24;16569" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2003-12-24;16569" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">

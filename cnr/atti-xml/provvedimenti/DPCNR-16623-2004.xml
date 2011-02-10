@@ -7,15 +7,15 @@
 					<pubblicazione norm="" num="3/2004" tipo="BUCNR" />
 					<entratainvigore norm="20040720" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2004-07-20;16623" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2004-07-20;16623" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2004-07-20;16623" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20040720" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2004-07-20;16623" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2004-07-20;16623" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -33,7 +33,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20040720">20 luglio 2004</dataDoc>
 				, n.
 				<numDoc>16623</numDoc>

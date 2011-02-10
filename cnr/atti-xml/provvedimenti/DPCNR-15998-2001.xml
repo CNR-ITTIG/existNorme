@@ -7,15 +7,15 @@
 					<pubblicazione norm="" num="4/2001" tipo="BUCNR" />
 					<entratainvigore norm="20011012" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2001-10-12;15998" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20011012" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2001-10-12;15998" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2001-10-12;15998" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -31,7 +31,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20011012">12 ottobre 2001</dataDoc>
 				, n.
 				<numDoc>15998</numDoc>

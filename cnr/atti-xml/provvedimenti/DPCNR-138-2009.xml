@@ -7,17 +7,17 @@
 					<pubblicazione norm="" num="4/2009" tipo="BUCNR" />
 					<entratainvigore norm="20091223" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;138" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;89628" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-12-23;138" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-12-23;89628" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;138" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;89628" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20091223" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2009-12-23;138" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2009-12-23;138" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -34,7 +34,7 @@
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
 				<emanante />
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20091223">23 dicembre 2009</dataDoc>
 				, n.
 				<numDoc>138</numDoc>

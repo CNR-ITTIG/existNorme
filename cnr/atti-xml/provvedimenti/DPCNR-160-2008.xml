@@ -7,17 +7,17 @@
 					<pubblicazione norm="" num="4/2008" tipo="BUCNR" />
 					<entratainvigore norm="20081204" />
 					<redazione contributo="" id="red1" nome="Urp-Cnr" norm="" url="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;160" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;91845" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-12-04;160" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-12-04;91845" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;160" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;91845" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20081204" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2008-12-04;160" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2008-12-04;160" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -34,7 +34,7 @@
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
 				<emanante />
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20081204">4 dicembre 2008</dataDoc>
 				, n.
 				<numDoc>160</numDoc>

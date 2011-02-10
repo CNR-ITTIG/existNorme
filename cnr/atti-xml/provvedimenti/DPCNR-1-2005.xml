@@ -7,17 +7,17 @@
 					<pubblicazione norm="" num="1/2005" tipo="BUCNR" />
 					<entratainvigore norm="20050117" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-01-17;1" />
-					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-01-17;3972" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-01-17;1" />
 					<urn valore="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-01-17;3972" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-01-17;1" />
+					<urn valore="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-01-17;3972" />
 				</descrittori>
 				<ciclodivita>
 					<eventi>
 						<evento data="20050117" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche;presidente:decreto:2005-01-17;1" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:consiglio.nazionale.ricerche:provvedimento:2005-01-17;1" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 				<proprietario xlink:type="simple">
@@ -35,7 +35,7 @@
 			</meta>
 			<intestazione>
 				<emanante>Consiglio Nazionale delle Ricerche</emanante>
-				<tipoDoc>DPCNR</tipoDoc>
+				<tipoDoc>Provvedimento</tipoDoc>
 				<dataDoc norm="20050117">17 gennaio 2005</dataDoc>
 				, n.
 				<numDoc>1</numDoc>
